@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('lessons', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('topic_id')->constrained()->onDelete('cascade');
+            $table->foreignId('topic_id');
             $table->string('title');
             $table->string('slug');
             $table->enum('lesson_type', ['vocabulary', 'grammar', 'exercise']);
