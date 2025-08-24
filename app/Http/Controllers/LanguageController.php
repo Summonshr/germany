@@ -23,6 +23,8 @@ class LanguageController extends Controller
             'language' => $language,
             'level' => $level,
             'lesson' => $lesson->load('vocabulary'),
+            'nextLessonUrl' => $lesson->nextLesson()?->url,
+            'previousLessonUrl' => $lesson->prevLesson()?->url,
             'topic' => $topic,
         ]);
     }

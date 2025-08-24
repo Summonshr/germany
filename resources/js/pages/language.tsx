@@ -1,6 +1,12 @@
 import AppLayout from '@/layouts/app-layout';
-import { type BreadcrumbItem, type SharedData } from '@/types';
-import { Head, usePage } from '@inertiajs/react';
+import {
+    type BreadcrumbItem,
+    type Language as LanguageType,
+    type Level,
+    type Topic,
+    type Lesson,
+} from '@/types';
+import { Head, Link } from '@inertiajs/react';
 import { Badge } from '@/components/ui/badge';
 import {
     Clock,
@@ -20,9 +26,24 @@ const breadcrumbs: BreadcrumbItem[] = [
     },
 ];
 
-export default function Language() {
-    const { language, level, topic, lesson } = usePage<SharedData>().props;
 
+interface LanguagePageProps {
+    language: LanguageType;
+    level: Level;
+    topic: Topic;
+    lesson: Lesson;
+    previousLessonUrl: string | null;
+    nextLessonUrl: string | null;
+}
+
+export default function Language({
+    language,
+    level,
+    topic,
+    lesson,
+    previousLessonUrl,
+    nextLessonUrl,
+}: LanguagePageProps) {
     return (
         <AppLayout breadcrumbs={breadcrumbs}>
             <Head title={`${language.name} Learning Path`} />
@@ -72,14 +93,32 @@ export default function Language() {
                         <tbody className="divide-y divide-gray-200">
                             {lesson.vocabulary.map((vocab) => (
                                 <tr key={vocab.id} className="">
-                                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-100">
                                         {vocab.word}
                                     </td>
-                                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-200">
                                         {vocab.translation}
                                     </td>
                                 </tr>
                             ))}
+                            <tr>
+                                <td colSpan={2}>
+                                    <div className="flex justify-between p-2">
+                                        {previousLessonUrl ? <Link
+                                            className="btn btn-secondary"
+                                            href={previousLessonUrl}
+                                        >
+                                            Previous Lesson
+                                        </Link> : <div></div>}
+                                        {nextLessonUrl ? <Link
+                                            className="btn btn-primary"
+                                            href={nextLessonUrl}
+                                        >
+                                            Next Lesson
+                                        </Link> : <div></div>}
+                                    </div>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>

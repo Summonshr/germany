@@ -39,9 +39,9 @@ class ProfileController extends Controller
     /**
      * Delete the user's account.
      */
-    public function destroy(AuthKitAccountDeletionRequest $request): RedirectResponse
+    public function destroy(AuthKitAccountDeletionRequest $authKitAccountDeletionRequest): RedirectResponse
     {
-        return $request->delete(
+        return $authKitAccountDeletionRequest->delete(
             using: fn (User $user) => $user->delete()
         );
     }
