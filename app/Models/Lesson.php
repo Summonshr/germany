@@ -11,15 +11,6 @@ class Lesson extends Model
 {
     use HasFactory;
     use HasFactory;
-    /**
-     * Create a new Eloquent model instance.
-     *
-     * @param  array<string, mixed>  $attributes
-     */
-    public function __construct(private readonly UrlGenerator $urlGenerator, array $attributes = [])
-    {
-        parent::__construct($attributes);
-    }
 
     public function topic() {
         return $this->belongsTo(Topic::class);
