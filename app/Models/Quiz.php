@@ -22,4 +22,8 @@ class Quiz extends Model
     public function questions() {
         return $this->hasMany(QuizQuestion::class)->oldest('id');
     }
+
+    public function isNotFinished() {
+        return $this->finished_at === null;
+    }
 }

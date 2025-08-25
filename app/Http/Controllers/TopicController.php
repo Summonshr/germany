@@ -2,9 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Quiz;
+use App\Actions\CreateNewQuiz;
 use App\Models\Topic;
-use App\Models\Vocabulary;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 
@@ -17,17 +16,11 @@ class TopicController extends Controller
 
     public function quiz(Request $request, Topic $topic)
     {
-        $quiz = Quiz::create([
-            'current_question' => 0,
+        $quiz = app(CreateNewQuiz::class)->handle([
             'user_id' => $request->user()->id,
-            'uuid' => str()->uuid()->toString(),
             'topic_ids' => [$topic->id],
-            'type' => $request->get('type'),
+            'type' => $request->get('type')
         ]);
-
-        $quiz->questions()->createMany(
-            Vocabulary::whereIn('topic_id', [$topic->id])->where('type', 'vocabulary')->inRandomOrder()->take(5)->get()->map->toQuizQuestion($quiz->uuid, $request->user()->id)
-        );
 
         return to_route('quiz', [
             'quiz' => $quiz->uuid

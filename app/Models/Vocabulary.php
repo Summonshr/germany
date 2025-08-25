@@ -25,10 +25,9 @@ class Vocabulary extends Model
         return $query->where('type', 'sentence');
     }
 
-    public function toQuizQuestion($quizUuid, $userId) {
+    public function toQuizQuestion($userId) {
         return [
             'user_id' => $userId,
-            'quiz_uuid' => $quizUuid,
             'question' => $this->text,
             'answer' => $this->text_de,
             'options' => $this->options_de,
