@@ -7,9 +7,9 @@ use Illuminate\Database\Seeder;
 
 class TopicSeeder extends Seeder
 {
-    public function run()
+    public function run(): void
     {
-        $topicsData = $topicsData = [
+        $topicsData = [
             [
                 'name' => 'Greetings',
                 'name_de' => 'Begrüßungen',
@@ -253,7 +253,7 @@ class TopicSeeder extends Seeder
         ];
 
         foreach ($topicsData as $topicData) {
-            Topic::create([
+            Topic::query()->create([
                 'name' => $topicData['name'],
                 'name_de' => $topicData['name_de'],
                 'slug' => str()->slug($topicData['name']),

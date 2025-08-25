@@ -29,7 +29,7 @@ const QuizResults = ({ quiz }) => {
                         </div>
                         <div className="bg-gray-700 rounded-lg p-4">
                             <div className="text-2xl font-bold text-yellow-400">
-                                {quiz.score * 10}%
+                                {quiz.score}%
                             </div>
                             <div className="text-sm text-gray-400">Score</div>
                         </div>

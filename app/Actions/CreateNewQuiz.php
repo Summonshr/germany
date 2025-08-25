@@ -7,9 +7,9 @@ use App\Models\Vocabulary;
 
 class CreateNewQuiz
 {
-    public function handle($data)
+    public function handle(array $data)
     {
-        $quiz = Quiz::create([
+        $quiz = Quiz::query()->create([
             'current_question' => 0,
             'user_id' => $data['user_id'],
             'uuid' => str()->uuid()->toString(),
@@ -18,7 +18,7 @@ class CreateNewQuiz
         ]);
 
         $quiz->questions()->createMany(
-            Vocabulary::whereIn('topic_id', $data['topic_ids'])
+            Vocabulary::query()->whereIn('topic_id', $data['topic_ids'])
                 ->where('type', $data['type'])
                 ->inRandomOrder()
                 ->take(5)

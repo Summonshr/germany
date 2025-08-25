@@ -3,10 +3,12 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Quiz extends Model
 {
+    use HasFactory;
     use HasUuids;
 
     protected $keyType = 'string';
@@ -26,7 +28,7 @@ class Quiz extends Model
         return $this->hasMany(QuizQuestion::class)->oldest('id');
     }
 
-    public function isNotFinished()
+    public function isNotFinished(): bool
     {
         return $this->finished_at === null;
     }

@@ -14,7 +14,7 @@ class QuizController extends Controller
         abort_if($quiz->user_id !== $request->user()->id, 403);
 
         if ($quiz->finished_at !== null) {
-            return redirect()->route('quiz.results', [
+            return to_route('quiz.results', [
                 'quiz' => $quiz->uuid,
             ]);
         }
@@ -30,7 +30,7 @@ class QuizController extends Controller
 
         return inertia('quiz-result', [
             'quiz' => $quiz->load('questions'),
-            'topics' => Topic::find($quiz->topic_ids),
+            'topics' => Topic::query()->find($quiz->topic_ids),
         ]);
     }
 
@@ -38,7 +38,7 @@ class QuizController extends Controller
     {
         abort_if($quiz->user_id !== $request->user()->id, 403);
 
-        $quiz = app(CreateNewQuiz::class)->handle([
+        $quiz = app()->make(CreateNewQuiz::class)->handle([
             'user_id' => $request->user()->id,
             'topic_ids' => $quiz->topic_ids,
             'type' => $quiz->type,

@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use Illuminate\Database\Eloquent\Attributes\Scope;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
@@ -17,17 +18,19 @@ class Vocabulary extends Model
         'options_de' => 'array',
     ];
 
-    public function scopeWords($query)
+    #[Scope]
+    protected function words($query)
     {
         return $query->where('type', 'vocabulary');
     }
 
-    public function scopeSentences($query)
+    #[Scope]
+    protected function sentences($query)
     {
         return $query->where('type', 'sentence');
     }
 
-    public function toQuizQuestion($userId)
+    public function toQuizQuestion($userId): array
     {
         return [
             'user_id' => $userId,

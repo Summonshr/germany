@@ -14,10 +14,10 @@ class VocabularySeeder extends Seeder
      */
     public function run(): void
     {
-        Topic::each($this->seedVocabulary(...));
+        Topic::query()->each($this->seedVocabulary(...));
     }
 
-    public function seedVocabulary(Topic $topic)
+    public function seedVocabulary(Topic $topic): void
     {
         $file = public_path('vocabulary/'.str($topic->name)->slug().'.json');
 
@@ -27,8 +27,8 @@ class VocabularySeeder extends Seeder
 
         $content = collect(File::json($file));
 
-        $content->each(function ($word) use ($topic) {
-            Vocabulary::create([
+        $content->each(function ($word) use ($topic): void {
+            Vocabulary::query()->create([
                 'topic_id' => $topic->id,
                 'text' => $word['text'],
                 'text_de' => $word['text_de'],

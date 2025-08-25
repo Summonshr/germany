@@ -36,17 +36,18 @@ interface Quiz {
     finished_at: string | null;
     created_at: string;
     updated_at: string;
+    questions: Question[];
 }
 
 interface QuizProps {
     quiz: Quiz;
-    questions: Question[];
 }
 
 export default function Quiz({ quiz }: QuizProps) {
     const { questions } = quiz;
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(quiz.current_question);
-    const [selectedAnswers, setSelectedAnswers] = useState<QuizAnswer[]>(quiz.selected_answers);
+    const [selectedAnswers, setSelectedAnswers] = useState<QuizAnswer[]>(quiz.questions?.filter(q => Boolean(q.given_answer)).map(q => ({ question_id: q.id, answer: q.given_answer })) || []);
+    console.log(selectedAnswers)
     const [currentAnswer, setCurrentAnswer] = useState<string | null>(null);
 
     const currentQuestion = questions[currentQuestionIndex];
@@ -54,12 +55,13 @@ export default function Quiz({ quiz }: QuizProps) {
     const progress = ((currentQuestionIndex + 1) / totalQuestions) * 100;
 
     useEffect(() => {
-        const existingAnswer = questions.find(ans => ans.quiz_uuid === currentQuestion.quiz_uuid);
+        const existingAnswer = selectedAnswers.find(ans => ans.question_id === currentQuestion.id);
         if (existingAnswer) {
-            setCurrentAnswer(existingAnswer.given_answer);
-            return;
+            setCurrentAnswer(existingAnswer.answer);
+        } else {
+            setCurrentAnswer(null);
         }
-    }, [currentQuestionIndex, currentQuestion.id]);
+    }, [currentQuestionIndex, currentQuestion.id, selectedAnswers]);
 
     const handleAnswerSelect = (selectedOption: string) => {
         setCurrentAnswer(selectedOption);
@@ -101,7 +103,7 @@ export default function Quiz({ quiz }: QuizProps) {
             quiz: quiz.uuid,
             current_question: currentQuestionIndex,
             selected_answers: selectedAnswers
-        })
+        });
     };
 
     const getOptionClassName = (option: string) => {
