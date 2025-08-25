@@ -18,4 +18,8 @@ class Quiz extends Model
     ];
 
     public $primaryKey = 'uuid';
+
+    public function questions() {
+        return $this->hasMany(QuizQuestion::class)->oldest('id');
+    }
 }

@@ -28,7 +28,7 @@ export default function Topic({ topic }) {
                             </p>
                         </div>
                         <div className='flex justify-end flex-1'>
-                            <Link href={route('topic.quiz', { topic: topic })} className="bg-green-700 px-4 py-3">
+                            <Link href={route('topic.quiz', { topic: topic, type: 'vocabulary' })} className="bg-green-700 px-4 py-3">
                                 Take Quiz
                             </Link>
                         </div>

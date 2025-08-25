@@ -11,12 +11,14 @@ class ActionController extends Controller
 {
     public function __invoke(Request $request)
     {
-        match($request->get('type')) {
+        match ($request->get('type')) {
             'save-quiz' => value(function () use ($request) {
-                $quiz = Quiz::where('uuid', $request->input('data.quiz'))->firstOrFail();
-                $quiz->current_question = $request->input('data.current_question');
-                $quiz->selected_answers = $request->input('data.selected_answers');
-                $quiz->save();
+                $quiz = Quiz::with('questions')->where('uuid', $request->input('data.quiz'))->firstOrFail();
+                foreach ($request->input('data.selected_answers') as $answer) {
+                    $quiz->questions
+                        ->firstWhere('id', $answer['question_id'])
+                        ->update(['given_answer' => $answer['answer']]);
+                }
             }),
             'finish-quiz' => value(function () use ($request) {
                 $quiz = Quiz::where('uuid', $request->input('data.quiz'))->firstOrFail();

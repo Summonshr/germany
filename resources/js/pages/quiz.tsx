@@ -16,7 +16,7 @@ interface Question {
     note_de: string;
     culture: string;
     culture_de: string;
-    options_de: string[];
+    options: string[];
 }
 
 interface QuizAnswer {
@@ -43,86 +43,26 @@ interface QuizProps {
     questions: Question[];
 }
 
-// Simple Tooltip Component
-const Tooltip = ({ text, children }: { text: string; children: React.ReactNode }) => {
-    const [isVisible, setIsVisible] = useState(false);
-
-    return (
-        <div className="relative inline-block">
-            <div
-                onMouseEnter={() => setIsVisible(true)}
-                onMouseLeave={() => setIsVisible(false)}
-                className="cursor-pointer"
-            >
-                {children}
-            </div>
-            {isVisible && (
-                <div className="absolute z-10 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2
-                              bg-gray-800 text-gray-200 text-sm rounded-lg shadow-lg w-64 whitespace-normal
-                              border border-gray-600 transition-opacity duration-200">
-                    {text}
-                    <div className="absolute top-full left-1/2 transform -translate-x-1/2 border-4 border-transparent border-t-gray-800"></div>
-                </div>
-            )}
-        </div>
-    );
-};
-
-export default function Quiz({ quiz, topic, questions }: QuizProps) {
+export default function Quiz({ quiz }: QuizProps) {
+    const { questions } = quiz;
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(quiz.current_question);
     const [selectedAnswers, setSelectedAnswers] = useState<QuizAnswer[]>(quiz.selected_answers);
     const [currentAnswer, setCurrentAnswer] = useState<string | null>(null);
-    const [isLoading, setSaving] = useState(false);
-    const [timeLeft, setTimeLeft] = useState(30);
-    const [timerActive, setTimerActive] = useState(true);
 
     const currentQuestion = questions[currentQuestionIndex];
     const totalQuestions = questions.length;
     const progress = ((currentQuestionIndex + 1) / totalQuestions) * 100;
 
-    // Timer effect
     useEffect(() => {
-        if (!timerActive || timeLeft <= 0) return;
-
-        const timer = setInterval(() => {
-            setTimeLeft(prev => {
-                if (prev <= 1) {
-                    handleTimeUp();
-                    return 0;
-                }
-                return prev - 1;
-            });
-        }, 1000);
-
-        return () => clearInterval(timer);
-    }, [timeLeft, timerActive]);
-
-    // Reset timer and load existing answer when question changes
-    useEffect(() => {
-        setTimeLeft(30);
-        setTimerActive(true);
-
-        // Check if we already have an answer for this question
-        const existingAnswer = selectedAnswers.find(ans => ans.question_id === currentQuestion.id);
+        const existingAnswer = questions.find(ans => ans.quiz_uuid === currentQuestion.quiz_uuid);
         if (existingAnswer) {
-            setCurrentAnswer(existingAnswer.answer);
-            setTimerActive(false);
-        } else {
-            setCurrentAnswer(null);
+            setCurrentAnswer(existingAnswer.given_answer);
+            return;
         }
     }, [currentQuestionIndex, currentQuestion.id]);
 
-    const handleTimeUp = () => {
-        setTimerActive(false);
-        if (currentAnswer === null) {
-            // Auto-select first option if no answer selected
-            handleAnswerSelect(currentQuestion.options_de[0]);
-        }
-    };
-
     const handleAnswerSelect = (selectedOption: string) => {
         setCurrentAnswer(selectedOption);
-        setTimerActive(false);
 
         // Update selected answers array
         const newSelectedAnswers = selectedAnswers.filter(ans => ans.question_id !== currentQuestion.id);
@@ -137,21 +77,11 @@ export default function Quiz({ quiz, topic, questions }: QuizProps) {
     };
 
     const saveQuizProgress = async (answers: QuizAnswer[]) => {
-        setSaving(true);
-        try {
-            await axios.post('/actions', {
-                type: 'save-quiz',
-                data: {
-                    quiz: quiz.uuid,
-                    current_question: currentQuestionIndex,
-                    selected_answers: answers
-                }
-            });
-        } catch (error) {
-            console.error('Failed to save quiz progress:', error);
-        } finally {
-            setSaving(false);
-        }
+        post('save-quiz', {
+            quiz: quiz.uuid,
+            current_question: currentQuestionIndex,
+            selected_answers: answers,
+        });
     };
 
     const handleNext = () => {
@@ -167,15 +97,11 @@ export default function Quiz({ quiz, topic, questions }: QuizProps) {
     };
 
     const handleFinishQuiz = () => {
-        setSaving(true);
-        router.post('/actions', {
-            type: 'finish-quiz',
-            data: {
-                quiz: quiz.uuid,
-                current_question: currentQuestionIndex,
-                selected_answers: selectedAnswers
-            }
-        });
+        post('finish-quiz', {
+            quiz: quiz.uuid,
+            current_question: currentQuestionIndex,
+            selected_answers: selectedAnswers
+        })
     };
 
     const getOptionClassName = (option: string) => {
@@ -213,7 +139,7 @@ export default function Quiz({ quiz, topic, questions }: QuizProps) {
                                 What is the German translation for:
                             </h2>
                             <div className="text-5xl font-bold text-blue-400 mb-6">
-                                "{currentQuestion.text}"
+                                "{currentQuestion.question}"
                             </div>
 
                             {currentQuestion.description && (
@@ -227,7 +153,7 @@ export default function Quiz({ quiz, topic, questions }: QuizProps) {
 
                         {/* Options */}
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-                            {currentQuestion.options_de.map((option, index) => (
+                            {currentQuestion.options.map((option, index) => (
                                 <button
                                     key={index}
                                     onClick={() => handleAnswerSelect(option)}
@@ -265,10 +191,9 @@ export default function Quiz({ quiz, topic, questions }: QuizProps) {
                             ) : (
                                 <button
                                     onClick={handleFinishQuiz}
-                                    disabled={isLoading}
                                     className="px-10 py-4 bg-green-600 text-white rounded-xl hover:bg-green-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-lg font-bold"
                                 >
-                                    {isLoading ? 'Finishing...' : 'Finish Quiz 🎯'}
+                                    Finish Quiz 🎯
                                 </button>
                             )}
                         </div>

@@ -17,9 +17,8 @@ return new class extends Migration
             $table->json('selected_answers')->default('[]');
             $table->foreignId('user_id');
             $table->json('topic_ids');
-            $table->json('question_ids');
             $table->integer('score')->default(-1);
-            $table->string('type');
+            $table->string('type')->nullable();
             $table->timestamp('finished_at')->nullable();
             $table->timestamps();
         });
