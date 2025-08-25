@@ -11,7 +11,7 @@ class DashboardController extends Controller
     public function index(Request $request)
     {
         return Inertia::render('dashboard', [
-            'topics' => Topic::withCount('vocabulary')->get(),
+            'topics' => Topic::withCount(['vocabulary', 'sentences'])->get(),
         ]);
     }
 }

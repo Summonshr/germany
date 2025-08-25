@@ -12,7 +12,7 @@ class TopicController extends Controller
 {
     public function show(Request $request, Topic $topic)
     {
-        return Inertia::render('topic', ['topic' => $topic->load('vocabulary')]);
+        return Inertia::render('topic', ['topic' => $topic->load(['vocabulary', 'sentences'])]);
     }
 
     public function quiz(Request $request, Topic $topic, ?Quiz $quiz = null)

@@ -36,7 +36,6 @@ class QuizController extends Controller
             $quiz->score = $score;
             $quiz->save();
         }
-
         return inertia('quiz-result', [
             'quiz' => $quiz,
             'questions' => Vocabulary::find($quiz->question_ids),

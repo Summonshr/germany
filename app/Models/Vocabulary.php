@@ -20,4 +20,8 @@ class Vocabulary extends Model
     public function scopeWords($query) {
         return $query->where('type', 'vocabulary');
     }
+
+    public function scopeSentences($query) {
+        return $query->where('type', 'sentence');
+    }
 }
