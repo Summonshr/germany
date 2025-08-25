@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Models\Enums\QuizType;
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
@@ -18,6 +19,7 @@ class Quiz extends Model
     public $casts = [
         'topic_ids' => 'array',
         'question_ids' => 'array',
+        'type' => QuizType::class,
     ];
 
     public $primaryKey = 'uuid';
