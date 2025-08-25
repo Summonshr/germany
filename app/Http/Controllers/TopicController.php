@@ -19,11 +19,11 @@ class TopicController extends Controller
         $quiz = app(CreateNewQuiz::class)->handle([
             'user_id' => $request->user()->id,
             'topic_ids' => [$topic->id],
-            'type' => $request->get('type')
+            'type' => $request->get('type'),
         ]);
 
         return to_route('quiz', [
-            'quiz' => $quiz->uuid
+            'quiz' => $quiz->uuid,
         ]);
     }
 }

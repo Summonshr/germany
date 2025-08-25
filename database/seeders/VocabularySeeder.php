@@ -2,11 +2,9 @@
 
 namespace Database\Seeders;
 
-use Illuminate\Database\Seeder;
-use App\Models\Lesson;
-use App\Models\Level;
 use App\Models\Topic;
 use App\Models\Vocabulary;
+use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\File;
 
 class VocabularySeeder extends Seeder
@@ -21,7 +19,7 @@ class VocabularySeeder extends Seeder
 
     public function seedVocabulary(Topic $topic)
     {
-        $file = public_path('vocabulary/' . str($topic->name)->slug() . '.json');
+        $file = public_path('vocabulary/'.str($topic->name)->slug().'.json');
 
         if (! File::exists($file)) {
             return;

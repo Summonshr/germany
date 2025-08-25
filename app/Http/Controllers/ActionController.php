@@ -3,8 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\Quiz;
-use App\Models\Topic;
-use App\Models\Vocabulary;
 use Illuminate\Http\Request;
 
 class ActionController extends Controller
@@ -28,7 +26,7 @@ class ActionController extends Controller
                 $quiz->save();
 
                 return to_route('quiz.results', [
-                    'quiz' => $quiz->uuid
+                    'quiz' => $quiz->uuid,
                 ]);
             }),
             default => throw new \Exception('Invalid action type')

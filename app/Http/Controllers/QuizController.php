@@ -15,7 +15,7 @@ class QuizController extends Controller
 
         if ($quiz->finished_at !== null) {
             return redirect()->route('quiz.results', [
-                'quiz' => $quiz->uuid
+                'quiz' => $quiz->uuid,
             ]);
         }
 
@@ -45,7 +45,7 @@ class QuizController extends Controller
         ]);
 
         return to_route('quiz', [
-            'quiz' => $quiz->uuid
+            'quiz' => $quiz->uuid,
         ]);
     }
 }

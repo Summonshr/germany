@@ -4,11 +4,6 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
-use Database\Seeders\LanguageSeeder;
-use Database\Seeders\TopicSeeder;
-use Database\Seeders\LessonSeeder;
-use Database\Seeders\VocabularySeeder;
-use Database\Seeders\ExerciseSeeder;
 
 class LanguageContentSeeder extends Seeder
 {

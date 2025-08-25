@@ -17,15 +17,18 @@ class Vocabulary extends Model
         'options_de' => 'array',
     ];
 
-    public function scopeWords($query) {
+    public function scopeWords($query)
+    {
         return $query->where('type', 'vocabulary');
     }
 
-    public function scopeSentences($query) {
+    public function scopeSentences($query)
+    {
         return $query->where('type', 'sentence');
     }
 
-    public function toQuizQuestion($userId) {
+    public function toQuizQuestion($userId)
+    {
         return [
             'user_id' => $userId,
             'question' => $this->text,

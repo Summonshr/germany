@@ -9,15 +9,18 @@ class Topic extends Model
 {
     use HasFactory;
 
-    public function vocabulary() {
+    public function vocabulary()
+    {
         return $this->hasMany(Vocabulary::class)->words();
     }
 
-    public function sentences() {
+    public function sentences()
+    {
         return $this->hasMany(Vocabulary::class)->sentences();
     }
 
-    public function randomVocabulary() {
+    public function randomVocabulary()
+    {
         return $this->vocabulary()->words()->inRandomOrder()->take(10);
     }
 }

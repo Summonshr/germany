@@ -19,9 +19,7 @@ class HandleInertiaRequests extends Middleware
      */
     protected $rootView = 'app';
 
-    public function __construct(private readonly Repository $repository)
-    {
-    }
+    public function __construct(private readonly Repository $repository) {}
 
     /**
      * Determines the current asset version.

@@ -2,21 +2,19 @@
 
 namespace App\Http\Middleware;
 
-use Illuminate\View\Factory;
 use Closure;
 use Illuminate\Http\Request;
+use Illuminate\View\Factory;
 use Symfony\Component\HttpFoundation\Response;
 
 class HandleAppearance
 {
-    public function __construct(private readonly Factory $factory)
-    {
-    }
+    public function __construct(private readonly Factory $factory) {}
 
     /**
      * Handle an incoming request.
      *
-     * @param Closure(Request):Response $next
+     * @param  Closure(Request):Response  $next
      */
     public function handle(Request $request, Closure $next): Response
     {

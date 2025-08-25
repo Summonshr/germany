@@ -8,7 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class Quiz extends Model
 {
     use HasUuids;
+
     protected $keyType = 'string';
+
     public $incrementing = false;
 
     public $casts = [
@@ -19,11 +21,13 @@ class Quiz extends Model
 
     public $primaryKey = 'uuid';
 
-    public function questions() {
+    public function questions()
+    {
         return $this->hasMany(QuizQuestion::class)->oldest('id');
     }
 
-    public function isNotFinished() {
+    public function isNotFinished()
+    {
         return $this->finished_at === null;
     }
 }
