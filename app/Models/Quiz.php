@@ -17,7 +17,6 @@ class Quiz extends Model
 
     public $casts = [
         'topic_ids' => 'array',
-        'selected_answers' => 'array',
         'question_ids' => 'array',
     ];
 

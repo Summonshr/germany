@@ -14,7 +14,6 @@ return new class extends Migration
         Schema::create('quizzes', function (Blueprint $table) {
             $table->uuid();
             $table->unsignedInteger('current_question');
-            $table->json('selected_answers')->default('[]');
             $table->foreignId('user_id');
             $table->json('topic_ids');
             $table->integer('score')->default(-1);

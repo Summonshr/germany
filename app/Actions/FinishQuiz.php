@@ -8,11 +8,18 @@ class FinishQuiz
 {
     public function handle(array $data)
     {
-        $quiz = Quiz::query()->where('uuid', $data['quiz'])->firstOrFail();
-        $quiz->finished_at = now();
-        $quiz->current_question = $data['current_question'];
-        $quiz->selected_answers = $data['selected_answers'];
-        $quiz->save();
+        $quiz = Quiz::with('questions')->where('uuid', $data['quiz'])->firstOrFail();
+
+        $quiz->update([
+            'finished_at' => now(),
+            'current_question' => $data['current_question'],
+        ]);
+
+        foreach ($data['selected_answers'] as $answer) {
+            $quiz->questions
+                ->firstWhere('id', $answer['question_id'])
+                ->update(['given_answer' => $answer['answer']]);
+        }
 
         app()->make(CalculateQuizScore::class)->handle($quiz);
 
