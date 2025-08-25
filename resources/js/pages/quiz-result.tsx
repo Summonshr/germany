@@ -1,11 +1,10 @@
 import AppLayout from '@/layouts/app-layout';
-import { type BreadcrumbItem, type SharedData } from '@/types';
 import { Head } from '@inertiajs/react';
 
-export default function Dashboard() {
+export default function QuizResult({  }) {
   return (
     <AppLayout breadcrumbs={[]}>
-      <Head title={`Dashboard`} />
+      <Head title={`Quiz Results`} />
     </AppLayout>
   );
 }

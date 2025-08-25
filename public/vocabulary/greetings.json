@@ -1,0 +1,1808 @@
+[
+  {
+    "id": 1,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Hello",
+    "text_de": "Hallo",
+    "synonyms": "[\"Moin\", \"Servus\", \"Grüß Gott\"]",
+    "description": "The most common and versatile greeting, suitable for most informal and semi-formal situations.",
+    "description_de": "Die gebräuchlichste und vielseitigste Begrüßung, passend für die meisten informellen und halbförmlichen Situationen.",
+    "note": "Stress is on the second syllable: hah-LOH.",
+    "note_de": "Die Betonung liegt auf der zweiten Silbe: hah-LOH.",
+    "culture": "While universal, regional greetings are very common. Using a local greeting can be a nice touch.",
+    "culture_de": "Obwohl universell, sind regionale Begrüßungen sehr verbreitet. Eine lokale Begrüßung zu verwenden, kann eine nette Geste sein.",
+    "options_de": [
+      "Hallo",
+      "Gute Nacht",
+      "Danke",
+      "Wie geht es Ihnen?"
+    ]
+  },
+  {
+    "id": 2,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Hi",
+    "text_de": "Hi",
+    "synonyms": "[\"Hey\"]",
+    "description": "A very informal greeting, used among friends, young people, and in casual settings.",
+    "description_de": "Eine sehr informelle Begrüßung, die unter Freunden, jungen Leuten und in lockeren Situationen verwendet wird.",
+    "note": "Borrowed from English, but pronounced with a German accent.",
+    "note_de": "Aus dem Englischen entlehnt, aber mit deutschem Akzent ausgesprochen.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Hi",
+      "Auf Wiedersehen",
+      "Ja",
+      "Nein"
+    ]
+  },
+  {
+    "id": 3,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Yes",
+    "text_de": "Ja",
+    "synonyms": "[]",
+    "description": "The word for 'yes'.",
+    "description_de": "Das Wort für 'ja'.",
+    "note": "Pronounced 'yah'.",
+    "note_de": "Ausgesprochen 'yah'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Nein",
+      "Bitte",
+      "Ja",
+      "Danke"
+    ]
+  },
+  {
+    "id": 4,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "No",
+    "text_de": "Nein",
+    "synonyms": "[]",
+    "description": "The word for 'no'.",
+    "description_de": "Das Wort für 'nein'.",
+    "note": "Pronounced 'nine'.",
+    "note_de": "Ausgesprochen 'nine'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Ja",
+      "Nein",
+      "Hallo",
+      "Tschüss"
+    ]
+  },
+  {
+    "id": 5,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Thanks",
+    "text_de": "Danke",
+    "synonyms": "[]",
+    "description": "The standard way to say 'thank you'.",
+    "description_de": "Die Standardart, 'danke' zu sagen.",
+    "note": null,
+    "note_de": null,
+    "culture": "Politeness is highly valued. 'Danke' and 'Bitte' are essential.",
+    "culture_de": "Höflichkeit wird sehr geschätzt. 'Danke' und 'Bitte' sind unerlässlich.",
+    "options_de": [
+      "Bitte",
+      "Danke",
+      "Entschuldigung",
+      "Ja"
+    ]
+  },
+  {
+    "id": 6,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Please / You're welcome",
+    "text_de": "Bitte",
+    "synonyms": "[]",
+    "description": "A versatile word meaning 'please', 'you're welcome', or 'here you go'.",
+    "description_de": "Ein vielseitiges Wort, das 'bitte', 'gern geschehen' oder 'bitte sehr' bedeuten kann.",
+    "note": "Context determines the meaning. If someone says 'Danke', you reply 'Bitte'.",
+    "note_de": "Der Kontext bestimmt die Bedeutung. Wenn jemand 'Danke' sagt, antworten Sie 'Bitte'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Danke",
+      "Bitte",
+      "Nein",
+      "Guten Morgen"
+    ]
+  },
+  {
+    "id": 7,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Good morning",
+    "text_de": "Guten Morgen",
+    "synonyms": "[\"Morgen\"]",
+    "description": "Used as a greeting in the morning, typically until around 10 or 11 AM.",
+    "description_de": "Wird als Begrüßung am Morgen verwendet, typischerweise bis etwa 10 oder 11 Uhr.",
+    "note": "Often shortened to just 'Morgen!' in casual conversation.",
+    "note_de": "In lockeren Gesprächen oft zu 'Morgen!' verkürzt.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Guten Tag",
+      "Gute Nacht",
+      "Guten Morgen",
+      "Auf Wiedersehen"
+    ]
+  },
+  {
+    "id": 8,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Good day",
+    "text_de": "Guten Tag",
+    "synonyms": "[\"Tag\"]",
+    "description": "A standard, slightly formal greeting used throughout the day, from late morning to evening.",
+    "description_de": "Eine standardmäßige, leicht formelle Begrüßung, die den ganzen Tag über verwendet wird, vom späten Vormittag bis zum Abend.",
+    "note": "Often shortened to 'Tag!'.",
+    "note_de": "Oft zu 'Tag!' verkürzt.",
+    "culture": "This is a very safe and common greeting to use with anyone you don't know well.",
+    "culture_de": "Dies ist eine sehr sichere und gebräuchliche Begrüßung für jeden, den man nicht gut kennt.",
+    "options_de": [
+      "Guten Abend",
+      "Guten Morgen",
+      "Guten Tag",
+      "Tschüss"
+    ]
+  },
+  {
+    "id": 9,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Good evening",
+    "text_de": "Guten Abend",
+    "synonyms": "[\"Abend\"]",
+    "description": "Used as a greeting in the evening, typically from around 6 PM onwards.",
+    "description_de": "Wird als Begrüßung am Abend verwendet, typischerweise ab etwa 18 Uhr.",
+    "note": "Often shortened to 'Abend!'.",
+    "note_de": "Oft zu 'Abend!' verkürzt.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Guten Morgen",
+      "Guten Abend",
+      "Gute Nacht",
+      "Hallo"
+    ]
+  },
+  {
+    "id": 10,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Good night",
+    "text_de": "Gute Nacht",
+    "synonyms": "[]",
+    "description": "Used as a farewell at night, when someone is going to bed.",
+    "description_de": "Wird als Verabschiedung in der Nacht verwendet, wenn jemand schlafen geht.",
+    "note": "Note the '-e' ending on 'Gute', unlike the '-en' in other time-based greetings. This is due to grammatical gender ('die Nacht' is feminine).",
+    "note_de": "Beachten Sie die Endung '-e' bei 'Gute', im Gegensatz zum '-en' bei anderen zeitbasierten Begrüßungen. Dies liegt am grammatikalischen Geschlecht ('die Nacht' ist feminin).",
+    "culture": "This is strictly a farewell, not a greeting.",
+    "culture_de": "Dies ist ausschließlich eine Verabschiedung, keine Begrüßung.",
+    "options_de": [
+      "Guten Tag",
+      "Gute Nacht",
+      "Guten Abend",
+      "Danke"
+    ]
+  },
+  {
+    "id": 11,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Bye",
+    "text_de": "Tschüss",
+    "synonyms": "[\"Ciao\"]",
+    "description": "The most common informal way to say goodbye.",
+    "description_de": "Die gebräuchlichste informelle Art, sich zu verabschieden.",
+    "note": "Pronounced like 'choose', but with a 't' sound at the beginning.",
+    "note_de": "Ausgesprochen wie 'tschüs'.",
+    "culture": "Can be used with almost anyone in everyday situations.",
+    "culture_de": "Kann in Alltagssituationen bei fast jedem verwendet werden.",
+    "options_de": [
+      "Hallo",
+      "Tschüss",
+      "Auf Wiedersehen",
+      "Bitte"
+    ]
+  },
+  {
+    "id": 12,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Goodbye (formal)",
+    "text_de": "Auf Wiedersehen",
+    "synonyms": "[]",
+    "description": "The formal way to say goodbye.",
+    "description_de": "Die formelle Art, sich zu verabschieden.",
+    "note": "Literally means 'until we see again'.",
+    "note_de": "Bedeutet wörtlich 'bis wir uns wiedersehen'.",
+    "culture": "Used in professional settings or with people you address with 'Sie'.",
+    "culture_de": "Wird im beruflichen Umfeld oder bei Personen verwendet, die man mit 'Sie' anspricht.",
+    "options_de": [
+      "Tschüss",
+      "Auf Wiederhören",
+      "Auf Wiedersehen",
+      "Guten Tag"
+    ]
+  },
+  {
+    "id": 13,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Goodbye (on the phone)",
+    "text_de": "Auf Wiederhören",
+    "synonyms": "[]",
+    "description": "The formal way to say goodbye on the telephone.",
+    "description_de": "Die formelle Art, sich am Telefon zu verabschieden.",
+    "note": "Literally means 'until we hear again'.",
+    "note_de": "Bedeutet wörtlich 'bis wir uns wiederhören'.",
+    "culture": "Using 'Auf Wiedersehen' on the phone is a common mistake for learners.",
+    "culture_de": "Am Telefon 'Auf Wiedersehen' zu sagen, ist ein häufiger Fehler von Lernenden.",
+    "options_de": [
+      "Auf Wiedersehen",
+      "Auf Wiederhören",
+      "Hallo",
+      "Bis später"
+    ]
+  },
+  {
+    "id": 14,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Excuse me / Sorry",
+    "text_de": "Entschuldigung",
+    "synonyms": "[]",
+    "description": "Used to get someone's attention, apologize for a minor mistake, or say 'excuse me'.",
+    "description_de": "Wird verwendet, um die Aufmerksamkeit von jemandem zu erregen, sich für einen kleinen Fehler zu entschuldigen oder 'Entschuldigung' zu sagen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Danke",
+      "Bitte",
+      "Entschuldigung",
+      "Es tut mir leid"
+    ]
+  },
+  {
+    "id": 15,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "How are you? (informal)",
+    "text_de": "Wie geht es dir?",
+    "synonyms": "[\"Wie geht's?\"]",
+    "description": "The informal way to ask someone how they are. Used with friends, family, and people you know well.",
+    "description_de": "Die informelle Art, jemanden zu fragen, wie es ihm geht. Wird bei Freunden, Familie und Leuten, die man gut kennt, verwendet.",
+    "note": "Often shortened to 'Wie geht's?'. 'dir' is the dative case of 'du' (informal you).",
+    "note_de": "Oft zu 'Wie geht's?' verkürzt. 'dir' ist der Dativ von 'du' (informelles Du).",
+    "culture": "It's common to give a genuine, short answer, not just 'Fine, thanks'.",
+    "culture_de": "Es ist üblich, eine ehrliche, kurze Antwort zu geben, nicht nur 'Gut, danke'.",
+    "options_de": [
+      "Wie geht es Ihnen?",
+      "Wie heißt du?",
+      "Wie geht es dir?",
+      "Mir geht es gut, danke."
+    ]
+  },
+  {
+    "id": 16,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "How are you? (formal)",
+    "text_de": "Wie geht es Ihnen?",
+    "synonyms": "[]",
+    "description": "The formal way to ask someone how they are. Used with strangers, in business, or with elders.",
+    "description_de": "Die formelle Art, jemanden zu fragen, wie es ihm geht. Wird bei Fremden, im Geschäftsleben oder bei älteren Menschen verwendet.",
+    "note": "'Ihnen' is the dative case of 'Sie' (formal you) and is always capitalized.",
+    "note_de": "'Ihnen' ist der Dativ von 'Sie' (formelles Sie) und wird immer großgeschrieben.",
+    "culture": "Always default to the formal 'Sie' form with adults you don't know.",
+    "culture_de": "Verwenden Sie bei Erwachsenen, die Sie nicht kennen, immer die formelle 'Sie'-Form.",
+    "options_de": [
+      "Wie geht es dir?",
+      "Wie heißen Sie?",
+      "Wie geht es Ihnen?",
+      "Und Ihnen?"
+    ]
+  },
+  {
+    "id": 17,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'm fine, thanks.",
+    "text_de": "Mir geht es gut, danke.",
+    "synonyms": "[\"Gut, danke.\"]",
+    "description": "A standard response to 'How are you?'.",
+    "description_de": "Eine Standardantwort auf 'Wie geht es dir/Ihnen?'.",
+    "note": "Often shortened to 'Gut, danke.'",
+    "note_de": "Oft zu 'Gut, danke.' verkürzt.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Wie geht es dir?",
+      "Mir geht es gut, danke.",
+      "Es geht so.",
+      "Und dir?"
+    ]
+  },
+  {
+    "id": 18,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "And you? (informal)",
+    "text_de": "Und dir?",
+    "synonyms": "[]",
+    "description": "Informal way to ask 'and you?' after being asked how you are.",
+    "description_de": "Informelle Art zu fragen 'und dir?', nachdem man gefragt wurde, wie es einem geht.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Und Ihnen?",
+      "Was ist mit dir?",
+      "Und dir?",
+      "Ich auch."
+    ]
+  },
+  {
+    "id": 19,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "And you? (formal)",
+    "text_de": "Und Ihnen?",
+    "synonyms": "[]",
+    "description": "Formal way to ask 'and you?' after being asked how you are.",
+    "description_de": "Formelle Art zu fragen 'und Ihnen?', nachdem man gefragt wurde, wie es einem geht.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Und dir?",
+      "Was ist mit Ihnen?",
+      "Und Ihnen?",
+      "Bitte schön."
+    ]
+  },
+  {
+    "id": 20,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "What is your name? (informal)",
+    "text_de": "Wie heißt du?",
+    "synonyms": "[]",
+    "description": "Informal way to ask for someone's name.",
+    "description_de": "Informelle Art, nach dem Namen von jemandem zu fragen.",
+    "note": "Literally 'How are you called?'.",
+    "note_de": "Wörtlich 'Wie wirst du genannt?'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Wie heißen Sie?",
+      "Ich heiße...",
+      "Wie heißt du?",
+      "Wie geht es dir?"
+    ]
+  },
+  {
+    "id": 21,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "What is your name? (formal)",
+    "text_de": "Wie heißen Sie?",
+    "synonyms": "[]",
+    "description": "Formal way to ask for someone's name.",
+    "description_de": "Formelle Art, nach dem Namen von jemandem zu fragen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Wie heißt du?",
+      "Mein Name ist...",
+      "Wie heißen Sie?",
+      "Wie geht es Ihnen?"
+    ]
+  },
+  {
+    "id": 22,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "My name is...",
+    "text_de": "Ich heiße...",
+    "synonyms": "[\"Mein Name ist...\"]",
+    "description": "The most common way to state your name.",
+    "description_de": "Die gebräuchlichste Art, seinen Namen zu nennen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Wie heißt du?",
+      "Ich heiße...",
+      "Freut mich.",
+      "Ich komme aus..."
+    ]
+  },
+  {
+    "id": 23,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Pleased to meet you.",
+    "text_de": "Freut mich.",
+    "synonyms": "[\"Sehr erfreut.\"]",
+    "description": "A common and polite response after being introduced to someone.",
+    "description_de": "Eine übliche und höfliche Antwort, nachdem man jemandem vorgestellt wurde.",
+    "note": "Short for 'Es freut mich, Sie/dich kennenzulernen.' (It pleases me to meet you).",
+    "note_de": "Kurz für 'Es freut mich, Sie/dich kennenzulernen.'",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Danke",
+      "Freut mich.",
+      "Gern geschehen.",
+      "Bis später."
+    ]
+  },
+  {
+    "id": 24,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "See you later.",
+    "text_de": "Bis später.",
+    "synonyms": "[]",
+    "description": "A common, informal farewell when you expect to see the person again on the same day.",
+    "description_de": "Eine übliche, informelle Verabschiedung, wenn man erwartet, die Person am selben Tag wiederzusehen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Bis bald.",
+      "Bis morgen.",
+      "Bis später.",
+      "Tschüss"
+    ]
+  },
+  {
+    "id": 25,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "See you soon.",
+    "text_de": "Bis bald.",
+    "synonyms": "[]",
+    "description": "An informal farewell used when you expect to see the person again soon, but not necessarily on the same day.",
+    "description_de": "Eine informelle Verabschiedung, die verwendet wird, wenn man erwartet, die Person bald wiederzusehen, aber nicht unbedingt am selben Tag.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Bis später.",
+      "Bis bald.",
+      "Auf Wiedersehen",
+      "Gute Nacht"
+    ]
+  },
+  {
+    "id": 26,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "See you tomorrow.",
+    "text_de": "Bis morgen.",
+    "synonyms": "[]",
+    "description": "An informal farewell used when you will see the person the next day.",
+    "description_de": "Eine informelle Verabschiedung, die verwendet wird, wenn man die Person am nächsten Tag wiedersieht.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Bis später.",
+      "Bis bald.",
+      "Bis morgen.",
+      "Guten Morgen"
+    ]
+  },
+  {
+    "id": 27,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Welcome",
+    "text_de": "Willkommen",
+    "synonyms": "[]",
+    "description": "Used to welcome someone to a place (e.g., 'Welcome to Berlin').",
+    "description_de": "Wird verwendet, um jemanden an einem Ort willkommen zu heißen (z.B. 'Willkommen in Berlin').",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Bitte",
+      "Willkommen",
+      "Danke",
+      "Hallo"
+    ]
+  },
+  {
+    "id": 28,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Thank you very much.",
+    "text_de": "Vielen Dank.",
+    "synonyms": "[\"Danke schön.\"]",
+    "description": "A more polite or emphatic way to say thank you.",
+    "description_de": "Eine höflichere oder nachdrücklichere Art, danke zu sagen.",
+    "note": "'Danke schön' is also very common and interchangeable.",
+    "note_de": "'Danke schön' ist ebenfalls sehr gebräuchlich und austauschbar.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Danke",
+      "Bitte schön.",
+      "Vielen Dank.",
+      "Gern geschehen."
+    ]
+  },
+  {
+    "id": 29,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "You're very welcome.",
+    "text_de": "Gern geschehen.",
+    "synonyms": "[\"Bitte schön.\", \"Kein Problem.\"]",
+    "description": "A common and warm response to 'Danke schön' or 'Vielen Dank'.",
+    "description_de": "Eine übliche und herzliche Antwort auf 'Danke schön' oder 'Vielen Dank'.",
+    "note": "Literally 'done with pleasure'.",
+    "note_de": "Wörtlich 'mit Vergnügen getan'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Vielen Dank.",
+      "Bitte",
+      "Gern geschehen.",
+      "Entschuldigung"
+    ]
+  },
+  {
+    "id": 30,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'm sorry.",
+    "text_de": "Es tut mir leid.",
+    "synonyms": "[]",
+    "description": "Used to express genuine regret or sympathy. Stronger than 'Entschuldigung'.",
+    "description_de": "Wird verwendet, um echtes Bedauern oder Mitgefühl auszudrücken. Stärker als 'Entschuldigung'.",
+    "note": "Literally 'It does me sorrow'.",
+    "note_de": "Wörtlich 'Es tut mir Leid'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Entschuldigung",
+      "Es tut mir leid.",
+      "Kein Problem.",
+      "Danke"
+    ]
+  },
+  {
+    "id": 31,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Hello (in Northern Germany)",
+    "text_de": "Moin",
+    "synonyms": "[\"Moin Moin\"]",
+    "description": "A very common greeting in Northern Germany (Hamburg, Bremen, etc.).",
+    "description_de": "Eine sehr verbreitete Begrüßung in Norddeutschland (Hamburg, Bremen, etc.).",
+    "note": "Can be used all day, not just in the morning.",
+    "note_de": "Kann den ganzen Tag verwendet werden, nicht nur am Morgen.",
+    "culture": "Using this in the north shows some local knowledge and is often appreciated.",
+    "culture_de": "Dies im Norden zu verwenden, zeigt lokales Wissen und wird oft geschätzt.",
+    "options_de": [
+      "Grüß Gott",
+      "Servus",
+      "Moin",
+      "Guten Tag"
+    ]
+  },
+  {
+    "id": 32,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Hello (in Southern Germany/Austria)",
+    "text_de": "Grüß Gott",
+    "synonyms": "[]",
+    "description": "A common greeting in Southern Germany (Bavaria) and Austria.",
+    "description_de": "Eine verbreitete Begrüßung in Süddeutschland (Bayern) und Österreich.",
+    "note": "Literally 'Greet God'. It is used by everyone, regardless of religious belief.",
+    "note_de": "Wörtlich 'Grüße Gott'. Es wird von jedem verwendet, unabhängig vom religiösen Glauben.",
+    "culture": "This is a standard polite greeting in the south, equivalent to 'Guten Tag'.",
+    "culture_de": "Dies ist eine standardmäßige höfliche Begrüßung im Süden, äquivalent zu 'Guten Tag'.",
+    "options_de": [
+      "Moin",
+      "Hallo",
+      "Grüß Gott",
+      "Tschüss"
+    ]
+  },
+  {
+    "id": 33,
+    "topic_id": 1,
+    "type": "vocabulary",
+    "text": "Hello/Bye (in Southern Germany/Austria)",
+    "text_de": "Servus",
+    "synonyms": "[]",
+    "description": "An informal greeting and farewell used in Southern Germany and Austria.",
+    "description_de": "Eine informelle Begrüßung und Verabschiedung, die in Süddeutschland und Österreich verwendet wird.",
+    "note": "Comes from Latin, meaning 'at your service'.",
+    "note_de": "Kommt aus dem Lateinischen und bedeutet 'zu Ihren Diensten'.",
+    "culture": "Very versatile, can be used for both 'hello' and 'goodbye' among friends.",
+    "culture_de": "Sehr vielseitig, kann sowohl für 'Hallo' als auch für 'Tschüss' unter Freunden verwendet werden.",
+    "options_de": [
+      "Grüß Gott",
+      "Moin",
+      "Servus",
+      "Auf Wiedersehen"
+    ]
+  },
+  {
+    "id": 34,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Have a nice day.",
+    "text_de": "Schönen Tag noch.",
+    "synonyms": "[]",
+    "description": "A polite way to end a conversation, for example with a shopkeeper.",
+    "description_de": "Eine höfliche Art, ein Gespräch zu beenden, zum Beispiel mit einem Verkäufer.",
+    "note": "The full phrase is 'Ich wünsche Ihnen/dir einen schönen Tag noch' (I wish you a nice rest of the day).",
+    "note_de": "Der vollständige Satz lautet 'Ich wünsche Ihnen/dir einen schönen Tag noch'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Guten Tag",
+      "Schönes Wochenende.",
+      "Schönen Tag noch.",
+      "Bis später."
+    ]
+  },
+  {
+    "id": 35,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Enjoy your meal.",
+    "text_de": "Guten Appetit.",
+    "synonyms": "[]",
+    "description": "Said before starting a meal.",
+    "description_de": "Wird vor Beginn einer Mahlzeit gesagt.",
+    "note": "A common response is 'Danke, ebenfalls' or 'Danke, gleichfalls' (Thanks, you too).",
+    "note_de": "Eine übliche Antwort ist 'Danke, ebenfalls' oder 'Danke, gleichfalls'.",
+    "culture": "It's considered polite to wait until everyone has their food and someone says this before you start eating.",
+    "culture_de": "Es gilt als höflich zu warten, bis jeder sein Essen hat und jemand dies sagt, bevor man mit dem Essen beginnt.",
+    "options_de": [
+      "Prost! / Zum Wohl!",
+      "Danke",
+      "Guten Appetit.",
+      "Gesundheit."
+    ]
+  },
+  {
+    "id": 36,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'm doing so-so.",
+    "text_de": "Es geht so.",
+    "synonyms": "[\"Geht so.\"]",
+    "description": "A neutral or slightly negative response to 'How are you?'.",
+    "description_de": "Eine neutrale oder leicht negative Antwort auf 'Wie geht es dir/Ihnen?'.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Mir geht es gut, danke.",
+      "Mir geht es nicht gut.",
+      "Es geht so.",
+      "Alles in Ordnung."
+    ]
+  },
+  {
+    "id": 37,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'm not doing well.",
+    "text_de": "Mir geht es nicht gut.",
+    "synonyms": "[]",
+    "description": "A negative response to 'How are you?'.",
+    "description_de": "Eine negative Antwort auf 'Wie geht es dir/Ihnen?'.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Es geht so.",
+      "Mir geht es super.",
+      "Mir geht es nicht gut.",
+      "Ich kann nicht klagen."
+    ]
+  },
+  {
+    "id": 38,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Everything is okay.",
+    "text_de": "Alles in Ordnung.",
+    "synonyms": "[\"Alles klar.\"]",
+    "description": "Can be used as a question ('Alles klar?') or a statement. Means 'Everything's alright'.",
+    "description_de": "Kann als Frage ('Alles klar?') oder als Aussage verwendet werden. Bedeutet 'Alles ist in Ordnung'.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Kein Problem.",
+      "Alles in Ordnung.",
+      "Es tut mir leid.",
+      "Nichts Neues."
+    ]
+  },
+  {
+    "id": 39,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "What's up? (very informal)",
+    "text_de": "Was geht ab?",
+    "synonyms": "[\"Was geht?\"]",
+    "description": "A very casual, slang greeting used among young people.",
+    "description_de": "Eine sehr lockere, umgangssprachliche Begrüßung unter jungen Leuten.",
+    "note": "Equivalent to 'What's up?' or 'What's happening?'.",
+    "note_de": "Entspricht 'What's up?' oder 'What's happening?'.",
+    "culture": "Only use this with close friends in a very informal setting.",
+    "culture_de": "Nur mit engen Freunden in einem sehr informellen Rahmen verwenden.",
+    "options_de": [
+      "Wie geht's?",
+      "Was gibt's Neues?",
+      "Was geht ab?",
+      "Wie läuft's?"
+    ]
+  },
+  {
+    "id": 40,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Long time no see.",
+    "text_de": "Lange nicht gesehen.",
+    "synonyms": "[]",
+    "description": "Said when you meet someone you haven't seen in a while.",
+    "description_de": "Sagt man, wenn man jemanden trifft, den man eine Weile nicht gesehen hat.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Bis zum nächsten Mal.",
+      "Wie ist es dir ergangen?",
+      "Lange nicht gesehen.",
+      "Wir bleiben in Kontakt."
+    ]
+  },
+  {
+    "id": 41,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "It was nice to meet you.",
+    "text_de": "Es hat mich gefreut, Sie kennenzulernen.",
+    "synonyms": "[]",
+    "description": "A polite closing statement after meeting someone for the first time (formal).",
+    "description_de": "Eine höfliche Schlussbemerkung nach dem ersten Treffen mit jemandem (formell).",
+    "note": "For informal, use 'dich' instead of 'Sie'.",
+    "note_de": "Für informell, verwende 'dich' anstelle von 'Sie'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Freut mich.",
+      "Sehr erfreut, Ihre Bekanntschaft zu machen.",
+      "Es hat mich gefreut, Sie kennenzulernen.",
+      "Die Freude ist ganz meinerseits."
+    ]
+  },
+  {
+    "id": 42,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Have a good trip.",
+    "text_de": "Gute Reise.",
+    "synonyms": "[]",
+    "description": "Wishing someone a good journey.",
+    "description_de": "Jemandem eine gute Reise wünschen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Schönen Tag noch.",
+      "Mach's gut.",
+      "Gute Reise.",
+      "Viel Glück!"
+    ]
+  },
+  {
+    "id": 43,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Have a nice weekend.",
+    "text_de": "Schönes Wochenende.",
+    "synonyms": "[]",
+    "description": "A common farewell on a Friday.",
+    "description_de": "Eine übliche Verabschiedung an einem Freitag.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Schönen Tag noch.",
+      "Gleichfalls.",
+      "Schönes Wochenende.",
+      "Bis bald."
+    ]
+  },
+  {
+    "id": 44,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Cheers! / To your health!",
+    "text_de": "Prost! / Zum Wohl!",
+    "synonyms": "[]",
+    "description": "Said when clinking glasses.",
+    "description_de": "Sagt man beim Anstoßen mit Gläsern.",
+    "note": "'Prost' is more common with beer, 'Zum Wohl' with wine, but they are often interchangeable.",
+    "note_de": "'Prost' ist häufiger bei Bier, 'Zum Wohl' bei Wein, aber sie sind oft austauschbar.",
+    "culture": "It is customary to make eye contact with each person as you clink glasses.",
+    "culture_de": "Es ist üblich, beim Anstoßen mit jeder Person Augenkontakt aufzunehmen.",
+    "options_de": [
+      "Guten Appetit.",
+      "Gesundheit.",
+      "Prost! / Zum Wohl!",
+      "Viel Glück!"
+    ]
+  },
+  {
+    "id": 45,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Bless you (after a sneeze).",
+    "text_de": "Gesundheit.",
+    "synonyms": "[]",
+    "description": "Said to someone after they sneeze.",
+    "description_de": "Sagt man zu jemandem, nachdem er geniest hat.",
+    "note": "Literally means 'Health'.",
+    "note_de": "Bedeutet wörtlich 'Gesundheit'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Gute Besserung.",
+      "Danke.",
+      "Gesundheit.",
+      "Prost! / Zum Wohl!"
+    ]
+  },
+  {
+    "id": 46,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I am from...",
+    "text_de": "Ich komme aus...",
+    "synonyms": "[]",
+    "description": "Used to state your country or city of origin.",
+    "description_de": "Wird verwendet, um sein Herkunftsland oder seine Herkunftsstadt anzugeben.",
+    "note": "e.g., 'Ich komme aus Nepal.'",
+    "note_de": "z.B. 'Ich komme aus Nepal.'",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Woher kommst du?",
+      "Ich heiße...",
+      "Ich komme aus...",
+      "Das ist mein Freund/meine Freundin, [Name]."
+    ]
+  },
+  {
+    "id": 47,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Where are you from? (informal)",
+    "text_de": "Woher kommst du?",
+    "synonyms": "[]",
+    "description": "Informal way to ask someone's origin.",
+    "description_de": "Informelle Art, nach der Herkunft von jemandem zu fragen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Woher kommen Sie?",
+      "Ich komme aus...",
+      "Woher kommst du?",
+      "Wie heißt du?"
+    ]
+  },
+  {
+    "id": 48,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Where are you from? (formal)",
+    "text_de": "Woher kommen Sie?",
+    "synonyms": "[]",
+    "description": "Formal way to ask someone's origin.",
+    "description_de": "Formelle Art, nach der Herkunft von jemandem zu fragen.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Woher kommst du?",
+      "Ich komme aus...",
+      "Woher kommen Sie?",
+      "Wie heißen Sie?"
+    ]
+  },
+  {
+    "id": 49,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Take care.",
+    "text_de": "Mach's gut.",
+    "synonyms": "[]",
+    "description": "A warm, informal farewell.",
+    "description_de": "Eine herzliche, informelle Verabschiedung.",
+    "note": "The formal equivalent would be 'Machen Sie es gut'.",
+    "note_de": "Das formelle Äquivalent wäre 'Machen Sie es gut'.",
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Tschüss",
+      "Bis bald.",
+      "Mach's gut.",
+      "Alles Gute!"
+    ]
+  },
+  {
+    "id": 50,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'm doing great.",
+    "text_de": "Mir geht es super.",
+    "synonyms": "[\"Ausgezeichnet.\", \"Prima.\"]",
+    "description": "A very positive response to 'How are you?'.",
+    "description_de": "Eine sehr positive Antwort auf 'Wie geht es dir/Ihnen?'.",
+    "note": null,
+    "note_de": null,
+    "culture": null,
+    "culture_de": null,
+    "options_de": [
+      "Mir geht es gut, danke.",
+      "Es geht so.",
+      "Mir geht es super.",
+      "Ich kann nicht klagen."
+    ]
+  },
+  {
+    "id": 51,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "What about you? (informal)",
+    "text_de": "Was ist mit dir?",
+    "synonyms": "[]",
+    "description": "A way to turn a question back to the other person.",
+    "description_de": "Eine Möglichkeit, eine Frage an die andere Person zurückzugeben.",
+    "note": "More general than 'Und dir?'. Can be used for opinions, plans, etc.",
+    "note_de": "Allgemeiner als 'Und dir?'. Kann für Meinungen, Pläne usw. verwendet werden.",
+    "options_de": [
+      "Und dir?",
+      "Was ist mit Ihnen?",
+      "Was ist mit dir?",
+      "Ich auch."
+    ]
+  },
+  {
+    "id": 52,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "What about you? (formal)",
+    "text_de": "Was ist mit Ihnen?",
+    "synonyms": "[]",
+    "description": "A formal way to turn a question back to the other person.",
+    "description_de": "Eine formelle Möglichkeit, eine Frage an die andere Person zurückzugeben.",
+    "note": null,
+    "note_de": null,
+    "options_de": [
+      "Und Ihnen?",
+      "Was ist mit dir?",
+      "Was ist mit Ihnen?",
+      "Gleichfalls."
+    ]
+  },
+  {
+    "id": 53,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Me too.",
+    "text_de": "Ich auch.",
+    "synonyms": "[]",
+    "description": "A simple way to agree or state that you share the same status.",
+    "description_de": "Eine einfache Möglichkeit, zuzustimmen oder anzugeben, dass man den gleichen Status teilt.",
+    "options_de": [
+      "Gleichfalls.",
+      "Ja",
+      "Ich auch.",
+      "Und dir?"
+    ]
+  },
+  {
+    "id": 54,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "No problem.",
+    "text_de": "Kein Problem.",
+    "synonyms": "[]",
+    "description": "A casual response to an apology or a thank you.",
+    "description_de": "Eine lockere Antwort auf eine Entschuldigung oder ein Dankeschön.",
+    "options_de": [
+      "Gern geschehen.",
+      "Alles in Ordnung.",
+      "Kein Problem.",
+      "Bitte"
+    ]
+  },
+  {
+    "id": 55,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Pardon?",
+    "text_de": "Wie bitte?",
+    "synonyms": "[]",
+    "description": "A polite way to ask someone to repeat what they said.",
+    "description_de": "Eine höfliche Art, jemanden zu bitten, das Gesagte zu wiederholen.",
+    "options_de": [
+      "Entschuldigung",
+      "Was geht ab?",
+      "Wie bitte?",
+      "Mit wem spreche ich?"
+    ]
+  },
+  {
+    "id": 56,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "This is Suman. (on the phone)",
+    "text_de": "Hier ist Suman.",
+    "synonyms": "[\"Suman am Apparat.\"]",
+    "description": "How to state your name when answering or making a phone call.",
+    "description_de": "Wie man seinen Namen nennt, wenn man einen Anruf entgegennimmt oder tätigt.",
+    "options_de": [
+      "Ich heiße...",
+      "Mit wem spreche ich?",
+      "Hier ist Suman.",
+      "Hallo"
+    ]
+  },
+  {
+    "id": 57,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Who is speaking? (formal)",
+    "text_de": "Mit wem spreche ich?",
+    "synonyms": "[]",
+    "description": "A formal way to ask who is on the other end of the phone line.",
+    "description_de": "Eine formelle Art zu fragen, wer am anderen Ende der Telefonleitung ist.",
+    "options_de": [
+      "Wie heißen Sie?",
+      "Hier ist Suman.",
+      "Mit wem spreche ich?",
+      "Wie bitte?"
+    ]
+  },
+  {
+    "id": 58,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "It's a pleasure.",
+    "text_de": "Gern geschehen.",
+    "synonyms": "[\"Mit Vergnügen.\"]",
+    "description": "Another way to say 'You're welcome', implying you were happy to do it.",
+    "description_de": "Eine andere Art, 'Gern geschehen' zu sagen, die impliziert, dass man es gerne getan hat.",
+    "options_de": [
+      "Bitte",
+      "Kein Problem.",
+      "Gern geschehen.",
+      "Freut mich."
+    ]
+  },
+  {
+    "id": 59,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Sleep well. (informal)",
+    "text_de": "Schlaf gut.",
+    "synonyms": "[]",
+    "description": "An informal and common way to wish someone a good night's sleep.",
+    "description_de": "Eine informelle und gebräuchliche Art, jemandem eine gute Nachtruhe zu wünschen.",
+    "options_de": [
+      "Gute Nacht",
+      "Träum süß.",
+      "Schlaf gut.",
+      "Bis morgen."
+    ]
+  },
+  {
+    "id": 60,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Sweet dreams.",
+    "text_de": "Träum süß.",
+    "synonyms": "[]",
+    "description": "A very affectionate way to say good night, used with partners, children, or very close friends.",
+    "description_de": "Eine sehr liebevolle Art, gute Nacht zu sagen, verwendet bei Partnern, Kindern oder sehr engen Freunden.",
+    "options_de": [
+      "Schlaf gut.",
+      "Gute Nacht",
+      "Träum süß.",
+      "Mach's gut."
+    ]
+  },
+  {
+    "id": 61,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "How have you been? (informal)",
+    "text_de": "Wie ist es dir ergangen?",
+    "synonyms": "[]",
+    "description": "Asks about a longer period of time than 'Wie geht's?'. Used when you haven't seen someone for a while.",
+    "description_de": "Fragt nach einem längeren Zeitraum als 'Wie geht's?'. Wird verwendet, wenn man jemanden eine Weile nicht gesehen hat.",
+    "options_de": [
+      "Wie geht es dir?",
+      "Wie ist es Ihnen ergangen?",
+      "Wie ist es dir ergangen?",
+      "Lange nicht gesehen."
+    ]
+  },
+  {
+    "id": 62,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "How have you been? (formal)",
+    "text_de": "Wie ist es Ihnen ergangen?",
+    "synonyms": "[]",
+    "description": "Formal version of asking about someone's well-being over a period of time.",
+    "description_de": "Formelle Version der Frage nach dem Wohlbefinden einer Person über einen längeren Zeitraum.",
+    "options_de": [
+      "Wie geht es Ihnen?",
+      "Wie ist es dir ergangen?",
+      "Wie ist es Ihnen ergangen?",
+      "Was gibt's Neues?"
+    ]
+  },
+  {
+    "id": 63,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'm pleased to make your acquaintance. (very formal)",
+    "text_de": "Sehr erfreut, Ihre Bekanntschaft zu machen.",
+    "synonyms": "[]",
+    "description": "A very formal and slightly old-fashioned way to say 'pleased to meet you'.",
+    "description_de": "Eine sehr formelle und etwas altmodische Art, 'freut mich' zu sagen.",
+    "options_de": [
+      "Freut mich.",
+      "Es hat mich gefreut, Sie kennenzulernen.",
+      "Sehr erfreut, Ihre Bekanntschaft zu machen.",
+      "Es ist mir eine Ehre."
+    ]
+  },
+  {
+    "id": 64,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Until next time.",
+    "text_de": "Bis zum nächsten Mal.",
+    "synonyms": "[]",
+    "description": "A general farewell when you know you will meet again but are not sure when.",
+    "description_de": "Eine allgemeine Verabschiedung, wenn man weiß, dass man sich wiedersehen wird, aber nicht sicher ist, wann.",
+    "options_de": [
+      "Bis bald.",
+      "Bis später.",
+      "Bis zum nächsten Mal.",
+      "Wir bleiben in Kontakt."
+    ]
+  },
+  {
+    "id": 65,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "All the best!",
+    "text_de": "Alles Gute!",
+    "synonyms": "[]",
+    "description": "A versatile wish, used for birthdays, farewells, or to wish someone luck.",
+    "description_de": "Ein vielseitiger Wunsch, der für Geburtstage, Verabschiedungen oder um jemandem Glück zu wünschen, verwendet wird.",
+    "options_de": [
+      "Viel Glück!",
+      "Herzlichen Glückwunsch!",
+      "Alles Gute!",
+      "Mach's gut."
+    ]
+  },
+  {
+    "id": 66,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Good luck!",
+    "text_de": "Viel Glück!",
+    "synonyms": "[]",
+    "description": "Wishing someone good luck.",
+    "description_de": "Jemandem viel Glück wünschen.",
+    "options_de": [
+      "Alles Gute!",
+      "Prost! / Zum Wohl!",
+      "Viel Glück!",
+      "Gute Reise."
+    ]
+  },
+  {
+    "id": 67,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Congratulations!",
+    "text_de": "Herzlichen Glückwunsch!",
+    "synonyms": "[]",
+    "description": "Used for achievements, birthdays, weddings, etc.",
+    "description_de": "Wird für Erfolge, Geburtstage, Hochzeiten usw. verwendet.",
+    "options_de": [
+      "Alles Gute zum Geburtstag!",
+      "Viel Glück!",
+      "Herzlichen Glückwunsch!",
+      "Alles Gute!"
+    ]
+  },
+  {
+    "id": 68,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Happy Birthday!",
+    "text_de": "Alles Gute zum Geburtstag!",
+    "synonyms": "[\"Herzlichen Glückwunsch zum Geburtstag!\"]",
+    "description": "The standard way to wish someone a happy birthday.",
+    "description_de": "Die Standardart, jemandem zum Geburtstag zu gratulieren.",
+    "options_de": [
+      "Herzlichen Glückwunsch!",
+      "Alles Gute!",
+      "Alles Gute zum Geburtstag!",
+      "Frohe Weihnachten!"
+    ]
+  },
+  {
+    "id": 69,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Merry Christmas!",
+    "text_de": "Frohe Weihnachten!",
+    "synonyms": "[]",
+    "description": "The standard Christmas greeting.",
+    "description_de": "Der Standard-Weihnachtsgruß.",
+    "options_de": [
+      "Frohes neues Jahr!",
+      "Frohe Ostern!",
+      "Frohe Weihnachten!",
+      "Guten Rutsch!"
+    ]
+  },
+  {
+    "id": 70,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Happy New Year!",
+    "text_de": "Frohes neues Jahr!",
+    "synonyms": "[]",
+    "description": "Said on New Year's Day.",
+    "description_de": "Sagt man am Neujahrstag.",
+    "options_de": [
+      "Guten Rutsch!",
+      "Frohe Weihnachten!",
+      "Frohes neues Jahr!",
+      "Alles Gute!"
+    ]
+  },
+  {
+    "id": 71,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Good slide (into the New Year)!",
+    "text_de": "Guten Rutsch!",
+    "synonyms": "[]",
+    "description": "A common phrase to wish someone a happy new year in the days leading up to it.",
+    "description_de": "Eine gebräuchliche Redewendung, um jemandem in den Tagen davor ein gutes neues Jahr zu wünschen.",
+    "options_de": [
+      "Frohes neues Jahr!",
+      "Viel Glück!",
+      "Guten Rutsch!",
+      "Gute Reise."
+    ]
+  },
+  {
+    "id": 72,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Happy Easter!",
+    "text_de": "Frohe Ostern!",
+    "synonyms": "[]",
+    "description": "The standard Easter greeting.",
+    "description_de": "Der Standard-Ostergruß.",
+    "options_de": [
+      "Frohe Weihnachten!",
+      "Alles Gute zum Geburtstag!",
+      "Frohe Ostern!",
+      "Herzlichen Glückwunsch!"
+    ]
+  },
+  {
+    "id": 73,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Same to you.",
+    "text_de": "Gleichfalls.",
+    "synonyms": "[\"Ebenfalls.\"]",
+    "description": "A short and common way to return a greeting or good wish (e.g., after 'Schönes Wochenende').",
+    "description_de": "Eine kurze und gebräuchliche Art, einen Gruß oder guten Wunsch zu erwidern (z.B. nach 'Schönes Wochenende').",
+    "options_de": [
+      "Ich auch.",
+      "Danke",
+      "Gleichfalls.",
+      "Bitte"
+    ]
+  },
+  {
+    "id": 74,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "May I introduce...?",
+    "text_de": "Darf ich vorstellen...?",
+    "synonyms": "[]",
+    "description": "A formal way to begin an introduction of another person.",
+    "description_de": "Eine formelle Art, die Vorstellung einer anderen Person zu beginnen.",
+    "options_de": [
+      "Ich möchte Ihnen ... vorstellen.",
+      "Das ist mein Freund/meine Freundin, [Name].",
+      "Darf ich vorstellen...?",
+      "Wie heißen Sie?"
+    ]
+  },
+  {
+    "id": 75,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "This is my friend, [Name].",
+    "text_de": "Das ist mein Freund/meine Freundin, [Name].",
+    "synonyms": "[]",
+    "description": "A casual way to introduce a friend.",
+    "note": "Use 'mein Freund' for a male friend and 'meine Freundin' for a female friend. Be aware that these can also mean 'my boyfriend/girlfriend' depending on context.",
+    "note_de": "Verwende 'mein Freund' für einen männlichen Freund und 'meine Freundin' für eine weibliche Freundin. Beachte, dass dies je nach Kontext auch 'mein fester Freund/meine feste Freundin' bedeuten kann.",
+    "options_de": [
+      "Darf ich vorstellen...?",
+      "Ich heiße...",
+      "Das ist mein Freund/meine Freundin, [Name].",
+      "Grüß [Name] von mir."
+    ]
+  },
+  {
+    "id": 76,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I'd like to introduce you to... (formal)",
+    "text_de": "Ich möchte Ihnen ... vorstellen.",
+    "synonyms": "[]",
+    "description": "A polite and formal way to introduce someone.",
+    "description_de": "Eine höfliche und formelle Art, jemanden vorzustellen.",
+    "options_de": [
+      "Darf ich vorstellen...?",
+      "Freut mich.",
+      "Ich möchte Ihnen ... vorstellen.",
+      "Sehr geehrter Herr [Nachname],"
+    ]
+  },
+  {
+    "id": 77,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Can't complain.",
+    "text_de": "Ich kann nicht klagen.",
+    "synonyms": "[]",
+    "description": "A common, slightly positive response to 'How are you?'.",
+    "description_de": "Eine übliche, leicht positive Antwort auf 'Wie geht es dir/Ihnen?'.",
+    "options_de": [
+      "Mir geht es gut, danke.",
+      "Es geht so.",
+      "Ich kann nicht klagen.",
+      "Nichts Neues."
+    ]
+  },
+  {
+    "id": 78,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "What's new?",
+    "text_de": "Was gibt's Neues?",
+    "synonyms": "[]",
+    "description": "A common follow-up question in a casual conversation.",
+    "description_de": "Eine häufige Folgefrage in einem lockeren Gespräch.",
+    "options_de": [
+      "Was geht ab?",
+      "Wie geht's?",
+      "Was gibt's Neues?",
+      "Nichts Neues."
+    ]
+  },
+  {
+    "id": 79,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Nothing new.",
+    "text_de": "Nichts Neues.",
+    "synonyms": "[]",
+    "description": "A typical response to 'Was gibt's Neues?'.",
+    "description_de": "Eine typische Antwort auf 'Was gibt's Neues?'.",
+    "options_de": [
+      "Was gibt's Neues?",
+      "Alles in Ordnung.",
+      "Nichts Neues.",
+      "Es geht so."
+    ]
+  },
+  {
+    "id": 80,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Get well soon.",
+    "text_de": "Gute Besserung.",
+    "synonyms": "[]",
+    "description": "Said to someone who is sick.",
+    "description_de": "Sagt man zu jemandem, der krank ist.",
+    "options_de": [
+      "Gesundheit.",
+      "Alles Gute!",
+      "Gute Besserung.",
+      "Mach's gut."
+    ]
+  },
+  {
+    "id": 81,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Say hello to [Name] for me.",
+    "text_de": "Grüß [Name] von mir.",
+    "synonyms": "[]",
+    "description": "Asking someone to pass on your greetings to another person.",
+    "description_de": "Jemanden bitten, Grüße an eine andere Person auszurichten.",
+    "options_de": [
+      "Werde ich machen.",
+      "Grüße an deine Familie.",
+      "Grüß [Name] von mir.",
+      "Hallo [Vorname],"
+    ]
+  },
+  {
+    "id": 82,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I will.",
+    "text_de": "Werde ich machen.",
+    "synonyms": "[\"Mach ich.\"]",
+    "description": "A common response to 'Grüß [Name] von mir'.",
+    "description_de": "Eine übliche Antwort auf 'Grüß [Name] von mir'.",
+    "options_de": [
+      "Grüß [Name] von mir.",
+      "Ja",
+      "Werde ich machen.",
+      "Ich auch."
+    ]
+  },
+  {
+    "id": 83,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "With kind regards, (in writing)",
+    "text_de": "Mit freundlichen Grüßen",
+    "synonyms": "[]",
+    "description": "The standard formal closing for a letter or email.",
+    "description_de": "Die standardmäßige formelle Schlussformel für einen Brief oder eine E-Mail.",
+    "options_de": [
+      "Viele Grüße",
+      "Sehr geehrte Damen und Herren,",
+      "Mit freundlichen Grüßen",
+      "Alles Gute!"
+    ]
+  },
+  {
+    "id": 84,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Best regards, (in writing)",
+    "text_de": "Viele Grüße",
+    "synonyms": "[\"Liebe Grüße\"]",
+    "description": "A common semi-formal or informal closing for an email.",
+    "description_de": "Eine übliche halbförmliche oder informelle Schlussformel für eine E-Mail.",
+    "options_de": [
+      "Mit freundlichen Grüßen",
+      "Hallo [Vorname],",
+      "Viele Grüße",
+      "Tschüss"
+    ]
+  },
+  {
+    "id": 85,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Dear Mr. [Last Name],",
+    "text_de": "Sehr geehrter Herr [Nachname],",
+    "synonyms": "[]",
+    "description": "The standard formal salutation for a man in a letter or email.",
+    "description_de": "Die standardmäßige formelle Anrede für einen Mann in einem Brief oder einer E-Mail.",
+    "options_de": [
+      "Sehr geehrte Frau [Nachname],",
+      "Sehr geehrte Damen und Herren,",
+      "Sehr geehrter Herr [Nachname],",
+      "Hallo [Vorname],"
+    ]
+  },
+  {
+    "id": 86,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Dear Ms. [Last Name],",
+    "text_de": "Sehr geehrte Frau [Nachname],",
+    "synonyms": "[]",
+    "description": "The standard formal salutation for a woman in a letter or email.",
+    "description_de": "Die standardmäßige formelle Anrede für eine Frau in einem Brief oder einer E-Mail.",
+    "options_de": [
+      "Sehr geehrter Herr [Nachname],",
+      "Liebe/r [Vorname],",
+      "Sehr geehrte Frau [Nachname],",
+      "Hallo"
+    ]
+  },
+  {
+    "id": 87,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Dear Sir or Madam,",
+    "text_de": "Sehr geehrte Damen und Herren,",
+    "synonyms": "[]",
+    "description": "The formal salutation used when you do not know the name of the recipient.",
+    "description_de": "Die formelle Anrede, wenn man den Namen des Empfängers nicht kennt.",
+    "options_de": [
+      "Sehr geehrter Herr [Nachname],",
+      "Hallo [Vorname],",
+      "Sehr geehrte Damen und Herren,",
+      "Guten Tag"
+    ]
+  },
+  {
+    "id": 88,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Hello [First Name], (in writing)",
+    "text_de": "Hallo [Vorname],",
+    "synonyms": "[]",
+    "description": "A common, neutral salutation for an email.",
+    "description_de": "Eine übliche, neutrale Anrede für eine E-Mail.",
+    "options_de": [
+      "Liebe/r [Vorname],",
+      "Sehr geehrte Damen und Herren,",
+      "Hallo [Vorname],",
+      "Hallo"
+    ]
+  },
+  {
+    "id": 89,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Hi [First Name], (in writing)",
+    "text_de": "Liebe/r [Vorname],",
+    "synonyms": "[]",
+    "description": "An informal, friendly salutation for an email or letter.",
+    "note": "Use 'Liebe' for a female recipient and 'Lieber' for a male recipient.",
+    "note_de": "Verwende 'Liebe' für eine weibliche Empfängerin und 'Lieber' für einen männlichen Empfänger.",
+    "options_de": [
+      "Hallo [Vorname],",
+      "Sehr geehrte Frau [Nachname],",
+      "Liebe/r [Vorname],",
+      "Hi"
+    ]
+  },
+  {
+    "id": 90,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "It's an honor.",
+    "text_de": "Es ist mir eine Ehre.",
+    "synonyms": "[]",
+    "description": "A very formal response to an introduction or a compliment.",
+    "description_de": "Eine sehr formelle Antwort auf eine Vorstellung oder ein Kompliment.",
+    "options_de": [
+      "Freut mich.",
+      "Sehr erfreut, Ihre Bekanntschaft zu machen.",
+      "Es ist mir eine Ehre.",
+      "Danke schön."
+    ]
+  },
+  {
+    "id": 91,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "How's it going?",
+    "text_de": "Wie läuft's?",
+    "synonyms": "[]",
+    "description": "A very casual alternative to 'Wie geht's?'.",
+    "description_de": "Eine sehr lockere Alternative zu 'Wie geht's?'.",
+    "options_de": [
+      "Wie geht's?",
+      "Was geht ab?",
+      "Wie läuft's?",
+      "Es läuft gut."
+    ]
+  },
+  {
+    "id": 92,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "It's going well.",
+    "text_de": "Es läuft gut.",
+    "synonyms": "[]",
+    "description": "A positive response to 'Wie läuft's?'.",
+    "description_de": "Eine positive Antwort auf 'Wie läuft's?'.",
+    "options_de": [
+      "Wie läuft's?",
+      "Mir geht es super.",
+      "Es läuft gut.",
+      "Alles in Ordnung."
+    ]
+  },
+  {
+    "id": 93,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "I must be going.",
+    "text_de": "Ich muss los.",
+    "synonyms": "[]",
+    "description": "A common and informal way to announce your departure.",
+    "description_de": "Eine übliche und informelle Art, seinen Abschied anzukündigen.",
+    "options_de": [
+      "Tschüss",
+      "Bis später.",
+      "Ich muss los.",
+      "Auf Wiedersehen"
+    ]
+  },
+  {
+    "id": 94,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "We'll be in touch.",
+    "text_de": "Wir bleiben in Kontakt.",
+    "synonyms": "[]",
+    "description": "A way to end a conversation with the promise of future contact.",
+    "description_de": "Eine Art, ein Gespräch mit dem Versprechen auf zukünftigen Kontakt zu beenden.",
+    "options_de": [
+      "Bis zum nächsten Mal.",
+      "Wir sprechen uns bald.",
+      "Wir bleiben in Kontakt.",
+      "Auf Wiedersehen"
+    ]
+  },
+  {
+    "id": 95,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "My pleasure.",
+    "text_de": "Gern geschehen.",
+    "synonyms": "[\"Keine Ursache.\"]",
+    "description": "Another polite response to 'thank you'. 'Keine Ursache' literally means 'no cause'.",
+    "description_de": "Eine weitere höfliche Antwort auf 'danke'. 'Keine Ursache' bedeutet wörtlich 'kein Grund'.",
+    "options_de": [
+      "Bitte",
+      "Nichts zu danken.",
+      "Gern geschehen.",
+      "Danke"
+    ]
+  },
+  {
+    "id": 96,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Don't mention it.",
+    "text_de": "Nichts zu danken.",
+    "synonyms": "[]",
+    "description": "A very common and friendly response to 'thank you'.",
+    "description_de": "Eine sehr übliche und freundliche Antwort auf 'danke'.",
+    "options_de": [
+      "Gern geschehen.",
+      "Kein Problem.",
+      "Nichts zu danken.",
+      "Bitte"
+    ]
+  },
+  {
+    "id": 97,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "How may I help you? (formal)",
+    "text_de": "Wie kann ich Ihnen helfen?",
+    "synonyms": "[]",
+    "description": "A standard phrase used in customer service.",
+    "description_de": "Eine Standardphrase im Kundenservice.",
+    "options_de": [
+      "Wie geht es Ihnen?",
+      "Was ist mit Ihnen?",
+      "Wie kann ich Ihnen helfen?",
+      "Darf ich vorstellen...?"
+    ]
+  },
+  {
+    "id": 98,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "A pleasure to meet you, too.",
+    "text_de": "Die Freude ist ganz meinerseits.",
+    "synonyms": "[]",
+    "description": "A very polite and slightly formal response to 'Freut mich'.",
+    "description_de": "Eine sehr höfliche und leicht formelle Antwort auf 'Freut mich'.",
+    "options_de": [
+      "Freut mich.",
+      "Gleichfalls.",
+      "Die Freude ist ganz meinerseits.",
+      "Ich auch."
+    ]
+  },
+  {
+    "id": 99,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "Greetings to your family.",
+    "text_de": "Grüße an deine Familie.",
+    "synonyms": "[]",
+    "description": "A warm, personal closing for a conversation with a friend.",
+    "description_de": "Ein herzlicher, persönlicher Abschluss für ein Gespräch mit einem Freund.",
+    "options_de": [
+      "Grüß [Name] von mir.",
+      "Viele Grüße",
+      "Grüße an deine Familie.",
+      "Mach's gut."
+    ]
+  },
+  {
+    "id": 100,
+    "topic_id": 1,
+    "type": "sentence",
+    "text": "We'll speak soon.",
+    "text_de": "Wir sprechen uns bald.",
+    "synonyms": "[]",
+    "description": "A common way to end a phone call, implying future conversation.",
+    "description_de": "Eine übliche Art, ein Telefongespräch zu beenden, die ein zukünftiges Gespräch andeutet.",
+    "options_de": [
+      "Wir bleiben in Kontakt.",
+      "Bis bald.",
+      "Wir sprechen uns bald.",
+      "Auf Wiederhören"
+    ]
+  }
+]

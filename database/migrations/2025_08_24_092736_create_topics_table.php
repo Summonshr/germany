@@ -13,10 +13,22 @@ return new class extends Migration
     {
         Schema::create('topics', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('level_id');
             $table->string('name');
+            $table->string('name_de');
             $table->string('slug');
             $table->text('description')->nullable();
+            $table->text('description_de')->nullable();
+            $table->timestamps();
+        });
+
+        Schema::create('lessons', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('topic_id');
+            $table->string('name');
+            $table->string('name_de');
+            $table->string('slug');
+            $table->text('description')->nullable();
+            $table->text('description_de')->nullable();
             $table->timestamps();
         });
     }

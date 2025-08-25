@@ -13,12 +13,18 @@ return new class extends Migration
     {
         Schema::create('vocabulary', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('lesson_id');
-            $table->string('word');
-            $table->string('translation');
-            $table->string('image_url')->nullable();
-            $table->string('audio_url')->nullable();
-            $table->timestamps();
+            $table->foreignId('topic_id');
+            $table->enum('type', ['vocabulary', 'sentence']);
+            $table->string('text');
+            $table->string('text_de');
+            $table->json('synonyms')->default('[]');
+            $table->text('description')->nullable();
+            $table->text('description_de')->nullable();
+            $table->string('note')->nullable();
+            $table->string('note_de')->nullable();
+            $table->string('culture')->nullable();
+            $table->string('culture_de')->nullable();
+            $table->json('options_de')->default('[]');
         });
     }
 
