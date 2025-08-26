@@ -18,7 +18,7 @@ class TopicController extends Controller
 
     public function quiz(Request $request, Topic $topic)
     {
-        $quiz = app()->make(CreateNewQuiz::class)->handle(new CreateNewQuizData(
+        $quiz = app(CreateNewQuiz::class)->handle(new CreateNewQuizData(
             $request->user()->id,
             [$topic->id],
             $request->enum('type', QuizType::class),

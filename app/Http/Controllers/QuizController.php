@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Actions\CreateNewQuiz;
+use App\Data\CreateNewQuizData;
 use App\Models\Quiz;
 use App\Models\Topic;
 use Illuminate\Http\Request;
@@ -38,11 +39,11 @@ class QuizController extends Controller
     {
         abort_if($quiz->user_id !== $request->user()->id, 403);
 
-        $quiz = app()->make(CreateNewQuiz::class)->handle([
-            'user_id' => $request->user()->id,
-            'topic_ids' => $quiz->topic_ids,
-            'type' => $quiz->type,
-        ]);
+        $quiz = app(CreateNewQuiz::class)->handle(new CreateNewQuizData(
+            $request->user()->id,
+            $quiz->topic_ids,
+            $quiz->type,
+        ));
 
         return to_route('quiz', [
             'quiz' => $quiz->uuid,

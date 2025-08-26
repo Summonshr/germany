@@ -15,7 +15,7 @@ class ActionController extends Controller
     public function __invoke(Request $request): void
     {
         match ($request->get('type')) {
-            'save-quiz' => app()->make(SaveQuiz::class)->handle(new SaveQuizData(
+            'save-quiz' => app(SaveQuiz::class)->handle(new SaveQuizData(
                 quiz: $request->input('data.quiz'),
                 current_question: $request->input('data.current_question'),
                 selected_answers: new DataCollection(
@@ -23,7 +23,7 @@ class ActionController extends Controller
                     $request->input('data.selected_answers'),
                 ),
             )),
-            'finish-quiz' => app()->make(FinishQuiz::class)->handle(new FinishQuizData(
+            'finish-quiz' => app(FinishQuiz::class)->handle(new FinishQuizData(
                 quiz: $request->input('data.quiz'),
                 current_question: $request->input('data.current_question'),
                 selected_answers: new DataCollection(

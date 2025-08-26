@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Attributes\Scope;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Arr;
 
 class Vocabulary extends Model
 {
@@ -36,7 +37,7 @@ class Vocabulary extends Model
             'user_id' => $userId,
             'question' => $this->text,
             'answer' => $this->text_de,
-            'options' => $this->options_de,
+            'options' => Arr::shuffle($this->options_de),
             'hint' => $this->note,
         ];
     }

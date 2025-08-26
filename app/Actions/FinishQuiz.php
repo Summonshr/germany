@@ -22,7 +22,7 @@ class FinishQuiz
                 ->update(['given_answer' => $answer->answer]);
         }
 
-        app()->make(CalculateQuizScore::class)->handle($quiz);
+        app(CalculateQuizScore::class)->handle($quiz);
 
         return to_route('quiz.results', [
             'quiz' => $quiz->uuid,

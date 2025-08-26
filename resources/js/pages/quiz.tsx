@@ -1,22 +1,16 @@
 import AppLayout from '@/layouts/app-layout';
 import { Head, router } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
-import axios from 'axios';
+import { post } from '@/lib/utils';
+import * as Dialog from '@radix-ui/react-dialog';
+import { Cross2Icon } from '@radix-ui/react-icons';
 
 interface Question {
-    id: number;
-    topic_id: number;
-    type: string;
-    text: string;
-    text_de: string;
-    synonyms: string;
-    description: string;
-    description_de: string;
-    note: string;
-    note_de: string;
-    culture: string;
-    culture_de: string;
+    id: number,
     options: string[];
+    question: string;
+    description?: string;
+    given_answer?: string;
 }
 
 interface QuizAnswer {
@@ -46,13 +40,44 @@ interface QuizProps {
 export default function Quiz({ quiz }: QuizProps) {
     const { questions } = quiz;
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(quiz.current_question);
-    const [selectedAnswers, setSelectedAnswers] = useState<QuizAnswer[]>(quiz.questions?.filter(q => Boolean(q.given_answer)).map(q => ({ question_id: q.id, answer: q.given_answer })) || []);
-    console.log(selectedAnswers)
+    const [selectedAnswers, setSelectedAnswers] = useState<QuizAnswer[]>(
+        quiz.questions
+            ?.filter(q => Boolean(q.given_answer))
+            .map(q => ({ question_id: q.id, answer: q.given_answer })) || []
+    );
     const [currentAnswer, setCurrentAnswer] = useState<string | null>(null);
+    const [isFinishDialogOpen, setIsFinishDialogOpen] = useState(false);
 
     const currentQuestion = questions[currentQuestionIndex];
     const totalQuestions = questions.length;
     const progress = ((currentQuestionIndex + 1) / totalQuestions) * 100;
+
+    // Keyboard event listener
+    useEffect(() => {
+        const handleKeyDown = (event: KeyboardEvent) => {
+            const key = event.key.toLowerCase();
+
+            const optionKeys = ['1', '2', '3', '4', 'a', 's', 'd', 'f'];
+            const optionIndex = optionKeys.indexOf(key);
+            if (optionIndex !== -1 && optionIndex < currentQuestion.options.length) {
+                handleAnswerSelect(currentQuestion.options[optionIndex]);
+                return;
+            }
+
+            if (key === 'n') {
+                handleNext();
+            } else if (key === 'p') {
+                handlePrevious();
+            } else if (key === 'f') {
+                handleFinishQuiz();
+            }
+        };
+
+        window.addEventListener('keydown', handleKeyDown);
+        return () => {
+            window.removeEventListener('keydown', handleKeyDown);
+        };
+    }, [currentQuestionIndex, currentQuestion]);
 
     useEffect(() => {
         const existingAnswer = selectedAnswers.find(ans => ans.question_id === currentQuestion.id);
@@ -66,7 +91,6 @@ export default function Quiz({ quiz }: QuizProps) {
     const handleAnswerSelect = (selectedOption: string) => {
         setCurrentAnswer(selectedOption);
 
-        // Update selected answers array
         const newSelectedAnswers = selectedAnswers.filter(ans => ans.question_id !== currentQuestion.id);
         newSelectedAnswers.push({
             question_id: currentQuestion.id,
@@ -74,7 +98,6 @@ export default function Quiz({ quiz }: QuizProps) {
         });
         setSelectedAnswers(newSelectedAnswers);
 
-        // Save progress
         saveQuizProgress(newSelectedAnswers);
     };
 
@@ -99,6 +122,11 @@ export default function Quiz({ quiz }: QuizProps) {
     };
 
     const handleFinishQuiz = () => {
+        setIsFinishDialogOpen(true);
+    };
+
+    const confirmFinishQuiz = () => {
+        setIsFinishDialogOpen(false);
         post('finish-quiz', {
             quiz: quiz.uuid,
             current_question: currentQuestionIndex,
@@ -122,9 +150,44 @@ export default function Quiz({ quiz }: QuizProps) {
         <AppLayout breadcrumbs={[]}>
             <Head title={`Quiz - Question ${currentQuestionIndex + 1}`} />
 
+            {/* Confirmation Dialog */}
+            <Dialog.Root open={isFinishDialogOpen} onOpenChange={setIsFinishDialogOpen}>
+                <Dialog.Portal>
+                    <Dialog.Overlay className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50" />
+                    <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-gray-800 border border-gray-700 rounded-xl p-6 w-[90vw] max-w-md z-50">
+                        <Dialog.Title className="text-xl font-bold text-gray-100 mb-2">
+                            Finish Quiz?
+                        </Dialog.Title>
+                        <Dialog.Description className="text-gray-300 mb-6">
+                            Are you sure you want to finish the quiz? Your progress will be saved.
+                        </Dialog.Description>
+                        <div className="flex justify-end space-x-3">
+                            <Dialog.Close asChild>
+                                <button className="px-4 py-2 bg-gray-700 text-gray-200 rounded-lg hover:bg-gray-600 transition">
+                                    Cancel
+                                </button>
+                            </Dialog.Close>
+                            <button
+                                onClick={confirmFinishQuiz}
+                                className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-500 transition"
+                            >
+                                Confirm
+                            </button>
+                        </div>
+                        <Dialog.Close asChild>
+                            <button
+                                className="absolute top-4 right-4 text-gray-400 hover:text-gray-200"
+                                aria-label="Close"
+                            >
+                                <Cross2Icon />
+                            </button>
+                        </Dialog.Close>
+                    </Dialog.Content>
+                </Dialog.Portal>
+            </Dialog.Root>
+
             <div className="min-h-screen bg-gray-900 text-gray-100">
                 <div className="px-8 py-8">
-
                     {/* Question Card */}
                     <div className="bg-gray-800 rounded-2xl border border-gray-700 p-10 mb-8">
                         <div className="w-full bg-gray-700 rounded-full h-3">
