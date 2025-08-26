@@ -2,17 +2,32 @@ import AppLayout from '@/layouts/app-layout';
 import { Head, Link } from '@inertiajs/react';
 import { useState } from 'react';
 
-export default function Dashboard({ topics }) {
+interface Topic {
+    id: number;
+    name: string;
+    name_de: string;
+    description: string;
+    vocabulary_count: number;
+    sentences_count: number;
+    slug: string;
+}
+
+interface DashboardProps {
+    topics: Topic[];
+}
+
+
+export default function Dashboard({ topics }: DashboardProps) {
 
     const [selectedDifficulty, setSelectedDifficulty] = useState('all');
 
-    const topicsByLevel = {
+    const topicsByLevel: Record<string, Topic[]> = {
         beginner: topics.slice(0, 12),
         intermediate: topics.slice(12, 28),
         advanced: topics.slice(28)
     };
 
-    const difficultyColors = {
+    const difficultyColors: Record<string, string> = {
         beginner: 'from-green-400 to-emerald-500',
         intermediate: 'from-blue-400 to-indigo-500',
         advanced: 'from-purple-400 to-pink-500'

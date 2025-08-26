@@ -1,12 +1,24 @@
-// components/VocabularySlider.jsx
 import { Link } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
 
-export default function VocabularySlider({ vocabularyItems }) {
+interface VocabularyItem {
+    text: string;
+    text_de: string;
+    note: string;
+    description: string;
+    description_de: string;
+    culture: string;
+}
+
+interface VocabularySliderProps {
+    vocabularyItems: VocabularyItem[];
+}
+
+export default function VocabularySlider({ vocabularyItems }: VocabularySliderProps) {
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
-        const handleKeyDown = (e) => {
+        const handleKeyDown = (e: KeyboardEvent) => {
             if (e.key === 'ArrowRight') {
                 nextCard();
             } else if (e.key === 'ArrowLeft') {

@@ -45,7 +45,7 @@ export default function Quiz({ quiz }: QuizProps) {
     const [selectedAnswers, setSelectedAnswers] = useState<QuizAnswer[]>(
         quiz.questions
             ?.filter(q => Boolean(q.given_answer))
-            .map(q => ({ question_id: q.id, answer: q.given_answer })) || []
+            .map(q => ({ question_id: q.id, answer: q.given_answer! })) || []
     );
     const [currentAnswer, setCurrentAnswer] = useState<string | null>(null);
     const [isFinishDialogOpen, setIsFinishDialogOpen] = useState(false);

@@ -2,7 +2,24 @@ import { Action } from "@/components/action";
 import AppLayout from "@/layouts/app-layout";
 import { Link } from "@inertiajs/react";
 
-const QuizResults = ({ quiz }) => {
+interface Question {
+    given_answer: string;
+    answer: string;
+    quiz_uuid: string;
+    question: string;
+}
+
+interface Quiz {
+    uuid: string;
+    score: number;
+    questions: Question[];
+}
+
+interface QuizResultsProps {
+    quiz: Quiz;
+}
+
+const QuizResults = ({ quiz }: QuizResultsProps) => {
     const { questions } = quiz;
 
     return (

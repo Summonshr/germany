@@ -1,10 +1,32 @@
 import AppLayout from '@/layouts/app-layout';
-import { Head, Link, useForm } from '@inertiajs/react';
+import { Head } from '@inertiajs/react';
 import VocabularySlider from './components/VocabularySlider';
-import { post } from '@/lib/utils';
 import { Action } from '@/components/action';
 
-export default function Topic({ topic }) {
+interface VocabularyItem {
+    text: string;
+    text_de: string;
+    note: string;
+    description: string;
+    description_de: string;
+    culture: string;
+}
+
+interface TopicData {
+    id: number;
+    name: string;
+    name_de: string;
+    description: string;
+    description_de: string;
+    vocabulary: VocabularyItem[];
+    sentences: VocabularyItem[];
+}
+
+interface TopicProps {
+    topic: TopicData;
+}
+
+export default function Topic({ topic }: TopicProps) {
     const vocabularyItems = topic.vocabulary || [];
     const sentences = topic.sentences || [];
 
