@@ -17,7 +17,7 @@ export default function Topic({ topic }) {
             <div className="min-h-screen p-6">
                 <div className="mb-8">
                     <div className="flex items-center gap-4 mb-4">
-                        <div className="w-16 h-16 bg-gradient-to-r from-blue-400 to-indigo-500 rounded-2xl flex items-center justify-center">
+                        <div className="w-16 h-16 bg-gradient-to-r from-blue-400 to-indigo-500 rounded-sm flex items-center justify-center">
                             <span className="text-2xl text-white font-bold">
                                 {topic.name.charAt(0)}
                             </span>
@@ -32,12 +32,12 @@ export default function Topic({ topic }) {
                         </div>
                         <div className='flex justify-end flex-1 gap-4'>
                             <Action action="create-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id], action: 'create-quiz' }}
-                                className="bg-blue-700 px-4 py-3 rounded-lg text-white font-bold"
+                                className="bg-blue-700 px-4 py-3 rounded-sm text-white font-bold"
                             >
                                 Vocabulary Quiz
                             </Action>
                             <Action action="create-quiz" data={{ type: 'sentence', topic_ids: [topic.id], action: 'create-quiz' }}
-                                className="bg-slate-700 px-4 py-3 rounded-lg text-white font-bold"
+                                className="bg-slate-700 px-4 py-3 rounded-sm text-white font-bold"
                             >
                                 Sentence Quiz
                             </Action>

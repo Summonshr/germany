@@ -35,7 +35,7 @@ export default function Dashboard({ topics }) {
 
                 {/* Progress Overview */}
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-                    <div className="rounded-2xl p-6 shadow-lg border border-slate-800">
+                    <div className="rounded-sm p-6 shadow-lg border border-slate-800">
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="font-semibold text-gray-150">Topics Completed</h3>
                             <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
@@ -48,7 +48,7 @@ export default function Dashboard({ topics }) {
                         <p className="text-sm text-gray-300 mt-2">1 of 40 topics</p>
                     </div>
 
-                    <div className=" rounded-2xl p-6 shadow-lg border border-slate-800">
+                    <div className=" rounded-sm p-6 shadow-lg border border-slate-800">
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="font-semibold text-gray-150">Vocabulary Learned</h3>
                             <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
@@ -61,7 +61,7 @@ export default function Dashboard({ topics }) {
                         <p className="text-sm text-gray-300 mt-2">Keep building your vocabulary!</p>
                     </div>
 
-                    <div className=" rounded-2xl p-6 shadow-lg border border-slate-800">
+                    <div className=" rounded-sm p-6 shadow-lg border border-slate-800">
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="font-semibold text-gray-150">Sentences Practiced</h3>
                             <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center">
@@ -114,7 +114,7 @@ export default function Dashboard({ topics }) {
 
                                         return (
                                             <div key={topic.id} className="h-full">
-                                                <div className="h-full flex flex-col rounded-2xl shadow-lg border-2 transition-all duration-300 border-slate-800 hover:border-blue-200 hover:shadow-xl">
+                                                <div className="h-full flex flex-col rounded-sm shadow-lg border-2 transition-all duration-300 border-slate-800 hover:border-blue-200 hover:shadow-xl">
                                                     {/* Card Header */}
                                                     <div className={`p-6 bg-gradient-to-r ${difficultyColors[level]} rounded-t-2xl text-white relative overflow-hidden`}>
                                                         <div className="absolute top-0 right-0 w-20 h-20 bg-white bg-opacity-20 rounded-full -mr-10 -mt-10"></div>
@@ -185,22 +185,22 @@ export default function Dashboard({ topics }) {
                 </div>
 
                 {/* Quick Actions */}
-                <div className="mt-16  rounded-2xl p-8 shadow-lg border border-slate-800">
+                <div className="mt-16  rounded-sm p-8 shadow-lg border border-slate-800">
                     <h3 className="text-2xl font-bold text-gray-100 mb-6">Quick Actions</h3>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                        <button className="p-6 bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-xl hover:shadow-lg transition-all duration-300 hover:scale-105">
+                        <button className="p-6 bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-sm hover:shadow-lg transition-all duration-300 hover:scale-105">
                             <div className="text-3xl mb-2">🎯</div>
                             <div className="font-semibold">Daily Challenge</div>
                             <div className="text-sm opacity-90">Test your skills</div>
                         </button>
 
-                        <button className="p-6 bg-gradient-to-r from-green-500 to-emerald-500 text-white rounded-xl hover:shadow-lg transition-all duration-300 hover:scale-105">
+                        <button className="p-6 bg-gradient-to-r from-green-500 to-emerald-500 text-white rounded-sm hover:shadow-lg transition-all duration-300 hover:scale-105">
                             <div className="text-3xl mb-2">📚</div>
                             <div className="font-semibold">Review Vocabulary</div>
                             <div className="text-sm opacity-90">Strengthen memory</div>
                         </button>
 
-                        <button className="p-6 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl hover:shadow-lg transition-all duration-300 hover:scale-105">
+                        <button className="p-6 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-sm hover:shadow-lg transition-all duration-300 hover:scale-105">
                             <div className="text-3xl mb-2">🎮</div>
                             <div className="font-semibold">Practice Games</div>
                             <div className="text-sm opacity-90">Learn while playing</div>

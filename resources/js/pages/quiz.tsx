@@ -1,12 +1,14 @@
 import AppLayout from '@/layouts/app-layout';
-import { Head, router } from '@inertiajs/react';
+import { Head } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
 import { post } from '@/lib/utils';
 import * as Dialog from '@radix-ui/react-dialog';
+import * as ToggleGroup from '@radix-ui/react-toggle-group';
+import * as Tooltip from '@radix-ui/react-tooltip';
 import { Cross2Icon } from '@radix-ui/react-icons';
 
 interface Question {
-    id: number,
+    id: number;
     options: string[];
     question: string;
     description?: string;
@@ -134,18 +136,6 @@ export default function Quiz({ quiz }: QuizProps) {
         });
     };
 
-    const getOptionClassName = (option: string) => {
-        let baseClass = "w-full p-6 text-left border-2 rounded-xl transition-all duration-200 text-lg ";
-
-        if (currentAnswer === option) {
-            baseClass += "border-blue-400 bg-blue-900/30 text-blue-300";
-        } else {
-            baseClass += "border-gray-600 bg-gray-800 hover:border-gray-500 hover:bg-gray-700 text-gray-200";
-        }
-
-        return baseClass;
-    };
-
     return (
         <AppLayout breadcrumbs={[]}>
             <Head title={`Quiz - Question ${currentQuestionIndex + 1}`} />
@@ -154,7 +144,7 @@ export default function Quiz({ quiz }: QuizProps) {
             <Dialog.Root open={isFinishDialogOpen} onOpenChange={setIsFinishDialogOpen}>
                 <Dialog.Portal>
                     <Dialog.Overlay className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50" />
-                    <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-gray-800 border border-gray-700 rounded-xl p-6 w-[90vw] max-w-md z-50">
+                    <Dialog.Content className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-gray-800 border border-gray-700 rounded-sm p-6 w-[90vw] max-w-md z-50">
                         <Dialog.Title className="text-xl font-bold text-gray-100 mb-2">
                             Finish Quiz?
                         </Dialog.Title>
@@ -163,13 +153,13 @@ export default function Quiz({ quiz }: QuizProps) {
                         </Dialog.Description>
                         <div className="flex justify-end space-x-3">
                             <Dialog.Close asChild>
-                                <button className="px-4 py-2 bg-gray-700 text-gray-200 rounded-lg hover:bg-gray-600 transition">
+                                <button className="px-4 py-2 bg-gray-700 text-gray-200 rounded-sm hover:bg-gray-600 transition">
                                     Cancel
                                 </button>
                             </Dialog.Close>
                             <button
                                 onClick={confirmFinishQuiz}
-                                className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-500 transition"
+                                className="px-4 py-2 bg-green-600 text-white rounded-sm hover:bg-green-500 transition"
                             >
                                 Confirm
                             </button>
@@ -189,7 +179,7 @@ export default function Quiz({ quiz }: QuizProps) {
             <div className="min-h-screen bg-gray-900 text-gray-100">
                 <div className="px-8 py-8">
                     {/* Question Card */}
-                    <div className="bg-gray-800 rounded-2xl border border-gray-700 p-10 mb-8">
+                    <div className="bg-gray-800 rounded-sm border border-gray-700 p-10 mb-8">
                         <div className="w-full bg-gray-700 rounded-full h-3">
                             <div
                                 className="bg-gradient-to-r from-blue-500 to-purple-500 h-3 rounded-full transition-all duration-500"
@@ -208,7 +198,7 @@ export default function Quiz({ quiz }: QuizProps) {
                             </div>
 
                             {currentQuestion.description && (
-                                <div className="bg-gray-700/50 rounded-xl p-4 mb-4">
+                                <div className="bg-gray-700/50 rounded-sm p-4 mb-4">
                                     <p className="text-gray-300 text-lg">
                                         <strong className="text-blue-400">Description:</strong> {currentQuestion.description}
                                     </p>
@@ -216,50 +206,102 @@ export default function Quiz({ quiz }: QuizProps) {
                             )}
                         </div>
 
-                        {/* Options */}
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
-                            {currentQuestion.options.map((option, index) => (
-                                <button
-                                    key={index}
-                                    onClick={() => handleAnswerSelect(option)}
-                                    className={getOptionClassName(option)}
-                                >
-                                    <div className="flex items-center justify-between">
-                                        <span className="font-medium">{option}</span>
-                                        {currentAnswer === option && (
-                                            <span className="text-2xl">✓</span>
-                                        )}
-                                    </div>
-                                </button>
-                            ))}
+                        {/* Options with ToggleGroup */}
+                        <div className="mt-8">
+                            <ToggleGroup.Root
+                                type="single"
+                                value={currentAnswer || undefined}
+                                onValueChange={handleAnswerSelect}
+                                className="grid grid-cols-1 md:grid-cols-2 gap-4"
+                            >
+                                {currentQuestion.options.map((option, index) => (
+                                    <ToggleGroup.Item
+                                        key={index}
+                                        value={option}
+                                        className="w-full p-6 text-left border-2 rounded-sm transition-all duration-200 text-lg data-[state=on]:border-blue-400 data-[state=on]:bg-blue-900/30 data-[state=on]:text-blue-300 border-gray-600 bg-gray-800 hover:border-gray-500 hover:bg-gray-700 text-gray-200"
+                                    >
+                                        <div className="flex items-center justify-between">
+                                            <span className="font-medium">{option}</span>
+                                            {currentAnswer === option && (
+                                                <span className="text-2xl">✓</span>
+                                            )}
+                                        </div>
+                                    </ToggleGroup.Item>
+                                ))}
+                            </ToggleGroup.Root>
                         </div>
                     </div>
 
                     {/* Navigation */}
                     <div className="flex justify-between items-center mb-8">
-                        <button
-                            onClick={handlePrevious}
-                            disabled={currentQuestionIndex === 0}
-                            className="px-8 py-4 bg-gray-700 text-gray-300 rounded-xl hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-lg font-medium"
-                        >
-                            ← Previous
-                        </button>
+                        <Tooltip.Provider>
+                            <Tooltip.Root>
+                                <Tooltip.Trigger asChild>
+                                    <button
+                                        onClick={handlePrevious}
+                                        disabled={currentQuestionIndex === 0}
+                                        className="px-8 py-4 bg-gray-700 text-gray-300 rounded-sm hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-lg font-medium"
+                                    >
+                                        ← Previous
+                                    </button>
+                                </Tooltip.Trigger>
+                                <Tooltip.Portal>
+                                    <Tooltip.Content
+                                        className="bg-gray-700 text-gray-100 px-3 py-2 rounded-sm text-sm"
+                                        sideOffset={5}
+                                    >
+                                        Press 'P' to go to previous question
+                                        <Tooltip.Arrow className="fill-gray-700" />
+                                    </Tooltip.Content>
+                                </Tooltip.Portal>
+                            </Tooltip.Root>
+                        </Tooltip.Provider>
 
                         <div className="flex space-x-4">
                             {currentQuestionIndex < totalQuestions - 1 ? (
-                                <button
-                                    onClick={handleNext}
-                                    className="px-8 py-4 bg-blue-600 text-white rounded-xl hover:bg-blue-500 transition-colors text-lg font-medium"
-                                >
-                                    Next →
-                                </button>
+                                <Tooltip.Provider>
+                                    <Tooltip.Root>
+                                        <Tooltip.Trigger asChild>
+                                            <button
+                                                onClick={handleNext}
+                                                className="px-8 py-4 bg-blue-600 text-white rounded-sm hover:bg-blue-500 transition-colors text-lg font-medium"
+                                            >
+                                                Next →
+                                            </button>
+                                        </Tooltip.Trigger>
+                                        <Tooltip.Portal>
+                                            <Tooltip.Content
+                                                className="bg-gray-700 text-gray-100 px-3 py-2 rounded-sm text-sm"
+                                                sideOffset={5}
+                                            >
+                                                Press 'N' to go to next question
+                                                <Tooltip.Arrow className="fill-gray-700" />
+                                            </Tooltip.Content>
+                                        </Tooltip.Portal>
+                                    </Tooltip.Root>
+                                </Tooltip.Provider>
                             ) : (
-                                <button
-                                    onClick={handleFinishQuiz}
-                                    className="px-10 py-4 bg-green-600 text-white rounded-xl hover:bg-green-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-lg font-bold"
-                                >
-                                    Finish Quiz 🎯
-                                </button>
+                                <Tooltip.Provider>
+                                    <Tooltip.Root>
+                                        <Tooltip.Trigger asChild>
+                                            <button
+                                                onClick={handleFinishQuiz}
+                                                className="px-10 py-4 bg-green-600 text-white rounded-sm hover:bg-green-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors text-lg font-bold"
+                                            >
+                                                Finish Quiz 🎯
+                                            </button>
+                                        </Tooltip.Trigger>
+                                        <Tooltip.Portal>
+                                            <Tooltip.Content
+                                                className="bg-gray-700 text-gray-100 px-3 py-2 rounded-sm text-sm"
+                                                sideOffset={5}
+                                            >
+                                                Press 'F' to finish quiz
+                                                <Tooltip.Arrow className="fill-gray-700" />
+                                            </Tooltip.Content>
+                                        </Tooltip.Portal>
+                                    </Tooltip.Root>
+                                </Tooltip.Provider>
                             )}
                         </div>
                     </div>

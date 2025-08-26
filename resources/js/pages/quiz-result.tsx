@@ -10,26 +10,26 @@ const QuizResults = ({ quiz }) => {
             <div className="p-4 space-y-6">
                 {/* Header summary */}
 
-                <div className="bg-gray-800 rounded-lg p-6 border border-gray-700">
+                <div className="bg-gray-800 rounded-sm p-6 border border-gray-700">
                     <h1 className="text-2xl font-bold text-gray-100 mb-4">Quiz Results</h1>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
-                        <div className="bg-gray-700 rounded-lg p-4">
+                        <div className="bg-gray-700 rounded-sm p-4">
                             <div className="text-2xl font-bold text-green-400">{questions.filter(q => q.given_answer === q.answer).length}</div>
                             <div className="text-sm text-gray-400">Correct</div>
                         </div>
-                        <div className="bg-gray-700 rounded-lg p-4">
+                        <div className="bg-gray-700 rounded-sm p-4">
                             <div className="text-2xl font-bold text-red-400">
                                 {questions.filter(q => q.given_answer !== q.answer).length}
                             </div>
                             <div className="text-sm text-gray-400">Incorrect</div>
                         </div>
-                        <div className="bg-gray-700 rounded-lg p-4">
+                        <div className="bg-gray-700 rounded-sm p-4">
                             <div className="text-2xl font-bold text-blue-400">
                                 {questions.length}
                             </div>
                             <div className="text-sm text-gray-400">Total</div>
                         </div>
-                        <div className="bg-gray-700 rounded-lg p-4">
+                        <div className="bg-gray-700 rounded-sm p-4">
                             <div className="text-2xl font-bold text-yellow-400">
                                 {quiz.score}%
                             </div>
@@ -83,7 +83,7 @@ const QuizResults = ({ quiz }) => {
                 {/* Re-take button */}
                 <div className="text-center">
                     <Action action="retake-quiz" data={{ quiz: quiz.uuid }}
-                        className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
+                        className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-sm transition-colors"
                     >
                         Take Quiz Again (Shuffled)
                     </Action>

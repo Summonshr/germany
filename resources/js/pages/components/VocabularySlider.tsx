@@ -28,7 +28,7 @@ export default function VocabularySlider({ vocabularyItems }) {
 
     if (vocabularyItems.length === 0) {
         return (
-            <div className="flex items-center justify-center h-96 bg-gradient-to-br from-gray-50 to-gray-100 rounded-3xl border border-gray-200">
+            <div className="flex items-center justify-center h-96 bg-gradient-to-br from-gray-50 to-gray-100 rounded-sm border border-gray-200">
                 <p className="text-gray-500 text-lg font-medium">No vocabulary items available</p>
             </div>
         );
@@ -68,7 +68,7 @@ export default function VocabularySlider({ vocabularyItems }) {
             {/* Main Card */}
             <div className="h-[500px] px-4">
                 <div
-                    className={`h-full flex flex-col rounded-3xl shadow-xl border-2 transition-all duration-300 cursor-pointer overflow-hidden border-gray-200 bg-gradient-to-br from-white to-gray-50 hover:shadow-2xl`}
+                    className={`h-full flex flex-col rounded-sm shadow-xl border-2 transition-all duration-300 cursor-pointer overflow-hidden border-gray-200 bg-gradient-to-br from-white to-gray-50 hover:shadow-2xl`}
                     tabIndex={0}
                 >
                     {/* Card Header */}
@@ -99,7 +99,7 @@ export default function VocabularySlider({ vocabularyItems }) {
                         {/* Additional Info */}
                         <div className="space-y-4 mt-auto">
                             {currentItem.culture && currentItem.culture !== '-' && (
-                                <div className="bg-purple-50 p-4 rounded-xl border border-purple-100">
+                                <div className="bg-purple-50 p-4 rounded-sm border border-purple-100">
                                     <div className="text-xs font-semibold text-purple-700 mb-1.5 uppercase tracking-wider">Cultural Context</div>
                                     <div className="text-purple-800">{currentItem.culture}</div>
                                 </div>
