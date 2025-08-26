@@ -2,6 +2,11 @@
 
 namespace App\Providers;
 
+use App\Http\Requests\Actions\ActionRequest;
+use App\Http\Requests\Actions\CreateNewQuizRequest;
+use App\Http\Requests\Actions\FinishQuizRequest;
+use App\Http\Requests\Actions\RetakeQuizRequest;
+use App\Http\Requests\Actions\SaveQuizRequest;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\ServiceProvider;
 
@@ -14,6 +19,20 @@ class AppServiceProvider extends ServiceProvider
     {
         Model::preventLazyLoading(app()->environment('local'));
         Model::unguard();
+        app()->bind(function (): ActionRequest {
+            $actions = [
+                'save-quiz' => SaveQuizRequest::class,
+                'finish-quiz' => FinishQuizRequest::class,
+                'create-quiz' => CreateNewQuizRequest::class,
+                'retake-quiz' => RetakeQuizRequest::class,
+            ];
+
+            if ($class = data_get($actions, request('type'))) {
+                return app($class);
+            }
+
+            throw new \Exception('Invalid action type');
+        });
     }
 
     /**

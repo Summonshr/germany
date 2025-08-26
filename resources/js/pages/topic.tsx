@@ -1,10 +1,12 @@
 import AppLayout from '@/layouts/app-layout';
-import { Head, Link } from '@inertiajs/react';
+import { Head, Link, useForm } from '@inertiajs/react';
 import VocabularySlider from './components/VocabularySlider';
+import { post } from '@/lib/utils';
 
 export default function Topic({ topic }) {
     const vocabularyItems = topic.vocabulary || [];
     const sentences = topic.sentences || [];
+
     return (
         <AppLayout breadcrumbs={[
 
@@ -27,9 +29,15 @@ export default function Topic({ topic }) {
                                 {topic.name_de}
                             </p>
                         </div>
-                        <div className='flex justify-end flex-1'>
-                            <Link href={route('topic.quiz', { topic: topic, type: 'vocabulary' })} className="bg-green-700 px-4 py-3">
-                                Take Quiz
+                        <div className='flex justify-end flex-1 gap-4'>
+                            <Link
+                                href="/actions"
+                                method="post"
+                                data={{data: { type: 'vocabulary', topic_ids: [topic.id] }, type: 'create-quiz'}}
+                                as="button"
+                                className="bg-green-700 px-4 py-3 rounded-lg text-white font-bold"
+                            >
+                                Vocabulary Quiz
                             </Link>
                         </div>
                     </div>

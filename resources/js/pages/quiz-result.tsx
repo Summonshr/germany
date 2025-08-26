@@ -1,4 +1,5 @@
 import AppLayout from "@/layouts/app-layout";
+import { Link } from "@inertiajs/react";
 
 const QuizResults = ({ quiz }) => {
     const { questions } = quiz;
@@ -80,12 +81,20 @@ const QuizResults = ({ quiz }) => {
 
                 {/* Re-take button */}
                 <div className="text-center">
-                    <a
-                        href={route('quiz.re-take', { quiz: route().params.quiz })}
+                    <Link
+                        method="post"
+                        as="button"
+                        href="/actions"
+                        data={{
+                            type: "retake-quiz",
+                            data: {
+                                quiz: quiz.uuid,
+                            },
+                        }}
                         className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
                     >
                         Take Quiz Again (Shuffled)
-                    </a>
+                    </Link>
                 </div>
             </div>
         </AppLayout>

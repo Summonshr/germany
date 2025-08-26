@@ -24,8 +24,6 @@ class FinishQuiz
 
         app(CalculateQuizScore::class)->handle($quiz);
 
-        return to_route('quiz.results', [
-            'quiz' => $quiz->uuid,
-        ]);
+        return $quiz;
     }
 }

@@ -11,6 +11,7 @@ class CalculateQuizScore
         $score = $quiz->questions()->whereColumn('answer', 'given_answer')->count();
 
         $quiz->score = (int) (100 * $score / $quiz->questions->count());
+
         $quiz->save();
     }
 }

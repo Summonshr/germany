@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Settings;
 
 use App\Http\Controllers\Controller;
+use App\Http\Requests\Settings\ProfileUpdateRequest;
 use App\Models\User;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -25,13 +26,9 @@ class ProfileController extends Controller
     /**
      * Update the user's profile settings.
      */
-    public function update(Request $request): RedirectResponse
+    public function update(ProfileUpdateRequest $profileUpdateRequest): RedirectResponse
     {
-        $request->validate([
-            'name' => ['required', 'string', 'max:255'],
-        ]);
-
-        $request->user()->update(['name' => $request->name]);
+        $profileUpdateRequest->user()->update($profileUpdateRequest->validated());
 
         return to_route('profile.edit');
     }

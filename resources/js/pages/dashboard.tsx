@@ -3,10 +3,9 @@ import { Head, Link } from '@inertiajs/react';
 import { useState } from 'react';
 
 export default function Dashboard({ topics }) {
-    const [selectedDifficulty, setSelectedDifficulty] = useState('all');
-    const [hoveredTopic, setHoveredTopic] = useState(null);
 
-    // Group topics by difficulty levels
+    const [selectedDifficulty, setSelectedDifficulty] = useState('all');
+
     const topicsByLevel = {
         beginner: topics.slice(0, 12),
         intermediate: topics.slice(12, 28),
@@ -160,7 +159,9 @@ export default function Dashboard({ topics }) {
                                                                         : 'bg-blue-500 text-white hover:bg-blue-600 shadow-lg hover:shadow-xl'
                                                                     }
 
-                                                `} href={route('topic', { topic: topic.slug })}>
+                                                `} href={route('topic', { topic: topic.slug })}
+                                                                    prefetch={index <= 1}
+                                                                >
                                                                     {isCompleted ? 'Review' : 'Start'}
                                                                 </Link>
                                                             </div>

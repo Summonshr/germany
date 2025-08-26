@@ -6,6 +6,7 @@ use App\Models\Enums\QuizType;
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Http\RedirectResponse;
 
 class Quiz extends Model
 {
@@ -32,5 +33,23 @@ class Quiz extends Model
     public function isNotFinished(): bool
     {
         return $this->finished_at === null;
+    }
+
+    public function isFinished(): bool
+    {
+        return $this->finished_at !== null;
+    }
+
+    public function redirect(): RedirectResponse
+    {
+        if ($this->isFinished()) {
+            return to_route('quiz.results', [
+                'quiz' => $this->uuid,
+            ]);
+        }
+
+        return to_route('quiz', [
+            'quiz' => $this->uuid,
+        ]);
     }
 }
