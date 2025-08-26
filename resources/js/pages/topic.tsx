@@ -5,6 +5,7 @@ import * as Tabs from '@radix-ui/react-tabs';
 import VocabularySlider from './components/VocabularySlider';
 
 interface VocabularyItem {
+    id: number;
     text: string;
     text_de: string;
     note: string;

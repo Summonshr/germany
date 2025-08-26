@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 
 interface VocabularyItem {
+    id: number;
     text: string;
     text_de: string;
     note: string;
@@ -13,8 +14,11 @@ interface VocabularySliderProps {
     vocabularyItems: VocabularyItem[];
 }
 
-export default function VocabularySlider({ vocabularyItems }: VocabularySliderProps) {
+export default function VocabularySlider({ vocabularyItems: initialVocabularyItems }: VocabularySliderProps) {
+    const [vocabularyItems, setVocabularyItems] = useState(initialVocabularyItems);
     const [currentIndex, setCurrentIndex] = useState(0);
+    const [isShuffled, setIsShuffled] = useState(false);
+    const [favoritedItems, setFavoritedItems] = useState<number[]>([]);
 
     useEffect(() => {
         const handleKeyDown = (e: KeyboardEvent) => {
@@ -30,92 +34,156 @@ export default function VocabularySlider({ vocabularyItems }: VocabularySliderPr
     }, [currentIndex, vocabularyItems.length]);
 
     const nextCard = () => {
-        setCurrentIndex((prev) => (prev + 1) % vocabularyItems.length);
+        if (currentIndex < vocabularyItems.length - 1) {
+            setCurrentIndex((prev) => prev + 1);
+        }
     };
 
     const prevCard = () => {
-        setCurrentIndex((prev) => (prev - 1 + vocabularyItems.length) % vocabularyItems.length);
+        if (currentIndex > 0) {
+            setCurrentIndex((prev) => prev - 1);
+        }
+    };
+
+    const shuffleItems = () => {
+        const shuffledItems = [...vocabularyItems].sort(() => Math.random() - 0.5);
+        setVocabularyItems(shuffledItems);
+        setCurrentIndex(0);
+        setIsShuffled(true);
+    };
+
+    const resetItems = () => {
+        setVocabularyItems(initialVocabularyItems);
+        setCurrentIndex(0);
+        setIsShuffled(false);
+    };
+
+    const toggleFavorite = (id: number) => {
+        if (favoritedItems.includes(id)) {
+            setFavoritedItems(favoritedItems.filter((itemId) => itemId !== id));
+        } else {
+            setFavoritedItems([...favoritedItems, id]);
+        }
     };
 
     if (vocabularyItems.length === 0) {
         return (
-            <div className="flex h-96 items-center justify-center rounded-sm border border-gray-200 bg-gradient-to-br from-gray-50 to-gray-100">
-                <p className="text-lg font-medium text-gray-500">No vocabulary items available</p>
+            <div className="flex h-96 items-center justify-center rounded-lg bg-slate-800">
+                <p className="text-lg font-medium text-slate-400">No vocabulary items available</p>
             </div>
         );
     }
 
     const currentItem = vocabularyItems[currentIndex];
+    const isFavorited = favoritedItems.includes(currentItem.id);
+
     return (
-        <div className="relative max-w-4xl">
-            {/* Navigation Arrows */}
-            <button
-                onClick={prevCard}
-                className="absolute top-1/2 left-0 z-10 flex h-12 w-12 -translate-y-1/2 transform items-center justify-center rounded-sm bg-white shadow-lg transition-all duration-200 hover:bg-gray-50 disabled:opacity-30"
-                disabled={vocabularyItems.length <= 1}
-                aria-label="Previous card"
-            >
-                <svg className="h-6 w-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                </svg>
-            </button>
-
-            <button
-                onClick={nextCard}
-                className="absolute top-1/2 right-0 z-10 flex h-12 w-12 -translate-y-1/2 transform items-center justify-center rounded-sm bg-white shadow-lg transition-all duration-200 hover:bg-gray-50 disabled:opacity-30"
-                disabled={vocabularyItems.length <= 1}
-                aria-label="Next card"
-            >
-                <svg className="h-6 w-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-            </button>
-
-            {/* Card Counter */}
-            <div className="bg-opacity-70 absolute top-4 right-0 z-10 -translate-x-1/2 transform rounded-sm bg-black px-4 py-1.5 text-sm font-medium text-white shadow-md">
-                {currentIndex + 1} / {vocabularyItems.length}
+        <div className="relative mx-auto w-full max-w-3xl">
+            <div className="overflow-hidden rounded-lg bg-slate-800 shadow-lg">
+                <div className="relative bg-slate-700/50 p-8">
+                    <h2 className="text-4xl font-bold text-white">{currentItem.text}</h2>
+                    <p className="text-2xl text-slate-300">{currentItem.text_de}</p>
+                    {currentItem.note && currentItem.note !== '-' && <p className="mt-1 text-sm text-slate-400">({currentItem.note})</p>}
+                    <button onClick={() => toggleFavorite(currentItem.id)} className="absolute top-4 right-4 text-2xl">
+                        {isFavorited ? '❤️' : '🤍'}
+                    </button>
+                </div>
+                <div className="space-y-6 p-8">
+                    <div>
+                        <h4 className="mb-2 font-semibold text-white">Description</h4>
+                        <p className="text-slate-300">{currentItem.description}</p>
+                        <p className="mt-1 text-sm text-slate-400">{currentItem.description_de}</p>
+                    </div>
+                    {currentItem.culture && currentItem.culture !== '-' && (
+                        <div>
+                            <h4 className="mb-2 font-semibold text-white">Cultural Context</h4>
+                            <p className="text-slate-300">{currentItem.culture}</p>
+                        </div>
+                    )}
+                </div>
             </div>
 
-            {/* Main Card */}
-            <div className="h-[500px] px-4">
-                <div
-                    className={`flex h-full cursor-pointer flex-col overflow-hidden rounded-sm border-2 border-gray-200 bg-gradient-to-br from-white to-gray-50 shadow-xl transition-all duration-300 hover:shadow-2xl`}
-                    tabIndex={0}
+            {/* Navigation */}
+            <div className="mt-6 flex items-center justify-between gap-4">
+                <button
+                    onClick={prevCard}
+                    disabled={currentIndex === 0}
+                    className="flex items-center gap-2 rounded-lg bg-slate-800 px-4 py-2 text-slate-400 transition-colors hover:bg-slate-700 disabled:opacity-50"
                 >
-                    {/* Card Header */}
-                    <div className="relative bg-gradient-to-r from-indigo-500 to-purple-600 p-7 text-white">
-                        <div className="bg-opacity-10 absolute top-0 right-0 -mt-16 -mr-16 h-32 w-32 rounded-sm bg-white"></div>
-                        <div className="relative z-10">
-                            <div className="mb-3 flex items-start justify-between">
-                                <div>
-                                    <h3 className="mb-1 text-2xl font-bold tracking-tight">{currentItem.text}</h3>
-                                    <p className="text-lg font-medium opacity-90">
-                                        {currentItem.text_de} {currentItem.note !== '-' ? '-' + currentItem.note : ''}
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    {/* Card Body */}
-                    <div className="flex flex-grow flex-col p-7">
-                        {/* Description */}
-                        <div className="mb-5 flex-grow">
-                            <p className="mb-3 text-lg leading-relaxed text-gray-700">{currentItem.description}</p>
-                            <p className="text-base leading-relaxed text-gray-600">{currentItem.description_de}</p>
-                        </div>
-
-                        {/* Additional Info */}
-                        <div className="mt-auto space-y-4">
-                            {currentItem.culture && currentItem.culture !== '-' && (
-                                <div className="rounded-sm border border-purple-100 bg-purple-50 p-4">
-                                    <div className="mb-1.5 text-xs font-semibold tracking-wider text-purple-700 uppercase">Cultural Context</div>
-                                    <div className="text-purple-800">{currentItem.culture}</div>
-                                </div>
-                            )}
-                        </div>
-                    </div>
+                    <svg className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path
+                            fillRule="evenodd"
+                            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+                            clipRule="evenodd"
+                        />
+                    </svg>
+                    <span>Previous</span>
+                </button>
+                <div className="flex gap-2">
+                    <button
+                        onClick={shuffleItems}
+                        className="flex items-center gap-2 rounded-lg bg-slate-800 px-4 py-2 text-slate-400 transition-colors hover:bg-slate-700"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="20"
+                            height="20"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            strokeWidth="2"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                        >
+                            <path d="M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.7-1.1 2-1.7 3.3-1.7H22" />
+                            <path d="m18 2 4 4-4 4" />
+                            <path d="M2 6h1.4c1.3 0 2.5.6 3.3 1.7l6.1 8.6c.7 1.1 2 1.7 3.3 1.7H22" />
+                            <path d="m18 22-4-4 4-4" />
+                        </svg>
+                        <span>Shuffle</span>
+                    </button>
+                    {isShuffled && (
+                        <button
+                            onClick={resetItems}
+                            className="flex items-center gap-2 rounded-lg bg-slate-800 px-4 py-2 text-slate-400 transition-colors hover:bg-slate-700"
+                        >
+                            <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="20"
+                                height="20"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                            >
+                                <path d="M3 2v6h6" />
+                                <path d="M21 12A9 9 0 0 0 6 5.3L3 8" />
+                                <path d="M21 22v-6h-6" />
+                                <path d="M3 12a9 9 0 0 0 15 6.7l3-2.7" />
+                            </svg>
+                            <span>Reset</span>
+                        </button>
+                    )}
                 </div>
+                <button
+                    onClick={nextCard}
+                    disabled={currentIndex === vocabularyItems.length - 1}
+                    className="flex items-center gap-2 rounded-lg bg-slate-800 px-4 py-2 text-slate-400 transition-colors hover:bg-slate-700 disabled:opacity-50"
+                >
+                    <span>Next</span>
+                    <svg className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path
+                            fillRule="evenodd"
+                            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                            clipRule="evenodd"
+                        />
+                    </svg>
+                </button>
+            </div>
+            <div className="mt-2 text-center text-sm text-slate-400">
+                {currentIndex + 1} / {vocabularyItems.length}
             </div>
         </div>
     );
