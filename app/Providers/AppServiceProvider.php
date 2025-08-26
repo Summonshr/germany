@@ -26,8 +26,7 @@ class AppServiceProvider extends ServiceProvider
                 'create-quiz' => CreateNewQuizRequest::class,
                 'retake-quiz' => RetakeQuizRequest::class,
             ];
-
-            if ($class = data_get($actions, request('type'))) {
+            if ($class = data_get($actions, request('action'))) {
                 return app($class);
             }
 

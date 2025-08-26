@@ -8,9 +8,14 @@ export function cn(...inputs: ClassValue[]) {
 
 
 
-export const post = (type: string, data: any) => router.post('/actions', {
-    type,
-    data
-}, {
-    preserveScroll: true
-})
+export const post = (action: string, data: any) => {
+    if (Object.hasOwn(data, 'action')) {
+        throw new Error('No `action` key allowed in data');
+    }
+    return router.post('/actions', {
+        ...data,
+        action,
+    }, {
+        preserveScroll: true
+    })
+}

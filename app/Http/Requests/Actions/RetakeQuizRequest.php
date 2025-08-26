@@ -12,7 +12,7 @@ class RetakeQuizRequest extends ActionRequest
 
     public function authorize(): bool
     {
-        $this->quiz = Quiz::with('questions')->where('uuid', $this->input('data.quiz'))->firstOrFail();
+        $this->quiz = Quiz::with('questions')->where('uuid', $this->input('quiz'))->firstOrFail();
 
         return $this->quiz->user_id === $this->user()->id;
     }

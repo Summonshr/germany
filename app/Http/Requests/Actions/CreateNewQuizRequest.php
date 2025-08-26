@@ -16,9 +16,9 @@ class CreateNewQuizRequest extends ActionRequest
     public function rules(): array
     {
         return [
-            'data.type' => ['required', 'in:vocabulary,sentence'],
-            'data.topic_ids' => ['required', 'array'],
-            'data.topic_ids.*' => ['integer', 'exists:topics,id'],
+            'type' => ['required', 'in:vocabulary,sentence'],
+            'topic_ids' => ['required', 'array'],
+            'topic_ids.*' => ['integer', 'exists:topics,id'],
         ];
     }
 
@@ -26,8 +26,8 @@ class CreateNewQuizRequest extends ActionRequest
     {
         return app(CreateNewQuiz::class)->handle(new CreateNewQuizData(
             $this->user()->id,
-            $this->input('data.topic_ids'),
-            QuizType::from($this->input('data.type')),
+            $this->input('topic_ids'),
+            QuizType::from($this->input('type')),
         ))->redirect();
     }
 }

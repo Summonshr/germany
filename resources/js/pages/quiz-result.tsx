@@ -65,8 +65,8 @@ const QuizResults = ({ quiz }) => {
                                         <td className="px-4 py-2 text-center">
                                             <span
                                                 className={`inline-block px-2 py-1 rounded text-md font-bold ${ok
-                                                        ? "text-green-600"
-                                                        : "text-red-600"
+                                                    ? "text-green-600"
+                                                    : "text-red-600"
                                                     }`}
                                             >
                                                 {ok ? "✓" : "✗"}
@@ -86,10 +86,8 @@ const QuizResults = ({ quiz }) => {
                         as="button"
                         href="/actions"
                         data={{
-                            type: "retake-quiz",
-                            data: {
-                                quiz: quiz.uuid,
-                            },
+                            action: "retake-quiz",
+                            quiz: quiz.uuid,
                         }}
                         className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
                     >

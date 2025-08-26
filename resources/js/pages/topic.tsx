@@ -33,7 +33,7 @@ export default function Topic({ topic }) {
                             <Link
                                 href="/actions"
                                 method="post"
-                                data={{data: { type: 'vocabulary', topic_ids: [topic.id] }, type: 'create-quiz'}}
+                                data={{ type: 'vocabulary', topic_ids: [topic.id], action: 'create-quiz'}}
                                 as="button"
                                 className="bg-green-700 px-4 py-3 rounded-lg text-white font-bold"
                             >
