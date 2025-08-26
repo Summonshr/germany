@@ -1,6 +1,5 @@
-import { Action } from "@/components/action";
-import AppLayout from "@/layouts/app-layout";
-import { Link } from "@inertiajs/react";
+import { Action } from '@/components/action';
+import AppLayout from '@/layouts/app-layout';
 
 interface Question {
     given_answer: string;
@@ -24,32 +23,26 @@ const QuizResults = ({ quiz }: QuizResultsProps) => {
 
     return (
         <AppLayout>
-            <div className="p-4 space-y-6">
+            <div className="space-y-6 p-4">
                 {/* Header summary */}
 
-                <div className="bg-gray-800 rounded-sm p-6 border border-gray-700">
-                    <h1 className="text-2xl font-bold text-gray-100 mb-4">Quiz Results</h1>
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
-                        <div className="bg-gray-700 rounded-sm p-4">
-                            <div className="text-2xl font-bold text-green-400">{questions.filter(q => q.given_answer === q.answer).length}</div>
+                <div className="rounded-sm border border-gray-700 bg-gray-800 p-6">
+                    <h1 className="mb-4 text-2xl font-bold text-gray-100">Quiz Results</h1>
+                    <div className="grid grid-cols-2 gap-4 text-center md:grid-cols-4">
+                        <div className="rounded-sm bg-gray-700 p-4">
+                            <div className="text-2xl font-bold text-green-400">{questions.filter((q) => q.given_answer === q.answer).length}</div>
                             <div className="text-sm text-gray-400">Correct</div>
                         </div>
-                        <div className="bg-gray-700 rounded-sm p-4">
-                            <div className="text-2xl font-bold text-red-400">
-                                {questions.filter(q => q.given_answer !== q.answer).length}
-                            </div>
+                        <div className="rounded-sm bg-gray-700 p-4">
+                            <div className="text-2xl font-bold text-red-400">{questions.filter((q) => q.given_answer !== q.answer).length}</div>
                             <div className="text-sm text-gray-400">Incorrect</div>
                         </div>
-                        <div className="bg-gray-700 rounded-sm p-4">
-                            <div className="text-2xl font-bold text-blue-400">
-                                {questions.length}
-                            </div>
+                        <div className="rounded-sm bg-gray-700 p-4">
+                            <div className="text-2xl font-bold text-blue-400">{questions.length}</div>
                             <div className="text-sm text-gray-400">Total</div>
                         </div>
-                        <div className="bg-gray-700 rounded-sm p-4">
-                            <div className="text-2xl font-bold text-yellow-400">
-                                {quiz.score}%
-                            </div>
+                        <div className="rounded-sm bg-gray-700 p-4">
+                            <div className="text-2xl font-bold text-yellow-400">{quiz.score}%</div>
                             <div className="text-sm text-gray-400">Score</div>
                         </div>
                     </div>
@@ -57,8 +50,8 @@ const QuizResults = ({ quiz }: QuizResultsProps) => {
 
                 {/* Compact table */}
                 <div className="overflow-x-auto">
-                    <table className="w-full text-sm text-left text-gray-300">
-                        <thead className="text-xs text-gray-400 uppercase bg-gray-700">
+                    <table className="w-full text-left text-sm text-gray-300">
+                        <thead className="bg-gray-700 text-xs text-gray-400 uppercase">
                             <tr>
                                 <th className="px-4 py-3">#</th>
                                 <th className="px-4 py-3">English</th>
@@ -69,25 +62,20 @@ const QuizResults = ({ quiz }: QuizResultsProps) => {
                         </thead>
                         <tbody>
                             {questions.map((question, i) => {
-                                let ok = question.answer === question.given_answer
+                                let ok = question.answer === question.given_answer;
                                 return (
                                     <tr key={question.quiz_uuid} className="border-b border-gray-700 hover:bg-gray-800">
                                         <td className="px-4 py-2">{i + 1}</td>
                                         <td className="px-4 py-2">{question.question}</td>
                                         <td className="px-4 py-2">{question.answer}</td>
-                                        <td
-                                            className={`px-4 py-2 font-medium ${ok ? "text-green-400" : "text-red-400"}`}
-                                        >
-                                            {question.given_answer}
-                                        </td>
+                                        <td className={`px-4 py-2 font-medium ${ok ? 'text-green-400' : 'text-red-400'}`}>{question.given_answer}</td>
                                         <td className="px-4 py-2 text-center">
                                             <span
-                                                className={`inline-block px-2 py-1 rounded text-md font-bold ${ok
-                                                    ? "text-green-600"
-                                                    : "text-red-600"
-                                                    }`}
+                                                className={`text-md inline-block rounded px-2 py-1 font-bold ${
+                                                    ok ? 'text-green-600' : 'text-red-600'
+                                                }`}
                                             >
-                                                {ok ? "✓" : "✗"}
+                                                {ok ? '✓' : '✗'}
                                             </span>
                                         </td>
                                     </tr>
@@ -99,8 +87,10 @@ const QuizResults = ({ quiz }: QuizResultsProps) => {
 
                 {/* Re-take button */}
                 <div className="text-center">
-                    <Action action="retake-quiz" data={{ quiz: quiz.uuid }}
-                        className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-sm transition-colors"
+                    <Action
+                        action="retake-quiz"
+                        data={{ quiz: quiz.uuid }}
+                        className="inline-flex items-center rounded-sm bg-blue-600 px-6 py-3 font-medium text-white transition-colors hover:bg-blue-700"
                     >
                         Take Quiz Again (Shuffled)
                     </Action>

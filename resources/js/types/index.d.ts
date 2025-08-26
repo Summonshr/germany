@@ -30,7 +30,6 @@ export interface Vocabulary {
     audio_url?: string | null;
 }
 
-
 export interface Lesson {
     id: number;
     title: string;

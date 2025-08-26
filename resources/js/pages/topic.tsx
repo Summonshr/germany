@@ -1,7 +1,8 @@
+import { Action } from '@/components/action';
 import AppLayout from '@/layouts/app-layout';
 import { Head } from '@inertiajs/react';
+import * as Tabs from '@radix-ui/react-tabs';
 import VocabularySlider from './components/VocabularySlider';
-import { Action } from '@/components/action';
 
 interface VocabularyItem {
     text: string;
@@ -31,66 +32,63 @@ export default function Topic({ topic }: TopicProps) {
     const sentences = topic.sentences || [];
 
     return (
-        <AppLayout breadcrumbs={[
-
-        ]}>
+        <AppLayout breadcrumbs={[]}>
             <Head title={`${topic.name} - Topic`} />
 
             <div className="min-h-screen p-6">
                 <div className="mb-8">
-                    <div className="flex items-center gap-4 mb-4">
-                        <div className="w-16 h-16 bg-gradient-to-r from-blue-400 to-indigo-500 rounded-sm flex items-center justify-center">
-                            <span className="text-2xl text-white font-bold">
-                                {topic.name.charAt(0)}
-                            </span>
+                    <div className="mb-4 flex items-center gap-4">
+                        <div className="flex h-16 w-16 items-center justify-center rounded-sm bg-gradient-to-r from-blue-400 to-indigo-500">
+                            <span className="text-2xl font-bold text-white">{topic.name.charAt(0)}</span>
                         </div>
                         <div>
-                            <h1 className="text-4xl font-bold text-gray-200 mb-1">
-                                {topic.name}
-                            </h1>
-                            <p className="text-xl text-gray-200">
-                                {topic.name_de}
-                            </p>
+                            <h1 className="mb-1 text-4xl font-bold text-gray-200">{topic.name}</h1>
+                            <p className="text-xl text-gray-200">{topic.name_de}</p>
                         </div>
-                        <div className='flex justify-end flex-1 gap-4'>
-                            <Action action="create-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id] }}
-                                className="bg-blue-700 px-4 py-3 rounded-sm text-white font-bold"
+                        <div className="flex flex-1 justify-end gap-4">
+                            <Action
+                                action="create-quiz"
+                                data={{ type: 'vocabulary', topic_ids: [topic.id] }}
+                                className="rounded-sm bg-blue-700 px-4 py-3 font-bold text-white"
                             >
                                 Vocabulary Quiz
                             </Action>
-                            <Action title='The ones that you failed most' action="hard-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id] }}
-                                className="bg-slate-700 px-4 py-3 rounded-sm text-white font-bold"
+                            <Action
+                                title="The ones that you failed most"
+                                action="hard-quiz"
+                                data={{ type: 'vocabulary', topic_ids: [topic.id] }}
+                                className="rounded-sm bg-slate-700 px-4 py-3 font-bold text-white"
                             >
                                 Hard Quiz
                             </Action>
                         </div>
                     </div>
-                    <p className="text-gray-200 text-lg max-w-2xl">
-                        {topic.description}
-                    </p>
-                    <p className="text-gray-300 text-md max-w-2xl">
-                        de - {topic.description_de}
-                    </p>
+                    <p className="max-w-2xl text-lg text-gray-200">{topic.description}</p>
+                    <p className="text-md max-w-2xl text-gray-300">de - {topic.description_de}</p>
                 </div>
 
-                <div className="space-y-4 mt-8">
-                    <div className="flex items-center justify-between">
-                        <h2 className="text-2xl font-bold text-gray-200">
+                <Tabs.Root defaultValue="vocabulary" className="mt-8">
+                    <Tabs.List className="flex gap-4 border-b border-gray-700">
+                        <Tabs.Trigger
+                            value="vocabulary"
+                            className="px-4 py-2 text-lg font-bold text-gray-400 data-[state=active]:border-b-2 data-[state=active]:border-white data-[state=active]:text-white"
+                        >
                             Vocabulary ({vocabularyItems.length})
-                        </h2>
-                    </div>
-
-                    <VocabularySlider vocabularyItems={vocabularyItems} />
-                </div>
-                <div className="space-y-4 mt-8">
-                    <div className="flex items-center justify-between">
-                        <h2 className="text-2xl font-bold text-gray-200">
+                        </Tabs.Trigger>
+                        <Tabs.Trigger
+                            value="sentences"
+                            className="px-4 py-2 text-lg font-bold text-gray-400 data-[state=active]:border-b-2 data-[state=active]:border-white data-[state=active]:text-white"
+                        >
                             Sentences ({sentences.length})
-                        </h2>
-                    </div>
-
-                    <VocabularySlider vocabularyItems={sentences} />
-                </div>
+                        </Tabs.Trigger>
+                    </Tabs.List>
+                    <Tabs.Content value="vocabulary" className="py-6">
+                        <VocabularySlider vocabularyItems={vocabularyItems} />
+                    </Tabs.Content>
+                    <Tabs.Content value="sentences" className="py-6">
+                        <VocabularySlider vocabularyItems={sentences} />
+                    </Tabs.Content>
+                </Tabs.Root>
             </div>
         </AppLayout>
     );

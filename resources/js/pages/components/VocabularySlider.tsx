@@ -1,5 +1,4 @@
-import { Link } from '@inertiajs/react';
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 interface VocabularyItem {
     text: string;
@@ -40,8 +39,8 @@ export default function VocabularySlider({ vocabularyItems }: VocabularySliderPr
 
     if (vocabularyItems.length === 0) {
         return (
-            <div className="flex items-center justify-center h-96 bg-gradient-to-br from-gray-50 to-gray-100 rounded-sm border border-gray-200">
-                <p className="text-gray-500 text-lg font-medium">No vocabulary items available</p>
+            <div className="flex h-96 items-center justify-center rounded-sm border border-gray-200 bg-gradient-to-br from-gray-50 to-gray-100">
+                <p className="text-lg font-medium text-gray-500">No vocabulary items available</p>
             </div>
         );
     }
@@ -52,67 +51,65 @@ export default function VocabularySlider({ vocabularyItems }: VocabularySliderPr
             {/* Navigation Arrows */}
             <button
                 onClick={prevCard}
-                className="absolute left-0 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 bg-white rounded-sm shadow-lg flex items-center justify-center hover:bg-gray-50 transition-all duration-200 disabled:opacity-30"
+                className="absolute top-1/2 left-0 z-10 flex h-12 w-12 -translate-y-1/2 transform items-center justify-center rounded-sm bg-white shadow-lg transition-all duration-200 hover:bg-gray-50 disabled:opacity-30"
                 disabled={vocabularyItems.length <= 1}
                 aria-label="Previous card"
             >
-                <svg className="w-6 h-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="h-6 w-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
                 </svg>
             </button>
 
             <button
                 onClick={nextCard}
-                className="absolute right-0 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 bg-white rounded-sm shadow-lg flex items-center justify-center hover:bg-gray-50 transition-all duration-200 disabled:opacity-30"
+                className="absolute top-1/2 right-0 z-10 flex h-12 w-12 -translate-y-1/2 transform items-center justify-center rounded-sm bg-white shadow-lg transition-all duration-200 hover:bg-gray-50 disabled:opacity-30"
                 disabled={vocabularyItems.length <= 1}
                 aria-label="Next card"
             >
-                <svg className="w-6 h-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="h-6 w-6 text-gray-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
             </button>
 
             {/* Card Counter */}
-            <div className="absolute top-4 right-0 transform -translate-x-1/2 z-10 bg-black bg-opacity-70 text-white px-4 py-1.5 rounded-sm text-sm font-medium shadow-md">
+            <div className="bg-opacity-70 absolute top-4 right-0 z-10 -translate-x-1/2 transform rounded-sm bg-black px-4 py-1.5 text-sm font-medium text-white shadow-md">
                 {currentIndex + 1} / {vocabularyItems.length}
             </div>
 
             {/* Main Card */}
             <div className="h-[500px] px-4">
                 <div
-                    className={`h-full flex flex-col rounded-sm shadow-xl border-2 transition-all duration-300 cursor-pointer overflow-hidden border-gray-200 bg-gradient-to-br from-white to-gray-50 hover:shadow-2xl`}
+                    className={`flex h-full cursor-pointer flex-col overflow-hidden rounded-sm border-2 border-gray-200 bg-gradient-to-br from-white to-gray-50 shadow-xl transition-all duration-300 hover:shadow-2xl`}
                     tabIndex={0}
                 >
                     {/* Card Header */}
-                    <div className="p-7 bg-gradient-to-r from-indigo-500 to-purple-600 text-white relative">
-                        <div className="absolute top-0 right-0 w-32 h-32 bg-white bg-opacity-10 rounded-sm -mr-16 -mt-16"></div>
+                    <div className="relative bg-gradient-to-r from-indigo-500 to-purple-600 p-7 text-white">
+                        <div className="bg-opacity-10 absolute top-0 right-0 -mt-16 -mr-16 h-32 w-32 rounded-sm bg-white"></div>
                         <div className="relative z-10">
-                            <div className="flex items-start justify-between mb-3">
+                            <div className="mb-3 flex items-start justify-between">
                                 <div>
-                                    <h3 className="text-2xl font-bold mb-1 tracking-tight">{currentItem.text}</h3>
-                                    <p className="text-lg opacity-90 font-medium">{currentItem.text_de} {currentItem.note !== '-' ? '-' + currentItem.note : ''}</p>
+                                    <h3 className="mb-1 text-2xl font-bold tracking-tight">{currentItem.text}</h3>
+                                    <p className="text-lg font-medium opacity-90">
+                                        {currentItem.text_de} {currentItem.note !== '-' ? '-' + currentItem.note : ''}
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     {/* Card Body */}
-                    <div className="p-7 flex flex-col flex-grow">
+                    <div className="flex flex-grow flex-col p-7">
                         {/* Description */}
                         <div className="mb-5 flex-grow">
-                            <p className="text-gray-700 leading-relaxed mb-3 text-lg">
-                                {currentItem.description}
-                            </p>
-                            <p className="text-gray-600 text-base leading-relaxed">
-                                {currentItem.description_de}
-                            </p>
+                            <p className="mb-3 text-lg leading-relaxed text-gray-700">{currentItem.description}</p>
+                            <p className="text-base leading-relaxed text-gray-600">{currentItem.description_de}</p>
                         </div>
 
                         {/* Additional Info */}
-                        <div className="space-y-4 mt-auto">
+                        <div className="mt-auto space-y-4">
                             {currentItem.culture && currentItem.culture !== '-' && (
-                                <div className="bg-purple-50 p-4 rounded-sm border border-purple-100">
-                                    <div className="text-xs font-semibold text-purple-700 mb-1.5 uppercase tracking-wider">Cultural Context</div>
+                                <div className="rounded-sm border border-purple-100 bg-purple-50 p-4">
+                                    <div className="mb-1.5 text-xs font-semibold tracking-wider text-purple-700 uppercase">Cultural Context</div>
                                     <div className="text-purple-800">{currentItem.culture}</div>
                                 </div>
                             )}

@@ -1,6 +1,6 @@
-import { Link } from "@inertiajs/react";
+import { Link } from '@inertiajs/react';
 type ActionProps = React.ComponentProps<typeof Link>;
-export const Action = ({ action, data, children, ...props }: ActionProps & { action: string, data: Record<string, any> }) => {
+export const Action = ({ action, data, children, ...props }: ActionProps & { action: string; data: Record<string, any> }) => {
     return (
         <Link
             method="post"
