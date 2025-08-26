@@ -180,9 +180,9 @@ export default function Quiz({ quiz }: QuizProps) {
                 <div className="px-8 py-8">
                     {/* Question Card */}
                     <div className="bg-gray-800 rounded-sm border border-gray-700 p-10 mb-8">
-                        <div className="w-full bg-gray-700 rounded-full h-3">
+                        <div className="w-full bg-gray-700 rounded-sm h-3">
                             <div
-                                className="bg-gradient-to-r from-blue-500 to-purple-500 h-3 rounded-full transition-all duration-500"
+                                className="bg-gradient-to-r from-blue-500 to-purple-500 h-3 rounded-sm transition-all duration-500"
                                 style={{ width: `${progress}%` }}
                             ></div>
                         </div>

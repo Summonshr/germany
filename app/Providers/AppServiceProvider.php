@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Http\Requests\Actions\ActionRequest;
+use App\Http\Requests\Actions\CreateHardQuizRequest;
 use App\Http\Requests\Actions\CreateNewQuizRequest;
 use App\Http\Requests\Actions\FinishQuizRequest;
 use App\Http\Requests\Actions\RetakeQuizRequest;
@@ -24,6 +25,7 @@ class AppServiceProvider extends ServiceProvider
                 'save-quiz' => SaveQuizRequest::class,
                 'finish-quiz' => FinishQuizRequest::class,
                 'create-quiz' => CreateNewQuizRequest::class,
+                'hard-quiz' => CreateHardQuizRequest::class,
                 'retake-quiz' => RetakeQuizRequest::class,
             ];
             if ($class = data_get($actions, request('action'))) {

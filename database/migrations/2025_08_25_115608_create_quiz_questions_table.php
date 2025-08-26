@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('answer');
             $table->string('given_answer')->nullable();
             $table->json('options');
-            $table->string('hint');
+            $table->string('hint')->nullable();
         });
     }
 

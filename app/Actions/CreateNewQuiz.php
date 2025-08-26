@@ -4,6 +4,7 @@ namespace App\Actions;
 
 use App\Data\CreateNewQuizData;
 use App\Models\Quiz;
+use App\Models\QuizQuestion;
 use App\Models\Vocabulary;
 
 class CreateNewQuiz
@@ -17,6 +18,30 @@ class CreateNewQuiz
             'topic_ids' => $createNewQuizData->topic_ids,
             'type' => $createNewQuizData->type,
         ]);
+
+        if ($createNewQuizData->hard) {
+            $lastWrongQuestionIds = QuizQuestion::where('user_id', $createNewQuizData->user_id)
+                ->whereColumn('answer', '!=', 'given_answer')
+                ->latest('id')
+                ->limit(100);
+
+            $quiz->questions()->createMany(
+                QuizQuestion::whereIn('id', $lastWrongQuestionIds->select('id'))
+                    ->inRandomOrder()
+                    ->limit(5)
+                    ->get()
+                    ->map(fn (QuizQuestion $question) => [
+                        'user_id' => $createNewQuizData->user_id,
+                        'quiz_uuid' => $quiz->uuid,
+                        'question' => $question->question,
+                        'answer' => $question->answer,
+                        'options' => $question->options,
+                        'hint' => $question->hint,
+                    ])
+            );
+
+            return $quiz;
+        }
 
         $quiz->questions()->createMany(
             Vocabulary::query()->whereIn('topic_id', $createNewQuizData->topic_ids)

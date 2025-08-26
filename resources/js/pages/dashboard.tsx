@@ -38,12 +38,12 @@ export default function Dashboard({ topics }) {
                     <div className="rounded-sm p-6 shadow-lg border border-slate-800">
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="font-semibold text-gray-150">Topics Completed</h3>
-                            <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
+                            <div className="w-12 h-12 bg-green-100 rounded-sm flex items-center justify-center">
                                 <span className="text-green-600 font-bold">1</span>
                             </div>
                         </div>
-                        <div className="w-full bg-gray-200 rounded-full h-2">
-                            <div className="bg-green-500 h-2 rounded-full" style={{ width: '2.5%' }}></div>
+                        <div className="w-full bg-gray-200 rounded-sm h-2">
+                            <div className="bg-green-500 h-2 rounded-sm" style={{ width: '2.5%' }}></div>
                         </div>
                         <p className="text-sm text-gray-300 mt-2">1 of 40 topics</p>
                     </div>
@@ -51,12 +51,12 @@ export default function Dashboard({ topics }) {
                     <div className=" rounded-sm p-6 shadow-lg border border-slate-800">
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="font-semibold text-gray-150">Vocabulary Learned</h3>
-                            <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
+                            <div className="w-12 h-12 bg-blue-100 rounded-sm flex items-center justify-center">
                                 <span className="text-blue-900 font-bold">18</span>
                             </div>
                         </div>
-                        <div className="w-full bg-gray-200 rounded-full h-2">
-                            <div className="bg-blue-500 h-2 rounded-full" style={{ width: '15%' }}></div>
+                        <div className="w-full bg-gray-200 rounded-sm h-2">
+                            <div className="bg-blue-500 h-2 rounded-sm" style={{ width: '15%' }}></div>
                         </div>
                         <p className="text-sm text-gray-300 mt-2">Keep building your vocabulary!</p>
                     </div>
@@ -64,12 +64,12 @@ export default function Dashboard({ topics }) {
                     <div className=" rounded-sm p-6 shadow-lg border border-slate-800">
                         <div className="flex items-center justify-between mb-4">
                             <h3 className="font-semibold text-gray-150">Sentences Practiced</h3>
-                            <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center">
+                            <div className="w-12 h-12 bg-purple-100 rounded-sm flex items-center justify-center">
                                 <span className="text-purple-900 font-bold">82</span>
                             </div>
                         </div>
-                        <div className="w-full bg-gray-200 rounded-full h-2">
-                            <div className="bg-purple-500 h-2 rounded-full" style={{ width: '25%' }}></div>
+                        <div className="w-full bg-gray-200 rounded-sm h-2">
+                            <div className="bg-purple-500 h-2 rounded-sm" style={{ width: '25%' }}></div>
                         </div>
                         <p className="text-sm text-gray-300 mt-2">Great practice momentum!</p>
                     </div>
@@ -81,7 +81,7 @@ export default function Dashboard({ topics }) {
                         <button
                             key={level}
                             onClick={() => setSelectedDifficulty(level)}
-                            className={`px-6 py-3 rounded-full font-medium transition-all duration-300 ${selectedDifficulty === level
+                            className={`px-6 py-3 rounded-sm font-medium transition-all duration-300 ${selectedDifficulty === level
                                 ? 'bg-blue-500 text-white shadow-lg transform scale-105'
                                 : ' text-gray-200 hover:bg-blue-500 shadow-md'
                                 }`}
@@ -100,7 +100,7 @@ export default function Dashboard({ topics }) {
                             <div key={level} className="relative">
                                 {/* Level Header */}
                                 <div className="flex items-center mb-8">
-                                    <div className={`w-4 h-4 rounded-full bg-gradient-to-r ${difficultyColors[level]} mr-4`}></div>
+                                    <div className={`w-4 h-4 rounded-sm bg-gradient-to-r ${difficultyColors[level]} mr-4`}></div>
                                     <h2 className="text-2xl font-bold text-gray-100 capitalize">
                                         {level} Level
                                     </h2>
@@ -116,13 +116,13 @@ export default function Dashboard({ topics }) {
                                             <div key={topic.id} className="h-full">
                                                 <div className="h-full flex flex-col rounded-sm shadow-lg border-2 transition-all duration-300 border-slate-800 hover:border-blue-200 hover:shadow-xl">
                                                     {/* Card Header */}
-                                                    <div className={`p-6 bg-gradient-to-r ${difficultyColors[level]} rounded-t-2xl text-white relative overflow-hidden`}>
-                                                        <div className="absolute top-0 right-0 w-20 h-20 bg-white bg-opacity-20 rounded-full -mr-10 -mt-10"></div>
+                                                    <div className={`p-6 bg-gradient-to-r ${difficultyColors[level]} rounded-t-sm text-white relative overflow-hidden`}>
+                                                        <div className="absolute top-0 right-0 w-20 h-20 bg-white bg-opacity-20 rounded-sm -mr-10 -mt-10"></div>
                                                         <div className="relative">
                                                             <h3 className="text-xl font-bold mb-1">{topic.name}</h3>
                                                             <p className="text-sm opacity-90">{topic.name_de}</p>
                                                             {isCompleted && (
-                                                                <div className="absolute top-0 right-0 w-8 h-8 bg-green-400 rounded-full flex items-center justify-center">
+                                                                <div className="absolute top-0 right-0 w-8 h-8 bg-green-400 rounded-sm flex items-center justify-center">
                                                                     <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
                                                                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                                                                     </svg>
@@ -153,7 +153,7 @@ export default function Dashboard({ topics }) {
                                                                 </div>
 
                                                                 <Link className={`
-                                                    px-6 py-2 rounded-full font-medium transition-all duration-300
+                                                    px-6 py-2 rounded-sm font-medium transition-all duration-300
                                                     ${isCompleted
                                                                         ? 'bg-green-100 text-green-700 hover:bg-green-200'
                                                                         : 'bg-blue-500 text-white hover:bg-blue-600 shadow-lg hover:shadow-xl'
@@ -168,8 +168,8 @@ export default function Dashboard({ topics }) {
 
                                                             {/* Progress Bar */}
                                                             {isCompleted && (
-                                                                <div className="w-full bg-gray-200 rounded-full h-2">
-                                                                    <div className="bg-green-500 h-2 rounded-full" style={{ width: '100%' }}></div>
+                                                                <div className="w-full bg-gray-200 rounded-sm h-2">
+                                                                    <div className="bg-green-500 h-2 rounded-sm" style={{ width: '100%' }}></div>
                                                                 </div>
                                                             )}
                                                         </div>

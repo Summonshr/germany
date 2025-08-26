@@ -31,15 +31,15 @@ export default function Topic({ topic }) {
                             </p>
                         </div>
                         <div className='flex justify-end flex-1 gap-4'>
-                            <Action action="create-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id], action: 'create-quiz' }}
+                            <Action action="create-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id] }}
                                 className="bg-blue-700 px-4 py-3 rounded-sm text-white font-bold"
                             >
                                 Vocabulary Quiz
                             </Action>
-                            <Action action="create-quiz" data={{ type: 'sentence', topic_ids: [topic.id], action: 'create-quiz' }}
+                            <Action title='The ones that you failed most' action="hard-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id] }}
                                 className="bg-slate-700 px-4 py-3 rounded-sm text-white font-bold"
                             >
-                                Sentence Quiz
+                                Hard Quiz
                             </Action>
                         </div>
                     </div>

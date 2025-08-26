@@ -12,5 +12,6 @@ class CreateNewQuizData extends Data
         /** @var int[] */
         public array $topic_ids,
         public QuizType $type,
+        public bool $hard = false,
     ) {}
 }

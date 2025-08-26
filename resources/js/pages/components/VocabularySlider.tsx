@@ -40,7 +40,7 @@ export default function VocabularySlider({ vocabularyItems }) {
             {/* Navigation Arrows */}
             <button
                 onClick={prevCard}
-                className="absolute left-0 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center hover:bg-gray-50 transition-all duration-200 disabled:opacity-30"
+                className="absolute left-0 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 bg-white rounded-sm shadow-lg flex items-center justify-center hover:bg-gray-50 transition-all duration-200 disabled:opacity-30"
                 disabled={vocabularyItems.length <= 1}
                 aria-label="Previous card"
             >
@@ -51,7 +51,7 @@ export default function VocabularySlider({ vocabularyItems }) {
 
             <button
                 onClick={nextCard}
-                className="absolute right-0 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center hover:bg-gray-50 transition-all duration-200 disabled:opacity-30"
+                className="absolute right-0 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 bg-white rounded-sm shadow-lg flex items-center justify-center hover:bg-gray-50 transition-all duration-200 disabled:opacity-30"
                 disabled={vocabularyItems.length <= 1}
                 aria-label="Next card"
             >
@@ -61,7 +61,7 @@ export default function VocabularySlider({ vocabularyItems }) {
             </button>
 
             {/* Card Counter */}
-            <div className="absolute top-4 right-0 transform -translate-x-1/2 z-10 bg-black bg-opacity-70 text-white px-4 py-1.5 rounded-full text-sm font-medium shadow-md">
+            <div className="absolute top-4 right-0 transform -translate-x-1/2 z-10 bg-black bg-opacity-70 text-white px-4 py-1.5 rounded-sm text-sm font-medium shadow-md">
                 {currentIndex + 1} / {vocabularyItems.length}
             </div>
 
@@ -73,7 +73,7 @@ export default function VocabularySlider({ vocabularyItems }) {
                 >
                     {/* Card Header */}
                     <div className="p-7 bg-gradient-to-r from-indigo-500 to-purple-600 text-white relative">
-                        <div className="absolute top-0 right-0 w-32 h-32 bg-white bg-opacity-10 rounded-full -mr-16 -mt-16"></div>
+                        <div className="absolute top-0 right-0 w-32 h-32 bg-white bg-opacity-10 rounded-sm -mr-16 -mt-16"></div>
                         <div className="relative z-10">
                             <div className="flex items-start justify-between mb-3">
                                 <div>
