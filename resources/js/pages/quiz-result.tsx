@@ -1,3 +1,4 @@
+import { Action } from "@/components/action";
 import AppLayout from "@/layouts/app-layout";
 import { Link } from "@inertiajs/react";
 
@@ -81,18 +82,11 @@ const QuizResults = ({ quiz }) => {
 
                 {/* Re-take button */}
                 <div className="text-center">
-                    <Link
-                        method="post"
-                        as="button"
-                        href="/actions"
-                        data={{
-                            action: "retake-quiz",
-                            quiz: quiz.uuid,
-                        }}
+                    <Action action="retake-quiz" data={{ quiz: quiz.uuid }}
                         className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors"
                     >
                         Take Quiz Again (Shuffled)
-                    </Link>
+                    </Action>
                 </div>
             </div>
         </AppLayout>

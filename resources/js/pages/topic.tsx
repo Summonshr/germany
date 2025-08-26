@@ -2,6 +2,7 @@ import AppLayout from '@/layouts/app-layout';
 import { Head, Link, useForm } from '@inertiajs/react';
 import VocabularySlider from './components/VocabularySlider';
 import { post } from '@/lib/utils';
+import { Action } from '@/components/action';
 
 export default function Topic({ topic }) {
     const vocabularyItems = topic.vocabulary || [];
@@ -30,15 +31,16 @@ export default function Topic({ topic }) {
                             </p>
                         </div>
                         <div className='flex justify-end flex-1 gap-4'>
-                            <Link
-                                href="/actions"
-                                method="post"
-                                data={{ type: 'vocabulary', topic_ids: [topic.id], action: 'create-quiz'}}
-                                as="button"
-                                className="bg-green-700 px-4 py-3 rounded-lg text-white font-bold"
+                            <Action action="create-quiz" data={{ type: 'vocabulary', topic_ids: [topic.id], action: 'create-quiz' }}
+                                className="bg-blue-700 px-4 py-3 rounded-lg text-white font-bold"
                             >
                                 Vocabulary Quiz
-                            </Link>
+                            </Action>
+                            <Action action="create-quiz" data={{ type: 'sentence', topic_ids: [topic.id], action: 'create-quiz' }}
+                                className="bg-slate-700 px-4 py-3 rounded-lg text-white font-bold"
+                            >
+                                Sentence Quiz
+                            </Action>
                         </div>
                     </div>
                     <p className="text-gray-200 text-lg max-w-2xl">
