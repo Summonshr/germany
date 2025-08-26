@@ -1,5 +1,6 @@
 import AppLayout from '@/layouts/app-layout';
 import { Head, Link } from '@inertiajs/react';
+import * as Progress from '@radix-ui/react-progress';
 import * as ToggleGroup from '@radix-ui/react-toggle-group';
 import { useState } from 'react';
 
@@ -54,9 +55,9 @@ export default function Dashboard({ topics }: DashboardProps) {
                                 <span className="font-bold text-green-600">1</span>
                             </div>
                         </div>
-                        <div className="h-2 w-full rounded-sm bg-gray-200">
-                            <div className="h-2 rounded-sm bg-green-500" style={{ width: '2.5%' }}></div>
-                        </div>
+                        <Progress.Root value={2.5} className="h-2 w-full rounded-sm bg-gray-200">
+                            <Progress.Indicator style={{ width: '2.5%' }} className="h-2 rounded-sm bg-green-500" />
+                        </Progress.Root>
                         <p className="mt-2 text-sm text-gray-300">1 of 40 topics</p>
                     </div>
 
@@ -67,9 +68,9 @@ export default function Dashboard({ topics }: DashboardProps) {
                                 <span className="font-bold text-blue-900">18</span>
                             </div>
                         </div>
-                        <div className="h-2 w-full rounded-sm bg-gray-200">
-                            <div className="h-2 rounded-sm bg-blue-500" style={{ width: '15%' }}></div>
-                        </div>
+                        <Progress.Root value={15} className="h-2 w-full rounded-sm bg-gray-200">
+                            <Progress.Indicator style={{ width: '15%' }} className="h-2 rounded-sm bg-blue-500" />
+                        </Progress.Root>
                         <p className="mt-2 text-sm text-gray-300">Keep building your vocabulary!</p>
                     </div>
 
@@ -80,9 +81,9 @@ export default function Dashboard({ topics }: DashboardProps) {
                                 <span className="font-bold text-purple-900">82</span>
                             </div>
                         </div>
-                        <div className="h-2 w-full rounded-sm bg-gray-200">
-                            <div className="h-2 rounded-sm bg-purple-500" style={{ width: '25%' }}></div>
-                        </div>
+                        <Progress.Root value={25} className="h-2 w-full rounded-sm bg-gray-200">
+                            <Progress.Indicator style={{ width: '25%' }} className="h-2 rounded-sm bg-purple-500" />
+                        </Progress.Root>
                         <p className="mt-2 text-sm text-gray-300">Great practice momentum!</p>
                     </div>
                 </div>
@@ -127,8 +128,8 @@ export default function Dashboard({ topics }: DashboardProps) {
                                         const isCompleted = false;
 
                                         return (
-                                            <div key={topic.id} className="h-full">
-                                                <div className="flex h-full flex-col rounded-sm border-2 border-slate-800 shadow-lg transition-all duration-300 hover:border-blue-200 hover:shadow-xl">
+                                            <div key={topic.id} className="group h-full">
+                                                <div className="flex h-full flex-col rounded-sm border-2 border-slate-800 shadow-lg transition-all duration-300 group-hover:border-blue-200 group-hover:shadow-xl">
                                                     {/* Card Header */}
                                                     <div
                                                         className={`bg-gradient-to-r p-6 ${difficultyColors[level]} relative overflow-hidden rounded-t-sm text-white`}
@@ -189,9 +190,12 @@ export default function Dashboard({ topics }: DashboardProps) {
 
                                                             {/* Progress Bar */}
                                                             {isCompleted && (
-                                                                <div className="h-2 w-full rounded-sm bg-gray-200">
-                                                                    <div className="h-2 rounded-sm bg-green-500" style={{ width: '100%' }}></div>
-                                                                </div>
+                                                                <Progress.Root value={100} className="h-2 w-full rounded-sm bg-gray-200">
+                                                                    <Progress.Indicator
+                                                                        style={{ width: '100%' }}
+                                                                        className="h-2 rounded-sm bg-green-500"
+                                                                    />
+                                                                </Progress.Root>
                                                             )}
                                                         </div>
                                                     </div>
