@@ -41,15 +41,20 @@ class Vocabulary extends Model
     }
 
     /**
+     * Convert vocabulary to quiz question format.
+     *
      * @return array<string, mixed>
      */
     public function toQuizQuestion(int|string $userId): array
     {
+        $options = $this->options_de ?? [];
+        $shuffledOptions = Arr::shuffle(array_values($options));
+
         return [
             'user_id' => $userId,
             'question' => $this->text,
             'answer' => $this->text_de,
-            'options' => Arr::shuffle($this->options_de),
+            'options' => $shuffledOptions,
             'hint' => $this->note,
         ];
     }

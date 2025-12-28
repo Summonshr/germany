@@ -11,7 +11,9 @@ class FinishQuiz
 {
     public function handle(FinishQuizData $finishQuizData): Quiz
     {
-        $quiz = Quiz::with('questions')->where('uuid', $finishQuizData->quiz)->firstOrFail();
+        $quiz = Quiz::with('questions')
+            ->where('uuid', $finishQuizData->quiz)
+            ->firstOrFail();
 
         $quiz->update([
             'finished_at' => now(),
@@ -19,9 +21,11 @@ class FinishQuiz
         ]);
 
         foreach ($finishQuizData->selected_answers as $answer) {
-            $quiz->questions
-                ->firstWhere('id', $answer->question_id)
-                ->update(['given_answer' => $answer->answer]);
+            $question = $quiz->questions->firstWhere('id', $answer->question_id);
+
+            if ($question !== null) {
+                $question->update(['given_answer' => $answer->answer]);
+            }
         }
 
         app(CalculateQuizScore::class)->handle($quiz);

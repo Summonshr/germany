@@ -17,7 +17,7 @@ class QuizController extends Controller
     {
         Gate::authorize('view', $quiz);
 
-        if ($quiz->finished_at !== null) {
+        if ($quiz->isFinished()) {
             return to_route('quiz.results', [
                 'quiz' => $quiz->uuid,
             ]);
@@ -31,7 +31,10 @@ class QuizController extends Controller
     public function results(Request $request, Quiz $quiz): Response
     {
         Gate::authorize('view', $quiz);
-        abort_if($quiz->isNotFinished(), 403);
+
+        if ($quiz->isNotFinished()) {
+            abort(403, 'Quiz must be finished to view results.');
+        }
 
         return inertia('quiz-result', [
             'quiz' => $quiz->load('questions'),

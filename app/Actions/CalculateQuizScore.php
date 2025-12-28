@@ -10,10 +10,20 @@ class CalculateQuizScore
 {
     public function handle(Quiz $quiz): void
     {
-        $score = $quiz->questions()->whereColumn('answer', 'given_answer')->count();
+        $totalQuestions = $quiz->questions->count();
 
-        $quiz->score = (int) (100 * $score / $quiz->questions->count());
+        if ($totalQuestions === 0) {
+            $quiz->score = 0;
+            $quiz->save();
 
+            return;
+        }
+
+        $correctAnswers = $quiz->questions()
+            ->whereColumn('answer', 'given_answer')
+            ->count();
+
+        $quiz->score = (int) (100 * $correctAnswers / $totalQuestions);
         $quiz->save();
     }
 }

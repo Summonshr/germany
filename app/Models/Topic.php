@@ -14,25 +14,16 @@ class Topic extends Model
 
     public function vocabulary(): HasMany
     {
-        /** @var HasMany $query */
-        $query = $this->hasMany(Vocabulary::class);
-
-        return $query->words();
+        return $this->hasMany(Vocabulary::class)->words();
     }
 
     public function sentences(): HasMany
     {
-        /** @var HasMany $query */
-        $query = $this->hasMany(Vocabulary::class);
-
-        return $query->sentences();
+        return $this->hasMany(Vocabulary::class)->sentences();
     }
 
     public function randomVocabulary(): HasMany
     {
-        /** @var HasMany $query */
-        $query = $this->vocabulary();
-
-        return $query->words()->inRandomOrder()->take(10);
+        return $this->vocabulary()->inRandomOrder()->take(10);
     }
 }

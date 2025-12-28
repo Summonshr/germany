@@ -11,16 +11,20 @@ class SaveQuiz
 {
     public function handle(SaveQuizData $saveQuizData): Quiz
     {
-        $quiz = Quiz::with('questions')->where('uuid', $saveQuizData->quiz)->firstOrFail();
+        $quiz = Quiz::with('questions')
+            ->where('uuid', $saveQuizData->quiz)
+            ->firstOrFail();
 
         $quiz->update([
             'current_question' => $saveQuizData->current_question,
         ]);
 
         foreach ($saveQuizData->selected_answers as $answer) {
-            $quiz->questions
-                ->firstWhere('id', $answer->question_id)
-                ->update(['given_answer' => $answer->answer]);
+            $question = $quiz->questions->firstWhere('id', $answer->question_id);
+
+            if ($question !== null) {
+                $question->update(['given_answer' => $answer->answer]);
+            }
         }
 
         return $quiz;

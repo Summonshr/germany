@@ -16,6 +16,8 @@ class Quiz extends Model
     use HasFactory;
     use HasUuids;
 
+    protected $primaryKey = 'uuid';
+
     protected $keyType = 'string';
 
     public $incrementing = false;
@@ -26,10 +28,9 @@ class Quiz extends Model
             'topic_ids' => 'array',
             'question_ids' => 'array',
             'type' => QuizType::class,
+            'finished_at' => 'datetime',
         ];
     }
-
-    public $primaryKey = 'uuid';
 
     public function questions(): HasMany
     {

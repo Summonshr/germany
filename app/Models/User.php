@@ -4,9 +4,7 @@ declare(strict_types=1);
 
 namespace App\Models;
 
-// use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
@@ -38,11 +36,12 @@ class User extends Authenticatable
         ];
     }
 
-    /**
-     * @return BelongsTo<Language, $this>
-     */
-    public function language(): BelongsTo
-    {
-        return $this->belongsTo(Language::class, 'preferred_language', 'code');
-    }
+    // TODO: Uncomment when Language model is created
+    // /**
+    //  * @return BelongsTo<Language, $this>
+    //  */
+    // public function language(): BelongsTo
+    // {
+    //     return $this->belongsTo(Language::class, 'preferred_language', 'code');
+    // }
 }
