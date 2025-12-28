@@ -5,7 +5,7 @@ import * as Dialog from '@radix-ui/react-dialog';
 import { Cross2Icon } from '@radix-ui/react-icons';
 import * as ToggleGroup from '@radix-ui/react-toggle-group';
 import * as Tooltip from '@radix-ui/react-tooltip';
-import { ArrowLeft, ArrowRight, CheckCircle2, Circle } from 'lucide-react';
+import { ArrowLeft, ArrowRight, CheckCircle2, Circle, Sparkles } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 interface Question {
@@ -144,16 +144,16 @@ export default function Quiz({ quiz }: QuizProps) {
             <Dialog.Root open={isFinishDialogOpen} onOpenChange={setIsFinishDialogOpen}>
                 <Dialog.Portal>
                     <Dialog.Overlay className="fixed inset-0 z-50 bg-black/60 backdrop-blur-sm data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0" />
-                    <Dialog.Content className="fixed left-1/2 top-1/2 z-50 w-full max-w-md -translate-x-1/2 -translate-y-1/2 rounded-2xl border border-slate-200 bg-white p-6 shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 dark:border-slate-800 dark:bg-slate-900">
-                        <Dialog.Title className="mb-2 text-2xl font-bold text-slate-900 dark:text-white">
+                    <Dialog.Content className="fixed left-1/2 top-1/2 z-50 w-full max-w-md -translate-x-1/2 -translate-y-1/2 rounded-3xl border border-slate-200/50 bg-white/95 p-8 shadow-2xl backdrop-blur-xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 dark:border-slate-800/50 dark:bg-slate-900/95">
+                        <Dialog.Title className="mb-3 text-3xl font-bold text-slate-900 dark:text-white">
                             Finish Quiz?
                         </Dialog.Title>
-                        <Dialog.Description className="mb-6 text-slate-600 dark:text-slate-400">
+                        <Dialog.Description className="mb-8 text-slate-600 dark:text-slate-400">
                             Are you sure you want to finish the quiz? Your progress will be saved and you'll see your results.
                         </Dialog.Description>
                         <div className="flex justify-end gap-3">
                             <Dialog.Close asChild>
-                                <button className="rounded-xl border border-slate-300 bg-white px-6 py-2.5 font-medium text-slate-700 transition-colors hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-750">
+                                <button className="rounded-xl border border-slate-300 bg-white px-6 py-2.5 font-semibold text-slate-700 transition-all hover:bg-slate-50 hover:shadow-md dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-750">
                                     Cancel
                                 </button>
                             </Dialog.Close>
@@ -166,7 +166,7 @@ export default function Quiz({ quiz }: QuizProps) {
                         </div>
                         <Dialog.Close asChild>
                             <button
-                                className="absolute right-4 top-4 rounded-lg p-1 text-slate-400 transition-colors hover:bg-slate-100 hover:text-slate-600 dark:hover:bg-slate-800 dark:hover:text-slate-300"
+                                className="absolute right-4 top-4 rounded-lg p-1.5 text-slate-400 transition-colors hover:bg-slate-100 hover:text-slate-600 dark:hover:bg-slate-800 dark:hover:text-slate-300"
                                 aria-label="Close"
                             >
                                 <Cross2Icon className="h-4 w-4" />
@@ -176,28 +176,29 @@ export default function Quiz({ quiz }: QuizProps) {
                 </Dialog.Portal>
             </Dialog.Root>
 
-            <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-50 dark:from-slate-950 dark:via-slate-900 dark:to-slate-950">
+            <div className="min-h-screen">
                 <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
                     {/* Progress Bar */}
-                    <div className="mb-8">
-                        <div className="mb-3 flex items-center justify-between text-sm font-medium text-slate-600 dark:text-slate-400">
-                            <span>
+                    <div className="mb-8 animate-fade-in">
+                        <div className="mb-4 flex items-center justify-between text-sm font-semibold text-slate-600 dark:text-slate-400">
+                            <span className="flex items-center gap-2">
+                                <Sparkles className="h-4 w-4" />
                                 Question {currentQuestionIndex + 1} of {totalQuestions}
                             </span>
-                            <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-slate-800 dark:text-slate-300">
+                            <span className="rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 px-4 py-1.5 text-xs font-bold text-white shadow-lg">
                                 {answeredCount} / {totalQuestions} answered
                             </span>
                         </div>
-                        <div className="h-3 w-full overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
+                        <div className="h-4 w-full overflow-hidden rounded-full bg-slate-200/80 shadow-inner dark:bg-slate-800/80">
                             <div
-                                className="h-full rounded-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-600 transition-all duration-500 ease-out shadow-lg shadow-blue-500/25"
+                                className="h-full rounded-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-600 transition-all duration-700 ease-out shadow-lg"
                                 style={{ width: `${progress}%` }}
                             />
                         </div>
                     </div>
 
                     {/* Question Card */}
-                    <div className="mb-8 rounded-2xl border border-slate-200 bg-white p-8 shadow-lg dark:border-slate-800 dark:bg-slate-900">
+                    <div className="mb-8 overflow-hidden rounded-3xl border border-slate-200/50 bg-white/80 p-8 shadow-2xl backdrop-blur-sm dark:border-slate-800/50 dark:bg-slate-900/80">
                         <div className="mb-6">
                             <h2 className="mb-4 text-lg font-semibold text-slate-600 dark:text-slate-400">
                                 What is the German translation for:
@@ -207,9 +208,9 @@ export default function Quiz({ quiz }: QuizProps) {
                             </div>
 
                             {currentQuestion.description && (
-                                <div className="rounded-xl border border-blue-200 bg-blue-50 p-4 dark:border-blue-800 dark:bg-blue-950/30">
+                                <div className="rounded-2xl border border-blue-200 bg-gradient-to-br from-blue-50 to-indigo-50 p-5 dark:border-blue-800 dark:from-blue-950/30 dark:to-indigo-950/30">
                                     <p className="text-base text-slate-700 dark:text-slate-300">
-                                        <strong className="font-semibold text-blue-600 dark:text-blue-400">Hint:</strong>{' '}
+                                        <strong className="font-bold text-blue-600 dark:text-blue-400">💡 Hint:</strong>{' '}
                                         {currentQuestion.description}
                                     </p>
                                 </div>
@@ -222,7 +223,7 @@ export default function Quiz({ quiz }: QuizProps) {
                                 type="single"
                                 value={currentAnswer || undefined}
                                 onValueChange={handleAnswerSelect}
-                                className="grid grid-cols-1 gap-3 sm:grid-cols-2"
+                                className="grid grid-cols-1 gap-4 sm:grid-cols-2"
                             >
                                 {currentQuestion.options.map((option, index) => {
                                     const isSelected = currentAnswer === option;
@@ -230,18 +231,18 @@ export default function Quiz({ quiz }: QuizProps) {
                                         <ToggleGroup.Item
                                             key={index}
                                             value={option}
-                                            className={`group relative w-full rounded-xl border-2 p-5 text-left text-lg font-medium transition-all duration-200 ${
+                                            className={`group relative w-full rounded-2xl border-2 p-6 text-left text-lg font-semibold transition-all duration-300 ${
                                                 isSelected
-                                                    ? 'border-blue-500 bg-blue-50 text-blue-700 shadow-lg shadow-blue-500/10 dark:border-blue-500 dark:bg-blue-950/30 dark:text-blue-300'
-                                                    : 'border-slate-200 bg-white text-slate-700 hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:border-slate-600 dark:hover:bg-slate-750'
+                                                    ? 'border-blue-500 bg-gradient-to-br from-blue-50 to-indigo-50 text-blue-700 shadow-xl shadow-blue-500/20 dark:border-blue-500 dark:from-blue-950/30 dark:to-indigo-950/30 dark:text-blue-300'
+                                                    : 'border-slate-200 bg-white text-slate-700 hover:border-slate-300 hover:bg-slate-50 hover:shadow-lg dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:border-slate-600 dark:hover:bg-slate-750'
                                             }`}
                                         >
                                             <div className="flex items-center justify-between">
-                                                <div className="flex items-center gap-3">
+                                                <div className="flex items-center gap-4">
                                                     <span
-                                                        className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-lg font-bold ${
+                                                        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-xl font-bold text-sm shadow-md transition-all ${
                                                             isSelected
-                                                                ? 'bg-blue-600 text-white'
+                                                                ? 'bg-gradient-to-br from-blue-600 to-indigo-600 text-white'
                                                                 : 'bg-slate-100 text-slate-600 dark:bg-slate-700 dark:text-slate-400'
                                                         }`}
                                                     >
@@ -271,7 +272,7 @@ export default function Quiz({ quiz }: QuizProps) {
                                     <button
                                         onClick={handlePrevious}
                                         disabled={currentQuestionIndex === 0}
-                                        className="group inline-flex items-center gap-2 rounded-xl border border-slate-300 bg-white px-6 py-3 font-semibold text-slate-700 transition-all duration-200 disabled:cursor-not-allowed disabled:opacity-50 hover:scale-105 hover:bg-slate-50 hover:shadow-md dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-750"
+                                        className="group inline-flex items-center gap-2 rounded-xl border border-slate-300 bg-white px-6 py-3 font-semibold text-slate-700 transition-all duration-200 disabled:cursor-not-allowed disabled:opacity-50 hover:scale-105 hover:bg-slate-50 hover:shadow-lg dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-750"
                                     >
                                         <ArrowLeft className="h-4 w-4" />
                                         Previous
