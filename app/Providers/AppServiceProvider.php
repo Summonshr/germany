@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Providers;
 
 use App\Http\Requests\Actions\ActionRequest;
@@ -8,6 +10,7 @@ use App\Http\Requests\Actions\CreateNewQuizRequest;
 use App\Http\Requests\Actions\FinishQuizRequest;
 use App\Http\Requests\Actions\RetakeQuizRequest;
 use App\Http\Requests\Actions\SaveQuizRequest;
+use Exception;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\ServiceProvider;
 
@@ -32,7 +35,7 @@ class AppServiceProvider extends ServiceProvider
                 return app($class);
             }
 
-            throw new \Exception('Invalid action type');
+            throw new Exception('Invalid action type');
         });
     }
 

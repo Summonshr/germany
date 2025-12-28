@@ -46,8 +46,14 @@ class QuizQuestionFactory extends Factory
 
     public function wrongAnswer(): static
     {
-        return $this->state(fn (array $attributes): array => [
-            'given_answer' => fake()->word(),
-        ]);
+        return $this->state(function (array $attributes): array {
+            do {
+                $wrongAnswer = fake()->word();
+            } while ($wrongAnswer === $attributes['answer']);
+
+            return [
+                'given_answer' => $wrongAnswer,
+            ];
+        });
     }
 }
