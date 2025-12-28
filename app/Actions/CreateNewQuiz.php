@@ -13,7 +13,7 @@ class CreateNewQuiz
 {
     public function handle(CreateNewQuizData $createNewQuizData): Quiz
     {
-        $quiz = Quiz::query()->create([
+        $quiz = Quiz::create([
             'current_question' => 0,
             'user_id' => $createNewQuizData->user_id,
             'uuid' => str()->uuid()->toString(),
@@ -22,25 +22,7 @@ class CreateNewQuiz
         ]);
 
         if ($createNewQuizData->hard) {
-            $lastWrongQuestionIds = QuizQuestion::where('user_id', $createNewQuizData->user_id)
-                ->whereColumn('answer', '!=', 'given_answer')
-                ->latest('id')
-                ->limit(100);
-
-            $quiz->questions()->createMany(
-                QuizQuestion::whereIn('id', $lastWrongQuestionIds->select('id'))
-                    ->inRandomOrder()
-                    ->limit(5)
-                    ->get()
-                    ->map(fn (QuizQuestion $question) => [
-                        'user_id' => $createNewQuizData->user_id,
-                        'quiz_uuid' => $quiz->uuid,
-                        'question' => $question->question,
-                        'answer' => $question->answer,
-                        'options' => $question->options,
-                        'hint' => $question->hint,
-                    ])
-            );
+            $this->createHardQuiz($createNewQuizData, $quiz);
 
             return $quiz;
         }
@@ -54,5 +36,30 @@ class CreateNewQuiz
         );
 
         return $quiz;
+    }
+
+    private function createHardQuiz(CreateNewQuizData $createNewQuizData, Quiz $quiz): void
+    {
+        $lastWrongQuestionIds = QuizQuestion::query()
+            ->where('user_id', $createNewQuizData->user_id)
+            ->whereColumn('answer', '!=', 'given_answer')
+            ->latest('id')
+            ->limit(100);
+
+        $quiz->questions()->createMany(
+            QuizQuestion::query()
+                ->whereIn('id', $lastWrongQuestionIds->select('id'))
+                ->inRandomOrder()
+                ->limit(5)
+                ->get()
+                ->map(fn (QuizQuestion $question) => [
+                    'user_id' => $createNewQuizData->user_id,
+                    'quiz_uuid' => $quiz->uuid,
+                    'question' => $question->question,
+                    'answer' => $question->answer,
+                    'options' => $question->options,
+                    'hint' => $question->hint,
+                ])
+        );
     }
 }

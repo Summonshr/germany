@@ -3,7 +3,8 @@
 declare(strict_types=1);
 
 namespace App\Models;
-
+    
+use App\Enums\QuizType;
 use Illuminate\Database\Eloquent\Attributes\Scope;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
@@ -18,20 +19,25 @@ class Vocabulary extends Model
 
     protected $table = 'vocabulary';
 
-    public $casts = [
-        'options_de' => 'array',
-    ];
+    protected function casts(): array
+    {
+        return [
+            'options_de' => 'array',
+            'synonyms' => 'array',
+            'type' => QuizType::class,
+        ];
+    }
 
     #[Scope]
     protected function words(Builder $query): void
     {
-        $query->where('type', 'vocabulary');
+        $query->where('type', QuizType::Vocabulary);
     }
 
     #[Scope]
     protected function sentences(Builder $query): void
     {
-        $query->where('type', 'sentence');
+        $query->where('type', QuizType::Sentence);
     }
 
     /**

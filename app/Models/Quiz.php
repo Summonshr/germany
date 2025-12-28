@@ -20,11 +20,14 @@ class Quiz extends Model
 
     public $incrementing = false;
 
-    public $casts = [
-        'topic_ids' => 'array',
-        'question_ids' => 'array',
-        'type' => QuizType::class,
-    ];
+    protected function casts(): array
+    {
+        return [
+            'topic_ids' => 'array',
+            'question_ids' => 'array',
+            'type' => QuizType::class,
+        ];
+    }
 
     public $primaryKey = 'uuid';
 

@@ -2,6 +2,7 @@
 
 namespace Database\Factories;
 
+use App\Enums\QuizType;
 use App\Models\Topic;
 use App\Models\Vocabulary;
 use Illuminate\Database\Eloquent\Factories\Factory;
@@ -20,10 +21,10 @@ class VocabularyFactory extends Factory
     {
         return [
             'topic_id' => Topic::factory(),
-            'type' => 'vocabulary',
+            'type' => QuizType::Vocabulary->value,
             'text' => fake()->word(),
             'text_de' => fake()->word(),
-            'synonyms' => json_encode([]),
+            'synonyms' => [],
             'description' => fake()->sentence(),
             'description_de' => fake()->sentence(),
             'note' => fake()->sentence(),
@@ -42,7 +43,7 @@ class VocabularyFactory extends Factory
     public function sentence(): static
     {
         return $this->state(fn (array $attributes): array => [
-            'type' => 'sentence',
+            'type' => QuizType::Sentence->value,
             'text' => fake()->sentence(),
             'text_de' => fake()->sentence(),
         ]);

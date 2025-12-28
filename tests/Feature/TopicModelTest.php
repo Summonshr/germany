@@ -1,5 +1,6 @@
 <?php
 
+use App\Enums\QuizType;
 use App\Models\Topic;
 use App\Models\Vocabulary;
 
@@ -40,5 +41,5 @@ test('randomVocabulary returns random vocabulary items', function (): void {
     $randomVocab = $topic->randomVocabulary()->get();
 
     expect($randomVocab->count())->toBe(10);
-    expect($randomVocab->first()->type)->toBe('vocabulary');
+    expect($randomVocab->first()->type)->toBe(QuizType::Vocabulary);
 });
