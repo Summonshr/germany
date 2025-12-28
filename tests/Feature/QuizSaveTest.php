@@ -30,8 +30,6 @@ test('authenticated users can save quiz progress', function (): void {
         ],
     ]);
 
-    
-
     $quiz->refresh();
     expect($quiz->current_question)->toBe(1);
 
@@ -82,8 +80,6 @@ test('save quiz can update multiple answers', function (): void {
             ['question_id' => $question2->id, 'answer' => 'answer 2'],
         ],
     ]);
-
-    
 
     $question1->refresh();
     $question2->refresh();

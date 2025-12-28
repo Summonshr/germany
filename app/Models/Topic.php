@@ -24,7 +24,7 @@ class Topic extends Model
     {
         /** @var HasMany $query */
         $query = $this->hasMany(Vocabulary::class);
-        
+
         return $query->sentences();
     }
 

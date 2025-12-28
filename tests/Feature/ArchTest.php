@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Support\Facades\Schema;
 
 arch('globals')
     ->expect(['dd', 'dump', 'ray', 'var_dump', 'print_r'])
