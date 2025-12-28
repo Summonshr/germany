@@ -17,7 +17,7 @@ class RetakeQuizRequest extends ActionRequest
     {
         $this->quiz = Quiz::with('questions')->where('uuid', $this->input('quiz'))->firstOrFail();
 
-        return $this->quiz->user_id === $this->user()->id;
+        return $this->user()->can('update', $this->quiz);
     }
 
     public function rules(): array

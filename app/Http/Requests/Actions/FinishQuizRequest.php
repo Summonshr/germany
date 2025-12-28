@@ -15,7 +15,9 @@ class FinishQuizRequest extends ActionRequest
 {
     public function authorize(): bool
     {
-        return $this->user()->id === Quiz::query()->where('uuid', $this->input('quiz'))->firstOrFail()->user_id;
+        $quiz = Quiz::query()->where('uuid', $this->input('quiz'))->firstOrFail();
+
+        return $this->user()->can('update', $quiz);
     }
 
     public function rules(): array
