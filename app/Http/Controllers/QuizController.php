@@ -6,11 +6,13 @@ namespace App\Http\Controllers;
 
 use App\Models\Quiz;
 use App\Models\Topic;
+use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Inertia\Response;
 
 class QuizController extends Controller
 {
-    public function quiz(Request $request, Quiz $quiz)
+    public function quiz(Request $request, Quiz $quiz): Response|RedirectResponse
     {
         abort_if($quiz->user_id !== $request->user()->id, 403);
 
@@ -25,7 +27,7 @@ class QuizController extends Controller
         ]);
     }
 
-    public function results(Request $request, Quiz $quiz)
+    public function results(Request $request, Quiz $quiz): Response
     {
         abort_if($quiz->user_id !== $request->user()->id || $quiz->isNotFinished(), 403);
 

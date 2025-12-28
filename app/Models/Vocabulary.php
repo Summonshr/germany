@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Attributes\Scope;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Arr;
@@ -22,18 +23,21 @@ class Vocabulary extends Model
     ];
 
     #[Scope]
-    protected function words($query)
+    protected function words(Builder $query): void
     {
-        return $query->where('type', 'vocabulary');
+        $query->where('type', 'vocabulary');
     }
 
     #[Scope]
-    protected function sentences($query)
+    protected function sentences(Builder $query): void
     {
-        return $query->where('type', 'sentence');
+        $query->where('type', 'sentence');
     }
 
-    public function toQuizQuestion($userId): array
+    /**
+     * @return array<string, mixed>
+     */
+    public function toQuizQuestion(int|string $userId): array
     {
         return [
             'user_id' => $userId,

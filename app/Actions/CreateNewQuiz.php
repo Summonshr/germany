@@ -11,7 +11,7 @@ use App\Models\Vocabulary;
 
 class CreateNewQuiz
 {
-    public function handle(CreateNewQuizData $createNewQuizData)
+    public function handle(CreateNewQuizData $createNewQuizData): Quiz
     {
         $quiz = Quiz::query()->create([
             'current_question' => 0,

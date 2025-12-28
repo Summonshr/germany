@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Http\Requests\Actions;
 
 use Illuminate\Contracts\Validation\ValidationRule;
@@ -27,5 +29,5 @@ abstract class ActionRequest extends FormRequest
         ];
     }
 
-    abstract public function handle();
+    abstract public function handle(): mixed;
 }

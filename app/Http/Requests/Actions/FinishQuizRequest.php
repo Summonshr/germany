@@ -1,11 +1,14 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Http\Requests\Actions;
 
 use App\Actions\FinishQuiz;
 use App\Data\FinishQuizData;
 use App\Data\SelectedAnswerData;
 use App\Models\Quiz;
+use Illuminate\Http\RedirectResponse;
 use Spatie\LaravelData\DataCollection;
 
 class FinishQuizRequest extends ActionRequest
@@ -26,7 +29,7 @@ class FinishQuizRequest extends ActionRequest
         ];
     }
 
-    public function handle()
+    public function handle(): RedirectResponse
     {
         return app(FinishQuiz::class)->handle(new FinishQuizData(
             quiz: $this->input('quiz'),

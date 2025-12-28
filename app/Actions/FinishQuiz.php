@@ -9,7 +9,7 @@ use App\Models\Quiz;
 
 class FinishQuiz
 {
-    public function handle(FinishQuizData $finishQuizData)
+    public function handle(FinishQuizData $finishQuizData): Quiz
     {
         $quiz = Quiz::with('questions')->where('uuid', $finishQuizData->quiz)->firstOrFail();
 

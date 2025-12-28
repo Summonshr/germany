@@ -1,10 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Http\Requests\Actions;
 
 use App\Actions\CreateNewQuiz;
 use App\Data\CreateNewQuizData;
 use App\Enums\QuizType;
+use Illuminate\Http\RedirectResponse;
 
 class CreateNewQuizRequest extends ActionRequest
 {
@@ -22,7 +25,7 @@ class CreateNewQuizRequest extends ActionRequest
         ];
     }
 
-    public function handle()
+    public function handle(): RedirectResponse
     {
         return app(CreateNewQuiz::class)->handle(new CreateNewQuizData(
             $this->user()->id,

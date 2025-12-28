@@ -9,7 +9,7 @@ use App\Models\Quiz;
 
 class SaveQuiz
 {
-    public function handle(SaveQuizData $saveQuizData)
+    public function handle(SaveQuizData $saveQuizData): Quiz
     {
         $quiz = Quiz::with('questions')->where('uuid', $saveQuizData->quiz)->firstOrFail();
 

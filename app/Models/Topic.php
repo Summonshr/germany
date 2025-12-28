@@ -6,23 +6,33 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Topic extends Model
 {
     use HasFactory;
 
-    public function vocabulary()
+    public function vocabulary(): HasMany
     {
-        return $this->hasMany(Vocabulary::class)->words();
+        /** @var HasMany $query */
+        $query = $this->hasMany(Vocabulary::class);
+
+        return $query->words();
     }
 
-    public function sentences()
+    public function sentences(): HasMany
     {
-        return $this->hasMany(Vocabulary::class)->sentences();
+        /** @var HasMany $query */
+        $query = $this->hasMany(Vocabulary::class);
+        
+        return $query->sentences();
     }
 
-    public function randomVocabulary()
+    public function randomVocabulary(): HasMany
     {
-        return $this->vocabulary()->words()->inRandomOrder()->take(10);
+        /** @var HasMany $query */
+        $query = $this->vocabulary();
+
+        return $query->words()->inRandomOrder()->take(10);
     }
 }

@@ -8,6 +8,7 @@ use App\Enums\QuizType;
 use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Http\RedirectResponse;
 
 class Quiz extends Model
@@ -27,7 +28,7 @@ class Quiz extends Model
 
     public $primaryKey = 'uuid';
 
-    public function questions()
+    public function questions(): HasMany
     {
         return $this->hasMany(QuizQuestion::class)->oldest('id');
     }

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Http\Requests\Actions;
 
 use App\Actions\SaveQuiz;
@@ -26,7 +28,7 @@ class SaveQuizRequest extends ActionRequest
         ];
     }
 
-    public function handle(): void
+    public function handle(): mixed
     {
         app(SaveQuiz::class)->handle(new SaveQuizData(
             quiz: $this->input('quiz'),
@@ -36,5 +38,7 @@ class SaveQuizRequest extends ActionRequest
                 $this->input('selected_answers'),
             ),
         ));
+
+        return null;
     }
 }

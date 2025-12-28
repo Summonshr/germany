@@ -1,10 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Http\Requests\Actions;
 
 use App\Actions\CreateNewQuiz;
 use App\Data\CreateNewQuizData;
 use App\Models\Quiz;
+use Illuminate\Http\RedirectResponse;
 
 class RetakeQuizRequest extends ActionRequest
 {
@@ -22,7 +25,7 @@ class RetakeQuizRequest extends ActionRequest
         return [];
     }
 
-    public function handle()
+    public function handle(): RedirectResponse
     {
         $quiz = app(CreateNewQuiz::class)->handle(new CreateNewQuizData(
             $this->user()->id,
