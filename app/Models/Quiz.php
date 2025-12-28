@@ -34,7 +34,7 @@ class Quiz extends Model
 
     public function questions(): HasMany
     {
-        return $this->hasMany(QuizQuestion::class)->oldest('id');
+        return $this->hasMany(QuizQuestion::class, 'quiz_uuid', 'uuid')->oldest('id');
     }
 
     public function isNotFinished(): bool

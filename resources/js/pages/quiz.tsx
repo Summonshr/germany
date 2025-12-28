@@ -5,6 +5,7 @@ import * as Dialog from '@radix-ui/react-dialog';
 import { Cross2Icon } from '@radix-ui/react-icons';
 import * as ToggleGroup from '@radix-ui/react-toggle-group';
 import * as Tooltip from '@radix-ui/react-tooltip';
+import { ArrowLeft, ArrowRight, CheckCircle2, Circle } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 interface Question {
@@ -51,6 +52,7 @@ export default function Quiz({ quiz }: QuizProps) {
     const currentQuestion = questions[currentQuestionIndex];
     const totalQuestions = questions.length;
     const progress = ((currentQuestionIndex + 1) / totalQuestions) * 100;
+    const answeredCount = selectedAnswers.length;
 
     // Keyboard event listener
     useEffect(() => {
@@ -64,9 +66,9 @@ export default function Quiz({ quiz }: QuizProps) {
                 return;
             }
 
-            if (key === 'n') {
+            if (key === 'n' || key === 'arrowright') {
                 handleNext();
-            } else if (key === 'p') {
+            } else if (key === 'p' || key === 'arrowleft') {
                 handlePrevious();
             } else if (key === 'f') {
                 handleFinishQuiz();
@@ -141,120 +143,172 @@ export default function Quiz({ quiz }: QuizProps) {
             {/* Confirmation Dialog */}
             <Dialog.Root open={isFinishDialogOpen} onOpenChange={setIsFinishDialogOpen}>
                 <Dialog.Portal>
-                    <Dialog.Overlay className="fixed inset-0 z-50 bg-black/50 backdrop-blur-sm" />
-                    <Dialog.Content className="fixed top-1/2 left-1/2 z-50 w-[90vw] max-w-md -translate-x-1/2 -translate-y-1/2 transform rounded-sm border border-gray-700 bg-gray-800 p-6">
-                        <Dialog.Title className="mb-2 text-xl font-bold text-gray-100">Finish Quiz?</Dialog.Title>
-                        <Dialog.Description className="mb-6 text-gray-300">
-                            Are you sure you want to finish the quiz? Your progress will be saved.
+                    <Dialog.Overlay className="fixed inset-0 z-50 bg-black/60 backdrop-blur-sm data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0" />
+                    <Dialog.Content className="fixed left-1/2 top-1/2 z-50 w-full max-w-md -translate-x-1/2 -translate-y-1/2 rounded-2xl border border-slate-200 bg-white p-6 shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 dark:border-slate-800 dark:bg-slate-900">
+                        <Dialog.Title className="mb-2 text-2xl font-bold text-slate-900 dark:text-white">
+                            Finish Quiz?
+                        </Dialog.Title>
+                        <Dialog.Description className="mb-6 text-slate-600 dark:text-slate-400">
+                            Are you sure you want to finish the quiz? Your progress will be saved and you'll see your results.
                         </Dialog.Description>
-                        <div className="flex justify-end space-x-3">
+                        <div className="flex justify-end gap-3">
                             <Dialog.Close asChild>
-                                <button className="rounded-sm bg-gray-700 px-4 py-2 text-gray-200 transition hover:bg-gray-600">Cancel</button>
+                                <button className="rounded-xl border border-slate-300 bg-white px-6 py-2.5 font-medium text-slate-700 transition-colors hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-750">
+                                    Cancel
+                                </button>
                             </Dialog.Close>
                             <button
                                 onClick={confirmFinishQuiz}
-                                className="rounded-sm bg-green-600 px-4 py-2 text-white transition hover:bg-green-500"
+                                className="rounded-xl bg-gradient-to-r from-emerald-600 to-emerald-500 px-6 py-2.5 font-semibold text-white shadow-lg shadow-emerald-500/25 transition-all duration-200 hover:scale-105 hover:shadow-xl hover:shadow-emerald-500/30"
                             >
-                                Confirm
+                                Finish Quiz
                             </button>
                         </div>
                         <Dialog.Close asChild>
-                            <button className="absolute top-4 right-4 text-gray-400 hover:text-gray-200" aria-label="Close">
-                                <Cross2Icon />
+                            <button
+                                className="absolute right-4 top-4 rounded-lg p-1 text-slate-400 transition-colors hover:bg-slate-100 hover:text-slate-600 dark:hover:bg-slate-800 dark:hover:text-slate-300"
+                                aria-label="Close"
+                            >
+                                <Cross2Icon className="h-4 w-4" />
                             </button>
                         </Dialog.Close>
                     </Dialog.Content>
                 </Dialog.Portal>
             </Dialog.Root>
 
-            <div className="min-h-screen bg-gray-900 text-gray-100">
-                <div className="px-8 py-8">
-                    {/* Question Card */}
-                    <div className="mb-8 rounded-sm border border-gray-700 bg-gray-800 p-10">
-                        <div className="h-3 w-full rounded-sm bg-gray-700">
+            <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-50 dark:from-slate-950 dark:via-slate-900 dark:to-slate-950">
+                <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
+                    {/* Progress Bar */}
+                    <div className="mb-8">
+                        <div className="mb-3 flex items-center justify-between text-sm font-medium text-slate-600 dark:text-slate-400">
+                            <span>
+                                Question {currentQuestionIndex + 1} of {totalQuestions}
+                            </span>
+                            <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-slate-800 dark:text-slate-300">
+                                {answeredCount} / {totalQuestions} answered
+                            </span>
+                        </div>
+                        <div className="h-3 w-full overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
                             <div
-                                className="h-3 rounded-sm bg-gradient-to-r from-blue-500 to-purple-500 transition-all duration-500"
+                                className="h-full rounded-full bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-600 transition-all duration-500 ease-out shadow-lg shadow-blue-500/25"
                                 style={{ width: `${progress}%` }}
-                            ></div>
+                            />
                         </div>
-                        <div className="mt-3 text-lg text-gray-400">
-                            Question {currentQuestionIndex + 1} of {totalQuestions}
-                        </div>
-                        <div className="my-8">
-                            <h2 className="mb-4 text-2xl font-semibold text-gray-300">What is the German translation for:</h2>
-                            <div className="mb-6 text-5xl font-bold text-blue-400">"{currentQuestion.question}"</div>
+                    </div>
+
+                    {/* Question Card */}
+                    <div className="mb-8 rounded-2xl border border-slate-200 bg-white p-8 shadow-lg dark:border-slate-800 dark:bg-slate-900">
+                        <div className="mb-6">
+                            <h2 className="mb-4 text-lg font-semibold text-slate-600 dark:text-slate-400">
+                                What is the German translation for:
+                            </h2>
+                            <div className="mb-6 text-4xl font-bold text-slate-900 dark:text-white sm:text-5xl">
+                                "{currentQuestion.question}"
+                            </div>
 
                             {currentQuestion.description && (
-                                <div className="mb-4 rounded-sm bg-gray-700/50 p-4">
-                                    <p className="text-lg text-gray-300">
-                                        <strong className="text-blue-400">Description:</strong> {currentQuestion.description}
+                                <div className="rounded-xl border border-blue-200 bg-blue-50 p-4 dark:border-blue-800 dark:bg-blue-950/30">
+                                    <p className="text-base text-slate-700 dark:text-slate-300">
+                                        <strong className="font-semibold text-blue-600 dark:text-blue-400">Hint:</strong>{' '}
+                                        {currentQuestion.description}
                                     </p>
                                 </div>
                             )}
                         </div>
 
-                        {/* Options with ToggleGroup */}
+                        {/* Options */}
                         <div className="mt-8">
                             <ToggleGroup.Root
                                 type="single"
                                 value={currentAnswer || undefined}
                                 onValueChange={handleAnswerSelect}
-                                className="grid grid-cols-1 gap-4 md:grid-cols-2"
+                                className="grid grid-cols-1 gap-3 sm:grid-cols-2"
                             >
-                                {currentQuestion.options.map((option, index) => (
-                                    <ToggleGroup.Item
-                                        key={index}
-                                        value={option}
-                                        className="w-full rounded-sm border-2 border-gray-600 bg-gray-800 p-6 text-left text-lg text-gray-200 transition-all duration-200 hover:border-gray-500 hover:bg-gray-700 data-[state=on]:border-blue-400 data-[state=on]:bg-blue-900/30 data-[state=on]:text-blue-300"
-                                    >
-                                        <div className="flex items-center justify-between">
-                                            <span className="font-medium">{option}</span>
-                                            {currentAnswer === option && <span className="text-2xl">✓</span>}
-                                        </div>
-                                    </ToggleGroup.Item>
-                                ))}
+                                {currentQuestion.options.map((option, index) => {
+                                    const isSelected = currentAnswer === option;
+                                    return (
+                                        <ToggleGroup.Item
+                                            key={index}
+                                            value={option}
+                                            className={`group relative w-full rounded-xl border-2 p-5 text-left text-lg font-medium transition-all duration-200 ${
+                                                isSelected
+                                                    ? 'border-blue-500 bg-blue-50 text-blue-700 shadow-lg shadow-blue-500/10 dark:border-blue-500 dark:bg-blue-950/30 dark:text-blue-300'
+                                                    : 'border-slate-200 bg-white text-slate-700 hover:border-slate-300 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:border-slate-600 dark:hover:bg-slate-750'
+                                            }`}
+                                        >
+                                            <div className="flex items-center justify-between">
+                                                <div className="flex items-center gap-3">
+                                                    <span
+                                                        className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-lg font-bold ${
+                                                            isSelected
+                                                                ? 'bg-blue-600 text-white'
+                                                                : 'bg-slate-100 text-slate-600 dark:bg-slate-700 dark:text-slate-400'
+                                                        }`}
+                                                    >
+                                                        {String.fromCharCode(65 + index)}
+                                                    </span>
+                                                    <span>{option}</span>
+                                                </div>
+                                                {isSelected && (
+                                                    <CheckCircle2 className="h-6 w-6 text-blue-600 dark:text-blue-400" />
+                                                )}
+                                                {!isSelected && (
+                                                    <Circle className="h-6 w-6 text-slate-400 opacity-0 transition-opacity group-hover:opacity-100" />
+                                                )}
+                                            </div>
+                                        </ToggleGroup.Item>
+                                    );
+                                })}
                             </ToggleGroup.Root>
                         </div>
                     </div>
 
                     {/* Navigation */}
-                    <div className="mb-8 flex items-center justify-between">
+                    <div className="flex items-center justify-between gap-4">
                         <Tooltip.Provider>
                             <Tooltip.Root>
                                 <Tooltip.Trigger asChild>
                                     <button
                                         onClick={handlePrevious}
                                         disabled={currentQuestionIndex === 0}
-                                        className="rounded-sm bg-gray-700 px-8 py-4 text-lg font-medium text-gray-300 transition-colors hover:bg-gray-600 disabled:cursor-not-allowed disabled:opacity-50"
+                                        className="group inline-flex items-center gap-2 rounded-xl border border-slate-300 bg-white px-6 py-3 font-semibold text-slate-700 transition-all duration-200 disabled:cursor-not-allowed disabled:opacity-50 hover:scale-105 hover:bg-slate-50 hover:shadow-md dark:border-slate-700 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-750"
                                     >
-                                        ← Previous
+                                        <ArrowLeft className="h-4 w-4" />
+                                        Previous
                                     </button>
                                 </Tooltip.Trigger>
                                 <Tooltip.Portal>
-                                    <Tooltip.Content className="rounded-sm bg-gray-700 px-3 py-2 text-sm text-gray-100" sideOffset={5}>
-                                        Press 'P' to go to previous question
-                                        <Tooltip.Arrow className="fill-gray-700" />
+                                    <Tooltip.Content
+                                        className="rounded-lg bg-slate-900 px-3 py-2 text-sm text-white shadow-lg dark:bg-slate-800"
+                                        sideOffset={5}
+                                    >
+                                        Press 'P' or ← to go back
+                                        <Tooltip.Arrow className="fill-slate-900 dark:fill-slate-800" />
                                     </Tooltip.Content>
                                 </Tooltip.Portal>
                             </Tooltip.Root>
                         </Tooltip.Provider>
 
-                        <div className="flex space-x-4">
+                        <div className="flex gap-3">
                             {currentQuestionIndex < totalQuestions - 1 ? (
                                 <Tooltip.Provider>
                                     <Tooltip.Root>
                                         <Tooltip.Trigger asChild>
                                             <button
                                                 onClick={handleNext}
-                                                className="rounded-sm bg-blue-600 px-8 py-4 text-lg font-medium text-white transition-colors hover:bg-blue-500"
+                                                className="group inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-blue-600 to-indigo-600 px-8 py-3 font-semibold text-white shadow-lg shadow-blue-500/25 transition-all duration-200 hover:scale-105 hover:shadow-xl hover:shadow-blue-500/30"
                                             >
-                                                Next →
+                                                Next
+                                                <ArrowRight className="h-4 w-4" />
                                             </button>
                                         </Tooltip.Trigger>
                                         <Tooltip.Portal>
-                                            <Tooltip.Content className="rounded-sm bg-gray-700 px-3 py-2 text-sm text-gray-100" sideOffset={5}>
-                                                Press 'N' to go to next question
-                                                <Tooltip.Arrow className="fill-gray-700" />
+                                            <Tooltip.Content
+                                                className="rounded-lg bg-slate-900 px-3 py-2 text-sm text-white shadow-lg dark:bg-slate-800"
+                                                sideOffset={5}
+                                            >
+                                                Press 'N' or → to continue
+                                                <Tooltip.Arrow className="fill-slate-900 dark:fill-slate-800" />
                                             </Tooltip.Content>
                                         </Tooltip.Portal>
                                     </Tooltip.Root>
@@ -265,15 +319,19 @@ export default function Quiz({ quiz }: QuizProps) {
                                         <Tooltip.Trigger asChild>
                                             <button
                                                 onClick={handleFinishQuiz}
-                                                className="rounded-sm bg-green-600 px-10 py-4 text-lg font-bold text-white transition-colors hover:bg-green-500 disabled:cursor-not-allowed disabled:opacity-50"
+                                                className="group inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-emerald-600 to-emerald-500 px-8 py-3 font-semibold text-white shadow-lg shadow-emerald-500/25 transition-all duration-200 hover:scale-105 hover:shadow-xl hover:shadow-emerald-500/30"
                                             >
-                                                Finish Quiz 🎯
+                                                Finish Quiz
+                                                <CheckCircle2 className="h-4 w-4" />
                                             </button>
                                         </Tooltip.Trigger>
                                         <Tooltip.Portal>
-                                            <Tooltip.Content className="rounded-sm bg-gray-700 px-3 py-2 text-sm text-gray-100" sideOffset={5}>
-                                                Press 'F' to finish quiz
-                                                <Tooltip.Arrow className="fill-gray-700" />
+                                            <Tooltip.Content
+                                                className="rounded-lg bg-slate-900 px-3 py-2 text-sm text-white shadow-lg dark:bg-slate-800"
+                                                sideOffset={5}
+                                            >
+                                                Press 'F' to finish
+                                                <Tooltip.Arrow className="fill-slate-900 dark:fill-slate-800" />
                                             </Tooltip.Content>
                                         </Tooltip.Portal>
                                     </Tooltip.Root>
