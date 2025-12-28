@@ -4,7 +4,7 @@ namespace App\Http\Requests\Actions;
 
 use App\Actions\CreateNewQuiz;
 use App\Data\CreateNewQuizData;
-use App\Models\Enums\QuizType;
+use App\Enums\QuizType;
 
 class CreateHardQuizRequest extends ActionRequest
 {

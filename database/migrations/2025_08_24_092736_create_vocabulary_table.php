@@ -17,14 +17,14 @@ return new class extends Migration
             $table->enum('type', ['vocabulary', 'sentence']);
             $table->string('text');
             $table->string('text_de');
-            $table->json('synonyms')->default('[]');
+            $table->json('synonyms');
             $table->text('description')->nullable();
             $table->text('description_de')->nullable();
             $table->string('note')->nullable();
             $table->string('note_de')->nullable();
             $table->string('culture')->nullable();
             $table->string('culture_de')->nullable();
-            $table->json('options_de')->default('[]');
+            $table->json('options_de');
         });
     }
 

@@ -1,8 +1,10 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Data;
 
-use App\Models\Enums\QuizType;
+use App\Enums\QuizType;
 use Spatie\LaravelData\Data;
 
 class CreateNewQuizData extends Data
