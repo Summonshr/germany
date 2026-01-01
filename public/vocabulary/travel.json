@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The trip",
+        "text_de": "die Reise",
+        "synonyms": [],
+        "description": "German word for 'The trip'.",
+        "description_de": "Deutsches Wort für 'The trip'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte neue Kulturen entdecken.",
+            "Ich liebe es, um die Welt zu reisen.",
+            "die Reise",
+            "Was sind hier die berühmtesten Sehenswürdigkeiten?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The vacation",
+        "text_de": "der Urlaub",
+        "synonyms": [],
+        "description": "German word for 'The vacation'.",
+        "description_de": "Deutsches Wort für 'The vacation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielleicht gehe ich nächstes Jahr nach Südamerika.",
+            "Ist dein Gepäck schwer?",
+            "der Urlaub",
+            "Der Flughafen ist weit vom Stadtzentrum entfernt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The airport",
+        "text_de": "der Flughafen",
+        "synonyms": [],
+        "description": "German word for 'The airport'.",
+        "description_de": "Deutsches Wort für 'The airport'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Grenze",
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "der Flughafen",
+            "Eine einfache Fahrt nach Berlin, bitte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The flight",
+        "text_de": "der Flug",
+        "synonyms": [],
+        "description": "German word for 'The flight'.",
+        "description_de": "Deutsches Wort für 'The flight'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "der Flug",
+            "Ist dein Gepäck schwer?",
+            "Ich muss in Frankfurt umsteigen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ticket",
+        "text_de": "die Fahrkarte",
+        "synonyms": [],
+        "description": "German word for 'The ticket'.",
+        "description_de": "Deutsches Wort für 'The ticket'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Hotel",
+            "Dieser Laden hat viele handgemachte Dinge.",
+            "die Fahrkarte",
+            "Wir sollten zwei Stunden vor Abflug ankommen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The suitcase",
+        "text_de": "der Koffer",
+        "synonyms": [],
+        "description": "German word for 'The suitcase'.",
+        "description_de": "Deutsches Wort für 'The suitcase'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist heute sehr heiß, nicht wahr?",
+            "der Koffer",
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "Ich muss in Frankfurt umsteigen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The baggage",
+        "text_de": "das Gepäck",
+        "synonyms": [],
+        "description": "German word for 'The baggage'.",
+        "description_de": "Deutsches Wort für 'The baggage'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gepäck",
+            "Brauche ich ein Visum für dieses Land?",
+            "der Reisepass",
+            "Ich möchte neue Kulturen entdecken."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hotel",
+        "text_de": "das Hotel",
+        "synonyms": [],
+        "description": "German word for 'The hotel'.",
+        "description_de": "Deutsches Wort für 'The hotel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der öffentliche Nahverkehr hier ist sehr gut.",
+            "Gehen Sie geradeaus und dann links.",
+            "das Hotel",
+            "Ich bin jetzt wieder zu Hause und sehr müde."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The reservation",
+        "text_de": "die Reservierung",
+        "synonyms": [],
+        "description": "German word for 'The reservation'.",
+        "description_de": "Deutsches Wort für 'The reservation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Reservierung",
+            "Ich suche ein Souvenir für meine Schwester.",
+            "Der Dom ist sehr beeindruckend.",
+            "Dafür muss ich etwas Geld sparen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The destination",
+        "text_de": "das Reiseziel",
+        "synonyms": [],
+        "description": "German word for 'The destination'.",
+        "description_de": "Deutsches Wort für 'The destination'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Flughafen",
+            "Ich habe eine Tageskarte für Bus und U-Bahn gekauft.",
+            "Mein Flug geht morgen um 6 Uhr.",
+            "das Reiseziel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The map",
+        "text_de": "die Landkarte",
+        "synonyms": [],
+        "description": "German word for 'The map'.",
+        "description_de": "Deutsches Wort für 'The map'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Berge sind perfekt zum Wandern.",
+            "die Landkarte",
+            "Ich brauche einen Wecker.",
+            "Der Zug hat zwanzig Minuten Verspätung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sightseeing",
+        "text_de": "das Sightseeing",
+        "synonyms": [],
+        "description": "German word for 'The sightseeing'.",
+        "description_de": "Deutsches Wort für 'The sightseeing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie komme ich zum Museum?",
+            "das Sightseeing",
+            "Ich muss meinen Koffer packen.",
+            "Gibt es eine direkte Verbindung zum Flughafen?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The beach",
+        "text_de": "der Strand",
+        "synonyms": [],
+        "description": "German word for 'The beach'.",
+        "description_de": "Deutsches Wort für 'The beach'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe an den Strand, um mich zu entspannen.",
+            "der Strand",
+            "Wo ist der nächste Geldautomat?",
+            "Ich verbringe meinen Urlaub dieses Jahr in Spanien."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The mountains",
+        "text_de": "die Berge",
+        "synonyms": [],
+        "description": "German word for 'The mountains'.",
+        "description_de": "Deutsches Wort für 'The mountains'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Berge",
+            "Kann ich um 4 Uhr einen Weckruf haben?",
+            "Dafür muss ich etwas Geld sparen.",
+            "Wo kann ich mein Gepäck abholen?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The city tour",
+        "text_de": "der Stadtrundgang",
+        "synonyms": [],
+        "description": "German word for 'The city tour'.",
+        "description_de": "Deutsches Wort für 'The city tour'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich reise lieber mit dem Zug.",
+            "der Stadtrundgang",
+            "Ich reise jetzt schon seit drei Wochen.",
+            "In welchem Hotel übernachten Sie?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The guide",
+        "text_de": "der Reiseleiter",
+        "synonyms": [],
+        "description": "German word for 'The guide'.",
+        "description_de": "Deutsches Wort für 'The guide'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hast du deinen Flug schon gebucht?",
+            "Eine einfache Fahrt nach Berlin, bitte.",
+            "Ich plane schon meine nächste Reise.",
+            "der Reiseleiter"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The passport",
+        "text_de": "der Reisepass",
+        "synonyms": [],
+        "description": "German word for 'The passport'.",
+        "description_de": "Deutsches Wort für 'The passport'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Natur ist wirklich erstaunlich.",
+            "Wohin fährst du im Urlaub?",
+            "der Reisepass",
+            "Das Zimmer hat einen wunderschönen Blick auf das Meer."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The frontier",
+        "text_de": "die Grenze",
+        "synonyms": [],
+        "description": "German word for 'The frontier'.",
+        "description_de": "Deutsches Wort für 'The frontier'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Flug geht morgen um 6 Uhr.",
+            "entdecken",
+            "Sprechen Sie Englisch?",
+            "die Grenze"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To travel",
+        "text_de": "reisen",
+        "synonyms": [],
+        "description": "German word for 'To travel'.",
+        "description_de": "Deutsches Wort für 'To travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist es weit zu Fuß?",
+            "reisen",
+            "das Sightseeing",
+            "Ich bin jetzt wieder zu Hause und sehr müde."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To discover",
+        "text_de": "entdecken",
+        "synonyms": [],
+        "description": "German word for 'To discover'.",
+        "description_de": "Deutsches Wort für 'To discover'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dieser Laden hat viele handgemachte Dinge.",
+            "entdecken",
+            "das Hotel",
+            "Vielleicht gehe ich nächstes Jahr nach Südamerika."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love to travel around the world.",
+        "text_de": "Ich liebe es, um die Welt zu reisen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche einen Wecker.",
+            "Gibt es eine direkte Verbindung zum Flughafen?",
+            "Ich spreche nur ein wenig Deutsch.",
+            "Ich liebe es, um die Welt zu reisen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where are you going for your vacation?",
+        "text_de": "Wohin fährst du im Urlaub?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, um die Welt zu reisen.",
+            "Ich möchte neue Kulturen entdecken.",
+            "Wohin fährst du im Urlaub?",
+            "die Berge"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm spending my vacation in Spain this year.",
+        "text_de": "Ich verbringe meinen Urlaub dieses Jahr in Spanien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist der Check-in-Schalter?",
+            "Reisen bildet.",
+            "Ich verbringe meinen Urlaub dieses Jahr in Spanien.",
+            "Ich mache auf Reisen gerne viele Fotos."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Have you already booked your flight?",
+        "text_de": "Hast du deinen Flug schon gebucht?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss in Frankfurt umsteigen.",
+            "Ich möchte neue Kulturen entdecken.",
+            "Hast du deinen Flug schon gebucht?",
+            "die Landkarte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to pack my suitcase.",
+        "text_de": "Ich muss meinen Koffer packen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich hier mein Handy aufladen?",
+            "der Urlaub",
+            "Ich muss meinen Koffer packen.",
+            "Ich verbringe meinen Urlaub dieses Jahr in Spanien."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is your baggage heavy?",
+        "text_de": "Ist dein Gepäck schwer?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Taxi wird uns um 4:30 Uhr abholen.",
+            "Kann ich bitte einen Stadtplan haben?",
+            "Das Wasser ist sehr klar und warm.",
+            "Ist dein Gepäck schwer?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The airport is far from the city center.",
+        "text_de": "Der Flughafen ist weit vom Stadtzentrum entfernt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Tageskarte für Bus und U-Bahn gekauft.",
+            "Der Flughafen ist weit vom Stadtzentrum entfernt.",
+            "die Berge",
+            "Gehen Sie geradeaus und dann links."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We should arrive two hours before departure.",
+        "text_de": "Wir sollten zwei Stunden vor Abflug ankommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo kann ich mein Gepäck abholen?",
+            "Wir sollten zwei Stunden vor Abflug ankommen.",
+            "Das Zimmer hat einen wunderschönen Blick auf das Meer.",
+            "Die Berge sind perfekt zum Wandern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the check-in counter?",
+        "text_de": "Wo ist der Check-in-Schalter?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich spreche nur ein wenig Deutsch.",
+            "entdecken",
+            "Wo ist der Check-in-Schalter?",
+            "Ich werde den wunderschönen Sonnenuntergang nie vergessen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a window seat.",
+        "text_de": "Ich habe einen Fensterplatz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist der nächste Geldautomat?",
+            "Ich habe einen Fensterplatz.",
+            "Ich liebe es, um die Welt zu reisen.",
+            "Ich vermisse meine Familie ein bisschen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flight was very comfortable.",
+        "text_de": "Der Flug war sehr bequem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Reiseziel",
+            "Der Flug war sehr bequem.",
+            "das Gepäck",
+            "Hast du deinen Flug schon gebucht?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The plane landed on time.",
+        "text_de": "Das Flugzeug ist pünktlich gelandet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Flugzeug ist pünktlich gelandet.",
+            "Ich werde den wunderschönen Sonnenuntergang nie vergessen.",
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "Ist dein Gepäck schwer?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I pick up my luggage?",
+        "text_de": "Wo kann ich mein Gepäck abholen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hat der Zug einen Speisewagen?",
+            "die Reise",
+            "Die Einheimischen sind sehr freundlich und hilfsbereit.",
+            "Wo kann ich mein Gepäck abholen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I lost my passport!",
+        "text_de": "Ich habe meinen Reisepass verloren!",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen Reisepass verloren!",
+            "die Grenze",
+            "Ich spreche nur ein wenig Deutsch.",
+            "Kann ich bitte einen Stadtplan haben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to go to the consulate.",
+        "text_de": "Ich muss zum Konsulat gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen Reisepass verloren!",
+            "Der Flughafen ist weit vom Stadtzentrum entfernt.",
+            "Ich muss zum Konsulat gehen.",
+            "Ich reise jetzt schon seit drei Wochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do I need a visa for this country?",
+        "text_de": "Brauche ich ein Visum für dieses Land?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist schön wieder da zu sein, aber ich vermisse das Meer schon.",
+            "Ich muss meinen Koffer packen.",
+            "Brauche ich ein Visum für dieses Land?",
+            "Wo kann ich mein Gepäck abholen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Which hotel are you staying in?",
+        "text_de": "In welchem Hotel übernachten Sie?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist die nächste Touristeninformation?",
+            "Das Wasser ist sehr klar und warm.",
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "In welchem Hotel übernachten Sie?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a reservation for a double room.",
+        "text_de": "Ich habe eine Reservierung für ein Doppelzimmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich plane schon meine nächste Reise.",
+            "reisen",
+            "Ich habe eine Reservierung für ein Doppelzimmer.",
+            "die Grenze"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is breakfast included in the price?",
+        "text_de": "Ist das Frühstück im Preis inbegriffen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir sollten zwei Stunden vor Abflug ankommen.",
+            "Ist das Frühstück im Preis inbegriffen?",
+            "Ich schaue mir Fotos von meinem letzten Urlaub an.",
+            "Der Dom ist sehr beeindruckend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The room has a beautiful view of the sea.",
+        "text_de": "Das Zimmer hat einen wunderschönen Blick auf das Meer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen Reisepass verloren!",
+            "Wohin fährst du im Urlaub?",
+            "Das Zimmer hat einen wunderschönen Blick auf das Meer.",
+            "Ich schaue mir Fotos von meinem letzten Urlaub an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you recommend a good restaurant nearby?",
+        "text_de": "Können wir ein gutes Restaurant in der Nähe empfehlen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können wir ein gutes Restaurant in der Nähe empfehlen?",
+            "der Stadtrundgang",
+            "Kann ich bitte einen Stadtplan haben?",
+            "Es ist schön wieder da zu sein, aber ich vermisse das Meer schon."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to book a city tour.",
+        "text_de": "Ich möchte einen Stadtrundgang buchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich verbringe meinen Urlaub dieses Jahr in Spanien.",
+            "Ich gehe an den Strand, um mich zu entspannen.",
+            "Wohin fährst du im Urlaub?",
+            "Ich möchte einen Stadtrundgang buchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the nearest tourist information?",
+        "text_de": "Wo ist die nächste Touristeninformation?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist schön wieder da zu sein, aber ich vermisse das Meer schon.",
+            "Das Taxi wird uns um 4:30 Uhr abholen.",
+            "Wo ist die nächste Touristeninformation?",
+            "Wo kann ich eine Fahrkarte kaufen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I have a map of the city, please?",
+        "text_de": "Kann ich bitte einen Stadtplan haben?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergiss deine Sonnencreme nicht.",
+            "Hast du deinen Flug schon gebucht?",
+            "Eine einfache Fahrt nach Berlin, bitte.",
+            "Kann ich bitte einen Stadtplan haben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are the most famous sights here?",
+        "text_de": "Was sind hier die berühmtesten Sehenswürdigkeiten?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist es weit zu Fuß?",
+            "Ist dein Gepäck schwer?",
+            "Was sind hier die berühmtesten Sehenswürdigkeiten?",
+            "Die Natur ist wirklich erstaunlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cathedral is very impressive.",
+        "text_de": "Der Dom ist sehr beeindruckend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Reise!",
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "Der Dom ist sehr beeindruckend.",
+            "Ich muss meinen Koffer packen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How do I get to the museum?",
+        "text_de": "Wie komme ich zum Museum?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss in Frankfurt umsteigen.",
+            "Wir sollten zwei Stunden vor Abflug ankommen.",
+            "Ich möchte einen Stadtrundgang buchen.",
+            "Wie komme ich zum Museum?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Go straight and then turn left.",
+        "text_de": "Gehen Sie geradeaus und dann links.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Hotel",
+            "Ich muss zum Konsulat gehen.",
+            "Gehen Sie geradeaus und dann links.",
+            "der Strand"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is it far to walk?",
+        "text_de": "Ist es weit zu Fuß?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wohin soll ich als Nächstes reisen?",
+            "Kann ich hier mein Handy aufladen?",
+            "Die Berge sind perfekt zum Wandern.",
+            "Ist es weit zu Fuß?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer traveling by train.",
+        "text_de": "Ich reise lieber mit dem Zug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können wir ein gutes Restaurant in der Nähe empfehlen?",
+            "Ich reise lieber mit dem Zug.",
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "Der Zug hat zwanzig Minuten Verspätung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I buy a ticket?",
+        "text_de": "Wo kann ich eine Fahrkarte kaufen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "Wohin soll ich als Nächstes reisen?",
+            "Der Zug hat zwanzig Minuten Verspätung.",
+            "reisen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A one-way ticket to Berlin, please.",
+        "text_de": "Eine einfache Fahrt nach Berlin, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe an den Strand, um mich zu entspannen.",
+            "Ich bin jetzt wieder zu Hause und sehr müde.",
+            "Es ist heute sehr heiß, nicht wahr?",
+            "Eine einfache Fahrt nach Berlin, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Does the train have a dining car?",
+        "text_de": "Hat der Zug einen Speisewagen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hat der Zug einen Speisewagen?",
+            "Das Zimmer hat einen wunderschönen Blick auf das Meer.",
+            "Vergiss deine Sonnencreme nicht.",
+            "die Grenze"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to change trains in Frankfurt.",
+        "text_de": "Ich muss in Frankfurt umsteigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss etwas Bargeld abheben.",
+            "Ich muss in Frankfurt umsteigen.",
+            "Wohin soll ich als Nächstes reisen?",
+            "Das Flugzeug ist pünktlich gelandet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The train is delayed by twenty minutes.",
+        "text_de": "Der Zug hat zwanzig Minuten Verspätung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "reisen",
+            "Die Einheimischen sind sehr freundlich und hilfsbereit.",
+            "Können wir ein gutes Restaurant in der Nähe empfehlen?",
+            "Der Zug hat zwanzig Minuten Verspätung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Traveling broadens the mind.",
+        "text_de": "Reisen bildet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte neue Kulturen entdecken.",
+            "Ich suche ein Souvenir für meine Schwester.",
+            "Das Taxi wird uns um 4:30 Uhr abholen.",
+            "Reisen bildet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to discover new cultures.",
+        "text_de": "Ich möchte neue Kulturen entdecken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Akku meiner Kamera ist leer.",
+            "Wo ist der Check-in-Schalter?",
+            "Ich möchte neue Kulturen entdecken.",
+            "reisen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The mountains are perfect for hiking.",
+        "text_de": "Die Berge sind perfekt zum Wandern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Strand",
+            "Ich muss in Frankfurt umsteigen.",
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "Die Berge sind perfekt zum Wandern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to the beach to relax.",
+        "text_de": "Ich gehe an den Strand, um mich zu entspannen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist das Frühstück im Preis inbegriffen?",
+            "Ich gehe an den Strand, um mich zu entspannen.",
+            "Der Dom ist sehr beeindruckend.",
+            "Der Akku meiner Kamera ist leer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The water is very clear and warm.",
+        "text_de": "Das Wasser ist sehr klar und warm.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wasser ist sehr klar und warm.",
+            "Ist dein Gepäck schwer?",
+            "Ich muss jetzt meine Wäsche waschen.",
+            "Ich übernachte lieber in Hostels, um Leute kennenzulernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't forget your sunscreen.",
+        "text_de": "Vergiss deine Sonnencreme nicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Reise!",
+            "Wohin fährst du im Urlaub?",
+            "Vergiss deine Sonnencreme nicht.",
+            "die Reservierung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to take many photos while traveling.",
+        "text_de": "Ich mache auf Reisen gerne viele Fotos.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte einen Stadtrundgang buchen.",
+            "der Stadtrundgang",
+            "das Hotel",
+            "Ich mache auf Reisen gerne viele Fotos."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My camera is out of battery.",
+        "text_de": "Der Akku meiner Kamera ist leer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich übernachte lieber in Hostels, um Leute kennenzulernen.",
+            "die Fahrkarte",
+            "Ich schaue mir Fotos von meinem letzten Urlaub an.",
+            "Der Akku meiner Kamera ist leer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I charge my phone here?",
+        "text_de": "Kann ich hier mein Handy aufladen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich vermisse meine Familie ein bisschen.",
+            "Kann ich hier mein Handy aufladen?",
+            "In welchem Hotel übernachten Sie?",
+            "Können Sie das bitte langsam wiederholen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The public transport here is very good.",
+        "text_de": "Der öffentliche Nahverkehr hier ist sehr gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "das Reiseziel",
+            "Ich plane schon meine nächste Reise.",
+            "Der öffentliche Nahverkehr hier ist sehr gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought a day ticket for the bus and subway.",
+        "text_de": "Ich habe eine Tageskarte für Bus und U-Bahn gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Fahrkarte",
+            "Ich habe eine Tageskarte für Bus und U-Bahn gekauft.",
+            "reisen",
+            "Dafür muss ich etwas Geld sparen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there a direct connection to the airport?",
+        "text_de": "Gibt es eine direkte Verbindung zum Flughafen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es eine direkte Verbindung zum Flughafen?",
+            "Sprechen Sie Englisch?",
+            "die Reservierung",
+            "Ich muss meinen Koffer packen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm traveling with a backpack this time.",
+        "text_de": "Ich reise dieses Mal mit einem Rucksack.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich reise dieses Mal mit einem Rucksack.",
+            "der Stadtrundgang",
+            "der Strand",
+            "Mein Flug geht morgen um 6 Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer staying in hostels to meet people.",
+        "text_de": "Ich übernachte lieber in Hostels, um Leute kennenzulernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Flughafen",
+            "Ich möchte neue Kulturen entdecken.",
+            "Es ist schön wieder da zu sein, aber ich vermisse das Meer schon.",
+            "Ich übernachte lieber in Hostels, um Leute kennenzulernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The locals are very friendly and helpful.",
+        "text_de": "Die Einheimischen sind sehr freundlich und hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gepäck",
+            "Ich muss meinen Koffer packen.",
+            "Das Taxi wird uns um 4:30 Uhr abholen.",
+            "Die Einheimischen sind sehr freundlich und hilfsbereit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you speak English?",
+        "text_de": "Sprechen Sie Englisch?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich reise lieber mit dem Zug.",
+            "Die Einheimischen sind sehr freundlich und hilfsbereit.",
+            "Ich reise jetzt schon seit drei Wochen.",
+            "Sprechen Sie Englisch?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I only speak a little German.",
+        "text_de": "Ich spreche nur ein wenig Deutsch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich spreche nur ein wenig Deutsch.",
+            "die Landkarte",
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "Ich bin jetzt wieder zu Hause und sehr müde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you repeat that slowly, please?",
+        "text_de": "Können Sie das bitte langsam wiederholen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können Sie das bitte langsam wiederholen?",
+            "Ich suche ein Souvenir für meine Schwester.",
+            "Die Natur ist wirklich erstaunlich.",
+            "Gibt es eine direkte Verbindung zum Flughafen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How do you say 'thank you' in your language?",
+        "text_de": "Wie sagt man 'danke' in Ihrer Sprache?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie sagt man 'danke' in Ihrer Sprache?",
+            "Ist das Frühstück im Preis inbegriffen?",
+            "Wo ist die nächste Touristeninformation?",
+            "Hast du deinen Flug schon gebucht?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I've been traveling for three weeks now.",
+        "text_de": "Ich reise jetzt schon seit drei Wochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich reise jetzt schon seit drei Wochen.",
+            "Wo kann ich mein Gepäck abholen?",
+            "der Stadtrundgang",
+            "Wo ist der Check-in-Schalter?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I miss my family a little bit.",
+        "text_de": "Ich vermisse meine Familie ein bisschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Reiseleiter",
+            "Ich vermisse meine Familie ein bisschen.",
+            "Das Flugzeug ist pünktlich gelandet.",
+            "Ich muss zum Konsulat gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The weather here is much better than at home.",
+        "text_de": "Das Wetter hier ist viel besser als zu Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wetter hier ist viel besser als zu Hause.",
+            "der Flughafen",
+            "der Koffer",
+            "entdecken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's very hot today, isn't it?",
+        "text_de": "Es ist heute sehr heiß, nicht wahr?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielleicht gehe ich nächstes Jahr nach Südamerika.",
+            "Ich gehe an den Strand, um mich zu entspannen.",
+            "Es ist heute sehr heiß, nicht wahr?",
+            "entdecken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a souvenir for my sister.",
+        "text_de": "Ich suche ein Souvenir für meine Schwester.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Flugzeug ist pünktlich gelandet.",
+            "Ich suche ein Souvenir für meine Schwester.",
+            "Das Zimmer hat einen wunderschönen Blick auf das Meer.",
+            "Der Flughafen ist weit vom Stadtzentrum entfernt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This shop has many handmade items.",
+        "text_de": "Dieser Laden hat viele handgemachte Dinge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Flug",
+            "Dieser Laden hat viele handgemachte Dinge.",
+            "Das Flugzeug ist pünktlich gelandet.",
+            "Ich plane schon meine nächste Reise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I pay with credit card?",
+        "text_de": "Kann ich mit Kreditkarte bezahlen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Reiseziel",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "die Fahrkarte",
+            "Ich schaue mir Fotos von meinem letzten Urlaub an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to withdraw some cash.",
+        "text_de": "Ich muss etwas Bargeld abheben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dafür muss ich etwas Geld sparen.",
+            "Ich muss etwas Bargeld abheben.",
+            "das Hotel",
+            "Hat der Zug einen Speisewagen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the nearest ATM?",
+        "text_de": "Wo ist der nächste Geldautomat?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielleicht gehe ich nächstes Jahr nach Südamerika.",
+            "In welchem Hotel übernachten Sie?",
+            "Wo ist der nächste Geldautomat?",
+            "Dieser Laden hat viele handgemachte Dinge."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My flight leaves at 6 AM tomorrow.",
+        "text_de": "Mein Flug geht morgen um 6 Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zug hat zwanzig Minuten Verspätung.",
+            "Mein Flug geht morgen um 6 Uhr.",
+            "Der Flughafen ist weit vom Stadtzentrum entfernt.",
+            "Ich muss jetzt meine Wäsche waschen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need an alarm clock.",
+        "text_de": "Ich brauche einen Wecker.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Strand",
+            "Mein Flug geht morgen um 6 Uhr.",
+            "Wohin fährst du im Urlaub?",
+            "Ich brauche einen Wecker."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I have a wake-up call at 4 AM?",
+        "text_de": "Kann ich um 4 Uhr einen Weckruf haben?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich um 4 Uhr einen Weckruf haben?",
+            "der Reisepass",
+            "Die Berge sind perfekt zum Wandern.",
+            "die Reise"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The taxi will pick us up at 4:30.",
+        "text_de": "Das Taxi wird uns um 4:30 Uhr abholen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Taxi wird uns um 4:30 Uhr abholen.",
+            "Ich schaue mir Fotos von meinem letzten Urlaub an.",
+            "Es ist heute sehr heiß, nicht wahr?",
+            "Der öffentliche Nahverkehr hier ist sehr gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Have a safe trip!",
+        "text_de": "Gute Reise!",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Reise!",
+            "Ich spreche nur ein wenig Deutsch.",
+            "der Stadtrundgang",
+            "Können wir ein gutes Restaurant in der Nähe empfehlen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm back home now and very tired.",
+        "text_de": "Ich bin jetzt wieder zu Hause und sehr müde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin jetzt wieder zu Hause und sehr müde.",
+            "Dafür muss ich etwas Geld sparen.",
+            "Der Akku meiner Kamera ist leer.",
+            "Ich muss etwas Bargeld abheben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It was an unforgettable experience.",
+        "text_de": "Es war eine unvergessliche Erfahrung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin jetzt wieder zu Hause und sehr müde.",
+            "Es war eine unvergessliche Erfahrung.",
+            "Ich werde den wunderschönen Sonnenuntergang nie vergessen.",
+            "Wohin fährst du im Urlaub?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm already planning my next trip.",
+        "text_de": "Ich plane schon meine nächste Reise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Grenze",
+            "der Stadtrundgang",
+            "Vielleicht gehe ich nächstes Jahr nach Südamerika.",
+            "Ich plane schon meine nächste Reise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where should I go next?",
+        "text_de": "Wohin soll ich als Nächstes reisen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Tageskarte für Bus und U-Bahn gekauft.",
+            "Eine einfache Fahrt nach Berlin, bitte.",
+            "Wohin soll ich als Nächstes reisen?",
+            "In welchem Hotel übernachten Sie?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Maybe I'll go to South America next year.",
+        "text_de": "Vielleicht gehe ich nächstes Jahr nach Südamerika.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "Das Taxi wird uns um 4:30 Uhr abholen.",
+            "Vielleicht gehe ich nächstes Jahr nach Südamerika.",
+            "Ich reise lieber mit dem Zug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to save some money for that.",
+        "text_de": "Dafür muss ich etwas Geld sparen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dafür muss ich etwas Geld sparen.",
+            "Ich mache auf Reisen gerne viele Fotos.",
+            "Der Akku meiner Kamera ist leer.",
+            "Können wir ein gutes Restaurant in der Nähe empfehlen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking at photos from my last vacation.",
+        "text_de": "Ich schaue mir Fotos von meinem letzten Urlaub an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "reisen",
+            "Ich schaue mir Fotos von meinem letzten Urlaub an.",
+            "der Flug",
+            "Brauche ich ein Visum für dieses Land?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Memories are the best souvenirs.",
+        "text_de": "Erinnerungen sind die besten Souvenirs.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich um 4 Uhr einen Weckruf haben?",
+            "die Landkarte",
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "Erinnerungen sind die besten Souvenirs."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll never forget the beautiful sunset.",
+        "text_de": "Ich werde den wunderschönen Sonnenuntergang nie vergessen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hat der Zug einen Speisewagen?",
+            "Brauche ich ein Visum für dieses Land?",
+            "Ich werde den wunderschönen Sonnenuntergang nie vergessen.",
+            "Das Wasser ist sehr klar und warm."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature is truly amazing.",
+        "text_de": "Die Natur ist wirklich erstaunlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Landkarte",
+            "Der Flughafen ist weit vom Stadtzentrum entfernt.",
+            "Die Natur ist wirklich erstaunlich.",
+            "Ich reise dieses Mal mit einem Rucksack."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's good to be back, but I already miss the sea.",
+        "text_de": "Es ist schön wieder da zu sein, aber ich vermisse das Meer schon.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie sagt man 'danke' in Ihrer Sprache?",
+            "Es ist schön wieder da zu sein, aber ich vermisse das Meer schon.",
+            "Ist das Frühstück im Preis inbegriffen?",
+            "Erinnerungen sind die besten Souvenirs."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to wash my clothes now.",
+        "text_de": "Ich muss jetzt meine Wäsche waschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Travel'.",
+        "description_de": "Beispielsatz für 'Travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde den wunderschönen Sonnenuntergang nie vergessen.",
+            "Hast du deinen Flug schon gebucht?",
+            "Gibt es eine direkte Verbindung zum Flughafen?",
+            "Ich muss jetzt meine Wäsche waschen."
+        ]
+    }
+]

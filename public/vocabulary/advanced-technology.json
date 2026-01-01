@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Artificial Intelligence",
+        "text_de": "künstliche Intelligenz",
+        "synonyms": [],
+        "description": "German word for 'Artificial Intelligence'.",
+        "description_de": "Deutsches Wort für 'Artificial Intelligence'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich baue jetzt meine erste Website.",
+            "die Digitalisierung",
+            "künstliche Intelligenz",
+            "Technik für erneuerbare Energien schreitet schnell voran."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Machine Learning",
+        "text_de": "maschinelles Lernen",
+        "synonyms": [],
+        "description": "German word for 'Machine Learning'.",
+        "description_de": "Deutsches Wort für 'Machine Learning'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft ist digital.",
+            "Neuronale Netze ahmen das menschliche Gehirn nach.",
+            "Nanotechnologie arbeitet auf molekularer Ebene.",
+            "maschinelles Lernen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Robotics",
+        "text_de": "die Robotik",
+        "synonyms": [],
+        "description": "German word for 'Robotics'.",
+        "description_de": "Deutsches Wort für 'Robotics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Blockchain",
+            "die Robotik",
+            "maschinelles Lernen",
+            "Wasserstoff-Brennstoffzellen sind eine vielversprechende Energiequelle."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Nanotechnology",
+        "text_de": "die Nanotechnologie",
+        "synonyms": [],
+        "description": "German word for 'Nanotechnology'.",
+        "description_de": "Deutsches Wort für 'Nanotechnology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nanotechnologie",
+            "Satelliteninternet verbindet entlegene Gebiete.",
+            "Telemedizin ermöglicht Fernarztbesuche.",
+            "das Cloud-Computing"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Biotechnology",
+        "text_de": "die Biotechnologie",
+        "synonyms": [],
+        "description": "German word for 'Biotechnology'.",
+        "description_de": "Deutsches Wort für 'Biotechnology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Biotechnologie",
+            "Verarbeitung natürlicher Sprache.",
+            "Passe dich dem Wandel an oder bleibe zurück.",
+            "die Automatisierung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Quantum computing",
+        "text_de": "das Quantencomputing",
+        "synonyms": [],
+        "description": "German word for 'Quantum computing'.",
+        "description_de": "Deutsches Wort für 'Quantum computing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "App-Design sollte responsive sein.",
+            "das Quantencomputing",
+            "virtuelle Realität",
+            "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Cloud computing",
+        "text_de": "das Cloud-Computing",
+        "synonyms": [],
+        "description": "German word for 'Cloud computing'.",
+        "description_de": "Deutsches Wort für 'Cloud computing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz transformiert Industrien.",
+            "Malware kann Ihren Computer beschädigen.",
+            "Digitale Transformation ist eine Reise.",
+            "das Cloud-Computing"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Big Data",
+        "text_de": "Big Data",
+        "synonyms": [],
+        "description": "German word for 'Big Data'.",
+        "description_de": "Deutsches Wort für 'Big Data'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir entwickeln eine neue Softwareanwendung.",
+            "Big Data",
+            "Biotechnologie bietet neue medizinische Lösungen.",
+            "Mobile Apps sind Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Blockchain",
+        "text_de": "die Blockchain",
+        "synonyms": [],
+        "description": "German word for 'Blockchain'.",
+        "description_de": "Deutsches Wort für 'Blockchain'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "App-Design sollte responsive sein.",
+            "Wir entwickeln eine neue Softwareanwendung.",
+            "die Blockchain",
+            "Elektrofahrzeuge reduzieren unseren CO2-Fußabdruck."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Cybersecurity",
+        "text_de": "die Cybersicherheit",
+        "synonyms": [],
+        "description": "German word for 'Cybersecurity'.",
+        "description_de": "Deutsches Wort für 'Cybersecurity'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Cybersicherheit",
+            "Das nächste große Ding steht vor der Tür.",
+            "Privatsphäre ist ein Menschenrecht, auch online.",
+            "Nanotechnologie arbeitet auf molekularer Ebene."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Automation",
+        "text_de": "die Automatisierung",
+        "synonyms": [],
+        "description": "German word for 'Automation'.",
+        "description_de": "Deutsches Wort für 'Automation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen unsere Prozesse auf Effizienz optimieren.",
+            "optimieren",
+            "Algorithmus-Voreingenommenheit ist ein ernstes Problem.",
+            "die Automatisierung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Digitalization",
+        "text_de": "die Digitalisierung",
+        "synonyms": [],
+        "description": "German word for 'Digitalization'.",
+        "description_de": "Deutsches Wort für 'Digitalization'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Digitalisierung",
+            "Die digitale Kluft ist eine globale Herausforderung.",
+            "Digitale Transformation ist eine Reise.",
+            "Drohnen können für Lieferungen und Filmaufnahmen genutzt werden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Innovation",
+        "text_de": "die Innovation",
+        "synonyms": [],
+        "description": "German word for 'Innovation'.",
+        "description_de": "Deutsches Wort für 'Innovation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Genießen Sie die Vorteile der Technik mit Bedacht!",
+            "die Blockchain",
+            "die Innovation",
+            "Automatisierung kann Effizienz und Produktivität steigern."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Connectivity",
+        "text_de": "die Konnektivität",
+        "synonyms": [],
+        "description": "German word for 'Connectivity'.",
+        "description_de": "Deutsches Wort für 'Connectivity'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Passe dich dem Wandel an oder bleibe zurück.",
+            "Virtuelle Realität bietet immersive Erfahrungen.",
+            "Biotechnologie bietet neue medizinische Lösungen.",
+            "die Konnektivität"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Virtual Reality",
+        "text_de": "virtuelle Realität",
+        "synonyms": [],
+        "description": "German word for 'Virtual Reality'.",
+        "description_de": "Deutsches Wort für 'Virtual Reality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "virtuelle Realität",
+            "IaaS bietet Infrastruktur über die Cloud.",
+            "das Smart Home",
+            "E-Learning ist zugänglicher als je zuvor."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Augmented Reality",
+        "text_de": "erweiterte Realität",
+        "synonyms": [],
+        "description": "German word for 'Augmented Reality'.",
+        "description_de": "Deutsches Wort für 'Augmented Reality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "erweiterte Realität",
+            "Cybersicherheit hat für Unternehmen oberste Priorität.",
+            "Big-Data-Analysen enthüllen verborgene Muster.",
+            "Big Data"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Smart Home",
+        "text_de": "das Smart Home",
+        "synonyms": [],
+        "description": "German word for 'Smart Home'.",
+        "description_de": "Deutsches Wort für 'Smart Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "IaaS bietet Infrastruktur über die Cloud.",
+            "Künstliche Intelligenz transformiert Industrien.",
+            "Prüfe die Informationsquellen.",
+            "das Smart Home"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Internet of Things",
+        "text_de": "das Internet der Dinge",
+        "synonyms": [],
+        "description": "German word for 'Internet of Things'.",
+        "description_de": "Deutsches Wort für 'Internet of Things'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwei-Faktor-Authentifizierung bietet zusätzliche Sicherheit.",
+            "das Internet der Dinge",
+            "Big Data",
+            "virtuelle Realität"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To develop",
+        "text_de": "entwickeln",
+        "synonyms": [],
+        "description": "German word for 'To develop'.",
+        "description_de": "Deutsches Wort für 'To develop'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "entwickeln",
+            "virtuelle Realität",
+            "Biotechnologie bietet neue medizinische Lösungen.",
+            "Mein Smart-Home-System ist sehr praktisch."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To optimize",
+        "text_de": "optimieren",
+        "synonyms": [],
+        "description": "German word for 'To optimize'.",
+        "description_de": "Deutsches Wort für 'To optimize'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kritisches Denken wird mehr denn je benötigt.",
+            "Smart Cities nutzen Technik, um das Leben zu verbessern.",
+            "optimieren",
+            "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Artificial Intelligence is transforming industries.",
+        "text_de": "Künstliche Intelligenz transformiert Industrien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz transformiert Industrien.",
+            "Genießen Sie die Vorteile der Technik mit Bedacht!",
+            "Wir müssen unsere Prozesse auf Effizienz optimieren.",
+            "E-Learning ist zugänglicher als je zuvor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Machine learning algorithms improve with data.",
+        "text_de": "Algorithmen für maschinelles Lernen verbessern sich mit Daten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir entwickeln eine neue Softwareanwendung.",
+            "erweiterte Realität",
+            "Algorithmen für maschinelles Lernen verbessern sich mit Daten.",
+            "die Biotechnologie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Robotics is used in manufacturing and surgery.",
+        "text_de": "Robotik wird in der Fertigung und in der Chirurgie eingesetzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Digitalisierung",
+            "die Automatisierung",
+            "Mobile Apps sind Teil unserer Identität.",
+            "Robotik wird in der Fertigung und in der Chirurgie eingesetzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nanotechnology works at the molecular level.",
+        "text_de": "Nanotechnologie arbeitet auf molekularer Ebene.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Internet der Dinge",
+            "Big Data",
+            "Nanotechnologie arbeitet auf molekularer Ebene.",
+            "Das nächste große Ding steht vor der Tür."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Biotechnology offers new medical solutions.",
+        "text_de": "Biotechnologie bietet neue medizinische Lösungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir entwickeln eine neue Softwareanwendung.",
+            "das Smart Home",
+            "Die Benutzeroberfläche sollte intuitiv sein.",
+            "Biotechnologie bietet neue medizinische Lösungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Quantum computing could solve complex problems.",
+        "text_de": "Quantencomputing könnte komplexe Probleme lösen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Quantencomputing könnte komplexe Probleme lösen.",
+            "Wasserstoff-Brennstoffzellen sind eine vielversprechende Energiequelle.",
+            "Biometrische Daten sind sehr sensibel.",
+            "das Cloud-Computing"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cloud computing allows remote data storage.",
+        "text_de": "Cloud-Computing ermöglicht die Remote-Datenspeicherung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nanotechnologie",
+            "die Robotik",
+            "Malware kann Ihren Computer beschädigen.",
+            "Cloud-Computing ermöglicht die Remote-Datenspeicherung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Big Data analysis reveals hidden patterns.",
+        "text_de": "Big-Data-Analysen enthüllen verborgene Muster.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Big-Data-Analysen enthüllen verborgene Muster.",
+            "Open-Source-Software fördert die Zusammenarbeit.",
+            "Algorithmen für maschinelles Lernen verbessern sich mit Daten.",
+            "Eine Datenpanne kann schwerwiegende Folgen haben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Blockchain technology is used for secure transactions.",
+        "text_de": "Blockchain-Technik wird für sichere Transaktionen eingesetzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Drohnen können für Lieferungen und Filmaufnahmen genutzt werden.",
+            "Satelliteninternet verbindet entlegene Gebiete.",
+            "Blockchain-Technik wird für sichere Transaktionen eingesetzt.",
+            "Mobile Apps sind Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cybersecurity is a top priority for companies.",
+        "text_de": "Cybersicherheit hat für Unternehmen oberste Priorität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verarbeitung natürlicher Sprache.",
+            "Cybersicherheit hat für Unternehmen oberste Priorität.",
+            "die Nanotechnologie",
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Automation can increase efficiency and productivity.",
+        "text_de": "Automatisierung kann Effizienz und Produktivität steigern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Automatisierung kann Effizienz und Produktivität steigern.",
+            "das Cloud-Computing",
+            "Algorithmen für maschinelles Lernen verbessern sich mit Daten.",
+            "Die Cloud ist überall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Digitalization is changing our daily lives.",
+        "text_de": "Die Digitalisierung verändert unseren Alltag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Edge Computing reduziert Latenzzeiten.",
+            "Kollaborations-Tools verbessern die Team-Produktivität.",
+            "Die Digitalisierung verändert unseren Alltag.",
+            "Drohnen können für Lieferungen und Filmaufnahmen genutzt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Continuous innovation is key to success.",
+        "text_de": "Kontinuierliche Innovation ist der Schlüssel zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kontinuierliche Innovation ist der Schlüssel zum Erfolg.",
+            "Starke Konnektivität ist notwendig für die digitale Welt.",
+            "Verwenden Sie Passwörter nicht für verschiedene Seiten wieder.",
+            "Technik für erneuerbare Energien schreitet schnell voran."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Strong connectivity is necessary for the digital world.",
+        "text_de": "Starke Konnektivität ist notwendig für die digitale Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Biometrische Daten sind sehr sensibel.",
+            "Starke Konnektivität ist notwendig für die digitale Welt.",
+            "Algorithmus-Voreingenommenheit ist ein ernstes Problem.",
+            "SaaS steht für Software as a Service."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Virtual Reality offers immersive experiences.",
+        "text_de": "Virtuelle Realität bietet immersive Erfahrungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Smart-Home-System ist sehr praktisch.",
+            "Hightech-Unternehmen investieren viel in Forschung und Entwicklung.",
+            "Ich baue jetzt meine erste Website.",
+            "Virtuelle Realität bietet immersive Erfahrungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Augmented Reality overlays digital info on reality.",
+        "text_de": "Erweiterte Realität blendet digitale Infos in die Realität ein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Digitale Transformation ist eine Reise.",
+            "Eine Datenpanne kann schwerwiegende Folgen haben.",
+            "Starke Konnektivität ist notwendig für die digitale Welt.",
+            "Erweiterte Realität blendet digitale Infos in die Realität ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My Smart Home system is very convenient.",
+        "text_de": "Mein Smart-Home-System ist sehr praktisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Smart Home",
+            "Mein Smart-Home-System ist sehr praktisch.",
+            "Eine Datenpanne kann schwerwiegende Folgen haben.",
+            "Big-Data-Analysen enthüllen verborgene Muster."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Internet of Things connects everyday objects.",
+        "text_de": "Das Internet der Dinge verbindet Alltagsgegenstände.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Internet der Dinge verbindet Alltagsgegenstände.",
+            "das Internet der Dinge",
+            "Weltraumtechnik deckt kosmische Geheimnisse auf.",
+            "die Innovation"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are developing a new software application.",
+        "text_de": "Wir entwickeln eine neue Softwareanwendung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Benutzeroberfläche sollte intuitiv sein.",
+            "Wir entwickeln eine neue Softwareanwendung.",
+            "E-Learning ist zugänglicher als je zuvor.",
+            "die Biotechnologie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must optimize our processes for efficiency.",
+        "text_de": "Wir müssen unsere Prozesse auf Effizienz optimieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Drohnen können für Lieferungen und Filmaufnahmen genutzt werden.",
+            "Wasserstoff-Brennstoffzellen sind eine vielversprechende Energiequelle.",
+            "Neuronale Netze ahmen das menschliche Gehirn nach.",
+            "Wir müssen unsere Prozesse auf Effizienz optimieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Self-driving cars use advanced sensors.",
+        "text_de": "Selbstfahrende Autos nutzen fortschrittliche Sensoren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Quantencomputing",
+            "Selbstfahrende Autos nutzen fortschrittliche Sensoren.",
+            "3D-Druck ist eine revolutionäre Technologie.",
+            "Erweiterte Realität blendet digitale Infos in die Realität ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Drones can be used for deliveries and filming.",
+        "text_de": "Drohnen können für Lieferungen und Filmaufnahmen genutzt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Cloud ist überall.",
+            "die Biotechnologie",
+            "das Smart Home",
+            "Drohnen können für Lieferungen und Filmaufnahmen genutzt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "3D printing is a revolutionary technology.",
+        "text_de": "3D-Druck ist eine revolutionäre Technologie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Big Data",
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+            "die Biotechnologie",
+            "3D-Druck ist eine revolutionäre Technologie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wearable devices track your health and activity.",
+        "text_de": "Wearable-Geräte verfolgen deine Gesundheit und Aktivität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wearable-Geräte verfolgen deine Gesundheit und Aktivität.",
+            "Videokonferenzen sind die neue Normalität.",
+            "Die Digitalisierung verändert unseren Alltag.",
+            "Webentwicklung ist ein kreatives Feld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Neural networks mimic the human brain.",
+        "text_de": "Neuronale Netze ahmen das menschliche Gehirn nach.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Neuronale Netze ahmen das menschliche Gehirn nach.",
+            "Passe dich dem Wandel an oder bleibe zurück.",
+            "das Quantencomputing",
+            "optimieren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Natural language processing (NLP).",
+        "text_de": "Verarbeitung natürlicher Sprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Quantencomputing",
+            "Nanotechnologie arbeitet auf molekularer Ebene.",
+            "maschinelles Lernen",
+            "Verarbeitung natürlicher Sprache."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Facial recognition is used for security.",
+        "text_de": "Gesichtserkennung wird zur Sicherheit eingesetzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Smart Cities nutzen Technik, um das Leben zu verbessern.",
+            "Social-Media-Algorithmen beeinflussen unsere Sicht.",
+            "Ich baue jetzt meine erste Website.",
+            "Gesichtserkennung wird zur Sicherheit eingesetzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Biometric data is very sensitive.",
+        "text_de": "Biometrische Daten sind sehr sensibel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Biometrische Daten sind sehr sensibel.",
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+            "Robotik wird in der Fertigung und in der Chirurgie eingesetzt.",
+            "Big Data"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The 5G network enables faster data transfer.",
+        "text_de": "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+            "Neuronale Netze ahmen das menschliche Gehirn nach.",
+            "die Innovation",
+            "Die Benutzeroberfläche sollte intuitiv sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fiber optic cables are the backbone of the internet.",
+        "text_de": "Glasfaserkabel sind das Rückgrat des Internets.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glasfaserkabel sind das Rückgrat des Internets.",
+            "Die Digitalisierung verändert unseren Alltag.",
+            "Algorithmen für maschinelles Lernen verbessern sich mit Daten.",
+            "Nanotechnologie arbeitet auf molekularer Ebene."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Edge computing reduces latency.",
+        "text_de": "Edge Computing reduziert Latenzzeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Edge Computing reduziert Latenzzeiten.",
+            "optimieren",
+            "Telemedizin ermöglicht Fernarztbesuche.",
+            "Passe dich dem Wandel an oder bleibe zurück."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Algorithm bias is a serious concern.",
+        "text_de": "Algorithmus-Voreingenommenheit ist ein ernstes Problem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Quantencomputing",
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+            "E-Learning ist zugänglicher als je zuvor.",
+            "Algorithmus-Voreingenommenheit ist ein ernstes Problem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tech ethics should guide development.",
+        "text_de": "Tech-Ethik sollte die Entwicklung leiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tech-Ethik sollte die Entwicklung leiten.",
+            "Videokonferenzen sind die neue Normalität.",
+            "maschinelles Lernen",
+            "Mobile Apps sind Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm fascinated by the latest tech trends.",
+        "text_de": "Ich bin fasziniert von den neuesten Techniktrends.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kritisches Denken wird mehr denn je benötigt.",
+            "Wir entwickeln eine neue Softwareanwendung.",
+            "Webentwicklung ist ein kreatives Feld.",
+            "Ich bin fasziniert von den neuesten Techniktrends."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "High-tech companies invest a lot in R&D.",
+        "text_de": "Hightech-Unternehmen investieren viel in Forschung und Entwicklung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Internet der Dinge verbindet Alltagsgegenstände.",
+            "Hightech-Unternehmen investieren viel in Forschung und Entwicklung.",
+            "Ich bin fasziniert von den neuesten Techniktrends.",
+            "Nanotechnologie arbeitet auf molekularer Ebene."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The digital divide is a global challenge.",
+        "text_de": "Die digitale Kluft ist eine globale Herausforderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Algorithmus-Voreingenommenheit ist ein ernstes Problem.",
+            "virtuelle Realität",
+            "Die digitale Kluft ist eine globale Herausforderung.",
+            "Kontinuierliche Innovation ist der Schlüssel zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "E-learning is more accessible than ever.",
+        "text_de": "E-Learning ist zugänglicher als je zuvor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "E-Learning ist zugänglicher als je zuvor.",
+            "die Blockchain",
+            "Die Digitalisierung verändert unseren Alltag.",
+            "Weltraumtechnik deckt kosmische Geheimnisse auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Telemedicine allows remote doctor visits.",
+        "text_de": "Telemedizin ermöglicht Fernarztbesuche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Telemedizin ermöglicht Fernarztbesuche.",
+            "die Blockchain",
+            "Blockchain-Technik wird für sichere Transaktionen eingesetzt.",
+            "das Smart Home"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Smart cities use technology to improve life.",
+        "text_de": "Smart Cities nutzen Technik, um das Leben zu verbessern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Quantencomputing könnte komplexe Probleme lösen.",
+            "Smart Cities nutzen Technik, um das Leben zu verbessern.",
+            "SaaS steht für Software as a Service.",
+            "Kritisches Denken wird mehr denn je benötigt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Renewable energy tech is advancing quickly.",
+        "text_de": "Technik für erneuerbare Energien schreitet schnell voran.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Technik für erneuerbare Energien schreitet schnell voran.",
+            "Webentwicklung ist ein kreatives Feld.",
+            "Gesichtserkennung wird zur Sicherheit eingesetzt.",
+            "Ich liebe es, neue Gadgets zu erkunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Electric vehicles reduce our carbon footprint.",
+        "text_de": "Elektrofahrzeuge reduzieren unseren CO2-Fußabdruck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gesichtserkennung wird zur Sicherheit eingesetzt.",
+            "das Cloud-Computing",
+            "Elektrofahrzeuge reduzieren unseren CO2-Fußabdruck.",
+            "Open-Source-Software fördert die Zusammenarbeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hydrogen fuel cells are a promising energy source.",
+        "text_de": "Wasserstoff-Brennstoffzellen sind eine vielversprechende Energiequelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Digitalisierung",
+            "Mobile Apps sind Teil unserer Identität.",
+            "Wasserstoff-Brennstoffzellen sind eine vielversprechende Energiequelle.",
+            "die Blockchain"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Space technology is uncovering cosmic secrets.",
+        "text_de": "Weltraumtechnik deckt kosmische Geheimnisse auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weltraumtechnik deckt kosmische Geheimnisse auf.",
+            "Genießen Sie die Vorteile der Technik mit Bedacht!",
+            "Erweiterte Realität blendet digitale Infos in die Realität ein.",
+            "Verwenden Sie Passwörter nicht für verschiedene Seiten wieder."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Satellite internet connects remote areas.",
+        "text_de": "Satelliteninternet verbindet entlegene Gebiete.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin fasziniert von den neuesten Techniktrends.",
+            "Die Cloud ist überall.",
+            "Satelliteninternet verbindet entlegene Gebiete.",
+            "Mein Smart-Home-System ist sehr praktisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love exploring new gadgets.",
+        "text_de": "Ich liebe es, neue Gadgets zu erkunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, neue Gadgets zu erkunden.",
+            "Phishing-E-Mails versuchen, Ihre Daten zu stehlen.",
+            "Digitale Transformation ist eine Reise.",
+            "Eine Datenpanne kann schwerwiegende Folgen haben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The user interface (UI) should be intuitive.",
+        "text_de": "Die Benutzeroberfläche sollte intuitiv sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kontinuierliche Innovation ist der Schlüssel zum Erfolg.",
+            "Lerne für den Anfang Python oder JavaScript.",
+            "Die Benutzeroberfläche sollte intuitiv sein.",
+            "Programmieren ist eine wertvolle Fähigkeit in der modernen Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good user experience (UX) is crucial.",
+        "text_de": "Eine gute User Experience ist entscheidend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Satelliteninternet verbindet entlegene Gebiete.",
+            "Eine gute User Experience ist entscheidend.",
+            "Die Digitalisierung verändert unseren Alltag.",
+            "Tech-Ethik sollte die Entwicklung leiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open source software promotes collaboration.",
+        "text_de": "Open-Source-Software fördert die Zusammenarbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Open-Source-Software fördert die Zusammenarbeit.",
+            "Glaube nicht alles, was du online liest.",
+            "Automatisierung kann Effizienz und Produktivität steigern.",
+            "Technik für erneuerbare Energien schreitet schnell voran."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Proprietary software has restricted access.",
+        "text_de": "Proprietäre Software hat eingeschränkten Zugriff.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen.",
+            "Verschlüsselung schützt Ihre persönlichen Informationen.",
+            "Proprietäre Software hat eingeschränkten Zugriff.",
+            "Privatsphäre ist ein Menschenrecht, auch online."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A data breach can have serious consequences.",
+        "text_de": "Eine Datenpanne kann schwerwiegende Folgen haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Datenpanne kann schwerwiegende Folgen haben.",
+            "3D-Druck ist eine revolutionäre Technologie.",
+            "Nanotechnologie arbeitet auf molekularer Ebene.",
+            "die Digitalisierung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Encryption protects your personal information.",
+        "text_de": "Verschlüsselung schützt Ihre persönlichen Informationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verschlüsselung schützt Ihre persönlichen Informationen.",
+            "Aktualisieren Sie regelmäßig Ihr Betriebssystem.",
+            "Die Digitalisierung verändert unseren Alltag.",
+            "Nanotechnologie arbeitet auf molekularer Ebene."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Two-factor authentication adds extra security.",
+        "text_de": "Zwei-Faktor-Authentifizierung bietet zusätzliche Sicherheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwei-Faktor-Authentifizierung bietet zusätzliche Sicherheit.",
+            "das Quantencomputing",
+            "das Internet der Dinge",
+            "Privatsphäre ist ein Menschenrecht, auch online."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't reuse passwords for different sites.",
+        "text_de": "Verwenden Sie Passwörter nicht für verschiedene Seiten wieder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Phishing-E-Mails versuchen, Ihre Daten zu stehlen.",
+            "Die digitale Kluft ist eine globale Herausforderung.",
+            "Verwenden Sie Passwörter nicht für verschiedene Seiten wieder.",
+            "Programmieren ist eine wertvolle Fähigkeit in der modernen Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be careful with public Wi-Fi networks.",
+        "text_de": "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen.",
+            "Wir müssen unsere Prozesse auf Effizienz optimieren.",
+            "Ich liebe es, neue Gadgets zu erkunden.",
+            "Cloud-Computing ermöglicht die Remote-Datenspeicherung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Update your operating system regularly.",
+        "text_de": "Aktualisieren Sie regelmäßig Ihr Betriebssystem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Aktualisieren Sie regelmäßig Ihr Betriebssystem.",
+            "die Cybersicherheit",
+            "Kritisches Denken wird mehr denn je benötigt.",
+            "Technik für erneuerbare Energien schreitet schnell voran."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Malware can damage your computer.",
+        "text_de": "Malware kann Ihren Computer beschädigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kritisches Denken wird mehr denn je benötigt.",
+            "Malware kann Ihren Computer beschädigen.",
+            "die Cybersicherheit",
+            "Erweiterte Realität blendet digitale Infos in die Realität ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Phishing emails try to steal your data.",
+        "text_de": "Phishing-E-Mails versuchen, Ihre Daten zu stehlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kollaborations-Tools verbessern die Team-Produktivität.",
+            "Virtuelle Realität bietet immersive Erfahrungen.",
+            "Phishing-E-Mails versuchen, Ihre Daten zu stehlen.",
+            "Neuronale Netze ahmen das menschliche Gehirn nach."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay alert of new cyber threats.",
+        "text_de": "Bleiben Sie wachsam gegenüber neuen Cyber-Bedrohungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen unsere Prozesse auf Effizienz optimieren.",
+            "Eine gute User Experience ist entscheidend.",
+            "Bleiben Sie wachsam gegenüber neuen Cyber-Bedrohungen.",
+            "Kritisches Denken wird mehr denn je benötigt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future is digital.",
+        "text_de": "Die Zukunft ist digital.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft ist digital.",
+            "IaaS bietet Infrastruktur über die Cloud.",
+            "Webentwicklung ist ein kreatives Feld.",
+            "Weltraumtechnik deckt kosmische Geheimnisse auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Coding is a valuable skill in the modern world.",
+        "text_de": "Programmieren ist eine wertvolle Fähigkeit in der modernen Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+            "Programmieren ist eine wertvolle Fähigkeit in der modernen Welt.",
+            "IaaS bietet Infrastruktur über die Cloud.",
+            "Hightech-Unternehmen investieren viel in Forschung und Entwicklung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn Python or JavaScript for a start.",
+        "text_de": "Lerne für den Anfang Python oder JavaScript.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen.",
+            "die Robotik",
+            "Lerne für den Anfang Python oder JavaScript.",
+            "die Digitalisierung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm building my first website now.",
+        "text_de": "Ich baue jetzt meine erste Website.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Cloud-Computing ermöglicht die Remote-Datenspeicherung.",
+            "die Digitalisierung",
+            "Ich baue jetzt meine erste Website.",
+            "Wir müssen unsere Prozesse auf Effizienz optimieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Web development is a creative field.",
+        "text_de": "Webentwicklung ist ein kreatives Feld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft ist digital.",
+            "Malware kann Ihren Computer beschädigen.",
+            "App-Design sollte responsive sein.",
+            "Webentwicklung ist ein kreatives Feld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mobile apps are part of our identity.",
+        "text_de": "Mobile Apps sind Teil unserer Identität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Edge Computing reduziert Latenzzeiten.",
+            "E-Learning ist zugänglicher als je zuvor.",
+            "Mobile Apps sind Teil unserer Identität.",
+            "Wasserstoff-Brennstoffzellen sind eine vielversprechende Energiequelle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "App design should be responsive.",
+        "text_de": "App-Design sollte responsive sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Smart Home",
+            "App-Design sollte responsive sein.",
+            "virtuelle Realität",
+            "Kritisches Denken wird mehr denn je benötigt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cloud is everywhere.",
+        "text_de": "Die Cloud ist überall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das nächste große Ding steht vor der Tür.",
+            "Kritisches Denken wird mehr denn je benötigt.",
+            "Die Cloud ist überall.",
+            "die Innovation"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "SaaS stands for Software as a Service.",
+        "text_de": "SaaS steht für Software as a Service.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glaube nicht alles, was du online liest.",
+            "maschinelles Lernen",
+            "SaaS steht für Software as a Service.",
+            "das Internet der Dinge"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "IaaS provides infrastructure via cloud.",
+        "text_de": "IaaS bietet Infrastruktur über die Cloud.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das nächste große Ding steht vor der Tür.",
+            "virtuelle Realität",
+            "IaaS bietet Infrastruktur über die Cloud.",
+            "Das Internet der Dinge verbindet Alltagsgegenstände."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "PaaS is for developers.",
+        "text_de": "PaaS ist für Entwickler.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "PaaS ist für Entwickler.",
+            "Kollaborations-Tools verbessern die Team-Produktivität.",
+            "Das Internet der Dinge verbindet Alltagsgegenstände.",
+            "IaaS bietet Infrastruktur über die Cloud."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Digital transformation is a journey.",
+        "text_de": "Digitale Transformation ist eine Reise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Konnektivität",
+            "Das 5G-Netz ermöglicht einen schnelleren Datentransfer.",
+            "Digitale Transformation ist eine Reise.",
+            "Verwenden Sie Passwörter nicht für verschiedene Seiten wieder."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Adapt to change or stay behind.",
+        "text_de": "Passe dich dem Wandel an oder bleibe zurück.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Passe dich dem Wandel an oder bleibe zurück.",
+            "maschinelles Lernen",
+            "die Cybersicherheit",
+            "das Smart Home"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Collaboration tools improve team productivity.",
+        "text_de": "Kollaborations-Tools verbessern die Team-Produktivität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kollaborations-Tools verbessern die Team-Produktivität.",
+            "das Quantencomputing",
+            "optimieren",
+            "Wearable-Geräte verfolgen deine Gesundheit und Aktivität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Video conferences are the new normal.",
+        "text_de": "Videokonferenzen sind die neue Normalität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Smart Home",
+            "Videokonferenzen sind die neue Normalität.",
+            "Genießen Sie die Vorteile der Technik mit Bedacht!",
+            "Eine gute User Experience ist entscheidend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social media algorithms influence our view.",
+        "text_de": "Social-Media-Algorithmen beeinflussen unsere Sicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne für den Anfang Python oder JavaScript.",
+            "Elektrofahrzeuge reduzieren unseren CO2-Fußabdruck.",
+            "Videokonferenzen sind die neue Normalität.",
+            "Social-Media-Algorithmen beeinflussen unsere Sicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Critical thinking is needed more than ever.",
+        "text_de": "Kritisches Denken wird mehr denn je benötigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Phishing-E-Mails versuchen, Ihre Daten zu stehlen.",
+            "Edge Computing reduziert Latenzzeiten.",
+            "Kritisches Denken wird mehr denn je benötigt.",
+            "Privatsphäre ist ein Menschenrecht, auch online."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't believe everything you read online.",
+        "text_de": "Glaube nicht alles, was du online liest.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nanotechnologie",
+            "Glaube nicht alles, was du online liest.",
+            "das Internet der Dinge",
+            "Die Zukunft ist digital."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Check the sources of information.",
+        "text_de": "Prüfe die Informationsquellen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Innovation",
+            "Algorithmen für maschinelles Lernen verbessern sich mit Daten.",
+            "PaaS ist für Entwickler.",
+            "Prüfe die Informationsquellen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Privacy is a human right, also online.",
+        "text_de": "Privatsphäre ist ein Menschenrecht, auch online.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weltraumtechnik deckt kosmische Geheimnisse auf.",
+            "maschinelles Lernen",
+            "Biotechnologie bietet neue medizinische Lösungen.",
+            "Privatsphäre ist ein Menschenrecht, auch online."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy the benefits of technology wisely!",
+        "text_de": "Genießen Sie die Vorteile der Technik mit Bedacht!",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "SaaS steht für Software as a Service.",
+            "Genießen Sie die Vorteile der Technik mit Bedacht!",
+            "Seien Sie vorsichtig mit öffentlichen WLAN-Netzen.",
+            "Verschlüsselung schützt Ihre persönlichen Informationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The next big thing is just around the corner.",
+        "text_de": "Das nächste große Ding steht vor der Tür.",
+        "synonyms": [],
+        "description": "Example sentence for 'Advanced Technology'.",
+        "description_de": "Beispielsatz für 'Advanced Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das nächste große Ding steht vor der Tür.",
+            "die Cybersicherheit",
+            "Phishing-E-Mails versuchen, Ihre Daten zu stehlen.",
+            "die Blockchain"
+        ]
+    }
+]

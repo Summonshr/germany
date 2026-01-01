@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The job",
+        "text_de": "der Beruf",
+        "synonyms": [],
+        "description": "German word for 'The job'.",
+        "description_de": "Deutsches Wort für 'The job'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Beruf",
+            "Das Arbeitsklima ist sehr gut.",
+            "Ich brauche eine neue Maus und Tastatur.",
+            "Lebenslanges Lernen ist heute notwendig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The work",
+        "text_de": "die Arbeit",
+        "synonyms": [],
+        "description": "German word for 'The work'.",
+        "description_de": "Deutsches Wort für 'The work'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Unternehmenssprache ist Englisch.",
+            "die Arbeit",
+            "Bitte schicken Sie die Krankschreibung an die Personalabteilung.",
+            "Ich wünsche Ihnen alles Gute für Ihre Karriere."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The employer",
+        "text_de": "der Arbeitgeber",
+        "synonyms": [],
+        "description": "German word for 'The employer'.",
+        "description_de": "Deutsches Wort für 'The employer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie einen unbefristeten Vertrag?",
+            "der Arbeitgeber",
+            "Ich habe morgen ein Vorstellungsgespräch.",
+            "Mein Arbeitsplatz ist sehr modern."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The employee",
+        "text_de": "der Arbeitnehmer",
+        "synonyms": [],
+        "description": "German word for 'The employee'.",
+        "description_de": "Deutsches Wort für 'The employee'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nehme im Sommer zwei Wochen Urlaub.",
+            "Unser Team ist sehr international.",
+            "der Arbeitnehmer",
+            "Ich habe gestern meine Kündigung eingereicht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The colleague",
+        "text_de": "der Kollege",
+        "synonyms": [],
+        "description": "German word for 'The colleague'.",
+        "description_de": "Deutsches Wort für 'The colleague'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Vertrag",
+            "Wir suchen neue Mitarbeiter.",
+            "das Vorstellungsgespräch",
+            "der Kollege"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The boss",
+        "text_de": "der Chef",
+        "synonyms": [],
+        "description": "German word for 'The boss'.",
+        "description_de": "Deutsches Wort für 'The boss'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine positive Leistungsbeurteilung erhalten.",
+            "die Besprechung",
+            "Wer wird meine Vertretung sein, während ich weg bin?",
+            "der Chef"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The department",
+        "text_de": "die Abteilung",
+        "synonyms": [],
+        "description": "German word for 'The department'.",
+        "description_de": "Deutsches Wort für 'The department'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Networking ist in meinem Beruf unerlässlich.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht.",
+            "Mögen Sie Ihren Beruf?",
+            "die Abteilung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The office",
+        "text_de": "das Büro",
+        "synonyms": [],
+        "description": "German word for 'The office'.",
+        "description_de": "Deutsches Wort für 'The office'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was sind Ihre Stärken und Schwächen?",
+            "Ich muss nächste Woche auf Geschäftsreise gehen.",
+            "das Büro",
+            "Ich bin etwas nervös wegen des Gesprächs."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The salary",
+        "text_de": "das Gehalt",
+        "synonyms": [],
+        "description": "German word for 'The salary'.",
+        "description_de": "Deutsches Wort für 'The salary'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Die Betriebskantine hat gutes Essen.",
+            "Wir müssen diese Aufgabe heute erledigen.",
+            "Die Firma bietet viele Zusatzleistungen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The contract",
+        "text_de": "der Vertrag",
+        "synonyms": [],
+        "description": "German word for 'The contract'.",
+        "description_de": "Deutsches Wort für 'The contract'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Projekt war ein großer Erfolg.",
+            "Der Drucker hat kein Papier mehr.",
+            "Ich bin seit fünf Jahren bei dieser Firma.",
+            "der Vertrag"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The meeting",
+        "text_de": "die Besprechung",
+        "synonyms": [],
+        "description": "German word for 'The meeting'.",
+        "description_de": "Deutsches Wort für 'The meeting'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Erfahrung",
+            "Ich möchte um eine Gehaltserhöhung bitten.",
+            "Ich habe gerade sehr viel Arbeit.",
+            "die Besprechung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The project",
+        "text_de": "das Projekt",
+        "synonyms": [],
+        "description": "German word for 'The project'.",
+        "description_de": "Deutsches Wort für 'The project'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Projekt",
+            "Der IT-Support ist bis 18 Uhr erreichbar.",
+            "Wir haben flexible Arbeitszeiten.",
+            "Ich habe gestern meine Kündigung eingereicht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The task",
+        "text_de": "die Aufgabe",
+        "synonyms": [],
+        "description": "German word for 'The task'.",
+        "description_de": "Deutsches Wort für 'The task'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe gerade sehr viel Arbeit.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht.",
+            "die Aufgabe",
+            "die Ausbildung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The application",
+        "text_de": "die Bewerbung",
+        "synonyms": [],
+        "description": "German word for 'The application'.",
+        "description_de": "Deutsches Wort für 'The application'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können Sie mir die Tagesordnung schicken?",
+            "die Bewerbung",
+            "Ich bin etwas nervös wegen des Gesprächs.",
+            "Wir feiern Geburtstage im Team."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The interview",
+        "text_de": "das Vorstellungsgespräch",
+        "synonyms": [],
+        "description": "German word for 'The interview'.",
+        "description_de": "Deutsches Wort für 'The interview'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir feiern Geburtstage im Team.",
+            "kündigen",
+            "Lass uns eine Kaffeepause machen.",
+            "das Vorstellungsgespräch"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The experience",
+        "text_de": "die Erfahrung",
+        "synonyms": [],
+        "description": "German word for 'The experience'.",
+        "description_de": "Deutsches Wort für 'The experience'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine neue Maus und Tastatur.",
+            "die Erfahrung",
+            "Wir haben jeden Montagmorgen eine Besprechung.",
+            "Können Sie mir mit der Software helfen?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The training",
+        "text_de": "die Ausbildung",
+        "synonyms": [],
+        "description": "German word for 'The training'.",
+        "description_de": "Deutsches Wort für 'The training'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ausbildung",
+            "Ich möchte um eine Gehaltserhöhung bitten.",
+            "die Aufgabe",
+            "Ich nehme im Sommer zwei Wochen Urlaub."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The career",
+        "text_de": "die Karriere",
+        "synonyms": [],
+        "description": "German word for 'The career'.",
+        "description_de": "Deutsches Wort für 'The career'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Firma bietet viele Zusatzleistungen.",
+            "die Karriere",
+            "die Bewerbung",
+            "Können Sie mir die Tagesordnung schicken?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To apply",
+        "text_de": "sich bewerben",
+        "synonyms": [],
+        "description": "German word for 'To apply'.",
+        "description_de": "Deutsches Wort für 'To apply'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der IT-Support ist bis 18 Uhr erreichbar.",
+            "Wir suchen neue Mitarbeiter.",
+            "sich bewerben",
+            "Gibt es eine Mikrowelle in der Küche?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To quit",
+        "text_de": "kündigen",
+        "synonyms": [],
+        "description": "German word for 'To quit'.",
+        "description_de": "Deutsches Wort für 'To quit'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Arbeitnehmer",
+            "Gibt es eine Mikrowelle in der Küche?",
+            "kündigen",
+            "Das Gehalt wird am Monatsende gezahlt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is your profession?",
+        "text_de": "Was sind Sie von Beruf?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was ist Ihr Traumberuf?",
+            "Ich habe gestern drei Bewerbungen verschickt.",
+            "Ich habe eine positive Leistungsbeurteilung erhalten.",
+            "Was sind Sie von Beruf?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I work as a software developer.",
+        "text_de": "Ich arbeite als Softwareentwickler.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Betriebskantine hat gutes Essen.",
+            "Der Drucker hat kein Papier mehr.",
+            "der Beruf",
+            "Ich arbeite als Softwareentwickler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have been with this company for five years.",
+        "text_de": "Ich bin seit fünf Jahren bei dieser Firma.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Ausbildung in Berlin abgeschlossen.",
+            "Die Frist ist am nächsten Freitag.",
+            "Gibt es Möglichkeiten zur Fortbildung?",
+            "Ich bin seit fünf Jahren bei dieser Firma."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is your office located?",
+        "text_de": "Wo befindet sich Ihr Büro?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bewerbung",
+            "Der Bürostuhl ist sehr ergonomisch.",
+            "Wo befindet sich Ihr Büro?",
+            "Meine Kollegen sind sehr freundlich und hilfsbereit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I work from home twice a week.",
+        "text_de": "Ich arbeite zweimal pro Woche im Homeoffice.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Arbeit",
+            "Beruflicher Aufstieg ist mir wichtig.",
+            "Ich arbeite zweimal pro Woche im Homeoffice.",
+            "Mögen Sie Ihren Beruf?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My workplace is very modern.",
+        "text_de": "Mein Arbeitsplatz ist sehr modern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Arbeitgeber",
+            "Mein Arbeitsplatz ist sehr modern.",
+            "Wir suchen neue Mitarbeiter.",
+            "die Aufgabe"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you like your job?",
+        "text_de": "Mögen Sie Ihren Beruf?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Arbeitgeber",
+            "Ich wollte schon immer Architekt werden.",
+            "Mein Chef ist sehr anspruchsvoll, aber fair.",
+            "Mögen Sie Ihren Beruf?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The working atmosphere is very good.",
+        "text_de": "Das Arbeitsklima ist sehr gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Vertrag",
+            "Das Arbeitsklima ist sehr gut.",
+            "Ich bin etwas nervös wegen des Gesprächs.",
+            "Ich muss meinen Urlaubsantrag einreichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My colleagues are very friendly and helpful.",
+        "text_de": "Meine Kollegen sind sehr freundlich und hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Frist ist am nächsten Freitag.",
+            "Meine Kollegen sind sehr freundlich und hilfsbereit.",
+            "Ich mache diese Woche Überstunden.",
+            "Flug und Hotel sind bereits gebucht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a meeting every Monday morning.",
+        "text_de": "Wir haben jeden Montagmorgen eine Besprechung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Abteilung",
+            "Ich arbeite an meinen Soft Skills.",
+            "die Karriere",
+            "Wir haben jeden Montagmorgen eine Besprechung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The meeting starts at 9 o'clock sharp.",
+        "text_de": "Die Besprechung beginnt pünktlich um 9 Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache diese Woche Überstunden.",
+            "Können Sie mir mit der Software helfen?",
+            "Kommunikation ist in einem Team sehr wichtig.",
+            "Die Besprechung beginnt pünktlich um 9 Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you send me the agenda?",
+        "text_de": "Können Sie mir die Tagesordnung schicken?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können Sie mir die Tagesordnung schicken?",
+            "Mein Arbeitsplatz ist sehr modern.",
+            "Bitte schicken Sie die Krankschreibung an die Personalabteilung.",
+            "Ich arbeite an meinen Soft Skills."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I am responsible for this project.",
+        "text_de": "Ich bin für dieses Projekt verantwortlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Arbeitsmarkt verändert sich schnell.",
+            "Wo befindet sich Ihr Büro?",
+            "Ich bin für dieses Projekt verantwortlich.",
+            "Wir haben flexible Arbeitszeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The deadline is next Friday.",
+        "text_de": "Die Frist ist am nächsten Freitag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Weihnachtsfeier macht immer Spaß.",
+            "Die Firma bietet viele Zusatzleistungen.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht.",
+            "Die Frist ist am nächsten Freitag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need to finish this task today.",
+        "text_de": "Wir müssen diese Aufgabe heute erledigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Ich habe eine positive Leistungsbeurteilung erhalten.",
+            "Wir müssen diese Aufgabe heute erledigen.",
+            "Ich gehe nächstes Jahr in Rente."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a lot of work right now.",
+        "text_de": "Ich habe gerade sehr viel Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bürostuhl ist sehr ergonomisch.",
+            "Wo befindet sich Ihr Büro?",
+            "Ich habe gerade sehr viel Arbeit.",
+            "Ich habe gestern meine Kündigung eingereicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm working overtime this week.",
+        "text_de": "Ich mache diese Woche Überstunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Arbeitsplatz ist sehr modern.",
+            "Ich habe morgen ein Vorstellungsgespräch.",
+            "Ich arbeite zweimal pro Woche im Homeoffice.",
+            "Ich mache diese Woche Überstunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The salary is paid at the end of the month.",
+        "text_de": "Das Gehalt wird am Monatsende gezahlt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Ausbildung in Berlin abgeschlossen.",
+            "Das Gehalt wird am Monatsende gezahlt.",
+            "die Ausbildung",
+            "Unser Team ist sehr international."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm happy with my income.",
+        "text_de": "Ich bin mit meinem Einkommen zufrieden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere Leistungen.",
+            "Ich wollte schon immer Architekt werden.",
+            "Das Unternehmen expandiert weltweit.",
+            "Ich bin mit meinem Einkommen zufrieden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have a permanent contract?",
+        "text_de": "Haben Sie einen unbefristeten Vertrag?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Betriebskantine hat gutes Essen.",
+            "Ich bin heute krankgeschrieben.",
+            "Ich bin mit meinem Einkommen zufrieden.",
+            "Haben Sie einen unbefristeten Vertrag?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm currently looking for a new job.",
+        "text_de": "Ich suche derzeit einen neuen Job.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche derzeit einen neuen Job.",
+            "Das Großraumbüro kann ziemlich laut sein.",
+            "Unser Team ist sehr international.",
+            "das Vorstellungsgespräch"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I sent out three applications yesterday.",
+        "text_de": "Ich habe gestern drei Bewerbungen verschickt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe gestern drei Bewerbungen verschickt.",
+            "Ich arbeite an meinen Soft Skills.",
+            "das Vorstellungsgespräch",
+            "Ich muss nächste Woche auf Geschäftsreise gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a job interview tomorrow.",
+        "text_de": "Ich habe morgen ein Vorstellungsgespräch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gehalt wird am Monatsende gezahlt.",
+            "Ich habe morgen ein Vorstellungsgespräch.",
+            "Der Arbeitsmarkt verändert sich schnell.",
+            "Gibt es eine Mikrowelle in der Küche?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a bit nervous about the interview.",
+        "text_de": "Ich bin etwas nervös wegen des Gesprächs.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin etwas nervös wegen des Gesprächs.",
+            "der Arbeitgeber",
+            "Ich gehe nächstes Jahr in Rente.",
+            "Bereiten Sie sich gut auf die Fragen vor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Prepare well for the questions.",
+        "text_de": "Bereiten Sie sich gut auf die Fragen vor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bereiten Sie sich gut auf die Fragen vor.",
+            "Ich habe gestern meine Kündigung eingereicht.",
+            "Der Bürostuhl ist sehr ergonomisch.",
+            "Wir haben flexible Arbeitszeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are your strengths and weaknesses?",
+        "text_de": "Was sind Ihre Stärken und Schwächen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte um eine Gehaltserhöhung bitten.",
+            "Ich gehe nächstes Jahr in Rente.",
+            "Was sind Ihre Stärken und Schwächen?",
+            "Ich arbeite als Softwareentwickler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a lot of experience in this field.",
+        "text_de": "Ich habe viel Erfahrung in diesem Bereich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Firma bietet viele Zusatzleistungen.",
+            "die Abteilung",
+            "Ich bringe normalerweise mein eigenes Mittagessen mit.",
+            "Ich habe viel Erfahrung in diesem Bereich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I completed my vocational training in Berlin.",
+        "text_de": "Ich habe meine Ausbildung in Berlin abgeschlossen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Ausbildung in Berlin abgeschlossen.",
+            "Mein Arbeitsplatz ist sehr modern.",
+            "Ich bringe normalerweise mein eigenes Mittagessen mit.",
+            "Die Betriebskantine hat gutes Essen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are there opportunities for further training?",
+        "text_de": "Gibt es Möglichkeiten zur Fortbildung?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kollege",
+            "Ich bin stolz auf unsere Leistungen.",
+            "Gibt es Möglichkeiten zur Fortbildung?",
+            "der Vertrag"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Career advancement is important to me.",
+        "text_de": "Beruflicher Aufstieg ist mir wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kommunikation ist in einem Team sehr wichtig.",
+            "Beruflicher Aufstieg ist mir wichtig.",
+            "die Abteilung",
+            "Ich muss meinen Urlaubsantrag einreichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My boss is very demanding but fair.",
+        "text_de": "Mein Chef ist sehr anspruchsvoll, aber fair.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben flexible Arbeitszeiten.",
+            "Ich bringe normalerweise mein eigenes Mittagessen mit.",
+            "Mein Chef ist sehr anspruchsvoll, aber fair.",
+            "Ich brauche eine neue Maus und Tastatur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I received a positive performance review.",
+        "text_de": "Ich habe eine positive Leistungsbeurteilung erhalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Erfahrung",
+            "die Arbeit",
+            "Ich habe eine positive Leistungsbeurteilung erhalten.",
+            "Wir feiern Geburtstage im Team."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I would like to ask for a raise.",
+        "text_de": "Ich möchte um eine Gehaltserhöhung bitten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kommunikation ist in einem Team sehr wichtig.",
+            "Das Gehalt wird am Monatsende gezahlt.",
+            "Ich möchte um eine Gehaltserhöhung bitten.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company offers many benefits.",
+        "text_de": "Die Firma bietet viele Zusatzleistungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Firma bietet viele Zusatzleistungen.",
+            "Wir haben jeden Montagmorgen eine Besprechung.",
+            "Die Kernarbeitszeit ist von 10 bis 15 Uhr.",
+            "Mein Arbeitsplatz ist sehr modern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have flexible working hours.",
+        "text_de": "Wir haben flexible Arbeitszeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben flexible Arbeitszeiten.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht.",
+            "Ich arbeite zweimal pro Woche im Homeoffice.",
+            "Vergessen Sie nicht, Ihre Arbeit zu speichern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The core working time is from 10 AM to 3 PM.",
+        "text_de": "Die Kernarbeitszeit ist von 10 bis 15 Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Kernarbeitszeit ist von 10 bis 15 Uhr.",
+            "die Abteilung",
+            "Bereiten Sie sich gut auf die Fragen vor.",
+            "Was sind Sie von Beruf?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm taking two weeks of vacation in summer.",
+        "text_de": "Ich nehme im Sommer zwei Wochen Urlaub.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "sich bewerben",
+            "Professionalität ist der Schlüssel zum Erfolg.",
+            "Ich arbeite zweimal pro Woche im Homeoffice.",
+            "Ich nehme im Sommer zwei Wochen Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to submit my vacation request.",
+        "text_de": "Ich muss meinen Urlaubsantrag einreichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meinen Urlaubsantrag einreichen.",
+            "der Chef",
+            "Flug und Hotel sind bereits gebucht.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who will be my substitute while I'm away?",
+        "text_de": "Wer wird meine Vertretung sein, während ich weg bin?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer wird meine Vertretung sein, während ich weg bin?",
+            "der Beruf",
+            "die Erfahrung",
+            "der Arbeitgeber"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm on sick leave today.",
+        "text_de": "Ich bin heute krankgeschrieben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin heute krankgeschrieben.",
+            "Können Sie mir die Tagesordnung schicken?",
+            "Ich werde meine Kollegen vermissen.",
+            "Das Unternehmen expandiert weltweit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please send the sick note to the HR department.",
+        "text_de": "Bitte schicken Sie die Krankschreibung an die Personalabteilung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde meine Kollegen vermissen.",
+            "Bitte schicken Sie die Krankschreibung an die Personalabteilung.",
+            "Ich brauche eine neue Maus und Tastatur.",
+            "die Abteilung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company is expanding worldwide.",
+        "text_de": "Das Unternehmen expandiert weltweit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns eine Kaffeepause machen.",
+            "Das Unternehmen expandiert weltweit.",
+            "das Vorstellungsgespräch",
+            "Ich suche derzeit einen neuen Job."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are looking for new employees.",
+        "text_de": "Wir suchen neue Mitarbeiter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Chef ist sehr anspruchsvoll, aber fair.",
+            "Wir suchen neue Mitarbeiter.",
+            "Ich möchte um eine Gehaltserhöhung bitten.",
+            "der Arbeitgeber"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our team is very international.",
+        "text_de": "Unser Team ist sehr international.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unser Team ist sehr international.",
+            "Das Großraumbüro kann ziemlich laut sein.",
+            "Was sind Ihre Stärken und Schwächen?",
+            "Was ist Ihr Traumberuf?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company language is English.",
+        "text_de": "Die Unternehmenssprache ist Englisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bürostuhl ist sehr ergonomisch.",
+            "Die Unternehmenssprache ist Englisch.",
+            "der Kollege",
+            "Ich bin etwas nervös wegen des Gesprächs."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to go on a business trip next week.",
+        "text_de": "Ich muss nächste Woche auf Geschäftsreise gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer wird meine Vertretung sein, während ich weg bin?",
+            "Ich bin seit fünf Jahren bei dieser Firma.",
+            "Ich muss nächste Woche auf Geschäftsreise gehen.",
+            "Die Besprechung beginnt pünktlich um 9 Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flight and hotel are already booked.",
+        "text_de": "Flug und Hotel sind bereits gebucht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Vorstellungsgespräch",
+            "Ich mache diese Woche Überstunden.",
+            "Flug und Hotel sind bereits gebucht.",
+            "Der Arbeitsmarkt verändert sich schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I will attend a trade fair in Munich.",
+        "text_de": "Ich werde eine Messe in München besuchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Chef ist sehr anspruchsvoll, aber fair.",
+            "Können Sie mir die Tagesordnung schicken?",
+            "Ich werde eine Messe in München besuchen.",
+            "die Abteilung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Networking is essential in my job.",
+        "text_de": "Networking ist in meinem Beruf unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine neue Maus und Tastatur.",
+            "Networking ist in meinem Beruf unerlässlich.",
+            "Ich wünsche Ihnen alles Gute für Ihre Karriere.",
+            "Ich bringe normalerweise mein eigenes Mittagessen mit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I handed in my notice yesterday.",
+        "text_de": "Ich habe gestern meine Kündigung eingereicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde eine Messe in München besuchen.",
+            "das Büro",
+            "Ich habe gestern meine Kündigung eingereicht.",
+            "Können Sie mir mit der Software helfen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The notice period is three months.",
+        "text_de": "Die Kündigungsfrist beträgt drei Monate.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine positive Leistungsbeurteilung erhalten.",
+            "Ich gehe nächstes Jahr in Rente.",
+            "Die Kündigungsfrist beträgt drei Monate.",
+            "die Erfahrung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I will start my new job in October.",
+        "text_de": "Ich werde meinen neuen Job im Oktober antreten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde meinen neuen Job im Oktober antreten.",
+            "Mein Arbeitsplatz ist sehr modern.",
+            "das Vorstellungsgespräch",
+            "sich bewerben"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is your dream job?",
+        "text_de": "Was ist Ihr Traumberuf?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "sich bewerben",
+            "Was ist Ihr Traumberuf?",
+            "Ich möchte um eine Gehaltserhöhung bitten.",
+            "die Karriere"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I always wanted to be an architect.",
+        "text_de": "Ich wollte schon immer Architekt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wollte schon immer Architekt werden.",
+            "Die Firma bietet viele Zusatzleistungen.",
+            "Ich gehe nächstes Jahr in Rente.",
+            "Die Unternehmenssprache ist Englisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Professionalism is key to success.",
+        "text_de": "Professionalität ist der Schlüssel zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer wird meine Vertretung sein, während ich weg bin?",
+            "Ich habe gestern drei Bewerbungen verschickt.",
+            "Ich habe gerade sehr viel Arbeit.",
+            "Professionalität ist der Schlüssel zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm working on my soft skills.",
+        "text_de": "Ich arbeite an meinen Soft Skills.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin mit meinem Einkommen zufrieden.",
+            "Haben Sie einen unbefristeten Vertrag?",
+            "Wir haben jeden Montagmorgen eine Besprechung.",
+            "Ich arbeite an meinen Soft Skills."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Communication is very important in a team.",
+        "text_de": "Kommunikation ist in einem Team sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin heute krankgeschrieben.",
+            "Die Kündigungsfrist beträgt drei Monate.",
+            "die Abteilung",
+            "Kommunikation ist in einem Team sehr wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The project was a great success.",
+        "text_de": "Das Projekt war ein großer Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin etwas nervös wegen des Gesprächs.",
+            "Wir haben jeden Montagmorgen eine Besprechung.",
+            "Ich habe gestern drei Bewerbungen verschickt.",
+            "Das Projekt war ein großer Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We reached our goals for this quarter.",
+        "text_de": "Wir haben unsere Ziele für dieses Quartal erreicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine neue Maus und Tastatur.",
+            "Wir haben unsere Ziele für dieses Quartal erreicht.",
+            "Wir suchen neue Mitarbeiter.",
+            "Die Weihnachtsfeier macht immer Spaß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of our accomplishments.",
+        "text_de": "Ich bin stolz auf unsere Leistungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere Leistungen.",
+            "Ich werde eine Messe in München besuchen.",
+            "Ich suche derzeit einen neuen Job.",
+            "Vergessen Sie nicht, Ihre Arbeit zu speichern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't forget to save your work.",
+        "text_de": "Vergessen Sie nicht, Ihre Arbeit zu speichern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe gerade sehr viel Arbeit.",
+            "Vergessen Sie nicht, Ihre Arbeit zu speichern.",
+            "Was sind Sie von Beruf?",
+            "Ich mache diese Woche Überstunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The printer is out of paper.",
+        "text_de": "Der Drucker hat kein Papier mehr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben flexible Arbeitszeiten.",
+            "Der Drucker hat kein Papier mehr.",
+            "Ich bin heute krankgeschrieben.",
+            "die Erfahrung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you help me with the software?",
+        "text_de": "Können Sie mir mit der Software helfen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an meinen Soft Skills.",
+            "Können Sie mir mit der Software helfen?",
+            "Networking ist in meinem Beruf unerlässlich.",
+            "Mein Arbeitsplatz ist sehr modern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The IT support is available until 6 PM.",
+        "text_de": "Der IT-Support ist bis 18 Uhr erreichbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Vorstellungsgespräch",
+            "Die Kernarbeitszeit ist von 10 bis 15 Uhr.",
+            "Der IT-Support ist bis 18 Uhr erreichbar.",
+            "Ich werde eine Messe in München besuchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new mouse and keyboard.",
+        "text_de": "Ich brauche eine neue Maus und Tastatur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde meine Kollegen vermissen.",
+            "Ich suche derzeit einen neuen Job.",
+            "Ich brauche eine neue Maus und Tastatur.",
+            "Wir haben flexible Arbeitszeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The office chair is very ergonomic.",
+        "text_de": "Der Bürostuhl ist sehr ergonomisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte schicken Sie die Krankschreibung an die Personalabteilung.",
+            "Die Kernarbeitszeit ist von 10 bis 15 Uhr.",
+            "Der Bürostuhl ist sehr ergonomisch.",
+            "Vergessen Sie nicht, Ihre Arbeit zu speichern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a separate office.",
+        "text_de": "Ich habe ein eigenes Büro.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Networking ist in meinem Beruf unerlässlich.",
+            "Ich arbeite zweimal pro Woche im Homeoffice.",
+            "Ich habe gestern drei Bewerbungen verschickt.",
+            "Ich habe ein eigenes Büro."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The open-plan office can be quite noisy.",
+        "text_de": "Das Großraumbüro kann ziemlich laut sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Arbeit",
+            "Die Weihnachtsfeier macht immer Spaß.",
+            "Das Großraumbüro kann ziemlich laut sein.",
+            "Kommunikation ist in einem Team sehr wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wear noise-canceling headphones.",
+        "text_de": "Ich trage Kopfhörer mit Geräuschunterdrückung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an meinen Soft Skills.",
+            "Die Besprechung beginnt pünktlich um 9 Uhr.",
+            "Ich trage Kopfhörer mit Geräuschunterdrückung.",
+            "Ich werde meinen neuen Job im Oktober antreten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's have a coffee break.",
+        "text_de": "Lass uns eine Kaffeepause machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin seit fünf Jahren bei dieser Firma.",
+            "Die Frist ist am nächsten Freitag.",
+            "Lass uns eine Kaffeepause machen.",
+            "die Bewerbung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company cafeteria has good food.",
+        "text_de": "Die Betriebskantine hat gutes Essen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Firma bietet viele Zusatzleistungen.",
+            "Die Betriebskantine hat gutes Essen.",
+            "Der IT-Support ist bis 18 Uhr erreichbar.",
+            "Wir müssen diese Aufgabe heute erledigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I usually bring my own lunch.",
+        "text_de": "Ich bringe normalerweise mein eigenes Mittagessen mit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde meine Kollegen vermissen.",
+            "Ich habe viel Erfahrung in diesem Bereich.",
+            "Ich bringe normalerweise mein eigenes Mittagessen mit.",
+            "sich bewerben"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there a microwave in the kitchen?",
+        "text_de": "Gibt es eine Mikrowelle in der Küche?",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es eine Mikrowelle in der Küche?",
+            "Wir haben jeden Montagmorgen eine Besprechung.",
+            "Können Sie mir die Tagesordnung schicken?",
+            "Ich arbeite an meinen Soft Skills."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We celebrate birthdays in the team.",
+        "text_de": "Wir feiern Geburtstage im Team.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können Sie mir mit der Software helfen?",
+            "Ich wünsche Ihnen alles Gute für Ihre Karriere.",
+            "Wir feiern Geburtstage im Team.",
+            "Ich bin stolz auf unsere Leistungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Christmas party is always fun.",
+        "text_de": "Die Weihnachtsfeier macht immer Spaß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Büro",
+            "Mein Arbeitsplatz ist sehr modern.",
+            "Die Weihnachtsfeier macht immer Spaß.",
+            "Was sind Sie von Beruf?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm retiring next year.",
+        "text_de": "Ich gehe nächstes Jahr in Rente.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Arbeitgeber",
+            "Die Weihnachtsfeier macht immer Spaß.",
+            "Ich mache diese Woche Überstunden.",
+            "Ich gehe nächstes Jahr in Rente."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I will miss my colleagues.",
+        "text_de": "Ich werde meine Kollegen vermissen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde meine Kollegen vermissen.",
+            "Können Sie mir die Tagesordnung schicken?",
+            "Flug und Hotel sind bereits gebucht.",
+            "Wir müssen diese Aufgabe heute erledigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The labor market is changing rapidly.",
+        "text_de": "Der Arbeitsmarkt verändert sich schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer wird meine Vertretung sein, während ich weg bin?",
+            "Ich arbeite als Softwareentwickler.",
+            "Der Arbeitsmarkt verändert sich schnell.",
+            "der Chef"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Lifelong learning is necessary today.",
+        "text_de": "Lebenslanges Lernen ist heute notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lebenslanges Lernen ist heute notwendig.",
+            "der Kollege",
+            "Ich bin seit fünf Jahren bei dieser Firma.",
+            "Gibt es Möglichkeiten zur Fortbildung?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you all the best for your career.",
+        "text_de": "Ich wünsche Ihnen alles Gute für Ihre Karriere.",
+        "synonyms": [],
+        "description": "Example sentence for 'Work & Profession'.",
+        "description_de": "Beispielsatz für 'Work & Profession'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche Ihnen alles Gute für Ihre Karriere.",
+            "Gibt es eine Mikrowelle in der Küche?",
+            "die Arbeit",
+            "Meine Kollegen sind sehr freundlich und hilfsbereit."
+        ]
+    }
+]

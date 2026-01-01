@@ -34,7 +34,7 @@ class VocabularySeeder extends Seeder
                 'text_de' => $word['text_de'],
                 'type' => $word['type'] ?? null,
                 'options_de' => $word['options_de'] ?? [],
-                'synonyms' => $word['synonyms'] ?? '[]',
+                'synonyms' => is_string($word['synonyms'] ?? null) ? json_decode($word['synonyms'], true) : ($word['synonyms'] ?? []),
                 'description' => $word['description'] ?? '-',
                 'description_de' => $word['description_de'] ?? '-',
                 'note' => $word['note'] ?? '-',

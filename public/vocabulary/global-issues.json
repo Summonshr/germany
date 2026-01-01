@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The global issue",
+        "text_de": "das globale Problem",
+        "synonyms": [],
+        "description": "German word for 'The global issue'.",
+        "description_de": "Deutsches Wort für 'The global issue'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das globale Problem",
+            "Hoffnung ist der Anker der Seele.",
+            "Arbeitet zusammen für eine bessere Zukunft.",
+            "Die Jugend ist aktiv für Klimagerechtigkeit."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The poverty",
+        "text_de": "die Armut",
+        "synonyms": [],
+        "description": "German word for 'The poverty'.",
+        "description_de": "Deutsches Wort für 'The poverty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die digitale Kluft wird immer größer.",
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "die Armut",
+            "Plastikverschmutzung in den Ozeanen ist eine Katastrophe."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hunger",
+        "text_de": "der Hunger",
+        "synonyms": [],
+        "description": "German word for 'The hunger'.",
+        "description_de": "Deutsches Wort für 'The hunger'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Migration",
+            "Fairer Handel verbessert das Leben der Bauern.",
+            "der Hunger",
+            "Schalte das Licht aus, wenn es nicht benötigt wird."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The inequality",
+        "text_de": "die Ungleichheit",
+        "synonyms": [],
+        "description": "German word for 'The inequality'.",
+        "description_de": "Deutsches Wort für 'The inequality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nachhaltigkeit",
+            "Innovation kann helfen, die Klimakrise zu lösen.",
+            "die Ungleichheit",
+            "Der Übergang zu erneuerbaren Energien ist dringend."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The injustice",
+        "text_de": "die Ungerechtigkeit",
+        "synonyms": [],
+        "description": "German word for 'The injustice'.",
+        "description_de": "Deutsches Wort für 'The injustice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schützt die Artenvielfalt für die Zukunft.",
+            "die Ungerechtigkeit",
+            "Was kann ich tun, um zu helfen?",
+            "Qualitativ hochwertige Bildung sollte für alle zugänglich sein."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The climate change",
+        "text_de": "der Klimawandel",
+        "synonyms": [],
+        "description": "German word for 'The climate change'.",
+        "description_de": "Deutsches Wort für 'The climate change'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft liegt in unseren Händen.",
+            "der Krieg",
+            "Reduziere deinen CO2-Fußabdruck.",
+            "der Klimawandel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The pollution",
+        "text_de": "die Verschmutzung",
+        "synonyms": [],
+        "description": "German word for 'The pollution'.",
+        "description_de": "Deutsches Wort für 'The pollution'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Armut ist in vielen Ländern immer noch eine große Herausforderung.",
+            "Recyceln ist besser als wegwerfen.",
+            "die Verschmutzung",
+            "Nachhaltige Entwicklung ist unser Ziel."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The war",
+        "text_de": "der Krieg",
+        "synonyms": [],
+        "description": "German word for 'The war'.",
+        "description_de": "Deutsches Wort für 'The war'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Frieden",
+            "Pandemien zeigen, wie vernetzt die Welt ist.",
+            "der Krieg",
+            "die Ungleichheit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The peace",
+        "text_de": "der Frieden",
+        "synonyms": [],
+        "description": "German word for 'The peace'.",
+        "description_de": "Deutsches Wort für 'The peace'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Frieden",
+            "Inklusives Wachstum kommt jedem zugute.",
+            "Ich bin stolz auf unsere globale Gemeinschaft.",
+            "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The migration",
+        "text_de": "die Migration",
+        "synonyms": [],
+        "description": "German word for 'The migration'.",
+        "description_de": "Deutsches Wort für 'The migration'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reduziere Plastikmüll in deinem Leben.",
+            "die Migration",
+            "Menschenrechte müssen überall respektiert werden.",
+            "lösen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The refugee",
+        "text_de": "der Flüchtling",
+        "synonyms": [],
+        "description": "German word for 'The refugee'.",
+        "description_de": "Deutsches Wort für 'The refugee'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Recyceln ist besser als wegwerfen.",
+            "Der Ozean gehört uns allen.",
+            "der Flüchtling",
+            "Stoppt den illegalen Wildtierhandel."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The human rights",
+        "text_de": "die Menschenrechte",
+        "synonyms": [],
+        "description": "German word for 'The human rights'.",
+        "description_de": "Deutsches Wort für 'The human rights'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bildung",
+            "die Menschenrechte",
+            "Hilf den Bedürftigen, wann immer du kannst.",
+            "Saubere Energie für alle."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sustainability",
+        "text_de": "die Nachhaltigkeit",
+        "synonyms": [],
+        "description": "German word for 'The sustainability'.",
+        "description_de": "Deutsches Wort für 'The sustainability'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die digitale Kluft wird immer größer.",
+            "die Nachhaltigkeit",
+            "Die Abholzung muss gestoppt werden.",
+            "Unterstütze lokale Unternehmen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cooperation",
+        "text_de": "die Zusammenarbeit",
+        "synonyms": [],
+        "description": "German word for 'The cooperation'.",
+        "description_de": "Deutsches Wort für 'The cooperation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Zusammenarbeit",
+            "Wirtschaftswachstum sollte inklusiv sein.",
+            "Der Klimawandel betrifft den gesamten Planeten.",
+            "Spende Geld für einen guten Zweck."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The development",
+        "text_de": "die Entwicklung",
+        "synonyms": [],
+        "description": "German word for 'The development'.",
+        "description_de": "Deutsches Wort für 'The development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stoppt Kinderarbeit!",
+            "Hoffnung ist der Anker der Seele.",
+            "die Entwicklung",
+            "Nachhaltige Entwicklung ist unser Ziel."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The health",
+        "text_de": "die Gesundheit",
+        "synonyms": [],
+        "description": "German word for 'The health'.",
+        "description_de": "Deutsches Wort für 'The health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gesundheit",
+            "Schützt den Amazonas-Regenwald.",
+            "Bildung beginnt zu Hause.",
+            "Schau nicht weg von den Problemen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The education",
+        "text_de": "die Bildung",
+        "synonyms": [],
+        "description": "German word for 'The education'.",
+        "description_de": "Deutsches Wort für 'The education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bewusstsein zu schaffen ist der erste Schritt.",
+            "Lasst uns Brücken bauen, keine Mauern.",
+            "die Bildung",
+            "die Verschmutzung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The economy",
+        "text_de": "die Wirtschaft",
+        "synonyms": [],
+        "description": "German word for 'The economy'.",
+        "description_de": "Deutsches Wort für 'The economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei die Veränderung, die du sehen willst.",
+            "Die Jugend ist aktiv für Klimagerechtigkeit.",
+            "die Wirtschaft",
+            "In einigen Regionen steht die Demokratie unter Druck."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To solve",
+        "text_de": "lösen",
+        "synonyms": [],
+        "description": "German word for 'To solve'.",
+        "description_de": "Deutsches Wort für 'To solve'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir sind alle Bürger einer Welt.",
+            "Die Zukunft liegt in unseren Händen.",
+            "Sei die Veränderung, die du sehen willst.",
+            "lösen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To help",
+        "text_de": "helfen",
+        "synonyms": [],
+        "description": "German word for 'To help'.",
+        "description_de": "Deutsches Wort für 'To help'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reduziere deinen CO2-Fußabdruck.",
+            "Bleib über globale Ereignisse informiert.",
+            "Ich benutze einen wiederverwendbaren Einkaufsbeutel.",
+            "helfen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Global issues require global solutions.",
+        "text_de": "Globale Probleme erfordern globale Lösungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Globale Probleme erfordern globale Lösungen.",
+            "Spare Wasser in deinem Alltag.",
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "Iss weniger Fleisch, um die Umwelt zu schonen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Poverty is still a major challenge in many countries.",
+        "text_de": "Armut ist in vielen Ländern immer noch eine große Herausforderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was kann ich tun, um zu helfen?",
+            "Armut ist in vielen Ländern immer noch eine große Herausforderung.",
+            "In einigen Regionen steht die Demokratie unter Druck.",
+            "Reise mit dem Zug anstatt zu fliegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must fight hunger and malnutrition worldwide.",
+        "text_de": "Wir müssen Hunger und Fehlernährung weltweit bekämpfen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schalte das Licht aus, wenn es nicht benötigt wird.",
+            "Wir müssen Hunger und Fehlernährung weltweit bekämpfen.",
+            "der Frieden",
+            "Schau nicht weg von den Problemen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reducing inequality is essential for a stable society.",
+        "text_de": "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich.",
+            "die Ungleichheit",
+            "Ich bin stolz auf unsere globale Gemeinschaft.",
+            "Reise mit dem Zug anstatt zu fliegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is no peace without justice.",
+        "text_de": "Es gibt keinen Frieden ohne Gerechtigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen bessere Wege finden, um Konflikte zu lösen.",
+            "Es gibt keinen Frieden ohne Gerechtigkeit.",
+            "Bewusstsein zu schaffen ist der erste Schritt.",
+            "Flüchtlinge brauchen Schutz und Unterstützung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Climate change is affecting the entire planet.",
+        "text_de": "Der Klimawandel betrifft den gesamten Planeten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zugang zu Technologie kann Menschen stärken.",
+            "Viele Menschen fliehen vor Krieg und Verfolgung.",
+            "Inklusives Wachstum kommt jedem zugute.",
+            "Der Klimawandel betrifft den gesamten Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Plastic pollution in the oceans is a disaster.",
+        "text_de": "Plastikverschmutzung in den Ozeanen ist eine Katastrophe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Verschmutzung",
+            "Es gibt keinen Frieden ohne Gerechtigkeit.",
+            "Plastikverschmutzung in den Ozeanen ist eine Katastrophe.",
+            "die Migration"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Many people are fleeing from war and persecution.",
+        "text_de": "Viele Menschen fliehen vor Krieg und Verfolgung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stoppt den illegalen Wildtierhandel.",
+            "Viele Menschen fliehen vor Krieg und Verfolgung.",
+            "Solidarität ist wichtig in Krisenzeiten.",
+            "Arbeitet zusammen für eine bessere Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Refugees need protection and support.",
+        "text_de": "Flüchtlinge brauchen Schutz und Unterstützung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Inklusives Wachstum kommt jedem zugute.",
+            "Flüchtlinge brauchen Schutz und Unterstützung.",
+            "Empathie bringt Menschen näher zusammen.",
+            "Wir müssen bessere Wege finden, um Konflikte zu lösen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human rights must be respected everywhere.",
+        "text_de": "Menschenrechte müssen überall respektiert werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte müssen überall respektiert werden.",
+            "Globale Probleme erfordern globale Lösungen.",
+            "Sei die Veränderung, die du sehen willst.",
+            "Reduziere deinen CO2-Fußabdruck."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainable development is our goal.",
+        "text_de": "Nachhaltige Entwicklung ist unser Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "Schalte das Licht aus, wenn es nicht benötigt wird.",
+            "Der Klimawandel betrifft den gesamten Planeten.",
+            "Freundlichkeit ist eine universelle Sprache."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "International cooperation is the key to success.",
+        "text_de": "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Solidarität ist wichtig in Krisenzeiten.",
+            "Ich arbeite ehrenamtlich für eine lokale NGO.",
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+            "Spende Geld für einen guten Zweck."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Quality education should be accessible to all.",
+        "text_de": "Qualitativ hochwertige Bildung sollte für alle zugänglich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen Hunger und Fehlernährung weltweit bekämpfen.",
+            "Höre auf die Stimmen der Marginalisierten.",
+            "die Nachhaltigkeit",
+            "Qualitativ hochwertige Bildung sollte für alle zugänglich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The health of the planet is our health.",
+        "text_de": "Die Gesundheit des Planeten ist unsere Gesundheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Gesundheit des Planeten ist unsere Gesundheit.",
+            "In einigen Regionen steht die Demokratie unter Druck.",
+            "Die digitale Kluft wird immer größer.",
+            "Der Kampf gegen Malaria ist erfolgreich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Economic growth should be inclusive.",
+        "text_de": "Wirtschaftswachstum sollte inklusiv sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt keinen Frieden ohne Gerechtigkeit.",
+            "Der Kampf gegen Malaria ist erfolgreich.",
+            "Wirtschaftswachstum sollte inklusiv sein.",
+            "die Ungleichheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need to find better ways to solve conflicts.",
+        "text_de": "Wir müssen bessere Wege finden, um Konflikte zu lösen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gesundheit",
+            "die Migration",
+            "Wir müssen bessere Wege finden, um Konflikte zu lösen.",
+            "In einigen Regionen steht die Demokratie unter Druck."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Help those in need whenever you can.",
+        "text_de": "Hilf den Bedürftigen, wann immer du kannst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Klimawandel betrifft den gesamten Planeten.",
+            "Kritisches Denken ist unerlässlich.",
+            "Gute Regierungsführung ist der Schlüssel zur Entwicklung.",
+            "Hilf den Bedürftigen, wann immer du kannst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Solidarity is important in times of crisis.",
+        "text_de": "Solidarität ist wichtig in Krisenzeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Menschenrechte",
+            "Bildung beginnt zu Hause.",
+            "Die digitale Kluft wird immer größer.",
+            "Solidarität ist wichtig in Krisenzeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Clean water is a basic human right.",
+        "text_de": "Sauberes Wasser ist ein grundlegendes Menschenrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Frieden",
+            "Sauberes Wasser ist ein grundlegendes Menschenrecht.",
+            "Die digitale Kluft wird immer größer.",
+            "Der Ozean gehört uns allen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gender equality is a goal of the UN.",
+        "text_de": "Gleichstellung der Geschlechter ist ein Ziel der UN.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich.",
+            "Viele Menschen fliehen vor Krieg und Verfolgung.",
+            "Respektiere vielfältige Kulturen und Religionen.",
+            "Gleichstellung der Geschlechter ist ein Ziel der UN."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stop child labor!",
+        "text_de": "Stoppt Kinderarbeit!",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Gesundheit des Planeten ist unsere Gesundheit.",
+            "Viele Menschen fliehen vor Krieg und Verfolgung.",
+            "Stoppt Kinderarbeit!",
+            "Menschenrechte müssen überall respektiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fair trade improves the lives of farmers.",
+        "text_de": "Fairer Handel verbessert das Leben der Bauern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hoffnung ist der Anker der Seele.",
+            "Fairer Handel verbessert das Leben der Bauern.",
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+            "Inklusives Wachstum kommt jedem zugute."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Corruption hinders development.",
+        "text_de": "Korruption behindert die Entwicklung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wirtschaft",
+            "die Menschenrechte",
+            "Korruption behindert die Entwicklung.",
+            "Qualitativ hochwertige Bildung sollte für alle zugänglich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Democracy is under pressure in some regions.",
+        "text_de": "In einigen Regionen steht die Demokratie unter Druck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Transparenz verhindert Korruption.",
+            "Wir müssen jetzt handeln, nicht morgen.",
+            "Gleichstellung der Geschlechter ist ein Ziel der UN.",
+            "In einigen Regionen steht die Demokratie unter Druck."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The digital divide is getting wider.",
+        "text_de": "Die digitale Kluft wird immer größer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sauberes Wasser ist ein grundlegendes Menschenrecht.",
+            "Qualitativ hochwertige Bildung sollte für alle zugänglich sein.",
+            "Die digitale Kluft wird immer größer.",
+            "die Ungleichheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Pandemics show how connected the world is.",
+        "text_de": "Pandemien zeigen, wie vernetzt die Welt ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pandemien zeigen, wie vernetzt die Welt ist.",
+            "Arbeitet zusammen für eine bessere Zukunft.",
+            "Schau nicht weg von den Problemen.",
+            "Lasst uns Brücken bauen, keine Mauern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect biodiversity for the future.",
+        "text_de": "Schützt die Artenvielfalt für die Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Weltbevölkerung wächst.",
+            "die Ungerechtigkeit",
+            "Die Gesundheit des Planeten ist unsere Gesundheit.",
+            "Schützt die Artenvielfalt für die Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Deforestation must be stopped.",
+        "text_de": "Die Abholzung muss gestoppt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich.",
+            "die Ungleichheit",
+            "Gleichstellung der Geschlechter ist ein Ziel der UN.",
+            "Die Abholzung muss gestoppt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transition to renewable energy is urgent.",
+        "text_de": "Der Übergang zu erneuerbaren Energien ist dringend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Regierungsführung ist der Schlüssel zur Entwicklung.",
+            "Schützt die Artenvielfalt für die Zukunft.",
+            "die Menschenrechte",
+            "Der Übergang zu erneuerbaren Energien ist dringend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm volunteering for a local NGO.",
+        "text_de": "Ich arbeite ehrenamtlich für eine lokale NGO.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unterstütze lokale Unternehmen.",
+            "Ich benutze einen wiederverwendbaren Einkaufsbeutel.",
+            "Ich arbeite ehrenamtlich für eine lokale NGO.",
+            "Spare Wasser in deinem Alltag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Donate money to a good cause.",
+        "text_de": "Spende Geld für einen guten Zweck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spende Geld für einen guten Zweck.",
+            "Wir müssen bessere Wege finden, um Konflikte zu lösen.",
+            "Menschenrechte müssen überall respektiert werden.",
+            "Schützt die Artenvielfalt für die Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Raising awareness is the first step.",
+        "text_de": "Bewusstsein zu schaffen ist der erste Schritt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fairer Handel verbessert das Leben der Bauern.",
+            "Es gibt keinen Frieden ohne Gerechtigkeit.",
+            "Respektiere vielfältige Kulturen und Religionen.",
+            "Bewusstsein zu schaffen ist der erste Schritt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are all citizens of one world.",
+        "text_de": "Wir sind alle Bürger einer Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Klimawandel betrifft den gesamten Planeten.",
+            "Reduziere Plastikmüll in deinem Leben.",
+            "Unterstütze lokale Unternehmen.",
+            "Wir sind alle Bürger einer Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Treat others with dignity and respect.",
+        "text_de": "Behandle andere mit Würde und Respekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Niemand sollte zurückgelassen werden.",
+            "Behandle andere mit Würde und Respekt.",
+            "Gleichstellung der Geschlechter ist ein Ziel der UN.",
+            "Transparenz verhindert Korruption."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The world population is growing.",
+        "text_de": "Die Weltbevölkerung wächst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Arbeitet zusammen für eine bessere Zukunft.",
+            "Die Weltbevölkerung wächst.",
+            "der Flüchtling",
+            "Unterstütze lokale Unternehmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Urbanization is a global trend.",
+        "text_de": "Urbanisierung ist ein globaler Trend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung beginnt zu Hause.",
+            "Urbanisierung ist ein globaler Trend.",
+            "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich.",
+            "Wir müssen jetzt handeln, nicht morgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Access to technology can empower people.",
+        "text_de": "Zugang zu Technologie kann Menschen stärken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Klimawandel",
+            "Wir sind alle Bürger einer Welt.",
+            "Die Gesundheit des Planeten ist unsere Gesundheit.",
+            "Zugang zu Technologie kann Menschen stärken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mental health is a global priority.",
+        "text_de": "Psychische Gesundheit ist eine globale Priorität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Klimawandel betrifft den gesamten Planeten.",
+            "Schau nicht weg von den Problemen.",
+            "Psychische Gesundheit ist eine globale Priorität.",
+            "Fairer Handel verbessert das Leben der Bauern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work together for a better future.",
+        "text_de": "Arbeitet zusammen für eine bessere Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Armut ist in vielen Ländern immer noch eine große Herausforderung.",
+            "Die UN-Ziele für nachhaltige Entwicklung.",
+            "Arbeitet zusammen für eine bessere Zukunft.",
+            "Bewusstsein zu schaffen ist der erste Schritt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't look away from the problems.",
+        "text_de": "Schau nicht weg von den Problemen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+            "Schau nicht weg von den Problemen.",
+            "Unterstütze lokale Unternehmen.",
+            "Innovation kann helfen, die Klimakrise zu lösen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every small action counts.",
+        "text_de": "Jede kleine Tat zählt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pandemien zeigen, wie vernetzt die Welt ist.",
+            "Jede kleine Tat zählt.",
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "Hoffnung ist der Anker der Seele."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reduce your carbon footprint.",
+        "text_de": "Reduziere deinen CO2-Fußabdruck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reduziere deinen CO2-Fußabdruck.",
+            "Flüchtlinge brauchen Schutz und Unterstützung.",
+            "Respektiere vielfältige Kulturen und Religionen.",
+            "Der Übergang zu erneuerbaren Energien ist dringend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Recycling is better than throwing away.",
+        "text_de": "Recyceln ist besser als wegwerfen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Globale Probleme erfordern globale Lösungen.",
+            "der Hunger",
+            "Recyceln ist besser als wegwerfen.",
+            "Schützt die Artenvielfalt für die Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Support local businesses.",
+        "text_de": "Unterstütze lokale Unternehmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Gerechtigkeit geht um Fairness.",
+            "Hilf den Bedürftigen, wann immer du kannst.",
+            "Unterstütze lokale Unternehmen.",
+            "Reduziere Plastikmüll in deinem Leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eat less meat to save the environment.",
+        "text_de": "Iss weniger Fleisch, um die Umwelt zu schonen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Abholzung muss gestoppt werden.",
+            "Korruption behindert die Entwicklung.",
+            "Wir müssen jetzt handeln, nicht morgen.",
+            "Iss weniger Fleisch, um die Umwelt zu schonen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Save water in your daily routine.",
+        "text_de": "Spare Wasser in deinem Alltag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spare Wasser in deinem Alltag.",
+            "Korruption behindert die Entwicklung.",
+            "Armut ist in vielen Ländern immer noch eine große Herausforderung.",
+            "Der Klimawandel betrifft den gesamten Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Switch off the lights when not needed.",
+        "text_de": "Schalte das Licht aus, wenn es nicht benötigt wird.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ungleichheit",
+            "die Ungerechtigkeit",
+            "Schalte das Licht aus, wenn es nicht benötigt wird.",
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I use a reusable shopping bag.",
+        "text_de": "Ich benutze einen wiederverwendbaren Einkaufsbeutel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ungerechtigkeit",
+            "Inklusives Wachstum kommt jedem zugute.",
+            "Ich benutze einen wiederverwendbaren Einkaufsbeutel.",
+            "Viele Menschen fliehen vor Krieg und Verfolgung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Travel by train instead of flying.",
+        "text_de": "Reise mit dem Zug anstatt zu fliegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Plastikverschmutzung in den Ozeanen ist eine Katastrophe.",
+            "Sauberes Wasser ist ein grundlegendes Menschenrecht.",
+            "Reise mit dem Zug anstatt zu fliegen.",
+            "der Hunger"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education starts at home.",
+        "text_de": "Bildung beginnt zu Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung beginnt zu Hause.",
+            "Menschenrechte müssen überall respektiert werden.",
+            "Schützt die Artenvielfalt für die Zukunft.",
+            "Spare Wasser in deinem Alltag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Kindness is a universal language.",
+        "text_de": "Freundlichkeit ist eine universelle Sprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freundlichkeit ist eine universelle Sprache.",
+            "Der Kampf gegen Malaria ist erfolgreich.",
+            "die Migration",
+            "Solidarität ist wichtig in Krisenzeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hope is the anchor of the soul.",
+        "text_de": "Hoffnung ist der Anker der Seele.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Niemand sollte zurückgelassen werden.",
+            "Flüchtlinge brauchen Schutz und Unterstützung.",
+            "Reduziere Plastikmüll in deinem Leben.",
+            "Hoffnung ist der Anker der Seele."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What can I do to help?",
+        "text_de": "Was kann ich tun, um zu helfen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was kann ich tun, um zu helfen?",
+            "Höre auf die Stimmen der Marginalisierten.",
+            "Armut ist in vielen Ländern immer noch eine große Herausforderung.",
+            "Der Klimawandel betrifft den gesamten Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay informed about global events.",
+        "text_de": "Bleib über globale Ereignisse informiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib über globale Ereignisse informiert.",
+            "In einigen Regionen steht die Demokratie unter Druck.",
+            "Der Ozean gehört uns allen.",
+            "Reduziere deinen CO2-Fußabdruck."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Critical thinking is essential.",
+        "text_de": "Kritisches Denken ist unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib über globale Ereignisse informiert.",
+            "Kritisches Denken ist unerlässlich.",
+            "der Flüchtling",
+            "die Zusammenarbeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect diverse cultures and religions.",
+        "text_de": "Respektiere vielfältige Kulturen und Religionen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "helfen",
+            "Respektiere vielfältige Kulturen und Religionen.",
+            "Empathie bringt Menschen näher zusammen.",
+            "die Armut"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom of speech is a double-edged sword.",
+        "text_de": "Meinungsfreiheit ist ein zweischneidiges Schwert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meinungsfreiheit ist ein zweischneidiges Schwert.",
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "Soziale Gerechtigkeit geht um Fairness.",
+            "Plastikverschmutzung in den Ozeanen ist eine Katastrophe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peaceful protests can lead to change.",
+        "text_de": "Friedliche Proteste können zu Veränderungen führen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedliche Proteste können zu Veränderungen führen.",
+            "Empathie bringt Menschen näher zusammen.",
+            "Hoffnung ist der Anker der Seele.",
+            "der Klimawandel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Innovation can help solve the climate crisis.",
+        "text_de": "Innovation kann helfen, die Klimakrise zu lösen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sauberes Wasser ist ein grundlegendes Menschenrecht.",
+            "Spare Wasser in deinem Alltag.",
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+            "Innovation kann helfen, die Klimakrise zu lösen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must act now, not tomorrow.",
+        "text_de": "Wir müssen jetzt handeln, nicht morgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen jetzt handeln, nicht morgen.",
+            "der Klimawandel",
+            "Wir sind alle Bürger einer Welt.",
+            "Menschenrechte müssen überall respektiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future is in our hands.",
+        "text_de": "Die Zukunft liegt in unseren Händen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft liegt in unseren Händen.",
+            "Friedliche Proteste können zu Veränderungen führen.",
+            "Inklusives Wachstum kommt jedem zugute.",
+            "Hilf den Bedürftigen, wann immer du kannst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be the change you want to see.",
+        "text_de": "Sei die Veränderung, die du sehen willst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pandemien zeigen, wie vernetzt die Welt ist.",
+            "der Hunger",
+            "die Gesundheit",
+            "Sei die Veränderung, die du sehen willst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Empathy brings people closer together.",
+        "text_de": "Empathie bringt Menschen näher zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Flüchtlinge brauchen Schutz und Unterstützung.",
+            "Empathie bringt Menschen näher zusammen.",
+            "Bildung beginnt zu Hause.",
+            "Wir sind alle Bürger einer Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Listen to the voices of the marginalized.",
+        "text_de": "Höre auf die Stimmen der Marginalisierten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Höre auf die Stimmen der Marginalisierten.",
+            "Viele Menschen fliehen vor Krieg und Verfolgung.",
+            "Ich benutze einen wiederverwendbaren Einkaufsbeutel.",
+            "die Ungerechtigkeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social justice is about fairness.",
+        "text_de": "Soziale Gerechtigkeit geht um Fairness.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gleichstellung der Geschlechter ist ein Ziel der UN.",
+            "Freundlichkeit ist eine universelle Sprache.",
+            "Innovation kann helfen, die Klimakrise zu lösen.",
+            "Soziale Gerechtigkeit geht um Fairness."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The rule of law must prevail.",
+        "text_de": "Die Rechtsstaatlichkeit muss siegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schützt den Amazonas-Regenwald.",
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+            "Die Rechtsstaatlichkeit muss siegen.",
+            "der Krieg"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transparency prevents corruption.",
+        "text_de": "Transparenz verhindert Korruption.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg.",
+            "Die digitale Kluft wird immer größer.",
+            "Transparenz verhindert Korruption.",
+            "die Menschenrechte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good governance is key to development.",
+        "text_de": "Gute Regierungsführung ist der Schlüssel zur Entwicklung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Empathie bringt Menschen näher zusammen.",
+            "Die Reduzierung von Ungleichheit ist für eine stabile Gesellschaft unerlässlich.",
+            "der Hunger",
+            "Gute Regierungsführung ist der Schlüssel zur Entwicklung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The UN Sustainable Development Goals.",
+        "text_de": "Die UN-Ziele für nachhaltige Entwicklung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die UN-Ziele für nachhaltige Entwicklung.",
+            "Was kann ich tun, um zu helfen?",
+            "Jede kleine Tat zählt.",
+            "die Armut"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "No one should be left behind.",
+        "text_de": "Niemand sollte zurückgelassen werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schau nicht weg von den Problemen.",
+            "die Wirtschaft",
+            "Fairer Handel verbessert das Leben der Bauern.",
+            "Niemand sollte zurückgelassen werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Inclusive growth benefits everyone.",
+        "text_de": "Inklusives Wachstum kommt jedem zugute.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Qualitativ hochwertige Bildung sollte für alle zugänglich sein.",
+            "Die Jugend ist aktiv für Klimagerechtigkeit.",
+            "Inklusives Wachstum kommt jedem zugute.",
+            "Plastikverschmutzung in den Ozeanen ist eine Katastrophe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fight against malaria is successful.",
+        "text_de": "Der Kampf gegen Malaria ist erfolgreich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nachhaltigkeit",
+            "Der Kampf gegen Malaria ist erfolgreich.",
+            "Die digitale Kluft wird immer größer.",
+            "Urbanisierung ist ein globaler Trend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Clean energy for everyone.",
+        "text_de": "Saubere Energie für alle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spare Wasser in deinem Alltag.",
+            "Reise mit dem Zug anstatt zu fliegen.",
+            "Saubere Energie für alle.",
+            "Der Kampf gegen Malaria ist erfolgreich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect the Amazon rainforest.",
+        "text_de": "Schützt den Amazonas-Regenwald.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Flüchtling",
+            "Empathie bringt Menschen näher zusammen.",
+            "Schützt den Amazonas-Regenwald.",
+            "Internationale Zusammenarbeit ist der Schlüssel zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stop the illegal wildlife trade.",
+        "text_de": "Stoppt den illegalen Wildtierhandel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bildung",
+            "Schau nicht weg von den Problemen.",
+            "Fairer Handel verbessert das Leben der Bauern.",
+            "Stoppt den illegalen Wildtierhandel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ocean belongs to all of us.",
+        "text_de": "Der Ozean gehört uns allen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hoffnung ist der Anker der Seele.",
+            "Der Ozean gehört uns allen.",
+            "der Frieden",
+            "Innovation kann helfen, die Klimakrise zu lösen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reduce plastic waste in your life.",
+        "text_de": "Reduziere Plastikmüll in deinem Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Niemand sollte zurückgelassen werden.",
+            "Reduziere Plastikmüll in deinem Leben.",
+            "Arbeitet zusammen für eine bessere Zukunft.",
+            "Meinungsfreiheit ist ein zweischneidiges Schwert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The youth is active for climate justice.",
+        "text_de": "Die Jugend ist aktiv für Klimagerechtigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Jugend ist aktiv für Klimagerechtigkeit.",
+            "Transparenz verhindert Korruption.",
+            "Soziale Gerechtigkeit geht um Fairness.",
+            "Psychische Gesundheit ist eine globale Priorität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of our global community.",
+        "text_de": "Ich bin stolz auf unsere globale Gemeinschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere globale Gemeinschaft.",
+            "Reduziere Plastikmüll in deinem Leben.",
+            "Transparenz verhindert Korruption.",
+            "Wir müssen jetzt handeln, nicht morgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's build bridges, not walls.",
+        "text_de": "Lasst uns Brücken bauen, keine Mauern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Global Issues'.",
+        "description_de": "Beispielsatz für 'Global Issues'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns Brücken bauen, keine Mauern.",
+            "Spende Geld für einen guten Zweck.",
+            "Die Rechtsstaatlichkeit muss siegen.",
+            "Freundlichkeit ist eine universelle Sprache."
+        ]
+    }
+]

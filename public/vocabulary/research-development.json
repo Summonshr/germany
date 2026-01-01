@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Research",
+        "text_de": "die Forschung",
+        "synonyms": [],
+        "description": "German word for 'Research'.",
+        "description_de": "Deutsches Wort für 'Research'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die technische Dokumentation muss präzise sein.",
+            "die Forschung",
+            "Wir müssen die ethischen Richtlinien befolgen.",
+            "Wir müssen das F&E-Budget erhöhen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Development",
+        "text_de": "die Entwicklung",
+        "synonyms": [],
+        "description": "German word for 'Development'.",
+        "description_de": "Deutsches Wort für 'Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche Ihnen alles Gute für Ihr Projekt!",
+            "die Machbarkeit",
+            "die Entwicklung",
+            "Genießen Sie Ihre Forschung!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The innovation",
+        "text_de": "die Innovation",
+        "synonyms": [],
+        "description": "German word for 'The innovation'.",
+        "description_de": "Deutsches Wort für 'The innovation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Machbarkeit",
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "die Innovation",
+            "The Projektleiter überwacht den Zeitplan."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The project",
+        "text_de": "das Projekt",
+        "synonyms": [],
+        "description": "German word for 'The project'.",
+        "description_de": "Deutsches Wort für 'The project'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Projekt",
+            "experimentieren",
+            "Wissenschaft ist eine Reise ohne Ende.",
+            "Kreativität wird zur Problemlösung benötigt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The prototype",
+        "text_de": "der Prototyp",
+        "synonyms": [],
+        "description": "German word for 'The prototype'.",
+        "description_de": "Deutsches Wort für 'The prototype'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine detaillierte Analyse der Daten ist notwendig.",
+            "der Prototyp",
+            "Wissenschaftler aus der ganzen Welt arbeiten zusammen.",
+            "Die Datenbank enthält Millionen von Forschungsartikeln."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The patent",
+        "text_de": "das Patent",
+        "synonyms": [],
+        "description": "German word for 'The patent'.",
+        "description_de": "Deutsches Wort für 'The patent'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tierversuche sollten minimiert werden.",
+            "das Patent",
+            "Start-ups arbeiten oft mit Universitäten zusammen.",
+            "Er ist ein sehr engagierter Forscher."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The discovery",
+        "text_de": "die Entdeckung",
+        "synonyms": [],
+        "description": "German word for 'The discovery'.",
+        "description_de": "Deutsches Wort für 'The discovery'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Labortechniker ist sehr hilfsbereit.",
+            "Wöchentliche Besprechungen für Status-Updates.",
+            "die Entdeckung",
+            "Lasst uns unser Wissen teilen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The invention",
+        "text_de": "die Erfindung",
+        "synonyms": [],
+        "description": "German word for 'The invention'.",
+        "description_de": "Deutsches Wort für 'The invention'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Erfindung",
+            "Wir müssen das F&E-Budget erhöhen.",
+            "Unser Unternehmen investiert viel in F&E.",
+            "The Projektleiter überwacht den Zeitplan."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The laboratory",
+        "text_de": "das Labor",
+        "synonyms": [],
+        "description": "German word for 'The laboratory'.",
+        "description_de": "Deutsches Wort für 'The laboratory'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Urheberrechtsschutz für Software ist wichtig.",
+            "das Budget",
+            "die Erfindung",
+            "das Labor"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The researcher",
+        "text_de": "der Forscher",
+        "synonyms": [],
+        "description": "German word for 'The researcher'.",
+        "description_de": "Deutsches Wort für 'The researcher'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erkunden Sie weiter das Unbekannte!",
+            "Kreativität wird zur Problemlösung benötigt.",
+            "Die Suche nach Wissen geht weiter.",
+            "der Forscher"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The scientist",
+        "text_de": "der Wissenschaftler",
+        "synonyms": [],
+        "description": "German word for 'The scientist'.",
+        "description_de": "Deutsches Wort für 'The scientist'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Suche nach Wissen geht weiter.",
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "Ich bin fasziniert von angewandter Forschung.",
+            "der Wissenschaftler"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The funding",
+        "text_de": "die Förderung",
+        "synonyms": [],
+        "description": "German word for 'The funding'.",
+        "description_de": "Deutsches Wort für 'The funding'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Innovation",
+            "The Projektleiter überwacht den Zeitplan.",
+            "Wissenschaft ist eine Reise ohne Ende.",
+            "die Förderung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The budget",
+        "text_de": "das Budget",
+        "synonyms": [],
+        "description": "German word for 'The budget'.",
+        "description_de": "Deutsches Wort für 'The budget'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Forscher",
+            "das Budget",
+            "das Ergebnis",
+            "Eine detaillierte Analyse der Daten ist notwendig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The strategy",
+        "text_de": "die Strategie",
+        "synonyms": [],
+        "description": "German word for 'The strategy'.",
+        "description_de": "Deutsches Wort für 'The strategy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Strategie",
+            "Ich suche eine Postdoc-Stelle.",
+            "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+            "der Wissenschaftler"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The goal",
+        "text_de": "das Ziel",
+        "synonyms": [],
+        "description": "German word for 'The goal'.",
+        "description_de": "Deutsches Wort für 'The goal'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unser Unternehmen investiert viel in F&E.",
+            "das Ziel",
+            "Ein Rückschlag ist nur eine neue Herausforderung.",
+            "Genießen Sie Ihre Forschung!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The result",
+        "text_de": "das Ergebnis",
+        "synonyms": [],
+        "description": "German word for 'The result'.",
+        "description_de": "Deutsches Wort für 'The result'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Labortechniker ist sehr hilfsbereit.",
+            "das Ergebnis",
+            "Die Pilotphase beginnt nächsten Monat.",
+            "die Entwicklung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The analysis",
+        "text_de": "die Analyse",
+        "synonyms": [],
+        "description": "German word for 'The analysis'.",
+        "description_de": "Deutsches Wort für 'The analysis'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Analyse",
+            "Die Datenbank enthält Millionen von Forschungsartikeln.",
+            "Ich suche nach einem bestimmten Patent.",
+            "Die Sicherheit des Menschen ist unsere oberste Priorität."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The feasibility",
+        "text_de": "die Machbarkeit",
+        "synonyms": [],
+        "description": "German word for 'The feasibility'.",
+        "description_de": "Deutsches Wort für 'The feasibility'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Teilen Sie keine sensiblen Daten mit Außenstehenden.",
+            "Die Pilotphase beginnt nächsten Monat.",
+            "Hochleistungsrechnen für Simulationen.",
+            "die Machbarkeit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To experiment",
+        "text_de": "experimentieren",
+        "synonyms": [],
+        "description": "German word for 'To experiment'.",
+        "description_de": "Deutsches Wort für 'To experiment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "Die Sicherheit des Menschen ist unsere oberste Priorität.",
+            "experimentieren",
+            "die Strategie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To improve",
+        "text_de": "verbessern",
+        "synonyms": [],
+        "description": "German word for 'To improve'.",
+        "description_de": "Deutsches Wort für 'To improve'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaftliche Zeitschriften sind wichtig für Forscher.",
+            "verbessern",
+            "die Forschung",
+            "Wissenschaft ist eine Reise ohne Ende."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Research and development drive economic growth.",
+        "text_de": "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+            "Den Maßstab eines Prozesses zu vergrößern ist eine Herausforderung.",
+            "Die Kalibrierung von Werkzeugen muss regelmäßig erfolgen.",
+            "Ich lerne eine neue Programmiersprache für meine Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our company invests a lot in R&D.",
+        "text_de": "Unser Unternehmen investiert viel in F&E.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf die nächste Konferenz.",
+            "Die Erfindung des Lasers hat vieles verändert.",
+            "Unser Unternehmen investiert viel in F&E.",
+            "die Strategie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Innovation is the core of our strategy.",
+        "text_de": "Innovation ist der Kern unserer Strategie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Innovation ist der Kern unserer Strategie.",
+            "Schutzbrillen sind im Labor obligatorisch.",
+            "Die Testphase sollte gründlich sein.",
+            "Bleib auf deine Vision fokussiert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm working on a new research project.",
+        "text_de": "Ich arbeite an einem neuen Forschungsprojekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an einem neuen Forschungsprojekt.",
+            "das Budget",
+            "Ein Rückschlag ist nur eine neue Herausforderung.",
+            "die Forschung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We just finished the first prototype.",
+        "text_de": "Wir haben gerade den ersten Prototyp fertiggestellt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaftler aus der ganzen Welt arbeiten zusammen.",
+            "das Patent",
+            "Wissenschaft ist eine Reise ohne Ende.",
+            "Wir haben gerade den ersten Prototyp fertiggestellt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's important to protect your ideas with a patent.",
+        "text_de": "Es ist wichtig, seine Ideen mit einem Patent zu schützen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an einem neuen Forschungsprojekt.",
+            "Eine detaillierte Analyse der Daten ist notwendig.",
+            "Es ist wichtig, seine Ideen mit einem Patent zu schützen.",
+            "Das Projekt erhielt staatliche Förderung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The discovery was made by accident.",
+        "text_de": "Die Entdeckung geschah durch Zufall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pilotphase beginnt nächsten Monat.",
+            "Die Doktorandin veröffentlichte ihr erstes Paper.",
+            "Wir wollen die Qualität unserer Produkte verbessern.",
+            "Die Entdeckung geschah durch Zufall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The invention of the laser changed many things.",
+        "text_de": "Die Erfindung des Lasers hat vieles verändert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wöchentliche Besprechungen für Status-Updates.",
+            "das Budget",
+            "Der Technologietransfer ist erfolgreich.",
+            "Die Erfindung des Lasers hat vieles verändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lab is equipped with modern tools.",
+        "text_de": "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erkunden Sie weiter das Unbekannte!",
+            "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "Bleib auf deine Vision fokussiert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is a very dedicated researcher.",
+        "text_de": "Er ist ein sehr engagierter Forscher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Big Data ist eine Goldgrube für Forscher.",
+            "Ich freue mich auf die nächste Konferenz.",
+            "Er ist ein sehr engagierter Forscher.",
+            "Ich bin stolz auf unsere neueste Entdeckung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Scientists from around the world are collaborating.",
+        "text_de": "Wissenschaftler aus der ganzen Welt arbeiten zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaftler aus der ganzen Welt arbeiten zusammen.",
+            "Teilen Sie keine sensiblen Daten mit Außenstehenden.",
+            "Die Datenbank enthält Millionen von Forschungsartikeln.",
+            "die Analyse"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The project received government funding.",
+        "text_de": "Das Projekt erhielt staatliche Förderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Machbarkeit",
+            "Das Projekt erhielt staatliche Förderung.",
+            "Ich lese einen Bericht über globale F&E-Trends.",
+            "die Entdeckung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need to increase the R&D budget.",
+        "text_de": "Wir müssen das F&E-Budget erhöhen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Entdeckung geschah durch Zufall.",
+            "Wir müssen das F&E-Budget erhöhen.",
+            "der Prototyp",
+            "Ich bin fasziniert von angewandter Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is the long-term strategy for development?",
+        "text_de": "Was ist die langfristige Strategie für die Entwicklung?",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "Hochleistungsrechnen für Simulationen.",
+            "Was ist die langfristige Strategie für die Entwicklung?",
+            "Start-ups arbeiten oft mit Universitäten zusammen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The main goal is to reduce energy consumption.",
+        "text_de": "Das Hauptziel ist es, den Energieverbrauch zu senken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Labor",
+            "Urheberrechtsschutz für Software ist wichtig.",
+            "Wir wollen die Qualität unserer Produkte verbessern.",
+            "Das Hauptziel ist es, den Energieverbrauch zu senken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The results of the study were very promising.",
+        "text_de": "Die Ergebnisse der Studie waren sehr vielversprechend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "Die Ergebnisse der Studie waren sehr vielversprechend.",
+            "Ich suche nach einem bestimmten Patent.",
+            "verbessern"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A detailed analysis of the data is necessary.",
+        "text_de": "Eine detaillierte Analyse der Daten ist notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Forscher",
+            "Der Labortechniker ist sehr hilfsbereit.",
+            "Hör niemals auf, 'warum?' zu fragen.",
+            "Eine detaillierte Analyse der Daten ist notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are conducting a feasibility study.",
+        "text_de": "Wir führen eine Machbarkeitsstudie durch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Analyse",
+            "Wir führen eine Machbarkeitsstudie durch.",
+            "Die Zukunft für die Wissenschaft ist glänzend.",
+            "Das Labor ist mit modernen Werkzeugen ausgestattet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Experimenting with new materials is fun.",
+        "text_de": "Das Experimentieren mit neuen Materialien macht Spaß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese einen Bericht über globale F&E-Trends.",
+            "die Analyse",
+            "die Machbarkeit",
+            "Das Experimentieren mit neuen Materialien macht Spaß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We want to improve the quality of our products.",
+        "text_de": "Wir wollen die Qualität unserer Produkte verbessern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Start-ups arbeiten oft mit Universitäten zusammen.",
+            "Wir wollen die Qualität unserer Produkte verbessern.",
+            "Ich arbeite an einem neuen Forschungsprojekt.",
+            "der Wissenschaftler"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Continuous learning is vital in R&D.",
+        "text_de": "Kontinuierliches Lernen ist in der F&E lebenswichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Suche nach Wissen geht weiter.",
+            "Die Zukunft für die Wissenschaft ist glänzend.",
+            "Urheberrechtsschutz für Software ist wichtig.",
+            "Kontinuierliches Lernen ist in der F&E lebenswichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Failure is often a step toward success.",
+        "text_de": "Scheitern ist oft ein Schritt zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Grundlagenforschung ist das Fundament des Wissens.",
+            "Die Doktorandin veröffentlichte ihr erstes Paper.",
+            "der Wissenschaftler",
+            "Scheitern ist oft ein Schritt zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Testing period should be thorough.",
+        "text_de": "Die Testphase sollte gründlich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+            "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+            "Zusammenarbeit ist besser als Wettbewerb.",
+            "Die Testphase sollte gründlich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a postdoc position.",
+        "text_de": "Ich suche eine Postdoc-Stelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche eine Postdoc-Stelle.",
+            "Die Testphase sollte gründlich sein.",
+            "das Patent",
+            "Das Hauptziel ist es, den Energieverbrauch zu senken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The PhD student published her first paper.",
+        "text_de": "Die Doktorandin veröffentlichte ihr erstes Paper.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Strategie",
+            "The Projektleiter überwacht den Zeitplan.",
+            "Inkubatoren helfen neuen Unternehmen beim Wachsen.",
+            "Die Doktorandin veröffentlichte ihr erstes Paper."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peer review ensures scientific quality.",
+        "text_de": "Peer-Review gewährleistet wissenschaftliche Qualität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaftliche Zeitschriften sind wichtig für Forscher.",
+            "das Projekt",
+            "Peer-Review gewährleistet wissenschaftliche Qualität.",
+            "Ein Rückschlag ist nur eine neue Herausforderung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Academic journals are important for researchers.",
+        "text_de": "Wissenschaftliche Zeitschriften sind wichtig für Forscher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verbessern",
+            "das Projekt",
+            "Wissenschaftliche Zeitschriften sind wichtig für Forscher.",
+            "Kontinuierliches Lernen ist in der F&E lebenswichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The conference attracted many experts.",
+        "text_de": "Die Konferenz zog viele Experten an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+            "Die Konferenz zog viele Experten an.",
+            "Meilensteine helfen, den Fortschritt zu verfolgen.",
+            "Ich lerne eine neue Programmiersprache für meine Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm fascinated by applied research.",
+        "text_de": "Ich bin fasziniert von angewandter Forschung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Grundlagenforschung ist das Fundament des Wissens.",
+            "Halten Sie den Arbeitsplatz sauber und organisiert.",
+            "Ich bin fasziniert von angewandter Forschung.",
+            "Ich arbeite an einem neuen Forschungsprojekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Basic research is the foundation of knowledge.",
+        "text_de": "Grundlagenforschung ist das Fundament des Wissens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Projekt",
+            "Der Labortechniker ist sehr hilfsbereit.",
+            "Grundlagenforschung ist das Fundament des Wissens.",
+            "die Machbarkeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Interdisciplinary approaches lead to new insights.",
+        "text_de": "Interdisziplinäre Ansätze führen zu neuen Erkenntnissen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche nach einem bestimmten Patent.",
+            "Die Konferenz zog viele Experten an.",
+            "Ich freue mich auf die nächste Konferenz.",
+            "Interdisziplinäre Ansätze führen zu neuen Erkenntnissen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The technology transfer is successful.",
+        "text_de": "Der Technologietransfer ist erfolgreich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Automatisierung der Datenerhebung spart Zeit.",
+            "Der Technologietransfer ist erfolgreich.",
+            "Die Zukunft für die Wissenschaft ist glänzend.",
+            "Die Ergebnisse der Studie waren sehr vielversprechend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Startups often collaborate with universities.",
+        "text_de": "Start-ups arbeiten oft mit Universitäten zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir wollen die Qualität unserer Produkte verbessern.",
+            "die Innovation",
+            "der Prototyp",
+            "Start-ups arbeiten oft mit Universitäten zusammen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Incubators help new companies to grow.",
+        "text_de": "Inkubatoren helfen neuen Unternehmen beim Wachsen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Inkubatoren helfen neuen Unternehmen beim Wachsen.",
+            "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+            "Der Teamgeist in unserer Abteilung ist hoch.",
+            "Interdisziplinäre Ansätze führen zu neuen Erkenntnissen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The pilot phase will start next month.",
+        "text_de": "Die Pilotphase beginnt nächsten Monat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Patent",
+            "Die technische Dokumentation muss präzise sein.",
+            "Ich bin fasziniert von angewandter Forschung.",
+            "Die Pilotphase beginnt nächsten Monat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Scaling up a process is a challenge.",
+        "text_de": "Den Maßstab eines Prozesses zu vergrößern ist eine Herausforderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaftliche Zeitschriften sind wichtig für Forscher.",
+            "Die Konferenz zog viele Experten an.",
+            "Sei geduldig, großartige Dinge brauchen Zeit.",
+            "Den Maßstab eines Prozesses zu vergrößern ist eine Herausforderung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Efficiency and sustainability are our priorities.",
+        "text_de": "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was ist die langfristige Strategie für die Entwicklung?",
+            "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+            "Kontinuierliches Lernen ist in der F&E lebenswichtig.",
+            "Schutzbrillen sind im Labor obligatorisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm reading a report on global R&D trends.",
+        "text_de": "Ich lese einen Bericht über globale F&E-Trends.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die technische Dokumentation muss präzise sein.",
+            "Zusammenarbeit ist besser als Wettbewerb.",
+            "Die Ergebnisse der Studie waren sehr vielversprechend.",
+            "Ich lese einen Bericht über globale F&E-Trends."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The intellectual property (IP) department.",
+        "text_de": "Die Abteilung für geistiges Eigentum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "experimentieren",
+            "Ich wünsche Ihnen alles Gute für Ihr Projekt!",
+            "Die Abteilung für geistiges Eigentum.",
+            "Ich lese einen Bericht über globale F&E-Trends."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Copyright protection for software is essential.",
+        "text_de": "Urheberrechtsschutz für Software ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir führen eine Machbarkeitsstudie durch.",
+            "Urheberrechtsschutz für Software ist wichtig.",
+            "Vertraulichkeit ist in der F&E sehr wichtig.",
+            "Wir müssen die ethischen Richtlinien befolgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open science promotes transparency and sharing.",
+        "text_de": "Open Science fördert Transparenz und Teilen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kreativität wird zur Problemlösung benötigt.",
+            "Open Science fördert Transparenz und Teilen.",
+            "Wissenschaftler aus der ganzen Welt arbeiten zusammen.",
+            "die Entwicklung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must follow the ethical guidelines.",
+        "text_de": "Wir müssen die ethischen Richtlinien befolgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen die ethischen Richtlinien befolgen.",
+            "Teilen Sie keine sensiblen Daten mit Außenstehenden.",
+            "Start-ups arbeiten oft mit Universitäten zusammen.",
+            "Ich lese einen Bericht über globale F&E-Trends."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Animal testing should be minimized.",
+        "text_de": "Tierversuche sollten minimiert werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Umweltauswirkungen müssen bewertet werden.",
+            "Die Pilotphase beginnt nächsten Monat.",
+            "Tierversuche sollten minimiert werden.",
+            "Arbeite hart und bleibe neugierig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human safety is our top priority.",
+        "text_de": "Die Sicherheit des Menschen ist unsere oberste Priorität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sicherheit des Menschen ist unsere oberste Priorität.",
+            "Sei geduldig, großartige Dinge brauchen Zeit.",
+            "Arbeite hart und bleibe neugierig.",
+            "Open Science fördert Transparenz und Teilen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Environmental impact must be evaluated.",
+        "text_de": "Die Umweltauswirkungen müssen bewertet werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "The Projektleiter überwacht den Zeitplan.",
+            "Die Umweltauswirkungen müssen bewertet werden.",
+            "Die Datenbank enthält Millionen von Forschungsartikeln.",
+            "Die Testphase sollte gründlich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of our latest discovery.",
+        "text_de": "Ich bin stolz auf unsere neueste Entdeckung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Testphase sollte gründlich sein.",
+            "Ich bin stolz auf unsere neueste Entdeckung.",
+            "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+            "Die Umweltauswirkungen müssen bewertet werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep exploring the unknown!",
+        "text_de": "Erkunden Sie weiter das Unbekannte!",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Labor ist mit modernen Werkzeugen ausgestattet.",
+            "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+            "Erkunden Sie weiter das Unbekannte!",
+            "Die technische Dokumentation muss präzise sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science is a journey without an end.",
+        "text_de": "Wissenschaft ist eine Reise ohne Ende.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir wollen die Qualität unserer Produkte verbessern.",
+            "der Prototyp",
+            "Wissenschaft ist eine Reise ohne Ende.",
+            "Arbeite hart und bleibe neugierig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Creativity is needed for problem-solving.",
+        "text_de": "Kreativität wird zur Problemlösung benötigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Abteilung für geistiges Eigentum.",
+            "Kreativität wird zur Problemlösung benötigt.",
+            "die Innovation",
+            "Die Erfindung des Lasers hat vieles verändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work hard and stay curious.",
+        "text_de": "Arbeite hart und bleibe neugierig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei geduldig, großartige Dinge brauchen Zeit.",
+            "Arbeite hart und bleibe neugierig.",
+            "Vertraulichkeit ist in der F&E sehr wichtig.",
+            "Das Experimentieren mit neuen Materialien macht Spaß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Technical documentation must be precise.",
+        "text_de": "Die technische Dokumentation muss präzise sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erkunden Sie weiter das Unbekannte!",
+            "Kontinuierliches Lernen ist in der F&E lebenswichtig.",
+            "Die technische Dokumentation muss präzise sein.",
+            "Die Ergebnisse der Studie waren sehr vielversprechend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The database contains millions of research papers.",
+        "text_de": "Die Datenbank enthält Millionen von Forschungsartikeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Datenbank enthält Millionen von Forschungsartikeln.",
+            "Ich freue mich auf die nächste Konferenz.",
+            "Erkunden Sie weiter das Unbekannte!",
+            "die Innovation"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm searching for a specific patent.",
+        "text_de": "Ich suche nach einem bestimmten Patent.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die technische Dokumentation muss präzise sein.",
+            "Ich suche nach einem bestimmten Patent.",
+            "Wissenschaftliche Zeitschriften sind wichtig für Forscher.",
+            "die Analyse"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The legal department checks the contracts.",
+        "text_de": "Die Rechtsabteilung prüft die Verträge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Analyse",
+            "Die Entdeckung geschah durch Zufall.",
+            "Die Rechtsabteilung prüft die Verträge.",
+            "die Strategie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Confidentiality is very important in R&D.",
+        "text_de": "Vertraulichkeit ist in der F&E sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Forschung und Entwicklung treiben das Wirtschaftswachstum voran.",
+            "Vertraulichkeit ist in der F&E sehr wichtig.",
+            "Lasst uns unser Wissen teilen.",
+            "Das Labor ist mit modernen Werkzeugen ausgestattet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't share sensitive data with outsiders.",
+        "text_de": "Teilen Sie keine sensiblen Daten mit Außenstehenden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Teilen Sie keine sensiblen Daten mit Außenstehenden.",
+            "Ich freue mich auf die nächste Konferenz.",
+            "die Strategie",
+            "die Erfindung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lab technician is very helpful.",
+        "text_de": "Der Labortechniker ist sehr hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben gerade den ersten Prototyp fertiggestellt.",
+            "Ich arbeite an einem neuen Forschungsprojekt.",
+            "Der Labortechniker ist sehr hilfsbereit.",
+            "Die Erfindung des Lasers hat vieles verändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Calibration of tools must be done regularly.",
+        "text_de": "Die Kalibrierung von Werkzeugen muss regelmäßig erfolgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erfindung des Lasers hat vieles verändert.",
+            "Wir haben gerade den ersten Prototyp fertiggestellt.",
+            "Ich suche nach einem bestimmten Patent.",
+            "Die Kalibrierung von Werkzeugen muss regelmäßig erfolgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Safety goggles are mandatory in the lab.",
+        "text_de": "Schutzbrillen sind im Labor obligatorisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine detaillierte Analyse der Daten ist notwendig.",
+            "Wir haben gerade den ersten Prototyp fertiggestellt.",
+            "Erfolg ist eine Teamleistung.",
+            "Schutzbrillen sind im Labor obligatorisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep the workspace clean and organized.",
+        "text_de": "Halten Sie den Arbeitsplatz sauber und organisiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche nach einem bestimmten Patent.",
+            "Inkubatoren helfen neuen Unternehmen beim Wachsen.",
+            "Halten Sie den Arbeitsplatz sauber und organisiert.",
+            "Hör niemals auf, 'warum?' zu fragen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The project manager oversees the timeline.",
+        "text_de": "The Projektleiter überwacht den Zeitplan.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns unser Wissen teilen.",
+            "Der Labortechniker ist sehr hilfsbereit.",
+            "The Projektleiter überwacht den Zeitplan.",
+            "das Projekt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Milestones help to track progress.",
+        "text_de": "Meilensteine helfen, den Fortschritt zu verfolgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meilensteine helfen, den Fortschritt zu verfolgen.",
+            "Ich bin stolz auf unsere neueste Entdeckung.",
+            "Die Abteilung für geistiges Eigentum.",
+            "Teilen Sie keine sensiblen Daten mit Außenstehenden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A setback is just a new challenge.",
+        "text_de": "Ein Rückschlag ist nur eine neue Herausforderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Rückschlag ist nur eine neue Herausforderung.",
+            "Ich lese einen Bericht über globale F&E-Trends.",
+            "Zusammenarbeit ist besser als Wettbewerb.",
+            "Unser Unternehmen investiert viel in F&E."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Team spirit is high in our department.",
+        "text_de": "Der Teamgeist in unserer Abteilung ist hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Peer-Review gewährleistet wissenschaftliche Qualität.",
+            "die Forschung",
+            "Der Teamgeist in unserer Abteilung ist hoch.",
+            "der Prototyp"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Weekly meetings for status updates.",
+        "text_de": "Wöchentliche Besprechungen für Status-Updates.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wöchentliche Besprechungen für Status-Updates.",
+            "Halten Sie den Arbeitsplatz sauber und organisiert.",
+            "Die Automatisierung der Datenerhebung spart Zeit.",
+            "die Forschung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm learning a new programming language for my research.",
+        "text_de": "Ich lerne eine neue Programmiersprache für meine Forschung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lerne eine neue Programmiersprache für meine Forschung.",
+            "Interdisziplinäre Ansätze führen zu neuen Erkenntnissen.",
+            "Die Kalibrierung von Werkzeugen muss regelmäßig erfolgen.",
+            "die Analyse"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Automation of data collection saves time.",
+        "text_de": "Die Automatisierung der Datenerhebung spart Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Datenbank enthält Millionen von Forschungsartikeln.",
+            "Den Maßstab eines Prozesses zu vergrößern ist eine Herausforderung.",
+            "Erfolg ist eine Teamleistung.",
+            "Die Automatisierung der Datenerhebung spart Zeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "High-performance computing (HPC) for simulations.",
+        "text_de": "Hochleistungsrechnen für Simulationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hochleistungsrechnen für Simulationen.",
+            "Start-ups arbeiten oft mit Universitäten zusammen.",
+            "Wissenschaftler aus der ganzen Welt arbeiten zusammen.",
+            "das Labor"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Big Data is a goldmine for researchers.",
+        "text_de": "Big Data ist eine Goldgrube für Forscher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Big Data ist eine Goldgrube für Forscher.",
+            "Zusammenarbeit ist besser als Wettbewerb.",
+            "Arbeite hart und bleibe neugierig.",
+            "die Entdeckung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to the next conference.",
+        "text_de": "Ich freue mich auf die nächste Konferenz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf die nächste Konferenz.",
+            "Das Hauptziel ist es, den Energieverbrauch zu senken.",
+            "Die Ergebnisse der Studie waren sehr vielversprechend.",
+            "die Erfindung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Collaboration is better than competition.",
+        "text_de": "Zusammenarbeit ist besser als Wettbewerb.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere neueste Entdeckung.",
+            "Die Rechtsabteilung prüft die Verträge.",
+            "Die Sicherheit des Menschen ist unsere oberste Priorität.",
+            "Zusammenarbeit ist besser als Wettbewerb."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's share our knowledge.",
+        "text_de": "Lasst uns unser Wissen teilen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaft ist eine Reise ohne Ende.",
+            "Lasst uns unser Wissen teilen.",
+            "Ich suche eine Postdoc-Stelle.",
+            "Teilen Sie keine sensiblen Daten mit Außenstehenden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future is bright for science.",
+        "text_de": "Die Zukunft für die Wissenschaft ist glänzend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "The Projektleiter überwacht den Zeitplan.",
+            "Innovation ist der Kern unserer Strategie.",
+            "Arbeite hart und bleibe neugierig.",
+            "Die Zukunft für die Wissenschaft ist glänzend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Never stop asking 'why?'.",
+        "text_de": "Hör niemals auf, 'warum?' zu fragen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sicherheit des Menschen ist unsere oberste Priorität.",
+            "Er ist ein sehr engagierter Forscher.",
+            "Hör niemals auf, 'warum?' zu fragen.",
+            "das Budget"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be patient, great things take time.",
+        "text_de": "Sei geduldig, großartige Dinge brauchen Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Automatisierung der Datenerhebung spart Zeit.",
+            "Sei geduldig, großartige Dinge brauchen Zeit.",
+            "Die Testphase sollte gründlich sein.",
+            "Ich lese einen Bericht über globale F&E-Trends."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Success is a team effort.",
+        "text_de": "Erfolg ist eine Teamleistung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfolg ist eine Teamleistung.",
+            "die Entdeckung",
+            "Ich freue mich auf die nächste Konferenz.",
+            "das Patent"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay focused on your vision.",
+        "text_de": "Bleib auf deine Vision fokussiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib auf deine Vision fokussiert.",
+            "die Machbarkeit",
+            "Die Rechtsabteilung prüft die Verträge.",
+            "Scheitern ist oft ein Schritt zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you all the best for your project!",
+        "text_de": "Ich wünsche Ihnen alles Gute für Ihr Projekt!",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Effizienz und Nachhaltigkeit sind unsere Prioritäten.",
+            "Wir führen eine Machbarkeitsstudie durch.",
+            "Ich lese einen Bericht über globale F&E-Trends.",
+            "Ich wünsche Ihnen alles Gute für Ihr Projekt!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The search for knowledge continues.",
+        "text_de": "Die Suche nach Wissen geht weiter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist ein sehr engagierter Forscher.",
+            "das Patent",
+            "Eine detaillierte Analyse der Daten ist notwendig.",
+            "Die Suche nach Wissen geht weiter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy your research!",
+        "text_de": "Genießen Sie Ihre Forschung!",
+        "synonyms": [],
+        "description": "Example sentence for 'Research & Development'.",
+        "description_de": "Beispielsatz für 'Research & Development'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Genießen Sie Ihre Forschung!",
+            "Ich lerne eine neue Programmiersprache für meine Forschung.",
+            "Peer-Review gewährleistet wissenschaftliche Qualität.",
+            "Schutzbrillen sind im Labor obligatorisch."
+        ]
+    }
+]

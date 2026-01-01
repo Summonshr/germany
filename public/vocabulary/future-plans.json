@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The future",
+        "text_de": "die Zukunft",
+        "synonyms": [],
+        "description": "German word for 'The future'.",
+        "description_de": "Deutsches Wort für 'The future'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte einen positiven Einfluss hinterlassen.",
+            "Das Leben ist voller Überraschungen.",
+            "die Zukunft",
+            "Technologie sollte dem Planeten dienen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The plan",
+        "text_de": "der Plan",
+        "synonyms": [],
+        "description": "German word for 'The plan'.",
+        "description_de": "Deutsches Wort für 'The plan'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "der Plan",
+            "der Erfolg",
+            "Technologie verändert die Art und Weise, wie wir arbeiten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The goal",
+        "text_de": "das Ziel",
+        "synonyms": [],
+        "description": "German word for 'The goal'.",
+        "description_de": "Deutsches Wort für 'The goal'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ehrgeiz",
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "Beförderung ist mein nächstes Ziel bei der Arbeit.",
+            "das Ziel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The dream",
+        "text_de": "der Traum",
+        "synonyms": [],
+        "description": "German word for 'The dream'.",
+        "description_de": "Deutsches Wort für 'The dream'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Traum",
+            "Ich denke über meine Zukunftspläne nach.",
+            "Weltraumforschung ist faszinierend.",
+            "der Erfolg"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The dream job",
+        "text_de": "der Traumberuf",
+        "synonyms": [],
+        "description": "German word for 'The dream job'.",
+        "description_de": "Deutsches Wort für 'The dream job'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Traumberuf",
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "entscheiden"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The career",
+        "text_de": "die Karriere",
+        "synonyms": [],
+        "description": "German word for 'The career'.",
+        "description_de": "Deutsches Wort für 'The career'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Karriere",
+            "Ich habe den Plan, mein eigenes Unternehmen zu gründen.",
+            "Ich möchte finanziell unabhängig sein.",
+            "Was sind deine Ziele für das nächste Jahr?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The success",
+        "text_de": "der Erfolg",
+        "synonyms": [],
+        "description": "German word for 'The success'.",
+        "description_de": "Deutsches Wort für 'The success'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Traumberuf ist es, Schriftsteller zu sein.",
+            "Erfolg haben",
+            "der Erfolg",
+            "Ich fange nächsten Monat mit einem neuen Hobby an."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The change",
+        "text_de": "die Veränderung",
+        "synonyms": [],
+        "description": "German word for 'The change'.",
+        "description_de": "Deutsches Wort für 'The change'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weltraumforschung ist faszinierend.",
+            "die Veränderung",
+            "Ich bin bereit für eine große Veränderung in meinem Leben.",
+            "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The decision",
+        "text_de": "die Entscheidung",
+        "synonyms": [],
+        "description": "German word for 'The decision'.",
+        "description_de": "Deutsches Wort für 'The decision'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne aus deinen Fehlern und mache weiter.",
+            "Ich möchte finanziell unabhängig sein.",
+            "die Entscheidung",
+            "der Traum"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The opportunity",
+        "text_de": "die Gelegenheit",
+        "synonyms": [],
+        "description": "German word for 'The opportunity'.",
+        "description_de": "Deutsches Wort für 'The opportunity'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gelegenheit",
+            "In einem anderen Land zu leben, ist ein Traum von mir.",
+            "Nichts ist unmöglich, wenn man daran glaubt.",
+            "träumen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The possibility",
+        "text_de": "die Möglichkeit",
+        "synonyms": [],
+        "description": "German word for 'The possibility'.",
+        "description_de": "Deutsches Wort für 'The possibility'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Möglichkeit",
+            "Freiwilligenarbeit ist Teil meines Ruhestandsplans.",
+            "Beständigkeit ist der Schlüssel.",
+            "Ich arbeite an einem geheimen Projekt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ambition",
+        "text_de": "der Ehrgeiz",
+        "synonyms": [],
+        "description": "German word for 'The ambition'.",
+        "description_de": "Deutsches Wort für 'The ambition'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Familie ist Teil all meiner Zukunftspläne.",
+            "der Ehrgeiz",
+            "planen",
+            "Ich erstelle eine Liste mit Dingen, die ich tun möchte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The project",
+        "text_de": "das Projekt",
+        "synonyms": [],
+        "description": "German word for 'The project'.",
+        "description_de": "Deutsches Wort für 'The project'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich spare Geld für meinen Ruhestand.",
+            "Nachhaltigkeit ist Teil meiner Lebensstil-Entscheidung.",
+            "das Projekt",
+            "Eine Bucket List ist eine tolle Idee."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The vision",
+        "text_de": "die Vision",
+        "synonyms": [],
+        "description": "German word for 'The vision'.",
+        "description_de": "Deutsches Wort für 'The vision'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin bereit für eine große Veränderung in meinem Leben.",
+            "Das Beste kommt erst noch.",
+            "die Vision",
+            "Werden Menschen eines Tages auf dem Mars leben?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To plan",
+        "text_de": "planen",
+        "synonyms": [],
+        "description": "German word for 'To plan'.",
+        "description_de": "Deutsches Wort für 'To plan'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was willst du werden, wenn du groß bist?",
+            "Ich möchte Karriere in der Tech-Branche machen.",
+            "Weltraumforschung ist faszinierend.",
+            "planen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To dream",
+        "text_de": "träumen",
+        "synonyms": [],
+        "description": "German word for 'To dream'.",
+        "description_de": "Deutsches Wort für 'To dream'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich plane eine Weltreise.",
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "träumen",
+            "das Ziel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To achieve",
+        "text_de": "erreichen",
+        "synonyms": [],
+        "description": "German word for 'To achieve'.",
+        "description_de": "Deutsches Wort für 'To achieve'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was sind deine Ziele für das nächste Jahr?",
+            "erreichen",
+            "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben.",
+            "Es ist eine schwierige Entscheidung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To decide",
+        "text_de": "entscheiden",
+        "synonyms": [],
+        "description": "German word for 'To decide'.",
+        "description_de": "Deutsches Wort für 'To decide'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "entscheiden",
+            "der Traum",
+            "Werden Menschen eines Tages auf dem Mars leben?",
+            "Hilf anderen, ihre Ziele ebenfalls zu erreichen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To change",
+        "text_de": "verändern",
+        "synonyms": [],
+        "description": "German word for 'To change'.",
+        "description_de": "Deutsches Wort für 'To change'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verändern",
+            "Innovation ist der Schlüssel zur Zukunft.",
+            "Ich möchte finanziell unabhängig sein.",
+            "Ich bin bereit für eine große Veränderung in meinem Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To succeed",
+        "text_de": "Erfolg haben",
+        "synonyms": [],
+        "description": "German word for 'To succeed'.",
+        "description_de": "Deutsches Wort für 'To succeed'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ziel",
+            "Erfolg haben",
+            "Ich werde bald in eine andere Stadt ziehen.",
+            "Ich werde niemals aufhören zu lernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm thinking about my future plans.",
+        "text_de": "Ich denke über meine Zukunftspläne nach.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Werden Menschen eines Tages auf dem Mars leben?",
+            "Ich bin bereit für eine große Veränderung in meinem Leben.",
+            "Ich denke über meine Zukunftspläne nach.",
+            "Beförderung ist mein nächstes Ziel bei der Arbeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are your goals for next year?",
+        "text_de": "Was sind deine Ziele für das nächste Jahr?",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Traumberuf ist es, Schriftsteller zu sein.",
+            "die Vision",
+            "Was sind deine Ziele für das nächste Jahr?",
+            "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a plan to start my own business.",
+        "text_de": "Ich habe den Plan, mein eigenes Unternehmen zu gründen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ehrgeiz",
+            "Ich bin stolz auf meine bisherigen Leistungen.",
+            "Erfolg erfordert harte Arbeit und Ausdauer.",
+            "Ich habe den Plan, mein eigenes Unternehmen zu gründen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everyone should follow their dreams.",
+        "text_de": "Jeder sollte seine Träume verfolgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder sollte seine Träume verfolgen.",
+            "Sei die Veränderung, die du in der Welt sehen willst.",
+            "Meine Karriere ist mir sehr wichtig.",
+            "Hab keine Angst davor, Risiken einzugehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My dream job is to be a writer.",
+        "text_de": "Mein Traumberuf ist es, Schriftsteller zu sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Erfolg",
+            "verändern",
+            "Ich möchte gesund bleiben, wenn ich älter werde.",
+            "Mein Traumberuf ist es, Schriftsteller zu sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to make a career in the tech industry.",
+        "text_de": "Ich möchte Karriere in der Tech-Branche machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Technologie sollte dem Planeten dienen.",
+            "Ich bin zuversichtlich in meine Fähigkeiten.",
+            "Das neue Projekt wird nächsten Montag beginnen.",
+            "Ich möchte Karriere in der Tech-Branche machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Success requires hard work and persistence.",
+        "text_de": "Erfolg erfordert harte Arbeit und Ausdauer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ziel",
+            "das Projekt",
+            "Erfolg erfordert harte Arbeit und Ausdauer.",
+            "Meine Familie ist Teil all meiner Zukunftspläne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm ready for a big change in my life.",
+        "text_de": "Ich bin bereit für eine große Veränderung in meinem Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte Karriere in der Tech-Branche machen.",
+            "Ich möchte lernen, wie man ein Flugzeug fliegt.",
+            "Ich bin bereit für eine große Veränderung in meinem Leben.",
+            "Ich erstelle eine Liste mit Dingen, die ich tun möchte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a difficult decision to make.",
+        "text_de": "Es ist eine schwierige Entscheidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Technologie sollte dem Planeten dienen.",
+            "Ich plane, vegan zu leben.",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "Es ist eine schwierige Entscheidung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This is a unique opportunity for me.",
+        "text_de": "Das ist eine einzigartige Gelegenheit für mich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist eine einzigartige Gelegenheit für mich.",
+            "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben.",
+            "der Traumberuf",
+            "Mein Traumberuf ist es, Schriftsteller zu sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There are many possibilities for growth.",
+        "text_de": "Es gibt viele Möglichkeiten für Wachstum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt viele Möglichkeiten für Wachstum.",
+            "Die Zukunft ist das, was wir daraus machen.",
+            "Was ist dein Fünf-Jahres-Plan?",
+            "Ich bin stolz auf meine bisherigen Leistungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She has a lot of ambition to succeed.",
+        "text_de": "Sie hat viel Ehrgeiz, um erfolgreich zu sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft ist das, was wir daraus machen.",
+            "Es ist eine schwierige Entscheidung.",
+            "Ich möchte gesund bleiben, wenn ich älter werde.",
+            "Sie hat viel Ehrgeiz, um erfolgreich zu sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The new project will start next Monday.",
+        "text_de": "Das neue Projekt wird nächsten Montag beginnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zukünftige Generationen werden es uns danken.",
+            "Das neue Projekt wird nächsten Montag beginnen.",
+            "die Gelegenheit",
+            "verändern"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a vision for a better world.",
+        "text_de": "Ich habe eine Vision für eine bessere Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Vision für eine bessere Welt.",
+            "Ich möchte meinen Müll noch weiter reduzieren.",
+            "Ich bin zuversichtlich in meine Fähigkeiten.",
+            "Ich möchte meine Ziele Schritt für Schritt erreichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm planning a trip around the world.",
+        "text_de": "Ich plane eine Weltreise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Erfolg",
+            "Ich plane eine Weltreise.",
+            "Meine Familie ist Teil all meiner Zukunftspläne.",
+            "Werden Menschen eines Tages auf dem Mars leben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I often dream of living by the sea.",
+        "text_de": "Ich träume oft davon, am Meer zu wohnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was willst du werden, wenn du groß bist?",
+            "die Möglichkeit",
+            "Ich werde bald in eine andere Stadt ziehen.",
+            "Ich träume oft davon, am Meer zu wohnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to achieve my goals step by step.",
+        "text_de": "Ich möchte meine Ziele Schritt für Schritt erreichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin zuversichtlich in meine Fähigkeiten.",
+            "Lerne aus deinen Fehlern und mache weiter.",
+            "Ich möchte meine Ziele Schritt für Schritt erreichen.",
+            "Ich schätze die Work-Life-Balance."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I decided to learn a new language.",
+        "text_de": "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ehrgeiz",
+            "der Plan",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "In einem anderen Land zu leben, ist ein Traum von mir."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Technology is changing the way we work.",
+        "text_de": "Technologie verändert die Art und Weise, wie wir arbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin bereit für eine große Veränderung in meinem Leben.",
+            "der Erfolg",
+            "Technologie verändert die Art und Weise, wie wir arbeiten.",
+            "Ich bin stolz auf meine bisherigen Leistungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hope you will succeed in your exams.",
+        "text_de": "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin zuversichtlich in meine Fähigkeiten.",
+            "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben.",
+            "Lerne aus deinen Fehlern und mache weiter.",
+            "Ich bin gespannt auf das nächste Jahrzehnt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to the future.",
+        "text_de": "Ich freue mich auf die Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf die Zukunft.",
+            "Ich möchte jeden Tag ein besserer Mensch werden.",
+            "Ich bin optimistisch, was vor mir liegt.",
+            "Ich spare Geld für meinen Ruhestand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't be afraid to take risks.",
+        "text_de": "Hab keine Angst davor, Risiken einzugehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hab keine Angst davor, Risiken einzugehen.",
+            "Schau nicht zurück, schau nach vorne.",
+            "Ich bin dankbar für jede Gelegenheit.",
+            "Das Leben ist voller Überraschungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to move to another city soon.",
+        "text_de": "Ich werde bald in eine andere Stadt ziehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Beste kommt erst noch.",
+            "Greifen wir nach den Sternen!",
+            "Ich schätze die Work-Life-Balance.",
+            "Ich werde bald in eine andere Stadt ziehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to buy a house in ten years.",
+        "text_de": "In zehn Jahren möchte ich ein Haus kaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In zehn Jahren möchte ich ein Haus kaufen.",
+            "Beförderung ist mein nächstes Ziel bei der Arbeit.",
+            "Ich werde niemals aufhören zu lernen.",
+            "Ich plane, vegan zu leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What do you want to be when you grow up?",
+        "text_de": "Was willst du werden, wenn du groß bist?",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was willst du werden, wenn du groß bist?",
+            "Das Beste kommt erst noch.",
+            "Technologie sollte dem Planeten dienen.",
+            "In einem anderen Land zu leben, ist ein Traum von mir."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm working on a secret project.",
+        "text_de": "Ich arbeite an einem geheimen Projekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Vision für eine bessere Welt.",
+            "der Traum",
+            "Ich suche derzeit nach einer neuen Herausforderung.",
+            "Ich arbeite an einem geheimen Projekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay focused on your goals.",
+        "text_de": "Bleib fokussiert auf deine Ziele.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Technologie sollte dem Planeten dienen.",
+            "Bleib fokussiert auf deine Ziele.",
+            "die Karriere",
+            "Greifen wir nach den Sternen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Failure is just a part of the process.",
+        "text_de": "Scheitern ist nur ein Teil des Prozesses.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Scheitern ist nur ein Teil des Prozesses.",
+            "die Veränderung",
+            "die Entscheidung",
+            "Das Leben ist voller Überraschungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn from your mistakes and move on.",
+        "text_de": "Lerne aus deinen Fehlern und mache weiter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schätze die Work-Life-Balance.",
+            "Der Weg ist genauso wichtig wie das Ziel.",
+            "Ich überdenke meine Optionen.",
+            "Lerne aus deinen Fehlern und mache weiter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm currently looking for a new challenge.",
+        "text_de": "Ich suche derzeit nach einer neuen Herausforderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche derzeit nach einer neuen Herausforderung.",
+            "Hilf anderen, ihre Ziele ebenfalls zu erreichen.",
+            "In zehn Jahren möchte ich ein Haus kaufen.",
+            "Ich fange nächsten Monat mit einem neuen Hobby an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My career is very important to me.",
+        "text_de": "Meine Karriere ist mir sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Karriere ist mir sehr wichtig.",
+            "die Gelegenheit",
+            "Ich bin optimistisch, was vor mir liegt.",
+            "Scheitern ist nur ein Teil des Prozesses."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I value work-life balance.",
+        "text_de": "Ich schätze die Work-Life-Balance.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Viel Glück bei all deinen Plänen!",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "Greifen wir nach den Sternen!",
+            "Ich schätze die Work-Life-Balance."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In the future, I want to travel more.",
+        "text_de": "In der Zukunft möchte ich mehr reisen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Entscheidung",
+            "In der Zukunft möchte ich mehr reisen.",
+            "Ich möchte finanziell unabhängig sein.",
+            "Technologie verändert die Art und Weise, wie wir arbeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm saving money for my retirement.",
+        "text_de": "Ich spare Geld für meinen Ruhestand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Greifen wir nach den Sternen!",
+            "Ich schätze die Work-Life-Balance.",
+            "In der Zukunft möchte ich mehr reisen.",
+            "Ich spare Geld für meinen Ruhestand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Innovation is the key to the future.",
+        "text_de": "Innovation ist der Schlüssel zur Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In einem anderen Land zu leben, ist ein Traum von mir.",
+            "Ich möchte einen positiven Einfluss hinterlassen.",
+            "Was sind deine Ziele für das nächste Jahr?",
+            "Innovation ist der Schlüssel zur Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What's your five-year plan?",
+        "text_de": "Was ist dein Fünf-Jahres-Plan?",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "planen",
+            "träumen",
+            "Was ist dein Fünf-Jahres-Plan?",
+            "Ich plane, eines Tages ein Buch zu schreiben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm reconsidering my options.",
+        "text_de": "Ich überdenke meine Optionen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich erstelle eine Liste mit Dingen, die ich tun möchte.",
+            "Innovation ist der Schlüssel zur Zukunft.",
+            "Genieße jeden Moment der Reise.",
+            "Ich überdenke meine Optionen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's reach for the stars!",
+        "text_de": "Greifen wir nach den Sternen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfolg passiert nicht über Nacht.",
+            "Nichts ist unmöglich, wenn man daran glaubt.",
+            "In einem anderen Land zu leben, ist ein Traum von mir.",
+            "Greifen wir nach den Sternen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nothing is impossible if you believe in it.",
+        "text_de": "Nichts ist unmöglich, wenn man daran glaubt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nichts ist unmöglich, wenn man daran glaubt.",
+            "der Traumberuf",
+            "Weltraumforschung ist faszinierend.",
+            "Zukünftige Generationen werden es uns danken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of my accomplishments so far.",
+        "text_de": "Ich bin stolz auf meine bisherigen Leistungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zukünftige Generationen werden es uns danken.",
+            "Ich bin stolz auf meine bisherigen Leistungen.",
+            "Ich habe den Plan, mein eigenes Unternehmen zu gründen.",
+            "Ich bin optimistisch, was vor mir liegt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to leave a positive impact.",
+        "text_de": "Ich möchte einen positiven Einfluss hinterlassen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte einen positiven Einfluss hinterlassen.",
+            "die Entscheidung",
+            "Ich denke über meine Zukunftspläne nach.",
+            "Beständigkeit ist der Schlüssel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My family is part of all my future plans.",
+        "text_de": "Meine Familie ist Teil all meiner Zukunftspläne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Familie ist Teil all meiner Zukunftspläne.",
+            "Bildung ist eine lebenslange Reise.",
+            "Nimm das Unbekannte an.",
+            "Hilf anderen, ihre Ziele ebenfalls zu erreichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm planning to write a book someday.",
+        "text_de": "Ich plane, eines Tages ein Buch zu schreiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche derzeit nach einer neuen Herausforderung.",
+            "Ich spare Geld für meinen Ruhestand.",
+            "Das neue Projekt wird nächsten Montag beginnen.",
+            "Ich plane, eines Tages ein Buch zu schreiben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Volunteering is part of my retirement plan.",
+        "text_de": "Freiwilligenarbeit ist Teil meines Ruhestandsplans.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Traumberuf",
+            "Ich werde bald in eine andere Stadt ziehen.",
+            "Ich bin optimistisch, was vor mir liegt.",
+            "Freiwilligenarbeit ist Teil meines Ruhestandsplans."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to stay healthy as I get older.",
+        "text_de": "Ich möchte gesund bleiben, wenn ich älter werde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Entscheidung",
+            "Ich plane eine Weltreise.",
+            "Ich überdenke meine Optionen.",
+            "Ich möchte gesund bleiben, wenn ich älter werde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education is a lifelong journey.",
+        "text_de": "Bildung ist eine lebenslange Reise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib fokussiert auf deine Ziele.",
+            "Bildung ist eine lebenslange Reise.",
+            "Das Leben ist voller Überraschungen.",
+            "erreichen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to take a sabbatical year.",
+        "text_de": "Ich werde ein Sabbatjahr einlegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Werden Menschen eines Tages auf dem Mars leben?",
+            "Ich möchte finanziell unabhängig sein.",
+            "Ich werde ein Sabbatjahr einlegen.",
+            "die Veränderung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life is full of surprises.",
+        "text_de": "Das Leben ist voller Überraschungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das neue Projekt wird nächsten Montag beginnen.",
+            "Freiwilligenarbeit ist Teil meines Ruhestandsplans.",
+            "Technologie verändert die Art und Weise, wie wir arbeiten.",
+            "Das Leben ist voller Überraschungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Embrace the unknown.",
+        "text_de": "Nimm das Unbekannte an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nimm das Unbekannte an.",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "Sie hat viel Ehrgeiz, um erfolgreich zu sein.",
+            "Nachhaltigkeit ist Teil meiner Lebensstil-Entscheidung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The best is yet to come.",
+        "text_de": "Das Beste kommt erst noch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Technologie verändert die Art und Weise, wie wir arbeiten.",
+            "Ich möchte meine Ziele Schritt für Schritt erreichen.",
+            "der Erfolg",
+            "Das Beste kommt erst noch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm optimistic about what's ahead.",
+        "text_de": "Ich bin optimistisch, was vor mir liegt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In einem anderen Land zu leben, ist ein Traum von mir.",
+            "Ich bin optimistisch, was vor mir liegt.",
+            "Ich möchte gesund bleiben, wenn ich älter werde.",
+            "Eine Bucket List ist eine tolle Idee."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't look back, look forward.",
+        "text_de": "Schau nicht zurück, schau nach vorne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beförderung ist mein nächstes Ziel bei der Arbeit.",
+            "Schau nicht zurück, schau nach vorne.",
+            "Was willst du werden, wenn du groß bist?",
+            "Ich möchte meinen Müll noch weiter reduzieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm making a list of things I want to do.",
+        "text_de": "Ich erstelle eine Liste mit Dingen, die ich tun möchte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In der Zukunft möchte ich mehr reisen.",
+            "Ich erstelle eine Liste mit Dingen, die ich tun möchte.",
+            "Ich träume oft davon, am Meer zu wohnen.",
+            "der Traum"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A bucket list is a great idea.",
+        "text_de": "Eine Bucket List ist eine tolle Idee.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Entscheidung",
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "Eine Bucket List ist eine tolle Idee.",
+            "Ich träume oft davon, am Meer zu wohnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to learn how to fly a plane.",
+        "text_de": "Ich möchte lernen, wie man ein Flugzeug fliegt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte lernen, wie man ein Flugzeug fliegt.",
+            "Werden Menschen eines Tages auf dem Mars leben?",
+            "In der Zukunft möchte ich mehr reisen.",
+            "entscheiden"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Living in another country is a dream of mine.",
+        "text_de": "In einem anderen Land zu leben, ist ein Traum von mir.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Technologie sollte dem Planeten dienen.",
+            "In einem anderen Land zu leben, ist ein Traum von mir.",
+            "der Plan",
+            "das Ziel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm starting a new hobby next month.",
+        "text_de": "Ich fange nächsten Monat mit einem neuen Hobby an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Karriere",
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "Viel Glück bei all deinen Plänen!",
+            "Werden Menschen eines Tages auf dem Mars leben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Promotion is my next goal at work.",
+        "text_de": "Beförderung ist mein nächstes Ziel bei der Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei die Veränderung, die du in der Welt sehen willst.",
+            "Beförderung ist mein nächstes Ziel bei der Arbeit.",
+            "Ich fange nächsten Monat mit einem neuen Hobby an.",
+            "Ich möchte jeden Tag ein besserer Mensch werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to be financially independent.",
+        "text_de": "Ich möchte finanziell unabhängig sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "träumen",
+            "Ich möchte finanziell unabhängig sein.",
+            "Es ist eine schwierige Entscheidung.",
+            "Ich möchte meinen Müll noch weiter reduzieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Success doesn't happen overnight.",
+        "text_de": "Erfolg passiert nicht über Nacht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schau nicht zurück, schau nach vorne.",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "Erfolg passiert nicht über Nacht.",
+            "die Vision"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Consistency is key.",
+        "text_de": "Beständigkeit ist der Schlüssel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an einem geheimen Projekt.",
+            "Beständigkeit ist der Schlüssel.",
+            "Lerne aus deinen Fehlern und mache weiter.",
+            "Schau nicht zurück, schau nach vorne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm grateful for every opportunity.",
+        "text_de": "Ich bin dankbar für jede Gelegenheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf meine bisherigen Leistungen.",
+            "Nichts ist unmöglich, wenn man daran glaubt.",
+            "Ich bin dankbar für jede Gelegenheit.",
+            "Bleib fokussiert auf deine Ziele."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What motivates you to get up in the morning?",
+        "text_de": "Was motiviert dich, morgens aufzustehen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was motiviert dich, morgens aufzustehen?",
+            "Nimm das Unbekannte an.",
+            "der Ehrgeiz",
+            "In einem anderen Land zu leben, ist ein Traum von mir."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to become a better person every day.",
+        "text_de": "Ich möchte jeden Tag ein besserer Mensch werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte jeden Tag ein besserer Mensch werden.",
+            "Ich habe den Plan, mein eigenes Unternehmen zu gründen.",
+            "die Möglichkeit",
+            "Genieße jeden Moment der Reise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Help others to achieve their goals too.",
+        "text_de": "Hilf anderen, ihre Ziele ebenfalls zu erreichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfolg haben",
+            "Hilf anderen, ihre Ziele ebenfalls zu erreichen.",
+            "Was sind deine Ziele für das nächste Jahr?",
+            "Ich spare Geld für meinen Ruhestand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainability is part of my lifestyle choice.",
+        "text_de": "Nachhaltigkeit ist Teil meiner Lebensstil-Entscheidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich denke über meine Zukunftspläne nach.",
+            "Nachhaltigkeit ist Teil meiner Lebensstil-Entscheidung.",
+            "die Vision",
+            "Ich schätze die Work-Life-Balance."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm planning to go vegan.",
+        "text_de": "Ich plane, vegan zu leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich plane, vegan zu leben.",
+            "Bildung ist eine lebenslange Reise.",
+            "Ich möchte lernen, wie man ein Flugzeug fliegt.",
+            "Ich denke über meine Zukunftspläne nach."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to reduce my waste even more.",
+        "text_de": "Ich möchte meinen Müll noch weiter reduzieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte meinen Müll noch weiter reduzieren.",
+            "Es gibt viele Möglichkeiten für Wachstum.",
+            "In einem anderen Land zu leben, ist ein Traum von mir.",
+            "Freiwilligenarbeit ist Teil meines Ruhestandsplans."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Future generations will thank us.",
+        "text_de": "Zukünftige Generationen werden es uns danken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich plane, eines Tages ein Buch zu schreiben.",
+            "Zukünftige Generationen werden es uns danken.",
+            "die Gelegenheit",
+            "Greifen wir nach den Sternen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Technology should serve the planet.",
+        "text_de": "Technologie sollte dem Planeten dienen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was willst du werden, wenn du groß bist?",
+            "Technologie sollte dem Planeten dienen.",
+            "Ich möchte Karriere in der Tech-Branche machen.",
+            "entscheiden"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm curious about the next decade.",
+        "text_de": "Ich bin gespannt auf das nächste Jahrzehnt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Karriere",
+            "Ich habe mich entschieden, eine neue Sprache zu lernen.",
+            "Ich bin gespannt auf das nächste Jahrzehnt.",
+            "Ich möchte lernen, wie man ein Flugzeug fliegt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Space exploration is fascinating.",
+        "text_de": "Weltraumforschung ist faszinierend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das neue Projekt wird nächsten Montag beginnen.",
+            "Genieße jeden Moment der Reise.",
+            "Weltraumforschung ist faszinierend.",
+            "Ich plane eine Weltreise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Will humans live on Mars someday?",
+        "text_de": "Werden Menschen eines Tages auf dem Mars leben?",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist eine einzigartige Gelegenheit für mich.",
+            "die Möglichkeit",
+            "Sei die Veränderung, die du in der Welt sehen willst.",
+            "Werden Menschen eines Tages auf dem Mars leben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future is what we make of it.",
+        "text_de": "Die Zukunft ist das, was wir daraus machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Traumberuf ist es, Schriftsteller zu sein.",
+            "Nimm das Unbekannte an.",
+            "Beförderung ist mein nächstes Ziel bei der Arbeit.",
+            "Die Zukunft ist das, was wir daraus machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be the change you want to see in the world.",
+        "text_de": "Sei die Veränderung, die du in der Welt sehen willst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Familie ist Teil all meiner Zukunftspläne.",
+            "Ich überdenke meine Optionen.",
+            "Sei die Veränderung, die du in der Welt sehen willst.",
+            "Genieße jeden Moment der Reise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm confident in my abilities.",
+        "text_de": "Ich bin zuversichtlich in meine Fähigkeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In der Zukunft möchte ich mehr reisen.",
+            "der Traumberuf",
+            "Sei die Veränderung, die du in der Welt sehen willst.",
+            "Ich bin zuversichtlich in meine Fähigkeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I will never stop learning.",
+        "text_de": "Ich werde niemals aufhören zu lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde niemals aufhören zu lernen.",
+            "Technologie sollte dem Planeten dienen.",
+            "erreichen",
+            "Mein Traumberuf ist es, Schriftsteller zu sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The journey is as important as the destination.",
+        "text_de": "Der Weg ist genauso wichtig wie das Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich denke über meine Zukunftspläne nach.",
+            "Ich möchte meinen Müll noch weiter reduzieren.",
+            "Der Weg ist genauso wichtig wie das Ziel.",
+            "Ich möchte meine Ziele Schritt für Schritt erreichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good luck with all your plans!",
+        "text_de": "Viel Glück bei all deinen Plänen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verändern",
+            "Viel Glück bei all deinen Plänen!",
+            "Nimm das Unbekannte an.",
+            "die Möglichkeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy every moment of the journey.",
+        "text_de": "Genieße jeden Moment der Reise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Future Plans'.",
+        "description_de": "Beispielsatz für 'Future Plans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Genieße jeden Moment der Reise.",
+            "Nichts ist unmöglich, wenn man daran glaubt.",
+            "Ich hoffe, du wirst Erfolg bei deinen Prüfungen haben.",
+            "Ich möchte meine Ziele Schritt für Schritt erreichen."
+        ]
+    }
+]

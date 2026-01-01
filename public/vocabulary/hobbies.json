@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The hobby",
+        "text_de": "das Hobby",
+        "synonyms": [],
+        "description": "German word for 'The hobby'.",
+        "description_de": "Deutsches Wort für 'The hobby'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Hobby",
+            "Ich suche ein neues Hobby.",
+            "Joggen im Park hält mich fit.",
+            "singen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sport",
+        "text_de": "der Sport",
+        "synonyms": [],
+        "description": "German word for 'The sport'.",
+        "description_de": "Deutsches Wort für 'The sport'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Töpfern ist sehr therapeutisch.",
+            "Mein Hobby ist meine Leidenschaft.",
+            "der Sport",
+            "Lesen vertieft mein Verständnis der Welt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The music",
+        "text_de": "die Musik",
+        "synonyms": [],
+        "description": "German word for 'The music'.",
+        "description_de": "Deutsches Wort für 'The music'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe momentan nicht viel Freizeit.",
+            "Mein Lieblingshobby ist Gitarre spielen.",
+            "Radfahren ist eine gute Art, die Stadt zu sehen.",
+            "die Musik"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To read",
+        "text_de": "lesen",
+        "synonyms": [],
+        "description": "German word for 'To read'.",
+        "description_de": "Deutsches Wort für 'To read'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lesen",
+            "Ich mache viele Fotos, wenn ich reise.",
+            "Kreativität hat keine Grenzen.",
+            "Gehst du gerne ins Theater?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To swim",
+        "text_de": "schwimmen",
+        "synonyms": [],
+        "description": "German word for 'To swim'.",
+        "description_de": "Deutsches Wort für 'To swim'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Videospiele spielen ist ein beliebtes Hobby.",
+            "Ich bin ein großer Fan von alten Filmen.",
+            "Ich gehe zweimal pro Woche schwimmen.",
+            "schwimmen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To run",
+        "text_de": "laufen",
+        "synonyms": [],
+        "description": "German word for 'To run'.",
+        "description_de": "Deutsches Wort für 'To run'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bist du Mitglied in einem Sportverein?",
+            "lesen",
+            "laufen",
+            "Zeit, die man für Hobbys aufwendet, ist nie verschwendet."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To cook",
+        "text_de": "kochen",
+        "synonyms": [],
+        "description": "German word for 'To cook'.",
+        "description_de": "Deutsches Wort für 'To cook'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "spielen",
+            "Wir diskutieren jeden Monat ein Buch.",
+            "Radfahren ist eine gute Art, die Stadt zu sehen.",
+            "kochen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To dance",
+        "text_de": "tanzen",
+        "synonyms": [],
+        "description": "German word for 'To dance'.",
+        "description_de": "Deutsches Wort für 'To dance'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "tanzen",
+            "Bist du Mitglied in einem Sportverein?",
+            "schwimmen",
+            "die Freizeit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To sing",
+        "text_de": "singen",
+        "synonyms": [],
+        "description": "German word for 'To sing'.",
+        "description_de": "Deutsches Wort für 'To sing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "singen",
+            "der Sport",
+            "Ich bin ein großer Fan von alten Filmen.",
+            "Eines Tages möchte ich ein Buch veröffentlichen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To paint",
+        "text_de": "malen",
+        "synonyms": [],
+        "description": "German word for 'To paint'.",
+        "description_de": "Deutsches Wort für 'To paint'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Angelst du gerne?",
+            "der Verein",
+            "malen",
+            "das Hobby"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To photograph",
+        "text_de": "fotografieren",
+        "synonyms": [],
+        "description": "German word for 'To photograph'.",
+        "description_de": "Deutsches Wort für 'To photograph'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gebe gerne Abendessen-Partys.",
+            "fotografieren",
+            "Angelst du gerne?",
+            "Ich mache viele Fotos, wenn ich reise."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To travel",
+        "text_de": "reisen",
+        "synonyms": [],
+        "description": "German word for 'To travel'.",
+        "description_de": "Deutsches Wort für 'To travel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gebe gerne Abendessen-Partys.",
+            "reisen",
+            "Schallplatten sammeln wird wieder beliebt.",
+            "Bist du Mitglied in einem Sportverein?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To hike",
+        "text_de": "wandern",
+        "synonyms": [],
+        "description": "German word for 'To hike'.",
+        "description_de": "Deutsches Wort für 'To hike'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "tanzen",
+            "wandern",
+            "Sie liebt es, zu lateinamerikanischer Musik zu tanzen.",
+            "Was sind deine Hobbies?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To garden",
+        "text_de": "gärtnern",
+        "synonyms": [],
+        "description": "German word for 'To garden'.",
+        "description_de": "Deutsches Wort für 'To garden'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge ruhigere Hobbys wie Vogelbeobachtung.",
+            "Eines Tages möchte ich ein Buch veröffentlichen.",
+            "gärtnern",
+            "Ich lerne gerade, wie man strickt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To play (instrument)",
+        "text_de": "spielen",
+        "synonyms": [],
+        "description": "German word for 'To play (instrument)'.",
+        "description_de": "Deutsches Wort für 'To play (instrument)'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "spielen",
+            "lesen",
+            "Meditation ist Teil meiner täglichen Routine.",
+            "Zeit, die man für Hobbys aufwendet, ist nie verschwendet."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The collection",
+        "text_de": "die Sammlung",
+        "synonyms": [],
+        "description": "German word for 'The collection'.",
+        "description_de": "Deutsches Wort für 'The collection'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zeichnen hilft mir, mich zu konzentrieren.",
+            "Ich habe diese Halskette selbst gemacht.",
+            "Mein Hobby hilft mir beim Stressabbau.",
+            "die Sammlung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The club",
+        "text_de": "der Verein",
+        "synonyms": [],
+        "description": "German word for 'The club'.",
+        "description_de": "Deutsches Wort für 'The club'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich genieße die Stille am See.",
+            "Angelst du gerne?",
+            "tanzen",
+            "der Verein"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The leisure",
+        "text_de": "die Freizeit",
+        "synonyms": [],
+        "description": "German word for 'The leisure'.",
+        "description_de": "Deutsches Wort für 'The leisure'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich genieße die Stille am See.",
+            "Lesen vertieft mein Verständnis der Welt.",
+            "fotografieren",
+            "die Freizeit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The interest",
+        "text_de": "das Interesse",
+        "synonyms": [],
+        "description": "German word for 'The interest'.",
+        "description_de": "Deutsches Wort für 'The interest'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Interesse",
+            "Die Blumen blühen wunderschön.",
+            "Gehst du gerne ins Theater?",
+            "Ich habe mir letzten Monat eine neue Kamera gekauft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To relax",
+        "text_de": "entspannen",
+        "synonyms": [],
+        "description": "German word for 'To relax'.",
+        "description_de": "Deutsches Wort für 'To relax'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Möchtest du mich auf einer Wanderung begleiten?",
+            "entspannen",
+            "Was sind deine Hobbies?",
+            "Wandern in den Bergen ist sehr erholsam."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are your hobbies?",
+        "text_de": "Was sind deine Hobbies?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spielst du ein Musikinstrument?",
+            "Was sind deine Hobbies?",
+            "Ich habe mir letzten Monat eine neue Kamera gekauft.",
+            "Ich höre gerne klassische Musik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like reading in my free time.",
+        "text_de": "Ich lese gerne in meiner Freizeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Videospiele spielen ist ein beliebtes Hobby.",
+            "Ich trainiere für einen Marathon.",
+            "Ich lese gerne in meiner Freizeit.",
+            "Schallplatten sammeln wird wieder beliebt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My favorite hobby is playing the guitar.",
+        "text_de": "Mein Lieblingshobby ist Gitarre spielen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen vertieft mein Verständnis der Welt.",
+            "Was ist das ungewöhnlichste Hobby, von dem du gehört hast?",
+            "Ich mache seit fünf Jahren Karate.",
+            "Mein Lieblingshobby ist Gitarre spielen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go swimming twice a week.",
+        "text_de": "Ich gehe zweimal pro Woche schwimmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freizeit ist wichtig für die psychische Gesundheit.",
+            "Ich gehe zweimal pro Woche schwimmen.",
+            "Angelst du gerne?",
+            "Ich bevorzuge ruhigere Hobbys wie Vogelbeobachtung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She loves to dance to Latin music.",
+        "text_de": "Sie liebt es, zu lateinamerikanischer Musik zu tanzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche ein neues Hobby.",
+            "Die Blumen blühen wunderschön.",
+            "Singen im Chor macht viel Spaß.",
+            "Sie liebt es, zu lateinamerikanischer Musik zu tanzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you play any musical instruments?",
+        "text_de": "Spielst du ein Musikinstrument?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Joggen im Park hält mich fit.",
+            "Videospiele spielen ist ein beliebtes Hobby.",
+            "Spielst du ein Musikinstrument?",
+            "Kreativität hat keine Grenzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I've been playing the piano since I was six.",
+        "text_de": "Ich spiele Klavier, seit ich sechs bin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Töpfern ist sehr therapeutisch.",
+            "Ich trainiere für einen Marathon.",
+            "Malen ist eine tolle Art, Kreativität auszudrücken.",
+            "Ich spiele Klavier, seit ich sechs bin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to cook for my friends on weekends.",
+        "text_de": "Ich koche am Wochenende gerne für meine Freunde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eines Tages möchte ich ein Buch veröffentlichen.",
+            "Machst du Kampfkunst?",
+            "Ich koche am Wochenende gerne für meine Freunde.",
+            "Videospiele spielen ist ein beliebtes Hobby."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hiking in the mountains is very relaxing.",
+        "text_de": "Wandern in den Bergen ist sehr erholsam.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bist du Mitglied in einem Sportverein?",
+            "Ich genieße es, Zeit in der Natur zu verbringen.",
+            "Wandern in den Bergen ist sehr erholsam.",
+            "Sterne gucken ist sehr romantisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I take many photos when I travel.",
+        "text_de": "Ich mache viele Fotos, wenn ich reise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache viele Fotos, wenn ich reise.",
+            "Freizeit ist wichtig für die psychische Gesundheit.",
+            "Radfahren ist eine gute Art, die Stadt zu sehen.",
+            "malen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My garden is my sanctuary.",
+        "text_de": "Mein Garten ist mein Rückzugsort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Garten ist mein Rückzugsort.",
+            "Lesen vertieft mein Verständnis der Welt.",
+            "Ich koche am Wochenende gerne für meine Freunde.",
+            "Freizeit ist wichtig für die psychische Gesundheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I collect old stamps from all over the world.",
+        "text_de": "Ich sammle alte Briefmarken aus der ganzen Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sammle alte Briefmarken aus der ganzen Welt.",
+            "Mein Lieblingshobby ist Gitarre spielen.",
+            "Spielst du gerne Brettspiele?",
+            "Lesen vertieft mein Verständnis der Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are you a member of any sports club?",
+        "text_de": "Bist du Mitglied in einem Sportverein?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Machst du Kampfkunst?",
+            "Bist du Mitglied in einem Sportverein?",
+            "lesen",
+            "Zeichnen hilft mir, mich zu konzentrieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Leisure time is important for mental health.",
+        "text_de": "Freizeit ist wichtig für die psychische Gesundheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Klang alter Schallplatten.",
+            "Lesen vertieft mein Verständnis der Welt.",
+            "Ich liebe den Geruch von alten Büchern.",
+            "Freizeit ist wichtig für die psychische Gesundheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a great interest in history.",
+        "text_de": "Ich habe ein großes Interesse an Geschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sammle alte Briefmarken aus der ganzen Welt.",
+            "Mein Bruder ist sehr begabt in der Holzbearbeitung.",
+            "Ich habe ein großes Interesse an Geschichte.",
+            "Ich habe momentan nicht viel Freizeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Yoga helps me to relax after work.",
+        "text_de": "Yoga hilft mir, mich nach der Arbeit zu entspannen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Yoga hilft mir, mich nach der Arbeit zu entspannen.",
+            "Ich gehe gerne in Museen und Galerien.",
+            "Jeder sollte ein Hobby haben.",
+            "Ich liebe es, neue Orte zu erkunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a big fan of old movies.",
+        "text_de": "Ich bin ein großer Fan von alten Filmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge Aktivitäten im Freien.",
+            "Ich bin ein großer Fan von alten Filmen.",
+            "die Sammlung",
+            "Die Blumen blühen wunderschön."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you like playing board games?",
+        "text_de": "Spielst du gerne Brettspiele?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meditation ist Teil meiner täglichen Routine.",
+            "entspannen",
+            "Mein Hobby ist meine Leidenschaft.",
+            "Spielst du gerne Brettspiele?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We often play chess on Sunday afternoons.",
+        "text_de": "Wir spielen oft Schach am Sonntagnachmittag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zweimal pro Woche schwimmen.",
+            "laufen",
+            "Wir spielen oft Schach am Sonntagnachmittag.",
+            "die Sammlung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I enjoy spend time in nature.",
+        "text_de": "Ich genieße es, Zeit in der Natur zu verbringen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gehst du gerne ins Theater?",
+            "Ich genieße es, Zeit in der Natur zu verbringen.",
+            "Basteln ist toll, um Geschenke zu machen.",
+            "die Musik"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Painting is a great way to express creativity.",
+        "text_de": "Malen ist eine tolle Art, Kreativität auszudrücken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Malen ist eine tolle Art, Kreativität auszudrücken.",
+            "Was ist das ungewöhnlichste Hobby, von dem du gehört hast?",
+            "gärtnern",
+            "singen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm currently learning how to knit.",
+        "text_de": "Ich lerne gerade, wie man strickt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kreativität hat keine Grenzen.",
+            "Ich lerne gerade, wie man strickt.",
+            "Mein Hobby hilft mir beim Stressabbau.",
+            "Mein Bruder ist sehr begabt in der Holzbearbeitung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My brother is very talented at woodworking.",
+        "text_de": "Mein Bruder ist sehr begabt in der Holzbearbeitung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Sport",
+            "laufen",
+            "Was machst du zum Vergnügen?",
+            "Mein Bruder ist sehr begabt in der Holzbearbeitung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you like going to the theater?",
+        "text_de": "Gehst du gerne ins Theater?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Joggen im Park hält mich fit.",
+            "Gehst du gerne ins Theater?",
+            "Malen ist eine tolle Art, Kreativität auszudrücken.",
+            "Yoga hilft mir, mich nach der Arbeit zu entspannen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love watching football on TV.",
+        "text_de": "Ich liebe es, Fußball im Fernsehen zu schauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache oft Radtouren mit Freunden.",
+            "Ich lerne gerade, wie man strickt.",
+            "laufen",
+            "Ich liebe es, Fußball im Fernsehen zu schauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Playing video games is a popular hobby.",
+        "text_de": "Videospiele spielen ist ein beliebtes Hobby.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Videospiele spielen ist ein beliebtes Hobby.",
+            "Basteln ist toll, um Geschenke zu machen.",
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Was sind deine Hobbies?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer outdoor activities.",
+        "text_de": "Ich bevorzuge Aktivitäten im Freien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge Aktivitäten im Freien.",
+            "Ich bin abenteuerlustig und mag Fallschirmspringen.",
+            "Reisen erweitert den Horizont.",
+            "Joggen im Park hält mich fit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Photography requires a lot of patience.",
+        "text_de": "Fotografie erfordert viel Geduld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fotografie erfordert viel Geduld.",
+            "Basteln ist toll, um Geschenke zu machen.",
+            "die Freizeit",
+            "Ich bin ein großer Fan von alten Filmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought a new camera last month.",
+        "text_de": "Ich habe mir letzten Monat eine neue Kamera gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "laufen",
+            "Wir spielen oft Schach am Sonntagnachmittag.",
+            "Ich sammle alte Briefmarken aus der ganzen Welt.",
+            "Ich habe mir letzten Monat eine neue Kamera gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Singing in a choir is a lot of fun.",
+        "text_de": "Singen im Chor macht viel Spaß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Ich bevorzuge ruhigere Hobbys wie Vogelbeobachtung.",
+            "Singen im Chor macht viel Spaß.",
+            "spielen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to listen to classical music.",
+        "text_de": "Ich höre gerne klassische Musik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "wandern",
+            "Ich höre gerne klassische Musik.",
+            "Schallplatten sammeln wird wieder beliebt.",
+            "Basteln ist toll, um Geschenke zu machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Jogging in the park keeps me fit.",
+        "text_de": "Joggen im Park hält mich fit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "fotografieren",
+            "Ich liebe es, mit meinen Händen zu arbeiten.",
+            "Mein Garten ist mein Rückzugsort.",
+            "Joggen im Park hält mich fit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm training for a marathon.",
+        "text_de": "Ich trainiere für einen Marathon.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eines Tages möchte ich ein Buch veröffentlichen.",
+            "Ich spiele Klavier, seit ich sechs bin.",
+            "Ich trainiere für einen Marathon.",
+            "Mein Garten ist mein Rückzugsort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you do any martial arts?",
+        "text_de": "Machst du Kampfkunst?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Basteln ist toll, um Geschenke zu machen.",
+            "Machst du Kampfkunst?",
+            "Ich mache viele Fotos, wenn ich reise.",
+            "Zeichnen hilft mir, mich zu konzentrieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I've been doing Karate for five years.",
+        "text_de": "Ich mache seit fünf Jahren Karate.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Hobby hilft mir beim Stressabbau.",
+            "Spielst du gerne Brettspiele?",
+            "Ich mache seit fünf Jahren Karate.",
+            "malen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Meditation is part of my daily routine.",
+        "text_de": "Meditation ist Teil meiner täglichen Routine.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe mir letzten Monat eine neue Kamera gekauft.",
+            "Töpfern ist sehr therapeutisch.",
+            "Meditation ist Teil meiner täglichen Routine.",
+            "Malen ist eine tolle Art, Kreativität auszudrücken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love to explore new places.",
+        "text_de": "Ich liebe es, neue Orte zu erkunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Lieblingshobby ist Gitarre spielen.",
+            "Wandern in den Bergen ist sehr erholsam.",
+            "Ich liebe es, neue Orte zu erkunden.",
+            "Ich suche ein neues Hobby."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Traveling broaden your horizon.",
+        "text_de": "Reisen erweitert den Horizont.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache seit fünf Jahren Karate.",
+            "Reisen erweitert den Horizont.",
+            "wandern",
+            "Eine neue Sprache zu lernen ist auch ein Hobby."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I write short stories in my notebook.",
+        "text_de": "Ich schreibe Kurzgeschichten in mein Notizbuch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schreibe Kurzgeschichten in mein Notizbuch.",
+            "Yoga hilft mir, mich nach der Arbeit zu entspannen.",
+            "Ich mache seit fünf Jahren Karate.",
+            "Kreativität hat keine Grenzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Someday I want to publish a book.",
+        "text_de": "Eines Tages möchte ich ein Buch veröffentlichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Garten ist mein Rückzugsort.",
+            "Radfahren ist eine gute Art, die Stadt zu sehen.",
+            "Spielst du ein Musikinstrument?",
+            "Eines Tages möchte ich ein Buch veröffentlichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Drawing helps me to focus.",
+        "text_de": "Zeichnen hilft mir, mich zu konzentrieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zeichnen hilft mir, mich zu konzentrieren.",
+            "laufen",
+            "Mein Garten ist mein Rückzugsort.",
+            "Ich habe diese Halskette selbst gemacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to go to museums and galleries.",
+        "text_de": "Ich gehe gerne in Museen und Galerien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Klang alter Schallplatten.",
+            "die Sammlung",
+            "Joggen im Park hält mich fit.",
+            "Ich gehe gerne in Museen und Galerien."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Pottery is very therapeutic.",
+        "text_de": "Töpfern ist sehr therapeutisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Singen im Chor macht viel Spaß.",
+            "wandern",
+            "Ich habe mir letzten Monat eine neue Kamera gekauft.",
+            "Töpfern ist sehr therapeutisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a new hobby.",
+        "text_de": "Ich suche ein neues Hobby.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe diese Halskette selbst gemacht.",
+            "Ich schreibe Kurzgeschichten in mein Notizbuch.",
+            "Ich gehe gerne in Museen und Galerien.",
+            "Ich suche ein neues Hobby."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you want to join me for a hike?",
+        "text_de": "Möchtest du mich auf einer Wanderung begleiten?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache seit fünf Jahren Karate.",
+            "Möchtest du mich auf einer Wanderung begleiten?",
+            "Ich koche am Wochenende gerne für meine Freunde.",
+            "Ich bevorzuge Aktivitäten im Freien."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learning a new language is also a hobby.",
+        "text_de": "Eine neue Sprache zu lernen ist auch ein Hobby.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "reisen",
+            "Ich liebe den Klang alter Schallplatten.",
+            "Eine neue Sprache zu lernen ist auch ein Hobby.",
+            "Was sind deine Hobbies?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I find astronomy very fascinating.",
+        "text_de": "Ich finde Astronomie sehr faszinierend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sammlung",
+            "Angelst du gerne?",
+            "Ich finde Astronomie sehr faszinierend.",
+            "Ich mache oft Radtouren mit Freunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a telescope on my balcony.",
+        "text_de": "Ich habe ein Teleskop auf meinem Balkon.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen vertieft mein Verständnis der Welt.",
+            "Eine neue Sprache zu lernen ist auch ein Hobby.",
+            "Ich habe ein Teleskop auf meinem Balkon.",
+            "Fotografie erfordert viel Geduld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Collecting vinyl records is becoming popular again.",
+        "text_de": "Schallplatten sammeln wird wieder beliebt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Töpfern ist sehr therapeutisch.",
+            "Ich habe diese Halskette selbst gemacht.",
+            "gärtnern",
+            "Schallplatten sammeln wird wieder beliebt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the sound of old records.",
+        "text_de": "Ich liebe den Klang alter Schallplatten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eines Tages möchte ich ein Buch veröffentlichen.",
+            "Ich habe ein großes Interesse an Geschichte.",
+            "Ich liebe den Klang alter Schallplatten.",
+            "Machst du Kampfkunst?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Crafting is great for making gifts.",
+        "text_de": "Basteln ist toll, um Geschenke zu machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir spielen oft Schach am Sonntagnachmittag.",
+            "tanzen",
+            "Basteln ist toll, um Geschenke zu machen.",
+            "Gehst du gerne ins Theater?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I made this necklace myself.",
+        "text_de": "Ich habe diese Halskette selbst gemacht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Blumen blühen wunderschön.",
+            "Was machst du zum Vergnügen?",
+            "Ich habe diese Halskette selbst gemacht.",
+            "laufen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you like fishing?",
+        "text_de": "Angelst du gerne?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich spiele Klavier, seit ich sechs bin.",
+            "Was sind deine Hobbies?",
+            "Angelst du gerne?",
+            "Mein Hobby ist meine Leidenschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I enjoy the silence at the lake.",
+        "text_de": "Ich genieße die Stille am See.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kreativität hat keine Grenzen.",
+            "das Hobby",
+            "Eine neue Sprache zu lernen ist auch ein Hobby.",
+            "Ich genieße die Stille am See."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Biking is a good way to see the city.",
+        "text_de": "Radfahren ist eine gute Art, die Stadt zu sehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir diskutieren jeden Monat ein Buch.",
+            "Ich liebe es, neue Orte zu erkunden.",
+            "Gärtnern lehrt einen Geduld.",
+            "Radfahren ist eine gute Art, die Stadt zu sehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I often go on bike tours with friends.",
+        "text_de": "Ich mache oft Radtouren mit Freunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache oft Radtouren mit Freunden.",
+            "Singen im Chor macht viel Spaß.",
+            "Mein Garten ist mein Rückzugsort.",
+            "Ich habe ein Teleskop auf meinem Balkon."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stargazing is very romantic.",
+        "text_de": "Sterne gucken ist sehr romantisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Geruch von alten Büchern.",
+            "spielen",
+            "Sterne gucken ist sehr romantisch.",
+            "Eines Tages möchte ich ein Buch veröffentlichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in philosophy.",
+        "text_de": "Ich interessiere mich für Philosophie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schallplatten sammeln wird wieder beliebt.",
+            "Ich interessiere mich für Philosophie.",
+            "reisen",
+            "Ich bin abenteuerlustig und mag Fallschirmspringen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reading deepens my understanding of the world.",
+        "text_de": "Lesen vertieft mein Verständnis der Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lesen",
+            "Lesen vertieft mein Verständnis der Welt.",
+            "fotografieren",
+            "Mach dein Hobby zum Beruf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the smell of old books.",
+        "text_de": "Ich liebe den Geruch von alten Büchern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Geruch von alten Büchern.",
+            "laufen",
+            "Die Blumen blühen wunderschön.",
+            "gärtnern"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My hobby is my passion.",
+        "text_de": "Mein Hobby ist meine Leidenschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "schwimmen",
+            "Mein Hobby ist meine Leidenschaft.",
+            "Wir diskutieren jeden Monat ein Buch.",
+            "Mein Bruder ist sehr begabt in der Holzbearbeitung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Turn your hobby into your career.",
+        "text_de": "Mach dein Hobby zum Beruf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spielst du ein Musikinstrument?",
+            "Mach dein Hobby zum Beruf.",
+            "Die Blumen blühen wunderschön.",
+            "Mein Bruder ist sehr begabt in der Holzbearbeitung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't have much free time right now.",
+        "text_de": "Ich habe momentan nicht viel Freizeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich genieße die Stille am See.",
+            "Ich habe momentan nicht viel Freizeit.",
+            "malen",
+            "Ich mache oft Radtouren mit Freunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to the weekend.",
+        "text_de": "Ich freue mich auf das Wochenende.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf das Wochenende.",
+            "Ich bin ein großer Fan von alten Filmen.",
+            "Videospiele spielen ist ein beliebtes Hobby.",
+            "Ich habe diese Halskette selbst gemacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What do you do for fun?",
+        "text_de": "Was machst du zum Vergnügen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was machst du zum Vergnügen?",
+            "Ich höre gerne klassische Musik.",
+            "der Verein",
+            "Ich spiele Klavier, seit ich sechs bin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a member of a local book club.",
+        "text_de": "Ich bin Mitglied in einem lokalen Buchclub.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sich mit Leuten treffen ist auch eine Form der Freizeit.",
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Ich freue mich auf das Wochenende.",
+            "Bist du Mitglied in einem Sportverein?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We discuss one book every month.",
+        "text_de": "Wir diskutieren jeden Monat ein Buch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir diskutieren jeden Monat ein Buch.",
+            "der Verein",
+            "Sie liebt es, zu lateinamerikanischer Musik zu tanzen.",
+            "Mein Bruder ist sehr begabt in der Holzbearbeitung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Socializing is also a form of leisure.",
+        "text_de": "Sich mit Leuten treffen ist auch eine Form der Freizeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "entspannen",
+            "Zeichnen hilft mir, mich zu konzentrieren.",
+            "Sich mit Leuten treffen ist auch eine Form der Freizeit.",
+            "Bist du Mitglied in einem Sportverein?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to host dinner parties.",
+        "text_de": "Ich gebe gerne Abendessen-Partys.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Klang alter Schallplatten.",
+            "Ich koche am Wochenende gerne für meine Freunde.",
+            "lesen",
+            "Ich gebe gerne Abendessen-Partys."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My hobby helps me de-stress.",
+        "text_de": "Mein Hobby hilft mir beim Stressabbau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lerne gerade, wie man strickt.",
+            "Mein Hobby hilft mir beim Stressabbau.",
+            "Jeder sollte ein Hobby haben.",
+            "Ich gebe gerne Abendessen-Partys."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everyone should have a hobby.",
+        "text_de": "Jeder sollte ein Hobby haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder sollte ein Hobby haben.",
+            "Zeit, die man für Hobbys aufwendet, ist nie verschwendet.",
+            "Ich habe mir letzten Monat eine neue Kamera gekauft.",
+            "Eines Tages möchte ich ein Buch veröffentlichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is the most unusual hobby you've heard of?",
+        "text_de": "Was ist das ungewöhnlichste Hobby, von dem du gehört hast?",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lerne gerade, wie man strickt.",
+            "Möchtest du mich auf einer Wanderung begleiten?",
+            "Ich liebe den Klang alter Schallplatten.",
+            "Was ist das ungewöhnlichste Hobby, von dem du gehört hast?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm adventurous and like skydiving.",
+        "text_de": "Ich bin abenteuerlustig und mag Fallschirmspringen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin abenteuerlustig und mag Fallschirmspringen.",
+            "Angelst du gerne?",
+            "Joggen im Park hält mich fit.",
+            "Yoga hilft mir, mich nach der Arbeit zu entspannen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer quieter hobbies like birdwatching.",
+        "text_de": "Ich bevorzuge ruhigere Hobbys wie Vogelbeobachtung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge ruhigere Hobbys wie Vogelbeobachtung.",
+            "Reisen erweitert den Horizont.",
+            "Malen ist eine tolle Art, Kreativität auszudrücken.",
+            "Ich habe diese Halskette selbst gemacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gardening teaches you about patience.",
+        "text_de": "Gärtnern lehrt einen Geduld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache oft Radtouren mit Freunden.",
+            "reisen",
+            "Gärtnern lehrt einen Geduld.",
+            "Mein Garten ist mein Rückzugsort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flowers are blooming beautifully.",
+        "text_de": "Die Blumen blühen wunderschön.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Blumen blühen wunderschön.",
+            "Spielst du gerne Brettspiele?",
+            "lesen",
+            "Ich gebe gerne Abendessen-Partys."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love to work with my hands.",
+        "text_de": "Ich liebe es, mit meinen Händen zu arbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Hobby hilft mir beim Stressabbau.",
+            "der Sport",
+            "Ich liebe es, mit meinen Händen zu arbeiten.",
+            "Ich habe mir letzten Monat eine neue Kamera gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Creativity has no limits.",
+        "text_de": "Kreativität hat keine Grenzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spielst du ein Musikinstrument?",
+            "Kreativität hat keine Grenzen.",
+            "lesen",
+            "Genieße deine Freizeit!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy your free time!",
+        "text_de": "Genieße deine Freizeit!",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, Fußball im Fernsehen zu schauen.",
+            "wandern",
+            "Genieße deine Freizeit!",
+            "Schallplatten sammeln wird wieder beliebt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time spent on hobbies is never wasted.",
+        "text_de": "Zeit, die man für Hobbys aufwendet, ist nie verschwendet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Hobbies'.",
+        "description_de": "Beispielsatz für 'Hobbies'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe mir letzten Monat eine neue Kamera gekauft.",
+            "Zeit, die man für Hobbys aufwendet, ist nie verschwendet.",
+            "Angelst du gerne?",
+            "Zeichnen hilft mir, mich zu konzentrieren."
+        ]
+    }
+]

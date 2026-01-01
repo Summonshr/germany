@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The money",
+        "text_de": "das Geld",
+        "synonyms": [],
+        "description": "German word for 'The money'.",
+        "description_de": "Deutsches Wort für 'The money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie hoch ist der Zinssatz für Ersparnisse?",
+            "die Investition",
+            "Geld sparen für die Zukunft ist wichtig.",
+            "das Geld"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bank",
+        "text_de": "die Bank",
+        "synonyms": [],
+        "description": "German word for 'The bank'.",
+        "description_de": "Deutsches Wort für 'The bank'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "ausgeben",
+            "die Bank",
+            "Inflation verringert den Wert des Geldes.",
+            "Ich habe meinen PIN-Code vergessen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The account",
+        "text_de": "das Konto",
+        "synonyms": [],
+        "description": "German word for 'The account'.",
+        "description_de": "Deutsches Wort für 'The account'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Konto",
+            "die Investition",
+            "In Aktien zu investieren kann risikoreich sein.",
+            "die Schulden"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The credit card",
+        "text_de": "die Kreditkarte",
+        "synonyms": [],
+        "description": "German word for 'The credit card'.",
+        "description_de": "Deutsches Wort für 'The credit card'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Konto",
+            "Die Transaktion war erfolgreich.",
+            "die Kreditkarte",
+            "das Bargeld"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cash",
+        "text_de": "das Bargeld",
+        "synonyms": [],
+        "description": "German word for 'The cash'.",
+        "description_de": "Deutsches Wort für 'The cash'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Bargeld",
+            "Die Steuern in Deutschland sind ziemlich hoch.",
+            "Geld sparen für die Zukunft ist wichtig.",
+            "Finanzielle Unabhängigkeit ist mein Ziel."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The coin",
+        "text_de": "die Münze",
+        "synonyms": [],
+        "description": "German word for 'The coin'.",
+        "description_de": "Deutsches Wort für 'The coin'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Münze",
+            "Der Benzinpreis steigt.",
+            "Das Unternehmen ging pleite.",
+            "Das Limit für Abhebungen beträgt fünfhundert Euro."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bill",
+        "text_de": "der Geldschein",
+        "synonyms": [],
+        "description": "German word for 'The bill'.",
+        "description_de": "Deutsches Wort für 'The bill'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe keine Münzen mehr für die Parkuhr.",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Ich suche nach einem Schnäppchen.",
+            "der Geldschein"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The salary",
+        "text_de": "das Gehalt",
+        "synonyms": [],
+        "description": "German word for 'The salary'.",
+        "description_de": "Deutsches Wort für 'The salary'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Die Steuern in Deutschland sind ziemlich hoch.",
+            "Geld wächst nicht auf Bäumen.",
+            "Das Unternehmen ging pleite."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The price",
+        "text_de": "der Preis",
+        "synonyms": [],
+        "description": "German word for 'The price'.",
+        "description_de": "Deutsches Wort für 'The price'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich zahle es dir morgen zurück.",
+            "der Preis",
+            "Kinder sollten früh den Wert des Geldes lernen.",
+            "Die Bank ist samstags geschlossen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The discount",
+        "text_de": "der Rabatt",
+        "synonyms": [],
+        "description": "German word for 'The discount'.",
+        "description_de": "Deutsches Wort für 'The discount'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche nach einem Schnäppchen.",
+            "Ich muss am Monatsende meine Rechnungen bezahlen.",
+            "Ehrlichkeit ist besser als Reichtum.",
+            "der Rabatt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The debt",
+        "text_de": "die Schulden",
+        "synonyms": [],
+        "description": "German word for 'The debt'.",
+        "description_de": "Deutsches Wort für 'The debt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schulden",
+            "Ich habe meine Kreditkarte verloren!",
+            "Das Unternehmen ging pleite.",
+            "Wo kann ich Dollar in Euro wechseln?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The interest",
+        "text_de": "die Zinsen",
+        "synonyms": [],
+        "description": "German word for 'The interest'.",
+        "description_de": "Deutsches Wort für 'The interest'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Unternehmen ging pleite.",
+            "die Schulden",
+            "der Preis",
+            "die Zinsen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The loan",
+        "text_de": "der Kredit",
+        "synonyms": [],
+        "description": "German word for 'The loan'.",
+        "description_de": "Deutsches Wort für 'The loan'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geld wächst nicht auf Bäumen.",
+            "Die Steuern in Deutschland sind ziemlich hoch.",
+            "Wo kann ich Dollar in Euro wechseln?",
+            "der Kredit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The investment",
+        "text_de": "die Investition",
+        "synonyms": [],
+        "description": "German word for 'The investment'.",
+        "description_de": "Deutsches Wort für 'The investment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "das Bargeld",
+            "Zeit ist Geld.",
+            "die Investition"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tax",
+        "text_de": "die Steuer",
+        "synonyms": [],
+        "description": "German word for 'The tax'.",
+        "description_de": "Deutsches Wort für 'The tax'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bank ist samstags geschlossen.",
+            "Zeit ist Geld.",
+            "die Steuer",
+            "Kann ich mit Kreditkarte bezahlen?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The insurance",
+        "text_de": "die Versicherung",
+        "synonyms": [],
+        "description": "German word for 'The insurance'.",
+        "description_de": "Deutsches Wort für 'The insurance'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Online-Banking ist sehr bequem.",
+            "verdienen",
+            "Wo ist der nächste Geldautomat?",
+            "die Versicherung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To pay",
+        "text_de": "bezahlen",
+        "synonyms": [],
+        "description": "German word for 'To pay'.",
+        "description_de": "Deutsches Wort für 'To pay'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die wirtschaftliche Lage verbessert sich.",
+            "die Zinsen",
+            "die Investition",
+            "bezahlen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To save",
+        "text_de": "sparen",
+        "synonyms": [],
+        "description": "German word for 'To save'.",
+        "description_de": "Deutsches Wort für 'To save'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich benutze eine mobile Bezahl-App.",
+            "Leihen Sie sich kein Geld, wenn Sie es nicht zurückzahlen können.",
+            "sparen",
+            "Ich möchte ein neues Bankkonto eröffnen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To spend",
+        "text_de": "ausgeben",
+        "synonyms": [],
+        "description": "German word for 'To spend'.",
+        "description_de": "Deutsches Wort für 'To spend'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "ausgeben",
+            "Leihen Sie sich kein Geld, wenn Sie es nicht zurückzahlen können.",
+            "Behalten Sie den Beleg für Ihren Einkauf.",
+            "verdienen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To earn",
+        "text_de": "verdienen",
+        "synonyms": [],
+        "description": "German word for 'To earn'.",
+        "description_de": "Deutsches Wort für 'To earn'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Geldschein",
+            "Ich muss den Vertrag unterschreiben.",
+            "Wo ist der nächste Geldautomat?",
+            "verdienen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to go to the bank.",
+        "text_de": "Ich muss zur Bank gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie unnötige Ausgaben.",
+            "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+            "Ich muss heute meine Miete bezahlen.",
+            "Ich muss zur Bank gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have enough cash with you?",
+        "text_de": "Hast du genug Bargeld dabei?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe keine Münzen mehr für die Parkuhr.",
+            "Hast du genug Bargeld dabei?",
+            "Budgetplanung hilft, Ihre Finanzen zu verwalten.",
+            "das Konto"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I pay with credit card?",
+        "text_de": "Kann ich mit Kreditkarte bezahlen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Kreditkarte verloren!",
+            "Kannst du mir zehn Euro leihen?",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Geld kann kein Glück kaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to open a new bank account.",
+        "text_de": "Ich möchte ein neues Bankkonto eröffnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen mehr Arbeitsplätze für junge Menschen.",
+            "Geld kann kein Glück kaufen.",
+            "Ich möchte ein neues Bankkonto eröffnen.",
+            "Geld wächst nicht auf Bäumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is the interest rate for savings?",
+        "text_de": "Wie hoch ist der Zinssatz für Ersparnisse?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie hoch ist der Zinssatz für Ersparnisse?",
+            "Ich habe gestern zu viel Geld ausgegeben.",
+            "Wir brauchen mehr Arbeitsplätze für junge Menschen.",
+            "Die Transaktion war erfolgreich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to withdraw some money from the ATM.",
+        "text_de": "Ich muss etwas Geld am Geldautomaten abheben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bank",
+            "Wie viel verdienen Sie pro Monat?",
+            "Die Steuern in Deutschland sind ziemlich hoch.",
+            "Ich muss etwas Geld am Geldautomaten abheben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the nearest ATM?",
+        "text_de": "Wo ist der nächste Geldautomat?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist der nächste Geldautomat?",
+            "Ehrlichkeit ist besser als Reichtum.",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Kleine Unternehmen sind das Rückgrat der Wirtschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I lost my credit card!",
+        "text_de": "Ich habe meine Kreditkarte verloren!",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Versicherung",
+            "Ich habe meine Kreditkarte verloren!",
+            "bezahlen",
+            "Ich habe gestern zu viel Geld ausgegeben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please block my card immediately.",
+        "text_de": "Bitte sperren Sie meine Karte sofort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Wechselkurs ist momentan sehr günstig.",
+            "Kleine Unternehmen sind das Rückgrat der Wirtschaft.",
+            "der Preis",
+            "Bitte sperren Sie meine Karte sofort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to pay my bills at the end of the month.",
+        "text_de": "Ich muss am Monatsende meine Rechnungen bezahlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss am Monatsende meine Rechnungen bezahlen.",
+            "die Münze",
+            "Finanzielle Unabhängigkeit ist mein Ziel.",
+            "Kontaktloses Bezahlen ist schneller."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The price of gasoline is rising.",
+        "text_de": "Der Benzinpreis steigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Benzinpreis steigt.",
+            "Ich habe ein Sparkonto für meine Kinder.",
+            "Ich habe meine Kreditkarte verloren!",
+            "das Bargeld"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You get a ten percent discount if you pay in cash.",
+        "text_de": "Sie erhalten zehn Prozent Rabatt, wenn Sie bar bezahlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hast du ein Sparschwein?",
+            "Sie erhalten zehn Prozent Rabatt, wenn Sie bar bezahlen.",
+            "Lebensversicherung bietet Sicherheit für die Familie.",
+            "die Münze"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Saving money for the future is important.",
+        "text_de": "Geld sparen für die Zukunft ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Schulden?",
+            "Geld sparen für die Zukunft ist wichtig.",
+            "Ich habe meine Kreditkarte verloren!",
+            "die Kreditkarte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I spent too much money yesterday.",
+        "text_de": "Ich habe gestern zu viel Geld ausgegeben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe gestern zu viel Geld ausgegeben.",
+            "Ich möchte ein neues Bankkonto eröffnen.",
+            "Online-Banking ist sehr bequem.",
+            "die Kreditkarte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How much do you earn per month?",
+        "text_de": "Wie viel verdienen Sie pro Monat?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Zinsen",
+            "Wie viel verdienen Sie pro Monat?",
+            "Ich habe meine Kreditkarte verloren!",
+            "Kannst du mir zehn Euro leihen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The salary is paid directly into the account.",
+        "text_de": "Das Gehalt wird direkt auf das Konto überwiesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Behalten Sie den Beleg für Ihren Einkauf.",
+            "ausgeben",
+            "Das Gehalt wird direkt auf das Konto überwiesen.",
+            "Ich habe ein Sparkonto für meine Kinder."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Taxes in Germany are quite high.",
+        "text_de": "Die Steuern in Deutschland sind ziemlich hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kontoauszug zeigt alle Transaktionen.",
+            "Die Steuern in Deutschland sind ziemlich hoch.",
+            "Inflation verringert den Wert des Geldes.",
+            "die Investition"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a loan for a new car.",
+        "text_de": "Ich brauche einen Kredit für ein neues Auto.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss heute meine Miete bezahlen.",
+            "Ich brauche einen Kredit für ein neues Auto.",
+            "Inflation verringert den Wert des Geldes.",
+            "Das Limit für Abhebungen beträgt fünfhundert Euro."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have any debts?",
+        "text_de": "Haben Sie Schulden?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Schulden?",
+            "Ich brauche einen Kredit für ein neues Auto.",
+            "Lebensversicherung bietet Sicherheit für die Familie.",
+            "Wie hoch ist der Zinssatz für Ersparnisse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Investing in stocks can be risky.",
+        "text_de": "In Aktien zu investieren kann risikoreich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es war nur wenig Kleingeld darin.",
+            "In Aktien zu investieren kann risikoreich sein.",
+            "Lebensversicherung bietet Sicherheit für die Familie.",
+            "die Münze"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Diversify your investment portfolio.",
+        "text_de": "Diversifizieren Sie Ihr Investitionsportfolio.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ehrlichkeit ist besser als Reichtum.",
+            "Mein Portemonnaie wurde gestohlen.",
+            "ausgeben",
+            "Diversifizieren Sie Ihr Investitionsportfolio."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The exchange rate is very favorable right now.",
+        "text_de": "Der Wechselkurs ist momentan sehr günstig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bank ist samstags geschlossen.",
+            "Der Wechselkurs ist momentan sehr günstig.",
+            "Das Unternehmen ging pleite.",
+            "Ich habe keine Münzen mehr für die Parkuhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I exchange dollars for euros?",
+        "text_de": "Wo kann ich Dollar in Euro wechseln?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo kann ich Dollar in Euro wechseln?",
+            "Planen Sie Ihre Rente frühzeitig.",
+            "Das Gehalt wird direkt auf das Konto überwiesen.",
+            "der Geldschein"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep the receipt for your purchase.",
+        "text_de": "Behalten Sie den Beleg für Ihren Einkauf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss den Vertrag unterschreiben.",
+            "Behalten Sie den Beleg für Ihren Einkauf.",
+            "der Geldschein",
+            "Das Geld wurde gestern überwiesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bank is closed on Saturdays.",
+        "text_de": "Die Bank ist samstags geschlossen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss den Vertrag unterschreiben.",
+            "Die Bank ist samstags geschlossen.",
+            "Der Wechselkurs ist momentan sehr günstig.",
+            "Ich habe ein Sparkonto für meine Kinder."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Online banking is very convenient.",
+        "text_de": "Online-Banking ist sehr bequem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie erhalten zehn Prozent Rabatt, wenn Sie bar bezahlen.",
+            "Inflation verringert den Wert des Geldes.",
+            "Online-Banking ist sehr bequem.",
+            "Philanthropie ist wichtig für die Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I forgot my PIN code.",
+        "text_de": "Ich habe meinen PIN-Code vergessen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kontoauszug zeigt alle Transaktionen.",
+            "Ich suche nach einem Schnäppchen.",
+            "Ich habe meinen PIN-Code vergessen.",
+            "der Kredit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enter your password carefully.",
+        "text_de": "Geben Sie Ihr Passwort vorsichtig ein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bank ist samstags geschlossen.",
+            "der Kredit",
+            "Aber es macht das Leben leichter.",
+            "Geben Sie Ihr Passwort vorsichtig ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The transaction was successful.",
+        "text_de": "Die Transaktion war erfolgreich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Transaktion war erfolgreich.",
+            "Haben Sie Schulden?",
+            "Lesen Sie das Kleingedruckte sorgfältig.",
+            "Ich brauche einen Kredit für ein neues Auto."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to check my account balance.",
+        "text_de": "Ich muss meinen Kontostand prüfen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles wird teurer.",
+            "das Konto",
+            "Ich muss meinen Kontostand prüfen.",
+            "Er ist ein sehr reicher Mann."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is not enough money in the account.",
+        "text_de": "Es ist nicht genug Geld auf dem Konto.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verdienen",
+            "ausgeben",
+            "Es ist nicht genug Geld auf dem Konto.",
+            "die Versicherung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The limit for withdrawals is 500 euros.",
+        "text_de": "Das Limit für Abhebungen beträgt fünfhundert Euro.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Limit für Abhebungen beträgt fünfhundert Euro.",
+            "Wie hoch ist der Zinssatz für Ersparnisse?",
+            "Ich muss etwas Geld am Geldautomaten abheben.",
+            "Ich habe meine Kreditkarte verloren!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a savings account for my children.",
+        "text_de": "Ich habe ein Sparkonto für meine Kinder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen PIN-Code vergessen.",
+            "Ich habe ein Sparkonto für meine Kinder.",
+            "Lebensversicherung bietet Sicherheit für die Familie.",
+            "Die Bank ist samstags geschlossen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Inflation reduces the value of money.",
+        "text_de": "Inflation verringert den Wert des Geldes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Steuer",
+            "Mein Portemonnaie wurde gestohlen.",
+            "Inflation verringert den Wert des Geldes.",
+            "Ich habe keine Münzen mehr für die Parkuhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cost of living is high in Munich.",
+        "text_de": "Die Lebenshaltungskosten in München sind hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Münze",
+            "Ich habe ein Sparkonto für meine Kinder.",
+            "Die Lebenshaltungskosten in München sind hoch.",
+            "Das Unternehmen ging pleite."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Avoid unnecessary expenditures.",
+        "text_de": "Vermeiden Sie unnötige Ausgaben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kontoauszug zeigt alle Transaktionen.",
+            "Das Gehalt wird direkt auf das Konto überwiesen.",
+            "Reichtum besteht nicht nur aus Geld.",
+            "Vermeiden Sie unnötige Ausgaben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wealth is not just about money.",
+        "text_de": "Reichtum besteht nicht nur aus Geld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reichtum besteht nicht nur aus Geld.",
+            "Geben Sie Ihr Passwort vorsichtig ein.",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Die Gebühren für internationale Überweisungen sind hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Budgeting helps to manage your finances.",
+        "text_de": "Budgetplanung hilft, Ihre Finanzen zu verwalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diversifizieren Sie Ihr Investitionsportfolio.",
+            "Budgetplanung hilft, Ihre Finanzen zu verwalten.",
+            "Ich wünsche Ihnen finanziellen Erfolg!",
+            "Der Kontoauszug zeigt alle Transaktionen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have an insurance for my house.",
+        "text_de": "Ich habe eine Versicherung für mein Haus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Steuern in Deutschland sind ziemlich hoch.",
+            "Vermeiden Sie unnötige Ausgaben.",
+            "Ich habe eine Versicherung für mein Haus.",
+            "Der Wechselkurs ist momentan sehr günstig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life insurance provides security for the family.",
+        "text_de": "Lebensversicherung bietet Sicherheit für die Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Leihen Sie sich kein Geld, wenn Sie es nicht zurückzahlen können.",
+            "Lebensversicherung bietet Sicherheit für die Familie.",
+            "Es ist nicht genug Geld auf dem Konto.",
+            "Ich benutze eine mobile Bezahl-App."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't borrow money if you can't pay it back.",
+        "text_de": "Leihen Sie sich kein Geld, wenn Sie es nicht zurückzahlen können.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte sperren Sie meine Karte sofort.",
+            "Ich suche nach einem Schnäppchen.",
+            "Leihen Sie sich kein Geld, wenn Sie es nicht zurückzahlen können.",
+            "Die wirtschaftliche Lage verbessert sich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is a very wealthy man.",
+        "text_de": "Er ist ein sehr reicher Mann.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte ein neues Bankkonto eröffnen.",
+            "ausgeben",
+            "Er ist ein sehr reicher Mann.",
+            "In Aktien zu investieren kann risikoreich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Money doesn't grow on trees.",
+        "text_de": "Geld wächst nicht auf Bäumen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geld wächst nicht auf Bäumen.",
+            "Geben Sie Ihr Passwort vorsichtig ein.",
+            "Der Aktienmarkt ist letztes Jahr abgestürzt.",
+            "der Kredit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time is money.",
+        "text_de": "Zeit ist Geld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In Aktien zu investieren kann risikoreich sein.",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Zeit ist Geld.",
+            "Lebensversicherung bietet Sicherheit für die Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A penny saved is a penny earned.",
+        "text_de": "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Versicherung",
+            "Der Aktienmarkt ist letztes Jahr abgestürzt.",
+            "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+            "Hast du genug Bargeld dabei?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bank statement shows all transactions.",
+        "text_de": "Der Kontoauszug zeigt alle Transaktionen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Limit für Abhebungen beträgt fünfhundert Euro.",
+            "Der Kontoauszug zeigt alle Transaktionen.",
+            "Die Bank ist samstags geschlossen.",
+            "Kinder sollten früh den Wert des Geldes lernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to pay my rent today.",
+        "text_de": "Ich muss heute meine Miete bezahlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Bargeld",
+            "Ich muss heute meine Miete bezahlen.",
+            "Bitte sperren Sie meine Karte sofort.",
+            "Der Aktienmarkt ist letztes Jahr abgestürzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The money was transferred yesterday.",
+        "text_de": "Das Geld wurde gestern überwiesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Steuer",
+            "Zeit ist Geld.",
+            "Das Geld wurde gestern überwiesen.",
+            "Er spendete eine große Summe für wohltätige Zwecke."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have a piggy bank?",
+        "text_de": "Hast du ein Sparschwein?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich benutze eine mobile Bezahl-App.",
+            "Das Geld wurde gestern überwiesen.",
+            "Hast du ein Sparschwein?",
+            "Sie erhalten zehn Prozent Rabatt, wenn Sie bar bezahlen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Kids should learn the value of money early.",
+        "text_de": "Kinder sollten früh den Wert des Geldes lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kinder sollten früh den Wert des Geldes lernen.",
+            "Verschwende dein Geld nicht für Schrott.",
+            "die Schulden",
+            "die Investition"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company went bankrupt.",
+        "text_de": "Das Unternehmen ging pleite.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reichtum besteht nicht nur aus Geld.",
+            "Wir brauchen mehr Arbeitsplätze für junge Menschen.",
+            "Kontaktloses Bezahlen ist schneller.",
+            "Das Unternehmen ging pleite."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The stock market crashed last year.",
+        "text_de": "Der Aktienmarkt ist letztes Jahr abgestürzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Aktienmarkt ist letztes Jahr abgestürzt.",
+            "Das Unternehmen ging pleite.",
+            "Philanthropie ist wichtig für die Gesellschaft.",
+            "Lesen Sie das Kleingedruckte sorgfältig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Invest in gold for security.",
+        "text_de": "Investieren Sie in Gold zur Sicherheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich benutze eine mobile Bezahl-App.",
+            "Finanzielle Unabhängigkeit ist mein Ziel.",
+            "Investieren Sie in Gold zur Sicherheit.",
+            "Geld sparen für die Zukunft ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My wallet was stolen.",
+        "text_de": "Mein Portemonnaie wurde gestohlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kreditkarte",
+            "die Schulden",
+            "Mein Portemonnaie wurde gestohlen.",
+            "die Versicherung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There was only a little change in it.",
+        "text_de": "Es war nur wenig Kleingeld darin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es war nur wenig Kleingeld darin.",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Ich muss meinen Kontostand prüfen.",
+            "Ich muss heute meine Miete bezahlen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have no more coins for the parking meter.",
+        "text_de": "Ich habe keine Münzen mehr für die Parkuhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+            "Ich habe keine Münzen mehr für die Parkuhr.",
+            "Zeit ist Geld.",
+            "die Schulden"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you lend me ten euros?",
+        "text_de": "Kannst du mir zehn Euro leihen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist ein sehr reicher Mann.",
+            "Bitte sperren Sie meine Karte sofort.",
+            "Dieses Angebot ist ein echtes Schnäppchen!",
+            "Kannst du mir zehn Euro leihen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll pay you back tomorrow.",
+        "text_de": "Ich zahle es dir morgen zurück.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gehalt wird direkt auf das Konto überwiesen.",
+            "die Kreditkarte",
+            "Ich zahle es dir morgen zurück.",
+            "Die Gebühren für internationale Überweisungen sind hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honesty is better than wealth.",
+        "text_de": "Ehrlichkeit ist besser als Reichtum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kleine Unternehmen sind das Rückgrat der Wirtschaft.",
+            "Ich muss meinen Kontostand prüfen.",
+            "Die Transaktion war erfolgreich.",
+            "Ehrlichkeit ist besser als Reichtum."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bank manager is very helpful.",
+        "text_de": "Der Bankdirektor ist sehr hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geld sparen für die Zukunft ist wichtig.",
+            "Kontaktloses Bezahlen ist schneller.",
+            "Das Limit für Abhebungen beträgt fünfhundert Euro.",
+            "Der Bankdirektor ist sehr hilfsbereit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to sign the contract.",
+        "text_de": "Ich muss den Vertrag unterschreiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Versicherung für mein Haus.",
+            "Leihen Sie sich kein Geld, wenn Sie es nicht zurückzahlen können.",
+            "Wie hoch ist der Zinssatz für Ersparnisse?",
+            "Ich muss den Vertrag unterschreiben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Read the fine print carefully.",
+        "text_de": "Lesen Sie das Kleingedruckte sorgfältig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Limit für Abhebungen beträgt fünfhundert Euro.",
+            "Wir brauchen mehr Arbeitsplätze für junge Menschen.",
+            "Inflation verringert den Wert des Geldes.",
+            "Lesen Sie das Kleingedruckte sorgfältig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fees for international transfers are high.",
+        "text_de": "Die Gebühren für internationale Überweisungen sind hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen PIN-Code vergessen.",
+            "Ich muss meinen Kontostand prüfen.",
+            "Ich habe eine Versicherung für mein Haus.",
+            "Die Gebühren für internationale Überweisungen sind hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm using a mobile payment app.",
+        "text_de": "Ich benutze eine mobile Bezahl-App.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche nach einem Schnäppchen.",
+            "Budgetplanung hilft, Ihre Finanzen zu verwalten.",
+            "Ich benutze eine mobile Bezahl-App.",
+            "Ich möchte ein neues Bankkonto eröffnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Contactless payment is faster.",
+        "text_de": "Kontaktloses Bezahlen ist schneller.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Bargeld",
+            "Ich muss etwas Geld am Geldautomaten abheben.",
+            "Bitte sperren Sie meine Karte sofort.",
+            "Kontaktloses Bezahlen ist schneller."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything is becoming more expensive.",
+        "text_de": "Alles wird teurer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dieses Angebot ist ein echtes Schnäppchen!",
+            "Alles wird teurer.",
+            "Das Gehalt wird direkt auf das Konto überwiesen.",
+            "Geld kann kein Glück kaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a bargain.",
+        "text_de": "Ich suche nach einem Schnäppchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Inflation verringert den Wert des Geldes.",
+            "Ich habe keine Münzen mehr für die Parkuhr.",
+            "Ich suche nach einem Schnäppchen.",
+            "Wie viel verdienen Sie pro Monat?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This offer is a real steal!",
+        "text_de": "Dieses Angebot ist ein echtes Schnäppchen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kredit",
+            "das Geld",
+            "Dieses Angebot ist ein echtes Schnäppchen!",
+            "Aber es macht das Leben leichter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't waste your money on junk.",
+        "text_de": "Verschwende dein Geld nicht für Schrott.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Transaktion war erfolgreich.",
+            "Der Wechselkurs ist momentan sehr günstig.",
+            "Ich muss zur Bank gehen.",
+            "Verschwende dein Geld nicht für Schrott."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Philanthropy is important for society.",
+        "text_de": "Philanthropie ist wichtig für die Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philanthropie ist wichtig für die Gesellschaft.",
+            "Die Gebühren für internationale Überweisungen sind hoch.",
+            "In Aktien zu investieren kann risikoreich sein.",
+            "Geben Sie Ihr Passwort vorsichtig ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He donated a large sum to charity.",
+        "text_de": "Er spendete eine große Summe für wohltätige Zwecke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er spendete eine große Summe für wohltätige Zwecke.",
+            "Sie erhalten zehn Prozent Rabatt, wenn Sie bar bezahlen.",
+            "die Bank",
+            "Der Benzinpreis steigt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Money can't buy happiness.",
+        "text_de": "Geld kann kein Glück kaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verschwende dein Geld nicht für Schrott.",
+            "Geld kann kein Glück kaufen.",
+            "Online-Banking ist sehr bequem.",
+            "Alles wird teurer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "But it makes life easier.",
+        "text_de": "Aber es macht das Leben leichter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Investieren Sie in Bildung, das ist die beste Investition.",
+            "die Investition",
+            "Aber es macht das Leben leichter.",
+            "Das Limit für Abhebungen beträgt fünfhundert Euro."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Financial independence is my goal.",
+        "text_de": "Finanzielle Unabhängigkeit ist mein Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Konto",
+            "Investieren Sie in Gold zur Sicherheit.",
+            "Die Transaktion war erfolgreich.",
+            "Finanzielle Unabhängigkeit ist mein Ziel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Plan your pension early.",
+        "text_de": "Planen Sie Ihre Rente frühzeitig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Online-Banking ist sehr bequem.",
+            "die Versicherung",
+            "Der Wechselkurs ist momentan sehr günstig.",
+            "Planen Sie Ihre Rente frühzeitig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The economic situation is improving.",
+        "text_de": "Die wirtschaftliche Lage verbessert sich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die wirtschaftliche Lage verbessert sich.",
+            "Ich brauche einen Kredit für ein neues Auto.",
+            "das Konto",
+            "Ich muss heute meine Miete bezahlen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need more jobs for young people.",
+        "text_de": "Wir brauchen mehr Arbeitsplätze für junge Menschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles wird teurer.",
+            "Wir brauchen mehr Arbeitsplätze für junge Menschen.",
+            "das Konto",
+            "Budgetplanung hilft, Ihre Finanzen zu verwalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Small businesses are the backbone of the economy.",
+        "text_de": "Kleine Unternehmen sind das Rückgrat der Wirtschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kleine Unternehmen sind das Rückgrat der Wirtschaft.",
+            "bezahlen",
+            "Sie erhalten zehn Prozent Rabatt, wenn Sie bar bezahlen.",
+            "Ich habe keine Münzen mehr für die Parkuhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Invest in education, it's the best investment.",
+        "text_de": "Investieren Sie in Bildung, das ist die beste Investition.",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Transaktion war erfolgreich.",
+            "Der Kontoauszug zeigt alle Transaktionen.",
+            "Investieren Sie in Bildung, das ist die beste Investition.",
+            "Ich wünsche Ihnen finanziellen Erfolg!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you financial success!",
+        "text_de": "Ich wünsche Ihnen finanziellen Erfolg!",
+        "synonyms": [],
+        "description": "Example sentence for 'Bank & Money'.",
+        "description_de": "Beispielsatz für 'Bank & Money'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche Ihnen finanziellen Erfolg!",
+            "Kinder sollten früh den Wert des Geldes lernen.",
+            "Ich habe eine Versicherung für mein Haus.",
+            "Kann ich mit Kreditkarte bezahlen?"
+        ]
+    }
+]

@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The business",
+        "text_de": "das Geschäft",
+        "synonyms": [],
+        "description": "German word for 'The business'.",
+        "description_de": "Deutsches Wort für 'The business'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Unternehmen",
+            "Ich muss bald meine Steuererklärung abgeben.",
+            "das Geschäft",
+            "Seien Sie immer professionell und respektvoll."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The company",
+        "text_de": "das Unternehmen",
+        "synonyms": [],
+        "description": "German word for 'The company'.",
+        "description_de": "Deutsches Wort für 'The company'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Corporate Governance definiert die Regeln des Unternehmens.",
+            "das Unternehmen",
+            "Schuldenmanagement ist wichtig für Unternehmen.",
+            "Wir müssen unsere Betriebskosten senken."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The market",
+        "text_de": "der Markt",
+        "synonyms": [],
+        "description": "German word for 'The market'.",
+        "description_de": "Deutsches Wort für 'The market'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig.",
+            "die Investition",
+            "der Markt",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The economy",
+        "text_de": "die Wirtschaft",
+        "synonyms": [],
+        "description": "German word for 'The economy'.",
+        "description_de": "Deutsches Wort für 'The economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wirtschaft",
+            "die Investition",
+            "die Steuer",
+            "Transparenz schafft Vertrauen bei Investoren."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The trade",
+        "text_de": "der Handel",
+        "synonyms": [],
+        "description": "German word for 'The trade'.",
+        "description_de": "Deutsches Wort für 'The trade'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Handel",
+            "Führung bedeutet, andere zu bevollmächtigen.",
+            "Corporate Governance definiert die Regeln des Unternehmens.",
+            "Schuldenmanagement ist wichtig für Unternehmen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The industry",
+        "text_de": "die Industrie",
+        "synonyms": [],
+        "description": "German word for 'The industry'.",
+        "description_de": "Deutsches Wort für 'The industry'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Unternehmen",
+            "die Industrie",
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+            "die Kosten"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The investment",
+        "text_de": "die Investition",
+        "synonyms": [],
+        "description": "German word for 'The investment'.",
+        "description_de": "Deutsches Wort für 'The investment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+            "Bleiben Sie proaktiv und positiv.",
+            "Arbeitskräftemangel ist eine Herausforderung für einige Sektoren.",
+            "die Investition"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The profit",
+        "text_de": "der Gewinn",
+        "synonyms": [],
+        "description": "German word for 'The profit'.",
+        "description_de": "Deutsches Wort für 'The profit'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt.",
+            "der Gewinn",
+            "das Produkt",
+            "Ich muss bald meine Steuererklärung abgeben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The loss",
+        "text_de": "der Verlust",
+        "synonyms": [],
+        "description": "German word for 'The loss'.",
+        "description_de": "Deutsches Wort für 'The loss'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig.",
+            "der Mitarbeiter",
+            "der Kunde",
+            "der Verlust"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cost",
+        "text_de": "die Kosten",
+        "synonyms": [],
+        "description": "German word for 'The cost'.",
+        "description_de": "Deutsches Wort für 'The cost'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kunde hat immer recht.",
+            "Wettbewerb treibt Innovation voran und senkt Preise.",
+            "Work-Life-Balance ist wichtig für die Produktivität.",
+            "die Kosten"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The price",
+        "text_de": "der Preis",
+        "synonyms": [],
+        "description": "German word for 'The price'.",
+        "description_de": "Deutsches Wort für 'The price'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Preis",
+            "Soziale Medien sind ein mächtiges Werkzeug für Werbung.",
+            "E-Commerce hat die Art und Weise, wie wir einkaufen, verändert.",
+            "Corporate Governance definiert die Regeln des Unternehmens."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The product",
+        "text_de": "das Produkt",
+        "synonyms": [],
+        "description": "German word for 'The product'.",
+        "description_de": "Deutsches Wort für 'The product'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unternehmertum erfordert Mut und Innovation.",
+            "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch.",
+            "Die Übernahme wurde gestern abgeschlossen.",
+            "das Produkt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The customer",
+        "text_de": "der Kunde",
+        "synonyms": [],
+        "description": "German word for 'The customer'.",
+        "description_de": "Deutsches Wort für 'The customer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Geschäftsjahr beginnt im Januar.",
+            "der Kunde",
+            "Innovation gedeiht in einem kreativen Umfeld.",
+            "Das Unternehmen wächst schnell."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The employee",
+        "text_de": "der Mitarbeiter",
+        "synonyms": [],
+        "description": "German word for 'The employee'.",
+        "description_de": "Deutsches Wort für 'The employee'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Mitarbeiter",
+            "Die Marktanalyse zeigt großes Potenzial.",
+            "Ethische Geschäftspraktiken führen zu langfristigem Erfolg.",
+            "Das Büro befindet sich im Stadtzentrum."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The boss",
+        "text_de": "der Chef",
+        "synonyms": [],
+        "description": "German word for 'The boss'.",
+        "description_de": "Deutsches Wort für 'The boss'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Grüne Energie ist ein wachsender Sektor.",
+            "der Chef",
+            "kaufen",
+            "Das Geschäftsjahr beginnt im Januar."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The salary",
+        "text_de": "das Gehalt",
+        "synonyms": [],
+        "description": "German word for 'The salary'.",
+        "description_de": "Deutsches Wort für 'The salary'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Angebot und Nachfrage bestimmen den Preis.",
+            "Marketing ist wichtig für die Markenbekanntheit.",
+            "die Industrie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tax",
+        "text_de": "die Steuer",
+        "synonyms": [],
+        "description": "German word for 'The tax'.",
+        "description_de": "Deutsches Wort für 'The tax'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Homeoffice wird immer beliebter.",
+            "das Geschäft",
+            "die Steuer",
+            "Unternehmertum erfordert Mut und Innovation."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The global market",
+        "text_de": "der Weltmarkt",
+        "synonyms": [],
+        "description": "German word for 'The global market'.",
+        "description_de": "Deutsches Wort für 'The global market'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Fusionen können zu Kosteneinsparungen führen.",
+            "Schuldenmanagement ist wichtig für Unternehmen.",
+            "der Weltmarkt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To buy",
+        "text_de": "kaufen",
+        "synonyms": [],
+        "description": "German word for 'To buy'.",
+        "description_de": "Deutsches Wort für 'To buy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch.",
+            "Ich möchte einige Aktien des Unternehmens kaufen.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!",
+            "kaufen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To sell",
+        "text_de": "verkaufen",
+        "synonyms": [],
+        "description": "German word for 'To sell'.",
+        "description_de": "Deutsches Wort für 'To sell'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Prüfungsberichte müssen genau sein.",
+            "verkaufen",
+            "Angebot und Nachfrage bestimmen den Preis.",
+            "Grüne Energie ist ein wachsender Sektor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He runs a successful business in Berlin.",
+        "text_de": "Er führt ein erfolgreiches Geschäft in Berlin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Bruttoinlandsprodukt (BIP) ist ein Wirtschaftsindikator.",
+            "Inflation verringert die Kaufkraft des Geldes.",
+            "der Gewinn",
+            "Er führt ein erfolgreiches Geschäft in Berlin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company is growing rapidly.",
+        "text_de": "Das Unternehmen wächst schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Arbeitskräftemangel ist eine Herausforderung für einige Sektoren.",
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt.",
+            "Das Unternehmen wächst schnell.",
+            "der Markt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The stock market is very volatile right now.",
+        "text_de": "Der Aktienmarkt ist momentan sehr volatil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Chef",
+            "Der Aktienmarkt ist momentan sehr volatil.",
+            "Wir bringen nächsten Monat ein neues Produkt auf den Markt.",
+            "das Unternehmen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The German economy is the largest in Europe.",
+        "text_de": "Die deutsche Wirtschaft ist die größte in Europa.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Weltmarkt bietet viele Möglichkeiten.",
+            "Importe und Exporte sind ausgeglichen.",
+            "Die deutsche Wirtschaft ist die größte in Europa.",
+            "Die Arbeitslosenquote ist auf ihrem niedrigsten Stand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Free trade is beneficial for consumers.",
+        "text_de": "Freihandel ist vorteilhaft für die Verbraucher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen neuen Geschäftspartner.",
+            "Die Übernahme wurde gestern abgeschlossen.",
+            "Lebenslanges Lernen ist notwendig in einer sich ändernden Wirtschaft.",
+            "Freihandel ist vorteilhaft für die Verbraucher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The automotive industry is very important for Germany.",
+        "text_de": "Die Automobilindustrie ist sehr wichtig für Deutschland.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Präsentation kam gut an.",
+            "Bleiben Sie proaktiv und positiv.",
+            "die Kosten",
+            "Die Automobilindustrie ist sehr wichtig für Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Making a wise investment is crucial for success.",
+        "text_de": "Eine kluge Investition zu tätigen, ist entscheidend für den Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Industrie",
+            "Grüne Energie ist ein wachsender Sektor.",
+            "Angebot und Nachfrage bestimmen den Preis.",
+            "Eine kluge Investition zu tätigen, ist entscheidend für den Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company made a huge profit last year.",
+        "text_de": "Das Unternehmen machte letztes Jahr einen riesigen Gewinn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt.",
+            "der Chef",
+            "Das Büro befindet sich im Stadtzentrum.",
+            "Das Unternehmen machte letztes Jahr einen riesigen Gewinn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "They suffered a loss due to the crisis.",
+        "text_de": "Sie erlitten einen Verlust aufgrund der Krise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Grüne Energie ist ein wachsender Sektor.",
+            "Sie erlitten einen Verlust aufgrund der Krise.",
+            "Unternehmerische Sozialverantwortung.",
+            "Ich möchte einige Aktien des Unternehmens kaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need to reduce our operating costs.",
+        "text_de": "Wir müssen unsere Betriebskosten senken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Weltmarkt bietet viele Möglichkeiten.",
+            "Risikokapital unterstützt neue Geschäftsideen.",
+            "Wir müssen unsere Betriebskosten senken.",
+            "Bleiben Sie proaktiv und positiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The price of gold has increased.",
+        "text_de": "Der Goldpreis ist gestiegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Goldpreis ist gestiegen.",
+            "Schuldenmanagement ist wichtig für Unternehmen.",
+            "Ich arbeite als freiberuflicher Berater.",
+            "Kleine und mittlere Unternehmen (KMU)."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are launching a new product next month.",
+        "text_de": "Wir bringen nächsten Monat ein neues Produkt auf den Markt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Work-Life-Balance ist wichtig für die Produktivität.",
+            "Angebot und Nachfrage bestimmen den Preis.",
+            "Teamarbeit führt zum Erfolg.",
+            "Wir bringen nächsten Monat ein neues Produkt auf den Markt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The customer is always right.",
+        "text_de": "Der Kunde hat immer recht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unternehmertum erfordert Mut und Innovation.",
+            "Seien Sie immer professionell und respektvoll.",
+            "Das Unternehmen wächst schnell.",
+            "Der Kunde hat immer recht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is a very valuable employee for the team.",
+        "text_de": "Er ist ein sehr wertvoller Mitarbeiter für das Team.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist ein sehr wertvoller Mitarbeiter für das Team.",
+            "Die Automobilindustrie ist sehr wichtig für Deutschland.",
+            "Innovation gedeiht in einem kreativen Umfeld.",
+            "Der Aktienmarkt ist momentan sehr volatil."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a meeting with my boss today.",
+        "text_de": "Ich habe heute eine Besprechung mit meinem Chef.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die globale Lieferkette ist komplex.",
+            "Ich habe heute eine Besprechung mit meinem Chef.",
+            "der Preis",
+            "Corporate Governance definiert die Regeln des Unternehmens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The starting salary is quite competitive.",
+        "text_de": "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Goldpreis ist gestiegen.",
+            "Die Marktanalyse zeigt großes Potenzial.",
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig.",
+            "Ich möchte einige Aktien des Unternehmens kaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to file my tax return soon.",
+        "text_de": "Ich muss bald meine Steuererklärung abgeben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss bald meine Steuererklärung abgeben.",
+            "Verhandlungsgeschick ist wertvoll im Geschäft.",
+            "Start-ups stehen oft vor finanziellen Herausforderungen.",
+            "Feedback hilft uns, uns zu verbessern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The global market provides many opportunities.",
+        "text_de": "Der Weltmarkt bietet viele Möglichkeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fusionen können zu Kosteneinsparungen führen.",
+            "Ich möchte einige Aktien des Unternehmens kaufen.",
+            "Der Weltmarkt bietet viele Möglichkeiten.",
+            "das Geschäft"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to buy some shares of the company.",
+        "text_de": "Ich möchte einige Aktien des Unternehmens kaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Investition",
+            "Ich möchte einige Aktien des Unternehmens kaufen.",
+            "der Gewinn",
+            "Wir müssen unsere Betriebskosten senken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "They sell their products worldwide.",
+        "text_de": "Sie verkaufen ihre Produkte weltweit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie verkaufen ihre Produkte weltweit.",
+            "das Unternehmen",
+            "Das Bruttoinlandsprodukt (BIP) ist ein Wirtschaftsindikator.",
+            "Innovation gedeiht in einem kreativen Umfeld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Supply and demand determine the price.",
+        "text_de": "Angebot und Nachfrage bestimmen den Preis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Aktienmarkt ist momentan sehr volatil.",
+            "Angebot und Nachfrage bestimmen den Preis.",
+            "der Gewinn",
+            "der Handel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Inflation reduces the purchasing power of money.",
+        "text_de": "Inflation verringert die Kaufkraft des Geldes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie verkaufen ihre Produkte weltweit.",
+            "der Preis",
+            "Künstliche Intelligenz wird viele Aufgaben automatisieren.",
+            "Inflation verringert die Kaufkraft des Geldes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The unemployment rate is at its lowest level.",
+        "text_de": "Die Arbeitslosenquote ist auf ihrem niedrigsten Stand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verhandlungsgeschick ist wertvoll im Geschäft.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!",
+            "Die Arbeitslosenquote ist auf ihrem niedrigsten Stand.",
+            "Ich suche einen neuen Geschäftspartner."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gross Domestic Product (GDP) is an economic indicator.",
+        "text_de": "Das Bruttoinlandsprodukt (BIP) ist ein Wirtschaftsindikator.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Handel",
+            "Die Automobilindustrie ist sehr wichtig für Deutschland.",
+            "Effektive Kommunikation verhindert Missverständnisse.",
+            "Das Bruttoinlandsprodukt (BIP) ist ein Wirtschaftsindikator."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Small and medium-sized enterprises (SME).",
+        "text_de": "Kleine und mittlere Unternehmen (KMU).",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Präsentation kam gut an.",
+            "Kleine und mittlere Unternehmen (KMU).",
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+            "Der Dresscode für die Sitzung ist Business Casual."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Entrepreneurship requires courage and innovation.",
+        "text_de": "Unternehmertum erfordert Mut und Innovation.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Produkt",
+            "die Steuer",
+            "Unternehmertum erfordert Mut und Innovation.",
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm working as a freelance consultant.",
+        "text_de": "Ich arbeite als freiberuflicher Berater.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz wird viele Aufgaben automatisieren.",
+            "Ich arbeite als freiberuflicher Berater.",
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+            "der Verlust"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The acquisition was finalized yesterday.",
+        "text_de": "Die Übernahme wurde gestern abgeschlossen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Übernahme wurde gestern abgeschlossen.",
+            "die Steuer",
+            "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch.",
+            "Unternehmertum erfordert Mut und Innovation."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mergers can lead to cost savings.",
+        "text_de": "Fusionen können zu Kosteneinsparungen führen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die deutsche Wirtschaft ist die größte in Europa.",
+            "das Geschäft",
+            "Fusionen können zu Kosteneinsparungen führen.",
+            "Ich möchte einige Aktien des Unternehmens kaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The firm specialized in software development.",
+        "text_de": "Die Firma hat sich auf Softwareentwicklung spezialisiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Firma hat sich auf Softwareentwicklung spezialisiert.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!",
+            "Effektive Kommunikation verhindert Missverständnisse.",
+            "Wir brauchen eine klare Strategie für die Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Marketing is essential for brand awareness.",
+        "text_de": "Marketing ist wichtig für die Markenbekanntheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fusionen können zu Kosteneinsparungen führen.",
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+            "Freihandel ist vorteilhaft für die Verbraucher.",
+            "Marketing ist wichtig für die Markenbekanntheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a new business partner.",
+        "text_de": "Ich suche einen neuen Geschäftspartner.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freihandel ist vorteilhaft für die Verbraucher.",
+            "Corporate Governance definiert die Regeln des Unternehmens.",
+            "Ich suche einen neuen Geschäftspartner.",
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social media is a powerful tool for advertising.",
+        "text_de": "Soziale Medien sind ein mächtiges Werkzeug für Werbung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Medien sind ein mächtiges Werkzeug für Werbung.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!",
+            "Ich bin stolz auf die Leistung unseres Teams.",
+            "Risikokapital unterstützt neue Geschäftsideen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "E-commerce has changed the way we shop.",
+        "text_de": "E-Commerce hat die Art und Weise, wie wir einkaufen, verändert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Logistikkette wurde unterbrochen.",
+            "der Gewinn",
+            "E-Commerce hat die Art und Weise, wie wir einkaufen, verändert.",
+            "Der Aktienmarkt ist momentan sehr volatil."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The logistic chain was interrupted.",
+        "text_de": "Die Logistikkette wurde unterbrochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Automobilindustrie ist sehr wichtig für Deutschland.",
+            "Sie verkaufen ihre Produkte weltweit.",
+            "Die Logistikkette wurde unterbrochen.",
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Imports and exports are balanced.",
+        "text_de": "Importe und Exporte sind ausgeglichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie verkaufen ihre Produkte weltweit.",
+            "Homeoffice wird immer beliebter.",
+            "Der Kunde hat immer recht.",
+            "Importe und Exporte sind ausgeglichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainability in business is more than a trend.",
+        "text_de": "Nachhaltigkeit im Geschäft ist mehr als ein Trend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltigkeit im Geschäft ist mehr als ein Trend.",
+            "das Geschäft",
+            "Die Zentralbank hält die Währung stabil.",
+            "Die Übernahme wurde gestern abgeschlossen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Circular economy reduces waste and resource use.",
+        "text_de": "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie verkaufen ihre Produkte weltweit.",
+            "Der Kunde hat immer recht.",
+            "Start-ups stehen oft vor finanziellen Herausforderungen.",
+            "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Green energy is a growing sector.",
+        "text_de": "Grüne Energie ist ein wachsender Sektor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Gewinn",
+            "Grüne Energie ist ein wachsender Sektor.",
+            "der Handel",
+            "der Markt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Corporate social responsibility (CSR).",
+        "text_de": "Unternehmerische Sozialverantwortung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unternehmerische Sozialverantwortung.",
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt.",
+            "Effektive Kommunikation verhindert Missverständnisse.",
+            "der Gewinn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The company values diversity and inclusion.",
+        "text_de": "Das Unternehmen schätzt Vielfalt und Inklusion.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Unternehmen schätzt Vielfalt und Inklusion.",
+            "Work-Life-Balance ist wichtig für die Produktivität.",
+            "Ich suche einen neuen Geschäftspartner.",
+            "Effektive Kommunikation verhindert Missverständnisse."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work-life balance is important for productivity.",
+        "text_de": "Work-Life-Balance ist wichtig für die Produktivität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir bringen nächsten Monat ein neues Produkt auf den Markt.",
+            "Zinssätze beeinflussen die Kosten von Krediten.",
+            "Work-Life-Balance ist wichtig für die Produktivität.",
+            "Führung bedeutet, andere zu bevollmächtigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Remote work is becoming more popular.",
+        "text_de": "Homeoffice wird immer beliebter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Corporate Governance definiert die Regeln des Unternehmens.",
+            "Homeoffice wird immer beliebter.",
+            "Die Zentralbank hält die Währung stabil.",
+            "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The office is located in the city center.",
+        "text_de": "Das Büro befindet sich im Stadtzentrum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Das Büro befindet sich im Stadtzentrum.",
+            "Führung bedeutet, andere zu bevollmächtigen.",
+            "Er ist ein sehr wertvoller Mitarbeiter für das Team."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a job interview tomorrow morning.",
+        "text_de": "Ich habe morgen früh ein Vorstellungsgespräch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Innovation gedeiht in einem kreativen Umfeld.",
+            "der Chef",
+            "Ich habe morgen früh ein Vorstellungsgespräch.",
+            "E-Commerce hat die Art und Weise, wie wir einkaufen, verändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Update your resume and LinkedIn profile.",
+        "text_de": "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Logistikkette wurde unterbrochen.",
+            "Aktualisieren Sie Ihren Lebenslauf und Ihr LinkedIn-Profil.",
+            "Ich habe morgen früh ein Vorstellungsgespräch.",
+            "Führung bedeutet, andere zu bevollmächtigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Networking is key to finding a good job.",
+        "text_de": "Netzwerken ist der Schlüssel zu einem guten Job.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Netzwerken ist der Schlüssel zu einem guten Job.",
+            "Seien Sie immer professionell und respektvoll.",
+            "die Investition",
+            "Unternehmerische Sozialverantwortung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm attending a business conference in Frankfurt.",
+        "text_de": "Ich besuche eine Wirtschaftskonferenz in Frankfurt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die globale Lieferkette ist komplex.",
+            "verkaufen",
+            "Start-ups stehen oft vor finanziellen Herausforderungen.",
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The keynote speaker was very inspiring.",
+        "text_de": "Der Hauptredner war sehr inspirierend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Hauptredner war sehr inspirierend.",
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt.",
+            "Grüne Energie ist ein wachsender Sektor.",
+            "Kleine und mittlere Unternehmen (KMU)."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need a clear strategy for the future.",
+        "text_de": "Wir brauchen eine klare Strategie für die Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen unsere Betriebskosten senken.",
+            "Wir brauchen eine klare Strategie für die Zukunft.",
+            "Er ist ein sehr wertvoller Mitarbeiter für das Team.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Goal setting helps stay focused.",
+        "text_de": "Zielsetzung hilft, fokussiert zu bleiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Aktienmarkt ist momentan sehr volatil.",
+            "Corporate Governance definiert die Regeln des Unternehmens.",
+            "Zielsetzung hilft, fokussiert zu bleiben.",
+            "Arbeitskräftemangel ist eine Herausforderung für einige Sektoren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Teamwork makes the dream work.",
+        "text_de": "Teamarbeit führt zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Teamarbeit führt zum Erfolg.",
+            "das Produkt",
+            "Nachhaltigkeit im Geschäft ist mehr als ein Trend.",
+            "Die Automobilindustrie ist sehr wichtig für Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Leadership is about empowering others.",
+        "text_de": "Führung bedeutet, andere zu bevollmächtigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gehalt",
+            "Führung bedeutet, andere zu bevollmächtigen.",
+            "der Weltmarkt",
+            "der Chef"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Effective communication prevents misunderstandings.",
+        "text_de": "Effektive Kommunikation verhindert Missverständnisse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verhandlungsgeschick ist wertvoll im Geschäft.",
+            "die Wirtschaft",
+            "Work-Life-Balance ist wichtig für die Produktivität.",
+            "Effektive Kommunikation verhindert Missverständnisse."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Negotiation skills are valuable in business.",
+        "text_de": "Verhandlungsgeschick ist wertvoll im Geschäft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unternehmerische Sozialverantwortung.",
+            "das Gehalt",
+            "Sie verkaufen ihre Produkte weltweit.",
+            "Verhandlungsgeschick ist wertvoll im Geschäft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Always be professional and respectful.",
+        "text_de": "Seien Sie immer professionell und respektvoll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Work-Life-Balance ist wichtig für die Produktivität.",
+            "Seien Sie immer professionell und respektvoll.",
+            "Kreislaufwirtschaft reduziert Abfall und Ressourcenverbrauch.",
+            "Prüfungsberichte müssen genau sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dress code for the meeting is business casual.",
+        "text_de": "Der Dresscode für die Sitzung ist Business Casual.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kunde",
+            "Der Dresscode für die Sitzung ist Business Casual.",
+            "der Mitarbeiter",
+            "Grüne Energie ist ein wachsender Sektor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The presentation was well received.",
+        "text_de": "Die Präsentation kam gut an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Präsentation kam gut an.",
+            "Ich arbeite als freiberuflicher Berater.",
+            "Lebenslanges Lernen ist notwendig in einer sich ändernden Wirtschaft.",
+            "das Gehalt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Feedback helps us to improve.",
+        "text_de": "Feedback hilft uns, uns zu verbessern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zielsetzung hilft, fokussiert zu bleiben.",
+            "Wir müssen unsere Betriebskosten senken.",
+            "Feedback hilft uns, uns zu verbessern.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of our team's performance.",
+        "text_de": "Ich bin stolz auf die Leistung unseres Teams.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig.",
+            "Ich bin stolz auf die Leistung unseres Teams.",
+            "Teamarbeit führt zum Erfolg.",
+            "Inflation verringert die Kaufkraft des Geldes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Innovation thrives in a creative environment.",
+        "text_de": "Innovation gedeiht in einem kreativen Umfeld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Gewinn",
+            "Das Unternehmen schätzt Vielfalt und Inklusion.",
+            "Unternehmerische Sozialverantwortung.",
+            "Innovation gedeiht in einem kreativen Umfeld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Startups often face financial challenges.",
+        "text_de": "Start-ups stehen oft vor finanziellen Herausforderungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Start-ups stehen oft vor finanziellen Herausforderungen.",
+            "Inflation verringert die Kaufkraft des Geldes.",
+            "Angebot und Nachfrage bestimmen den Preis.",
+            "Innovation gedeiht in einem kreativen Umfeld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Venture capital supports new business ideas.",
+        "text_de": "Risikokapital unterstützt neue Geschäftsideen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Marktanalyse zeigt großes Potenzial.",
+            "Zielsetzung hilft, fokussiert zu bleiben.",
+            "Risikokapital unterstützt neue Geschäftsideen.",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The market analysis shows great potential.",
+        "text_de": "Die Marktanalyse zeigt großes Potenzial.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Steuer",
+            "der Mitarbeiter",
+            "Verhandlungsgeschick ist wertvoll im Geschäft.",
+            "Die Marktanalyse zeigt großes Potenzial."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Competition drives innovation and lowers prices.",
+        "text_de": "Wettbewerb treibt Innovation voran und senkt Preise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Preis",
+            "Wettbewerb treibt Innovation voran und senkt Preise.",
+            "der Kunde",
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Consumer protection ensures fair products.",
+        "text_de": "Verbraucherschutz gewährleistet faire Produkte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen neuen Geschäftspartner.",
+            "Ich arbeite als freiberuflicher Berater.",
+            "Verbraucherschutz gewährleistet faire Produkte.",
+            "Homeoffice wird immer beliebter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The central bank keeps the currency stable.",
+        "text_de": "Die Zentralbank hält die Währung stabil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verhandlungsgeschick ist wertvoll im Geschäft.",
+            "Unternehmerische Sozialverantwortung.",
+            "Die Zentralbank hält die Währung stabil.",
+            "Teamarbeit führt zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Interest rates affect the cost of loans.",
+        "text_de": "Zinssätze beeinflussen die Kosten von Krediten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Handel",
+            "Das Geschäftsjahr beginnt im Januar.",
+            "Zielsetzung hilft, fokussiert zu bleiben.",
+            "Zinssätze beeinflussen die Kosten von Krediten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Debt management is important for companies.",
+        "text_de": "Schuldenmanagement ist wichtig für Unternehmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schuldenmanagement ist wichtig für Unternehmen.",
+            "Unternehmertum erfordert Mut und Innovation.",
+            "Das Einstiegsgehalt ist ziemlich wettbewerbsfähig.",
+            "Verhandlungsgeschick ist wertvoll im Geschäft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fiscal year starts in January.",
+        "text_de": "Das Geschäftsjahr beginnt im Januar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Geschäftsjahr beginnt im Januar.",
+            "Die Automobilindustrie ist sehr wichtig für Deutschland.",
+            "Künstliche Intelligenz wird viele Aufgaben automatisieren.",
+            "Seien Sie immer professionell und respektvoll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transparency builds trust with investors.",
+        "text_de": "Transparenz schafft Vertrauen bei Investoren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Transparenz schafft Vertrauen bei Investoren.",
+            "Unternehmertum erfordert Mut und Innovation.",
+            "Ethische Geschäftspraktiken führen zu langfristigem Erfolg.",
+            "Ich besuche eine Wirtschaftskonferenz in Frankfurt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Audit reports must be accurate.",
+        "text_de": "Prüfungsberichte müssen genau sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Prüfungsberichte müssen genau sein.",
+            "Zielsetzung hilft, fokussiert zu bleiben.",
+            "Ich arbeite als freiberuflicher Berater.",
+            "kaufen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Corporate governance defines the rules of the company.",
+        "text_de": "Corporate Governance definiert die Regeln des Unternehmens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen eine klare Strategie für die Zukunft.",
+            "Verhandlungsgeschick ist wertvoll im Geschäft.",
+            "Teamarbeit führt zum Erfolg.",
+            "Corporate Governance definiert die Regeln des Unternehmens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethical business practices lead to long-term success.",
+        "text_de": "Ethische Geschäftspraktiken führen zu langfristigem Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ethische Geschäftspraktiken führen zu langfristigem Erfolg.",
+            "Die Zentralbank hält die Währung stabil.",
+            "Corporate Governance definiert die Regeln des Unternehmens.",
+            "Soziale Medien sind ein mächtiges Werkzeug für Werbung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The global supply chain is complex.",
+        "text_de": "Die globale Lieferkette ist komplex.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Arbeitskräftemangel ist eine Herausforderung für einige Sektoren.",
+            "Wettbewerb treibt Innovation voran und senkt Preise.",
+            "Die globale Lieferkette ist komplex.",
+            "Ich bin stolz auf die Leistung unseres Teams."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Labor shortage is a challenge for some sectors.",
+        "text_de": "Arbeitskräftemangel ist eine Herausforderung für einige Sektoren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wirtschaft",
+            "Er ist ein sehr wertvoller Mitarbeiter für das Team.",
+            "Arbeitskräftemangel ist eine Herausforderung für einige Sektoren.",
+            "Der Goldpreis ist gestiegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Artificial intelligence will automate many tasks.",
+        "text_de": "Künstliche Intelligenz wird viele Aufgaben automatisieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verkaufen",
+            "Die deutsche Wirtschaft ist die größte in Europa.",
+            "Lebenslanges Lernen ist notwendig in einer sich ändernden Wirtschaft.",
+            "Künstliche Intelligenz wird viele Aufgaben automatisieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Lifelong learning is necessary in a changing economy.",
+        "text_de": "Lebenslanges Lernen ist notwendig in einer sich ändernden Wirtschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Preis",
+            "das Geschäft",
+            "Die Zentralbank hält die Währung stabil.",
+            "Lebenslanges Lernen ist notwendig in einer sich ändernden Wirtschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay proactive and positive.",
+        "text_de": "Bleiben Sie proaktiv und positiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kosten",
+            "Die Logistikkette wurde unterbrochen.",
+            "Bleiben Sie proaktiv und positiv.",
+            "Wir müssen unsere Betriebskosten senken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you great success in your career!",
+        "text_de": "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!",
+        "synonyms": [],
+        "description": "Example sentence for 'Business & Economy'.",
+        "description_de": "Beispielsatz für 'Business & Economy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Unternehmen schätzt Vielfalt und Inklusion.",
+            "die Wirtschaft",
+            "Ich wünsche Ihnen viel Erfolg in Ihrer Karriere!",
+            "Das Unternehmen machte letztes Jahr einen riesigen Gewinn."
+        ]
+    }
+]

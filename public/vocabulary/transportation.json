@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The car",
+        "text_de": "das Auto",
+        "synonyms": [],
+        "description": "German word for 'The car'.",
+        "description_de": "Deutsches Wort für 'The car'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zu Fuß zur Schule.",
+            "Ich warte auf mein Gepäck.",
+            "Der Motor des Autos ist kaputt.",
+            "das Auto"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The train",
+        "text_de": "der Zug",
+        "synonyms": [],
+        "description": "German word for 'The train'.",
+        "description_de": "Deutsches Wort für 'The train'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zug",
+            "Die Fähre fährt jede Stunde.",
+            "Die Reise dauert fünf Stunden.",
+            "der Bahnhof"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bus",
+        "text_de": "der Bus",
+        "synonyms": [],
+        "description": "German word for 'The bus'.",
+        "description_de": "Deutsches Wort für 'The bus'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alle einsteigen!",
+            "Das Benzin ist sehr teuer.",
+            "der Bus",
+            "Was ist das Ziel?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bicycle",
+        "text_de": "das Fahrrad",
+        "synonyms": [],
+        "description": "German word for 'The bicycle'.",
+        "description_de": "Deutsches Wort für 'The bicycle'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen Mietwagen.",
+            "Warte an der Straßenbahnhaltestelle.",
+            "Ich nehme lieber den Nachtzug.",
+            "das Fahrrad"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The motorcycle",
+        "text_de": "das Motorrad",
+        "synonyms": [],
+        "description": "German word for 'The motorcycle'.",
+        "description_de": "Deutsches Wort für 'The motorcycle'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bahnhof",
+            "das Motorrad",
+            "Transport verbessert unsere Mobilität.",
+            "Wir reisen mit dem Bus durch Europa."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The airplane",
+        "text_de": "das Flugzeug",
+        "synonyms": [],
+        "description": "German word for 'The airplane'.",
+        "description_de": "Deutsches Wort für 'The airplane'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine einfache Fahrt nach München, bitte.",
+            "Wo kann ich eine Fahrkarte kaufen?",
+            "das Flugzeug",
+            "Alle einsteigen!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ship",
+        "text_de": "das Schiff",
+        "synonyms": [],
+        "description": "German word for 'The ship'.",
+        "description_de": "Deutsches Wort für 'The ship'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Kreuzfahrtschiff ist wie ein schwimmendes Hotel.",
+            "Viele Fahrgäste warten auf den Zug.",
+            "Ich suche einen Mietwagen.",
+            "das Schiff"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The boat",
+        "text_de": "das Boot",
+        "synonyms": [],
+        "description": "German word for 'The boat'.",
+        "description_de": "Deutsches Wort für 'The boat'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Benzin ist sehr teuer.",
+            "der Flughafen",
+            "das Fahrrad",
+            "das Boot"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The subway",
+        "text_de": "die U-Bahn",
+        "synonyms": [],
+        "description": "German word for 'The subway'.",
+        "description_de": "Deutsches Wort für 'The subway'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die U-Bahn",
+            "Gute Fahrt!",
+            "Das Schiff überquert den Ozean.",
+            "Ich muss mein Fahrrad reparieren."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tram",
+        "text_de": "die Straßenbahn",
+        "synonyms": [],
+        "description": "German word for 'The tram'.",
+        "description_de": "Deutsches Wort für 'The tram'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fahre mit dem Auto zur Arbeit.",
+            "Wir haben ein Boot für das Wochenende gemietet.",
+            "Ich gehe zu Fuß zur Schule.",
+            "die Straßenbahn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The taxi",
+        "text_de": "das Taxi",
+        "synonyms": [],
+        "description": "German word for 'The taxi'.",
+        "description_de": "Deutsches Wort für 'The taxi'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Taxi",
+            "Der Weg ist das Ziel.",
+            "Elektroautos werden immer beliebter.",
+            "Der Radweg ist sehr sicher."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The station",
+        "text_de": "der Bahnhof",
+        "synonyms": [],
+        "description": "German word for 'The station'.",
+        "description_de": "Deutsches Wort für 'The station'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Parke dein Auto im Parkhaus.",
+            "Ich gehe gerne am Fluss entlang spazieren.",
+            "Das Tempolimit beträgt 50 km\/h.",
+            "der Bahnhof"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The airport",
+        "text_de": "der Flughafen",
+        "synonyms": [],
+        "description": "German word for 'The airport'.",
+        "description_de": "Deutsches Wort für 'The airport'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Brücke ist sehr alt.",
+            "Alle einsteigen!",
+            "Die Straße ist wegen Bauarbeiten gesperrt.",
+            "der Flughafen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The stop",
+        "text_de": "die Haltestelle",
+        "synonyms": [],
+        "description": "German word for 'The stop'.",
+        "description_de": "Deutsches Wort für 'The stop'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Haltestelle",
+            "Ich warte auf mein Gepäck.",
+            "der Flughafen",
+            "Halte Sicherheitsabstand."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ticket",
+        "text_de": "die Fahrkarte",
+        "synonyms": [],
+        "description": "German word for 'The ticket'.",
+        "description_de": "Deutsches Wort für 'The ticket'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin endlich zu Hause.",
+            "die Straßenbahn",
+            "die Fahrkarte",
+            "Der Zug hat zwanzig Minuten Verspätung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The platform",
+        "text_de": "der Bahnsteig",
+        "synonyms": [],
+        "description": "German word for 'The platform'.",
+        "description_de": "Deutsches Wort für 'The platform'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bahnsteig",
+            "Das Motorrad ist sehr schnell.",
+            "Befolge die Verkehrsregeln.",
+            "Ich fahre mit dem Auto zur Arbeit."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The driver",
+        "text_de": "der Fahrer",
+        "synonyms": [],
+        "description": "German word for 'The driver'.",
+        "description_de": "Deutsches Wort für 'The driver'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche ein Taxi zum Flughafen.",
+            "Ich fahre gerne mit dem Fahrrad in der Natur.",
+            "der Fahrer",
+            "der Flughafen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The passenger",
+        "text_de": "der Fahrgast",
+        "synonyms": [],
+        "description": "German word for 'The passenger'.",
+        "description_de": "Deutsches Wort für 'The passenger'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge öffentliche Verkehrsmittel gegenüber dem Autofahren.",
+            "der Fahrgast",
+            "Halte Sicherheitsabstand.",
+            "Wir landen in Kürze."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The traffic",
+        "text_de": "der Verkehr",
+        "synonyms": [],
+        "description": "German word for 'The traffic'.",
+        "description_de": "Deutsches Wort für 'The traffic'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Verkehr",
+            "das Fahrrad",
+            "Man kann sein Fahrrad im Zug mitnehmen.",
+            "Der Lastwagen transportiert schwere Güter."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The engine",
+        "text_de": "der Motor",
+        "synonyms": [],
+        "description": "German word for 'The engine'.",
+        "description_de": "Deutsches Wort für 'The engine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Stadtrundfahrt war sehr interessant.",
+            "Eine einfache Fahrt nach München, bitte.",
+            "Die Fähre fährt jede Stunde.",
+            "der Motor"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I drive to work by car.",
+        "text_de": "Ich fahre mit dem Auto zur Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fahre mit dem Auto zur Arbeit.",
+            "Ist dieser Platz besetzt?",
+            "Die Kette ist rostig.",
+            "Gute Fahrt!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The train arrives at platform five.",
+        "text_de": "Der Zug kommt auf Gleis fünf an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe gerne am Fluss entlang spazieren.",
+            "Der Zug kommt auf Gleis fünf an.",
+            "Die Reise dauert fünf Stunden.",
+            "Ich habe den Bus um eine Minute verpasst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Which bus goes to the city center?",
+        "text_de": "Welcher Bus fährt ins Stadtzentrum?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Radweg ist sehr sicher.",
+            "Der Krankenwagen ist sehr laut.",
+            "Welcher Bus fährt ins Stadtzentrum?",
+            "Der Fahrer ist sehr freundlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like riding my bicycle in nature.",
+        "text_de": "Ich fahre gerne mit dem Fahrrad in der Natur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zug",
+            "Das Flugzeug startet in zehn Minuten.",
+            "Ich fahre gerne mit dem Fahrrad in der Natur.",
+            "Wir reisen mit dem Bus durch Europa."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The motorcycle is very fast.",
+        "text_de": "Das Motorrad ist sehr schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Fahrkarte",
+            "Fußgänger haben hier Vorrang.",
+            "Der Weg ist das Ziel.",
+            "Das Motorrad ist sehr schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The airplane takes off in ten minutes.",
+        "text_de": "Das Flugzeug startet in zehn Minuten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Flugzeug startet in zehn Minuten.",
+            "der Flughafen",
+            "Der Lastwagen transportiert schwere Güter.",
+            "Das Schiff überquert den Ozean."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ship crosses the ocean.",
+        "text_de": "Das Schiff überquert den Ozean.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Schiff überquert den Ozean.",
+            "Das Motorrad ist sehr schnell.",
+            "Das Flugzeug startet in zehn Minuten.",
+            "der Flughafen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We rented a boat for the weekend.",
+        "text_de": "Wir haben ein Boot für das Wochenende gemietet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss in Berlin umsteigen.",
+            "Wir haben ein Boot für das Wochenende gemietet.",
+            "Ist die Zugfahrt bequem?",
+            "Die Reise dauert fünf Stunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The subway is the fastest way through the city.",
+        "text_de": "Die U-Bahn ist der schnellste Weg durch die Stadt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte schnallen Sie sich an.",
+            "Der Hauptbahnhof ist sehr groß.",
+            "Die U-Bahn ist der schnellste Weg durch die Stadt.",
+            "Ich muss in Berlin umsteigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wait at the tram stop.",
+        "text_de": "Warte an der Straßenbahnhaltestelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Tunnel ist zwei Kilometer lang.",
+            "Es gibt einen Stau auf der Autobahn.",
+            "Warte an der Straßenbahnhaltestelle.",
+            "das Boot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a taxi to the airport.",
+        "text_de": "Ich brauche ein Taxi zum Flughafen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche ein Taxi zum Flughafen.",
+            "Der Radweg ist sehr sicher.",
+            "Benutze den Blinker beim Abbiegen.",
+            "Ich habe eine Monatskarte gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The main station is very large.",
+        "text_de": "Der Hauptbahnhof ist sehr groß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fahre mit dem Auto zur Arbeit.",
+            "Der Hauptbahnhof ist sehr groß.",
+            "Ich nehme lieber den Nachtzug.",
+            "Ich habe eine Monatskarte gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I buy a ticket?",
+        "text_de": "Wo kann ich eine Fahrkarte kaufen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zu Fuß zur Schule.",
+            "Viele Fahrgäste warten auf den Zug.",
+            "Wo ist die nächste Tankstelle?",
+            "Wo kann ich eine Fahrkarte kaufen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The driver is very friendly.",
+        "text_de": "Der Fahrer ist sehr freundlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bahnhof",
+            "Es gibt einen Stau auf der Autobahn.",
+            "Der Parkplatz ist kostenlos.",
+            "Der Fahrer ist sehr freundlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Many passengers are waiting for the train.",
+        "text_de": "Viele Fahrgäste warten auf den Zug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe den Bus um eine Minute verpasst.",
+            "Viele Fahrgäste warten auf den Zug.",
+            "der Flughafen",
+            "Ich trage einen Helm beim Radfahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The traffic is heavy today.",
+        "text_de": "Der Verkehr ist heute sehr dicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bahnhof",
+            "Die Kette ist rostig.",
+            "Der Verkehr ist heute sehr dicht.",
+            "Der Radweg ist sehr sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The engine of the car is broken.",
+        "text_de": "Der Motor des Autos ist kaputt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Verkehr ist heute sehr dicht.",
+            "Wir landen in Kürze.",
+            "Der Motor des Autos ist kaputt.",
+            "der Fahrer"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have a driver's license?",
+        "text_de": "Hast du einen Führerschein?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Lastwagen transportiert schwere Güter.",
+            "Warte an der Straßenbahnhaltestelle.",
+            "Hast du einen Führerschein?",
+            "Parke dein Auto im Parkhaus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go to school on foot.",
+        "text_de": "Ich gehe zu Fuß zur Schule.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Krankenwagen ist sehr laut.",
+            "Ich gehe zum Hafen.",
+            "Ich gehe zu Fuß zur Schule.",
+            "das Boot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The gasoline is very expensive.",
+        "text_de": "Das Benzin ist sehr teuer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Auto hat vier Türen.",
+            "Das Benzin ist sehr teuer.",
+            "Die Stadtrundfahrt war sehr interessant.",
+            "die Straßenbahn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to refuel.",
+        "text_de": "Ich muss tanken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Lastwagen transportiert schwere Güter.",
+            "Ich muss tanken.",
+            "Ich suche einen Mietwagen.",
+            "Gute Fahrt!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the nearest gas station?",
+        "text_de": "Wo ist die nächste Tankstelle?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Fahrer ist sehr freundlich.",
+            "Bitte schnallen Sie sich an.",
+            "Wo ist die nächste Tankstelle?",
+            "Ich reise mit einer Gruppe von Freunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Park your car in the parking garage.",
+        "text_de": "Parke dein Auto im Parkhaus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Fahrkarte",
+            "Wo ist die nächste Tankstelle?",
+            "Prüfe den Reifendruck.",
+            "Parke dein Auto im Parkhaus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The parking space is free.",
+        "text_de": "Der Parkplatz ist kostenlos.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Verkehr ist heute sehr dicht.",
+            "Wir landen in Kürze.",
+            "Das Motorrad ist sehr schnell.",
+            "Der Parkplatz ist kostenlos."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fasten your seatbelt, please.",
+        "text_de": "Bitte schnallen Sie sich an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bahnhof",
+            "Ich fahre gerne mit dem Fahrrad in der Natur.",
+            "Bitte schnallen Sie sich an.",
+            "Ich muss in Berlin umsteigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The speed limit is 50 km\/h.",
+        "text_de": "Das Tempolimit beträgt 50 km\/h.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Tempolimit beträgt 50 km\/h.",
+            "Fahre langsam in diesem Bereich.",
+            "Der Radweg ist sehr sicher.",
+            "die Fahrkarte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I missed the bus by one minute.",
+        "text_de": "Ich habe den Bus um eine Minute verpasst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen Mietwagen.",
+            "Ich habe den Bus um eine Minute verpasst.",
+            "Der Motor des Autos ist kaputt.",
+            "das Boot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "When is the next train coming?",
+        "text_de": "Wann kommt der nächste Zug?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Parke dein Auto im Parkhaus.",
+            "Wir haben ein Boot für das Wochenende gemietet.",
+            "der Zug",
+            "Wann kommt der nächste Zug?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The connection is very good.",
+        "text_de": "Die Verbindung ist sehr gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Motorrad ist sehr schnell.",
+            "das Schiff",
+            "Die Verbindung ist sehr gut.",
+            "Fahre langsam in diesem Bereich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to change trains in Berlin.",
+        "text_de": "Ich muss in Berlin umsteigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Segelboot hängt vom Wind ab.",
+            "Ich trage einen Helm beim Radfahren.",
+            "Ich muss in Berlin umsteigen.",
+            "Ich gehe zum Hafen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The train is delayed by twenty minutes.",
+        "text_de": "Der Zug hat zwanzig Minuten Verspätung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine einfache Fahrt nach München, bitte.",
+            "Der Zug hat zwanzig Minuten Verspätung.",
+            "Der Krankenwagen ist sehr laut.",
+            "Ich bevorzuge öffentliche Verkehrsmittel gegenüber dem Autofahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is this seat taken?",
+        "text_de": "Ist dieser Platz besetzt?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Monatskarte gekauft.",
+            "Ich reise mit einer Gruppe von Freunden.",
+            "Der Lastwagen transportiert schwere Güter.",
+            "Ist dieser Platz besetzt?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I see your ticket, please?",
+        "text_de": "Kann ich bitte Ihre Fahrkarte sehen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zug kommt auf Gleis fünf an.",
+            "der Bahnhof",
+            "Das Flugzeug startet in zehn Minuten.",
+            "Kann ich bitte Ihre Fahrkarte sehen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm traveling with a group of friends.",
+        "text_de": "Ich reise mit einer Gruppe von Freunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge öffentliche Verkehrsmittel gegenüber dem Autofahren.",
+            "Ich reise mit einer Gruppe von Freunden.",
+            "Die Kette ist rostig.",
+            "Viele Fahrgäste warten auf den Zug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is the final destination?",
+        "text_de": "Was ist das Ziel?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bahnsteig",
+            "Ich reise mit einer Gruppe von Freunden.",
+            "Was ist das Ziel?",
+            "Ist die Zugfahrt bequem?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The journey takes five hours.",
+        "text_de": "Die Reise dauert fünf Stunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kapitän ist auf der Brücke.",
+            "Die Reise dauert fünf Stunden.",
+            "Das Auto hat vier Türen.",
+            "Der Verkehr ist heute sehr dicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer taking the night train.",
+        "text_de": "Ich nehme lieber den Nachtzug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich bitte Ihre Fahrkarte sehen?",
+            "Ich nehme lieber den Nachtzug.",
+            "Der Weg ist das Ziel.",
+            "der Zug"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flight was very turbulent.",
+        "text_de": "Der Flug war sehr turbulent.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Fähre fährt jede Stunde.",
+            "Der Flug war sehr turbulent.",
+            "Der Radweg ist sehr sicher.",
+            "Ich trage einen Helm beim Radfahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please turn off your electronic devices.",
+        "text_de": "Bitte schalten Sie Ihre elektronischen Geräte aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Haltestelle",
+            "Wann kommt der nächste Zug?",
+            "Wo ist die nächste Tankstelle?",
+            "Bitte schalten Sie Ihre elektronischen Geräte aus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are landing shortly.",
+        "text_de": "Wir landen in Kürze.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir landen in Kürze.",
+            "Das Segelboot hängt vom Wind ab.",
+            "Bitte schalten Sie Ihre elektronischen Geräte aus.",
+            "Die Reise dauert fünf Stunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm waiting for my luggage.",
+        "text_de": "Ich warte auf mein Gepäck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich reise mit einer Gruppe von Freunden.",
+            "Das Tempolimit beträgt 50 km\/h.",
+            "Bitte schalten Sie Ihre elektronischen Geräte aus.",
+            "Ich warte auf mein Gepäck."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ferry leaves every hour.",
+        "text_de": "Die Fähre fährt jede Stunde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe gerne am Fluss entlang spazieren.",
+            "Die Fähre fährt jede Stunde.",
+            "das Taxi",
+            "Fahre langsam in diesem Bereich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You can take your bicycle on the train.",
+        "text_de": "Man kann sein Fahrrad im Zug mitnehmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Man kann sein Fahrrad im Zug mitnehmen.",
+            "Die Fähre fährt jede Stunde.",
+            "Ich muss tanken.",
+            "Der Zug hat zwanzig Minuten Verspätung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wear a helmet when cycling.",
+        "text_de": "Ich trage einen Helm beim Radfahren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Verkehr",
+            "Ich trage einen Helm beim Radfahren.",
+            "Ich suche einen Mietwagen.",
+            "Der Tunnel ist zwei Kilometer lang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bike lane is very safe.",
+        "text_de": "Der Radweg ist sehr sicher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Flughafen",
+            "Ich nehme lieber den Nachtzug.",
+            "Parke dein Auto im Parkhaus.",
+            "Der Radweg ist sehr sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought a monthly ticket.",
+        "text_de": "Ich habe eine Monatskarte gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Monatskarte gekauft.",
+            "das Taxi",
+            "Ich warte auf mein Gepäck.",
+            "Kann ich bitte Ihre Fahrkarte sehen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A one-way ticket to Munich, please.",
+        "text_de": "Eine einfache Fahrt nach München, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine einfache Fahrt nach München, bitte.",
+            "Benutze den Blinker beim Abbiegen.",
+            "Das Segelboot hängt vom Wind ab.",
+            "Wir reisen mit dem Bus durch Europa."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the train journey comfortable?",
+        "text_de": "Ist die Zugfahrt bequem?",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich warte auf mein Gepäck.",
+            "Der Fahrer ist sehr freundlich.",
+            "Die Stadtrundfahrt war sehr interessant.",
+            "Ist die Zugfahrt bequem?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The car has four doors.",
+        "text_de": "Das Auto hat vier Türen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Auto hat vier Türen.",
+            "Was ist das Ziel?",
+            "Ich gehe gerne am Fluss entlang spazieren.",
+            "Der Hauptbahnhof ist sehr groß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Check the tire pressure.",
+        "text_de": "Prüfe den Reifendruck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Prüfe den Reifendruck.",
+            "Der Flug war sehr turbulent.",
+            "der Flughafen",
+            "Fußgänger haben hier Vorrang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The brakes are very important.",
+        "text_de": "Die Bremsen sind sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir landen in Kürze.",
+            "Der Flug war sehr turbulent.",
+            "Die Bremsen sind sehr wichtig.",
+            "das Auto"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to repair my bike.",
+        "text_de": "Ich muss mein Fahrrad reparieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Fahrer ist sehr freundlich.",
+            "Das Kreuzfahrtschiff ist wie ein schwimmendes Hotel.",
+            "Ich muss mein Fahrrad reparieren.",
+            "Wo kann ich eine Fahrkarte kaufen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The chain is rusty.",
+        "text_de": "Die Kette ist rostig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nehme lieber den Nachtzug.",
+            "Die Kette ist rostig.",
+            "Warte an der Straßenbahnhaltestelle.",
+            "der Bus"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Use the indicator when turning.",
+        "text_de": "Benutze den Blinker beim Abbiegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Fähre fährt jede Stunde.",
+            "der Motor",
+            "Benutze den Blinker beim Abbiegen.",
+            "das Auto"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep a safe distance.",
+        "text_de": "Halte Sicherheitsabstand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Transport verbessert unsere Mobilität.",
+            "der Bus",
+            "Wo ist die nächste Tankstelle?",
+            "Halte Sicherheitsabstand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The light is red, you must stop.",
+        "text_de": "Die Ampel ist rot, du musst anhalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt einen Stau auf der Autobahn.",
+            "Die Ampel ist rot, du musst anhalten.",
+            "Ich gehe zum Hafen.",
+            "Das Flugzeug startet in zehn Minuten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Drive slowly in this area.",
+        "text_de": "Fahre langsam in diesem Bereich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fahre langsam in diesem Bereich.",
+            "Die Straße ist wegen Bauarbeiten gesperrt.",
+            "Wir haben ein Boot für das Wochenende gemietet.",
+            "Der Weg ist das Ziel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The street is closed for construction.",
+        "text_de": "Die Straße ist wegen Bauarbeiten gesperrt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Motorrad",
+            "das Flugzeug",
+            "Die Straße ist wegen Bauarbeiten gesperrt.",
+            "Die Stadtrundfahrt war sehr interessant."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is a traffic jam on the highway.",
+        "text_de": "Es gibt einen Stau auf der Autobahn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Schiff",
+            "Ich habe eine Monatskarte gekauft.",
+            "Es gibt einen Stau auf der Autobahn.",
+            "Die Straße ist wegen Bauarbeiten gesperrt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a rental car.",
+        "text_de": "Ich suche einen Mietwagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wann kommt der nächste Zug?",
+            "Der Fahrer ist sehr freundlich.",
+            "Ich suche einen Mietwagen.",
+            "Man kann sein Fahrrad im Zug mitnehmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The truck carries heavy goods.",
+        "text_de": "Der Lastwagen transportiert schwere Güter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Fahrer",
+            "Ich reise mit einer Gruppe von Freunden.",
+            "Der Lastwagen transportiert schwere Güter.",
+            "Der Weg ist das Ziel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ambulance is very loud.",
+        "text_de": "Der Krankenwagen ist sehr laut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Motor",
+            "Der Krankenwagen ist sehr laut.",
+            "Was ist das Ziel?",
+            "Ich habe den Bus um eine Minute verpasst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Follow the traffic rules.",
+        "text_de": "Befolge die Verkehrsregeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Flugzeug",
+            "Ich habe eine Monatskarte gekauft.",
+            "Befolge die Verkehrsregeln.",
+            "der Verkehr"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Pedestrians have right of way here.",
+        "text_de": "Fußgänger haben hier Vorrang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kapitän ist auf der Brücke.",
+            "Ich brauche ein Taxi zum Flughafen.",
+            "Die Verbindung ist sehr gut.",
+            "Fußgänger haben hier Vorrang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bridge is very old.",
+        "text_de": "Die Brücke ist sehr alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss in Berlin umsteigen.",
+            "Wir reisen mit dem Bus durch Europa.",
+            "Elektroautos werden immer beliebter.",
+            "Die Brücke ist sehr alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The tunnel is two kilometers long.",
+        "text_de": "Der Tunnel ist zwei Kilometer lang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Schiff überquert den Ozean.",
+            "Ich bevorzuge öffentliche Verkehrsmittel gegenüber dem Autofahren.",
+            "Fahre langsam in diesem Bereich.",
+            "Der Tunnel ist zwei Kilometer lang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like walking along the river.",
+        "text_de": "Ich gehe gerne am Fluss entlang spazieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Taxi",
+            "die Haltestelle",
+            "Ich fahre mit dem Auto zur Arbeit.",
+            "Ich gehe gerne am Fluss entlang spazieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The city tour was very interesting.",
+        "text_de": "Die Stadtrundfahrt war sehr interessant.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Stadtrundfahrt war sehr interessant.",
+            "Ist die Zugfahrt bequem?",
+            "das Motorrad",
+            "Es gibt einen Stau auf der Autobahn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are traveling by bus through Europe.",
+        "text_de": "Wir reisen mit dem Bus durch Europa.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir reisen mit dem Bus durch Europa.",
+            "Der Parkplatz ist kostenlos.",
+            "Man kann sein Fahrrad im Zug mitnehmen.",
+            "Der Radweg ist sehr sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cruise ship is like a floating hotel.",
+        "text_de": "Das Kreuzfahrtschiff ist wie ein schwimmendes Hotel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Benutze den Blinker beim Abbiegen.",
+            "Das Kreuzfahrtschiff ist wie ein schwimmendes Hotel.",
+            "Die Reise dauert fünf Stunden.",
+            "Der Lastwagen transportiert schwere Güter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to the harbor.",
+        "text_de": "Ich gehe zum Hafen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zum Hafen.",
+            "Der Radweg ist sehr sicher.",
+            "Ich fahre gerne mit dem Fahrrad in der Natur.",
+            "Der Fahrer ist sehr freundlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sailboat depends on the wind.",
+        "text_de": "Das Segelboot hängt vom Wind ab.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Radweg ist sehr sicher.",
+            "Der Tunnel ist zwei Kilometer lang.",
+            "Das Segelboot hängt vom Wind ab.",
+            "Bitte schnallen Sie sich an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The captain is on the bridge.",
+        "text_de": "Der Kapitän ist auf der Brücke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Fahrer ist sehr freundlich.",
+            "Gute Fahrt!",
+            "Der Kapitän ist auf der Brücke.",
+            "Das Motorrad ist sehr schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "All aboard!",
+        "text_de": "Alle einsteigen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Benutze den Blinker beim Abbiegen.",
+            "Die Brücke ist sehr alt.",
+            "Ist dieser Platz besetzt?",
+            "Alle einsteigen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The journey is the reward.",
+        "text_de": "Der Weg ist das Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Flughafen",
+            "Wann kommt der nächste Zug?",
+            "Der Weg ist das Ziel.",
+            "Wir landen in Kürze."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Safe travels!",
+        "text_de": "Gute Fahrt!",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Fahrt!",
+            "Das Auto hat vier Türen.",
+            "Transport verbessert unsere Mobilität.",
+            "Die Verbindung ist sehr gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm home at last.",
+        "text_de": "Ich bin endlich zu Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fahre langsam in diesem Bereich.",
+            "Die Reise dauert fünf Stunden.",
+            "Ich bin endlich zu Hause.",
+            "Der Fahrer ist sehr freundlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transportation improves our mobility.",
+        "text_de": "Transport verbessert unsere Mobilität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zug kommt auf Gleis fünf an.",
+            "Das Segelboot hängt vom Wind ab.",
+            "Transport verbessert unsere Mobilität.",
+            "der Flughafen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer public transport over driving.",
+        "text_de": "Ich bevorzuge öffentliche Verkehrsmittel gegenüber dem Autofahren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Haltestelle",
+            "Der Motor des Autos ist kaputt.",
+            "das Fahrrad",
+            "Ich bevorzuge öffentliche Verkehrsmittel gegenüber dem Autofahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Electric cars are becoming more popular.",
+        "text_de": "Elektroautos werden immer beliebter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Transportation'.",
+        "description_de": "Beispielsatz für 'Transportation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zug",
+            "das Schiff",
+            "Elektroautos werden immer beliebter.",
+            "das Boot"
+        ]
+    }
+]

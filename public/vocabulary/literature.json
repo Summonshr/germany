@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The literature",
+        "text_de": "die Literatur",
+        "synonyms": [],
+        "description": "German word for 'The literature'.",
+        "description_de": "Deutsches Wort für 'The literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe mir heute Abend ein Theaterstück ansehen.",
+            "die Literatur",
+            "Bücher sind meine besten Freunde.",
+            "lesen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The book",
+        "text_de": "das Buch",
+        "synonyms": [],
+        "description": "German word for 'The book'.",
+        "description_de": "Deutsches Wort für 'The book'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Komödien bringen Menschen zum Lachen.",
+            "das Buch",
+            "Der Schriftsteller verbrachte drei Jahre mit diesem Roman.",
+            "Autobiographien werden von den Subjekten selbst geschrieben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The author",
+        "text_de": "der Autor",
+        "synonyms": [],
+        "description": "German word for 'The author'.",
+        "description_de": "Deutsches Wort für 'The author'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen erweitert den Horizont.",
+            "Ein Lesezeichen hilft, die Stelle zu behalten.",
+            "der Autor",
+            "Ich mag Bücher mit einem Happy End."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The writer",
+        "text_de": "der Schriftsteller",
+        "synonyms": [],
+        "description": "German word for 'The writer'.",
+        "description_de": "Deutsches Wort für 'The writer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Epilog fasst die letzten Ereignisse zusammen.",
+            "der Schriftsteller",
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "Goethe ist der berühmteste deutsche Dichter."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The novel",
+        "text_de": "der Roman",
+        "synonyms": [],
+        "description": "German word for 'The novel'.",
+        "description_de": "Deutsches Wort für 'The novel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Krimis sind in Deutschland sehr beliebt.",
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Das Theater war komplett ausverkauft.",
+            "der Roman"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The short story",
+        "text_de": "die Kurzgeschichte",
+        "synonyms": [],
+        "description": "German word for 'The short story'.",
+        "description_de": "Deutsches Wort für 'The short story'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Science-Fiction erforscht zukünftige Möglichkeiten.",
+            "das Gedicht",
+            "Sachbücher liefern nützliche Informationen.",
+            "die Kurzgeschichte"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The poem",
+        "text_de": "das Gedicht",
+        "synonyms": [],
+        "description": "German word for 'The poem'.",
+        "description_de": "Deutsches Wort für 'The poem'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir diskutieren jeden Monat ein Buch.",
+            "die Kurzgeschichte",
+            "das Gedicht",
+            "Ich suche nach einer Buchempfehlung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The poet",
+        "text_de": "der Dichter",
+        "synonyms": [],
+        "description": "German word for 'The poet'.",
+        "description_de": "Deutsches Wort für 'The poet'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Schauspieler erhielten stehende Ovationen.",
+            "der Dichter",
+            "Der Bibliotheksausweis ist ein Jahr lang gültig.",
+            "Schütze deine Bücher vor Staub und Sonnenlicht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The drama",
+        "text_de": "das Drama",
+        "synonyms": [],
+        "description": "German word for 'The drama'.",
+        "description_de": "Deutsches Wort für 'The drama'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Charakter",
+            "Das Buch hat über fünfhundert Seiten.",
+            "das Drama",
+            "Ich habe mich für einen Kurs für kreatives Schreiben angemeldet."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The play",
+        "text_de": "das Theaterstück",
+        "synonyms": [],
+        "description": "German word for 'The play'.",
+        "description_de": "Deutsches Wort für 'The play'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese jeden Abend vor dem Schlafen eine Stunde lang.",
+            "das Theaterstück",
+            "Ich bevorzuge den Geruch und das Gefühl von Papierbüchern.",
+            "Ein Lesezeichen hilft, die Stelle zu behalten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The character",
+        "text_de": "der Charakter",
+        "synonyms": [],
+        "description": "German word for 'The character'.",
+        "description_de": "Deutsches Wort für 'The character'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lesen",
+            "die Kurzgeschichte",
+            "der Charakter",
+            "Literatur ist ein Spiegel der Gesellschaft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The protagonist",
+        "text_de": "der Protagonist",
+        "synonyms": [],
+        "description": "German word for 'The protagonist'.",
+        "description_de": "Deutsches Wort für 'The protagonist'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reime und Rhythmen sind in der Lyrik wichtig.",
+            "die Bibliothek",
+            "Sachbücher liefern nützliche Informationen.",
+            "der Protagonist"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The plot",
+        "text_de": "die Handlung",
+        "synonyms": [],
+        "description": "German word for 'The plot'.",
+        "description_de": "Deutsches Wort für 'The plot'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache mir Notizen, während ich akademische Texte lese.",
+            "Der Besitzer der Buchhandlung ist sehr hilfsbereit.",
+            "der Autor",
+            "die Handlung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The theme",
+        "text_de": "das Thema",
+        "synonyms": [],
+        "description": "German word for 'The theme'.",
+        "description_de": "Deutsches Wort für 'The theme'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Thema",
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Das Vorwort erklärt den Hintergrund des Werks.",
+            "Goethe ist der berühmteste deutsche Dichter."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The chapter",
+        "text_de": "das Kapitel",
+        "synonyms": [],
+        "description": "German word for 'The chapter'.",
+        "description_de": "Deutsches Wort für 'The chapter'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Autorenlesungen sind eine gute Möglichkeit, Schriftsteller zu treffen.",
+            "das Theaterstück",
+            "Der Besitzer der Buchhandlung ist sehr hilfsbereit.",
+            "das Kapitel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The page",
+        "text_de": "die Seite",
+        "synonyms": [],
+        "description": "German word for 'The page'.",
+        "description_de": "Deutsches Wort für 'The page'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klassische Literatur wird oft in der Schule unterrichtet.",
+            "die Seite",
+            "Fantasy-Bücher versetzen dich in eine andere Welt.",
+            "Krimis sind in Deutschland sehr beliebt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The library",
+        "text_de": "die Bibliothek",
+        "synonyms": [],
+        "description": "German word for 'The library'.",
+        "description_de": "Deutsches Wort für 'The library'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mag Bücher mit einem Happy End.",
+            "die Bibliothek",
+            "Ein Lesezeichen hilft, die Stelle zu behalten.",
+            "Ich lese jeden Abend vor dem Schlafen eine Stunde lang."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bookstore",
+        "text_de": "die Buchhandlung",
+        "synonyms": [],
+        "description": "German word for 'The bookstore'.",
+        "description_de": "Deutsches Wort für 'The bookstore'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lies weiter und träume weiter!",
+            "das Drama",
+            "die Buchhandlung",
+            "Der Epilog fasst die letzten Ereignisse zusammen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To read",
+        "text_de": "lesen",
+        "synonyms": [],
+        "description": "German word for 'To read'.",
+        "description_de": "Deutsches Wort für 'To read'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Thema",
+            "Der Besitzer der Buchhandlung ist sehr hilfsbereit.",
+            "lesen",
+            "Schütze deine Bücher vor Staub und Sonnenlicht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To write",
+        "text_de": "schreiben",
+        "synonyms": [],
+        "description": "German word for 'To write'.",
+        "description_de": "Deutsches Wort für 'To write'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Märchen werden über Generationen weitergegeben.",
+            "schreiben",
+            "Geschichtenerzählen ist eine uralte Kunst.",
+            "Das Hauptthema des Buches ist Freundschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Literature is a mirror of society.",
+        "text_de": "Literatur ist ein Spiegel der Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fantasy-Bücher versetzen dich in eine andere Welt.",
+            "Das Theater war komplett ausverkauft.",
+            "Literatur ist ein Spiegel der Gesellschaft.",
+            "Die Schauspieler erhielten stehende Ovationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love reading classical books.",
+        "text_de": "Ich liebe es, klassische Bücher zu lesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mythen und Legenden sind Teil unserer Identität.",
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "Er liest jeden Morgen ein Gedicht.",
+            "Lesen erweitert den Horizont."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who is your favorite author?",
+        "text_de": "Wer ist Ihr Lieblingsautor?",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zeitgenössische Literatur spiegelt moderne Themen wider.",
+            "Lies weiter und träume weiter!",
+            "Wer ist Ihr Lieblingsautor?",
+            "Der Schriftsteller verbrachte drei Jahre mit diesem Roman."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The writer spent three years on this novel.",
+        "text_de": "Der Schriftsteller verbrachte drei Jahre mit diesem Roman.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo finde ich die Abteilung für Kinderbücher?",
+            "Der Epilog fasst die letzten Ereignisse zusammen.",
+            "Der Schriftsteller verbrachte drei Jahre mit diesem Roman.",
+            "Eine Biographie erzählt die Lebensgeschichte einer Person."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The novel became a worldwide bestseller.",
+        "text_de": "Der Roman wurde ein weltweiter Bestseller.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe mir heute Abend ein Theaterstück ansehen.",
+            "Der Roman wurde ein weltweiter Bestseller.",
+            "Das Hauptthema des Buches ist Freundschaft.",
+            "Der Protagonist steht vor vielen Herausforderungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She wrote a beautiful short story for the competition.",
+        "text_de": "Sie schrieb eine wunderschöne Kurzgeschichte für den Wettbewerb.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Übersetze das Gedicht in deine Muttersprache.",
+            "Ich gehe mir heute Abend ein Theaterstück ansehen.",
+            "Lies weiter und träume weiter!",
+            "Sie schrieb eine wunderschöne Kurzgeschichte für den Wettbewerb."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He reads a poem every morning.",
+        "text_de": "Er liest jeden Morgen ein Gedicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Goethe ist der berühmteste deutsche Dichter.",
+            "Schütze deine Bücher vor Staub und Sonnenlicht.",
+            "Der Schriftsteller verbrachte drei Jahre mit diesem Roman.",
+            "Er liest jeden Morgen ein Gedicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Goethe is the most famous German poet.",
+        "text_de": "Goethe ist der berühmteste deutsche Dichter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Illustrationen können helfen, die Geschichte zu visualisieren.",
+            "Goethe ist der berühmteste deutsche Dichter.",
+            "Er liest jeden Morgen ein Gedicht.",
+            "Lesen erweitert den Horizont."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The drama was performed on the big stage.",
+        "text_de": "Das Drama wurde auf der großen Bühne aufgeführt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen erweitert den Horizont.",
+            "Die Brüder Grimm sammelten viele berühmte Märchen.",
+            "Die Bibliothek ist ein ruhiger Ort zum Lesen.",
+            "Das Drama wurde auf der großen Bühne aufgeführt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to see a play tonight.",
+        "text_de": "Ich gehe mir heute Abend ein Theaterstück ansehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir diskutieren jeden Monat ein Buch.",
+            "Ich gehe mir heute Abend ein Theaterstück ansehen.",
+            "Das Vorwort erklärt den Hintergrund des Werks.",
+            "das Buch"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The characters are very well developed.",
+        "text_de": "Die Charaktere sind sehr gut entwickelt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Seite",
+            "das Thema",
+            "Die Charaktere sind sehr gut entwickelt.",
+            "Ich mache mir Notizen, während ich akademische Texte lese."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The protagonist faces many challenges.",
+        "text_de": "Der Protagonist steht vor vielen Herausforderungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Protagonist steht vor vielen Herausforderungen.",
+            "Mythen und Legenden sind Teil unserer Identität.",
+            "Ich habe mich für einen Kurs für kreatives Schreiben angemeldet.",
+            "Das Theater war komplett ausverkauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The plot has many surprising twists.",
+        "text_de": "Die Handlung hat viele überraschende Wendungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir diskutieren jeden Monat ein Buch.",
+            "Die Bibliographie listet alle verwendeten Quellen auf.",
+            "Die Handlung hat viele überraschende Wendungen.",
+            "der Autor"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The main theme of the book is friendship.",
+        "text_de": "Das Hauptthema des Buches ist Freundschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "die Handlung",
+            "Ich habe manchmal Schwierigkeiten mit der alten Sprache.",
+            "Das Hauptthema des Buches ist Freundschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm currently at the third chapter.",
+        "text_de": "Ich bin derzeit beim dritten Kapitel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bibliothek",
+            "Goethe ist der berühmteste deutsche Dichter.",
+            "Ein Lesezeichen hilft, die Stelle zu behalten.",
+            "Ich bin derzeit beim dritten Kapitel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The book has over five hundred pages.",
+        "text_de": "Das Buch hat über fünfhundert Seiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mythen und Legenden sind Teil unserer Identität.",
+            "Ich suche nach einer Buchempfehlung.",
+            "Lies weiter und träume weiter!",
+            "Das Buch hat über fünfhundert Seiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The library is a quiet place for reading.",
+        "text_de": "Die Bibliothek ist ein ruhiger Ort zum Lesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bibliothek ist ein ruhiger Ort zum Lesen.",
+            "Mythen und Legenden sind Teil unserer Identität.",
+            "Zeitgenössische Literatur spiegelt moderne Themen wider.",
+            "Das Buch hat über fünfhundert Seiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought this book in a small bookstore.",
+        "text_de": "Ich habe dieses Buch in einer kleinen Buchhandlung gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Literaturkritiker analysieren und bewerten Werke.",
+            "Ich habe dieses Buch in einer kleinen Buchhandlung gekauft.",
+            "Wo finde ich die Abteilung für Kinderbücher?",
+            "Der Einband des Buches ist sehr bunt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I read for an hour every evening before sleeping.",
+        "text_de": "Ich lese jeden Abend vor dem Schlafen eine Stunde lang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache mir Notizen, während ich akademische Texte lese.",
+            "Lesen ist eine Reise im Kopf.",
+            "Ich habe zu Hause eine große Büchersammlung.",
+            "Ich lese jeden Abend vor dem Schlafen eine Stunde lang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Writing helps me to process my thoughts.",
+        "text_de": "Schreiben hilft mir, meine Gedanken zu verarbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schreiben hilft mir, meine Gedanken zu verarbeiten.",
+            "Die Charaktere sind sehr gut entwickelt.",
+            "Das Buch hat über fünfhundert Seiten.",
+            "Geschichtenerzählen ist eine uralte Kunst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fictional stories can feel very real.",
+        "text_de": "Fiktive Geschichten können sich sehr real anfühlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schreiben hilft mir, meine Gedanken zu verarbeiten.",
+            "Ich habe mich für einen Kurs für kreatives Schreiben angemeldet.",
+            "der Protagonist",
+            "Fiktive Geschichten können sich sehr real anfühlen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Non-fiction books provide useful information.",
+        "text_de": "Sachbücher liefern nützliche Informationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schreiben hilft mir, meine Gedanken zu verarbeiten.",
+            "die Buchhandlung",
+            "Literaturkritiker analysieren und bewerten Werke.",
+            "Sachbücher liefern nützliche Informationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A biography tells the life story of a person.",
+        "text_de": "Eine Biographie erzählt die Lebensgeschichte einer Person.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Epilog fasst die letzten Ereignisse zusammen.",
+            "die Handlung",
+            "Eine Biographie erzählt die Lebensgeschichte einer Person.",
+            "Das Drama wurde auf der großen Bühne aufgeführt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Autobiographies are written by the subjects themselves.",
+        "text_de": "Autobiographien werden von den Subjekten selbst geschrieben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bibliothek hat einen ruhigen Lernraum.",
+            "Ich mag Bücher mit einem Happy End.",
+            "Autobiographien werden von den Subjekten selbst geschrieben.",
+            "Er liest jeden Morgen ein Gedicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science fiction explores future possibilities.",
+        "text_de": "Science-Fiction erforscht zukünftige Möglichkeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Literatur ist ein Spiegel der Gesellschaft.",
+            "Science-Fiction erforscht zukünftige Möglichkeiten.",
+            "Der Einband des Buches ist sehr bunt.",
+            "Schütze deine Bücher vor Staub und Sonnenlicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Crime novels are very popular in Germany.",
+        "text_de": "Krimis sind in Deutschland sehr beliebt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kurzgeschichte",
+            "Geben Sie die Bücher pünktlich zurück, um Bußgelder zu vermeiden.",
+            "Krimis sind in Deutschland sehr beliebt.",
+            "Das Theater war komplett ausverkauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fantasy books transport you to another world.",
+        "text_de": "Fantasy-Bücher versetzen dich in eine andere Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie schrieb eine wunderschöne Kurzgeschichte für den Wettbewerb.",
+            "der Autor",
+            "Fantasy-Bücher versetzen dich in eine andere Welt.",
+            "Ich habe dieses Buch in einer kleinen Buchhandlung gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Historical novels combine facts with fiction.",
+        "text_de": "Historische Romane verbinden Fakten mit Fiktion.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klassische Literatur wird oft in der Schule unterrichtet.",
+            "Die Handlung hat viele überraschende Wendungen.",
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Historische Romane verbinden Fakten mit Fiktion."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The preface explains the background of the work.",
+        "text_de": "Das Vorwort erklärt den Hintergrund des Werks.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin derzeit beim dritten Kapitel.",
+            "Übersetze das Gedicht in deine Muttersprache.",
+            "Das Vorwort erklärt den Hintergrund des Werks.",
+            "Das Buch hat über fünfhundert Seiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The epilogue summarizes the final events.",
+        "text_de": "Der Epilog fasst die letzten Ereignisse zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Literaturkritiker analysieren und bewerten Werke.",
+            "Der Epilog fasst die letzten Ereignisse zusammen.",
+            "Wer ist Ihr Lieblingsautor?",
+            "Ich habe zu Hause eine große Büchersammlung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bibliography lists all the sources used.",
+        "text_de": "Die Bibliographie listet alle verwendeten Quellen auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "Ich liebe es, in alten Bibliotheken zu stöbern.",
+            "Die Bibliographie listet alle verwendeten Quellen auf.",
+            "Das Vorwort erklärt den Hintergrund des Werks."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a large collection of books at home.",
+        "text_de": "Ich habe zu Hause eine große Büchersammlung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen erweitert den Horizont.",
+            "Die Bibliothek ist ein ruhiger Ort zum Lesen.",
+            "Ich habe zu Hause eine große Büchersammlung.",
+            "Klassische Literatur wird oft in der Schule unterrichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Digital books are very practical for traveling.",
+        "text_de": "Digitale Bücher sind sehr praktisch für Reisen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Digitale Bücher sind sehr praktisch für Reisen.",
+            "Lesen ist eine Reise im Kopf.",
+            "Goethe ist der berühmteste deutsche Dichter.",
+            "Ich bin Mitglied in einem lokalen Buchclub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer the smell and feel of paper books.",
+        "text_de": "Ich bevorzuge den Geruch und das Gefühl von Papierbüchern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Buchhandlung",
+            "Das Hauptthema des Buches ist Freundschaft.",
+            "Ich bevorzuge den Geruch und das Gefühl von Papierbüchern.",
+            "die Bibliothek"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Literary critics analyze and evaluate works.",
+        "text_de": "Literaturkritiker analysieren und bewerten Werke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Literaturkritiker analysieren und bewerten Werke.",
+            "Science-Fiction erforscht zukünftige Möglichkeiten.",
+            "Mythen und Legenden sind Teil unserer Identität.",
+            "Der Protagonist steht vor vielen Herausforderungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Nobel Prize in Literature is a great honor.",
+        "text_de": "Der Nobelpreis für Literatur ist eine große Ehre.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lies weiter und träume weiter!",
+            "Die Brüder Grimm sammelten viele berühmte Märchen.",
+            "Lesen erweitert den Horizont.",
+            "Der Nobelpreis für Literatur ist eine große Ehre."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reading broadens your horizons.",
+        "text_de": "Lesen erweitert den Horizont.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er liest jeden Morgen ein Gedicht.",
+            "Lesen erweitert den Horizont.",
+            "Literatur ist ein Spiegel der Gesellschaft.",
+            "Fiktive Geschichten können sich sehr real anfühlen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like books with a happy ending.",
+        "text_de": "Ich mag Bücher mit einem Happy End.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mag Bücher mit einem Happy End.",
+            "Literatur ist ein Spiegel der Gesellschaft.",
+            "das Theaterstück",
+            "Die Bibliothek ist ein ruhiger Ort zum Lesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tragedies can be very moving.",
+        "text_de": "Tragödien können sehr bewegend sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bibliothek hat einen ruhigen Lernraum.",
+            "Übersetze das Gedicht in deine Muttersprache.",
+            "Tragödien können sehr bewegend sein.",
+            "Historische Romane verbinden Fakten mit Fiktion."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Comedies make people laugh.",
+        "text_de": "Komödien bringen Menschen zum Lachen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich verliere beim Lesen oft das Zeitgefühl.",
+            "Sie schrieb eine wunderschöne Kurzgeschichte für den Wettbewerb.",
+            "Komödien bringen Menschen zum Lachen.",
+            "Autorenlesungen sind eine gute Möglichkeit, Schriftsteller zu treffen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The language of the poem is very metaphorical.",
+        "text_de": "Die Sprache des Gedichts ist sehr metaphorisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Handlung",
+            "Literaturkritiker analysieren und bewerten Werke.",
+            "Krimis sind in Deutschland sehr beliebt.",
+            "Die Sprache des Gedichts ist sehr metaphorisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Rhymes and rhythms are important in poetry.",
+        "text_de": "Reime und Rhythmen sind in der Lyrik wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Historische Romane verbinden Fakten mit Fiktion.",
+            "Reime und Rhythmen sind in der Lyrik wichtig.",
+            "Wissen ist in Büchern gespeichert.",
+            "lesen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The theater was completely sold out.",
+        "text_de": "Das Theater war komplett ausverkauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fiktive Geschichten können sich sehr real anfühlen.",
+            "die Buchhandlung",
+            "Ich bevorzuge den Geruch und das Gefühl von Papierbüchern.",
+            "Das Theater war komplett ausverkauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The actors received a standing ovation.",
+        "text_de": "Die Schauspieler erhielten stehende Ovationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Schauspieler erhielten stehende Ovationen.",
+            "Das Drama wurde auf der großen Bühne aufgeführt.",
+            "lesen",
+            "Ich suche nach einer Buchempfehlung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I take notes while reading academic texts.",
+        "text_de": "Ich mache mir Notizen, während ich akademische Texte lese.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schütze deine Bücher vor Staub und Sonnenlicht.",
+            "Ich mache mir Notizen, während ich akademische Texte lese.",
+            "Die Sprache des Gedichts ist sehr metaphorisch.",
+            "Fantasy-Bücher versetzen dich in eine andere Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The library card is valid for one year.",
+        "text_de": "Der Bibliotheksausweis ist ein Jahr lang gültig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Buchhandlung",
+            "Der Bibliotheksausweis ist ein Jahr lang gültig.",
+            "Lesen ist eine Reise im Kopf.",
+            "die Seite"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Return the books on time to avoid fines.",
+        "text_de": "Geben Sie die Bücher pünktlich zurück, um Bußgelder zu vermeiden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geben Sie die Bücher pünktlich zurück, um Bußgelder zu vermeiden.",
+            "Wissen ist in Büchern gespeichert.",
+            "Das Hauptthema des Buches ist Freundschaft.",
+            "Moderne Literatur ist zugänglicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I find the section for children's books?",
+        "text_de": "Wo finde ich die Abteilung für Kinderbücher?",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo finde ich die Abteilung für Kinderbücher?",
+            "Ich bevorzuge den Geruch und das Gefühl von Papierbüchern.",
+            "das Thema",
+            "die Seite"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fairytales are passed down through generations.",
+        "text_de": "Märchen werden über Generationen weitergegeben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bibliographie listet alle verwendeten Quellen auf.",
+            "der Schriftsteller",
+            "Schreiben hilft mir, meine Gedanken zu verarbeiten.",
+            "Märchen werden über Generationen weitergegeben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Brothers Grimm collected many famous fairytales.",
+        "text_de": "Die Brüder Grimm sammelten viele berühmte Märchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klassische Literatur wird oft in der Schule unterrichtet.",
+            "Wo finde ich die Abteilung für Kinderbücher?",
+            "Eine Biographie erzählt die Lebensgeschichte einer Person.",
+            "Die Brüder Grimm sammelten viele berühmte Märchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fables often have a moral lesson.",
+        "text_de": "Fabeln haben oft eine moralische Lehre.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fiktive Geschichten können sich sehr real anfühlen.",
+            "Fabeln haben oft eine moralische Lehre.",
+            "Geschichtenerzählen ist eine uralte Kunst.",
+            "die Literatur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Myths and legends are part of our identity.",
+        "text_de": "Mythen und Legenden sind Teil unserer Identität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Epilog fasst die letzten Ereignisse zusammen.",
+            "Der Nobelpreis für Literatur ist eine große Ehre.",
+            "Der Schriftsteller verbrachte drei Jahre mit diesem Roman.",
+            "Mythen und Legenden sind Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Contemporary literature reflects modern issues.",
+        "text_de": "Zeitgenössische Literatur spiegelt moderne Themen wider.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fabeln haben oft eine moralische Lehre.",
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "die Literatur",
+            "Zeitgenössische Literatur spiegelt moderne Themen wider."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a book recommendation.",
+        "text_de": "Ich suche nach einer Buchempfehlung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Roman wurde ein weltweiter Bestseller.",
+            "Die Bibliothek hat einen ruhigen Lernraum.",
+            "Die Charaktere sind sehr gut entwickelt.",
+            "Ich suche nach einer Buchempfehlung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cover of the book is very colorful.",
+        "text_de": "Der Einband des Buches ist sehr bunt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese jeden Abend vor dem Schlafen eine Stunde lang.",
+            "Der Einband des Buches ist sehr bunt.",
+            "das Kapitel",
+            "Historische Romane verbinden Fakten mit Fiktion."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Illustrations can help to visualize the story.",
+        "text_de": "Illustrationen können helfen, die Geschichte zu visualisieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Illustrationen können helfen, die Geschichte zu visualisieren.",
+            "Der Nobelpreis für Literatur ist eine große Ehre.",
+            "der Protagonist",
+            "Die Charaktere sind sehr gut entwickelt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A bookmark helps to keep your place.",
+        "text_de": "Ein Lesezeichen hilft, die Stelle zu behalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Lesezeichen hilft, die Stelle zu behalten.",
+            "die Bibliothek",
+            "Literaturkritiker analysieren und bewerten Werke.",
+            "Ich bevorzuge den Geruch und das Gefühl von Papierbüchern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reading is a journey in your mind.",
+        "text_de": "Lesen ist eine Reise im Kopf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reime und Rhythmen sind in der Lyrik wichtig.",
+            "Lesen ist eine Reise im Kopf.",
+            "Schütze deine Bücher vor Staub und Sonnenlicht.",
+            "Klassische Literatur wird oft in der Schule unterrichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I often lose track of time while reading.",
+        "text_de": "Ich verliere beim Lesen oft das Zeitgefühl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Charakter",
+            "Ich verliere beim Lesen oft das Zeitgefühl.",
+            "Die Bibliographie listet alle verwendeten Quellen auf.",
+            "das Buch"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bookstore owner is very helpful.",
+        "text_de": "Der Besitzer der Buchhandlung ist sehr hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "Der Besitzer der Buchhandlung ist sehr hilfsbereit.",
+            "Klassische Literatur wird oft in der Schule unterrichtet.",
+            "Krimis sind in Deutschland sehr beliebt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Author readings are a great way to meet writers.",
+        "text_de": "Autorenlesungen sind eine gute Möglichkeit, Schriftsteller zu treffen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen fördert Empathie.",
+            "die Seite",
+            "Ich bin derzeit beim dritten Kapitel.",
+            "Autorenlesungen sind eine gute Möglichkeit, Schriftsteller zu treffen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I signed up for a creative writing course.",
+        "text_de": "Ich habe mich für einen Kurs für kreatives Schreiben angemeldet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verschiedene Perspektiven zu teilen, ist interessant.",
+            "Übersetze das Gedicht in deine Muttersprache.",
+            "schreiben",
+            "Ich habe mich für einen Kurs für kreatives Schreiben angemeldet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The library has a quiet study room.",
+        "text_de": "Die Bibliothek hat einen ruhigen Lernraum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Roman wurde ein weltweiter Bestseller.",
+            "Die Bibliothek hat einen ruhigen Lernraum.",
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "Die Bibliographie listet alle verwendeten Quellen auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Translate the poem into your native language.",
+        "text_de": "Übersetze das Gedicht in deine Muttersprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Übersetze das Gedicht in deine Muttersprache.",
+            "das Gedicht",
+            "Der Roman wurde ein weltweiter Bestseller.",
+            "Das Buch hat über fünfhundert Seiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Different translations can change the meaning.",
+        "text_de": "Verschiedene Übersetzungen können die Bedeutung verändern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verschiedene Übersetzungen können die Bedeutung verändern.",
+            "Das Drama wurde auf der großen Bühne aufgeführt.",
+            "Ich mag Bücher mit einem Happy End.",
+            "Bücher sind meine besten Freunde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Classic literature is often taught in school.",
+        "text_de": "Klassische Literatur wird oft in der Schule unterrichtet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klassische Literatur wird oft in der Schule unterrichtet.",
+            "Fantasy-Bücher versetzen dich in eine andere Welt.",
+            "Der Nobelpreis für Literatur ist eine große Ehre.",
+            "die Handlung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I struggle with the old language sometimes.",
+        "text_de": "Ich habe manchmal Schwierigkeiten mit der alten Sprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Kapitel",
+            "Die Brüder Grimm sammelten viele berühmte Märchen.",
+            "Zeitgenössische Literatur spiegelt moderne Themen wider.",
+            "Ich habe manchmal Schwierigkeiten mit der alten Sprache."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Modern literature is more accessible.",
+        "text_de": "Moderne Literatur ist zugänglicher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, klassische Bücher zu lesen.",
+            "Moderne Literatur ist zugänglicher.",
+            "Fiktive Geschichten können sich sehr real anfühlen.",
+            "Die Schauspieler erhielten stehende Ovationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a member of a local book club.",
+        "text_de": "Ich bin Mitglied in einem lokalen Buchclub.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lesen ist eine Reise im Kopf.",
+            "Ich habe mich für einen Kurs für kreatives Schreiben angemeldet.",
+            "Ich bin Mitglied in einem lokalen Buchclub.",
+            "Die Schauspieler erhielten stehende Ovationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We discuss one book every month.",
+        "text_de": "Wir diskutieren jeden Monat ein Buch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe manchmal Schwierigkeiten mit der alten Sprache.",
+            "Wir diskutieren jeden Monat ein Buch.",
+            "Übersetze das Gedicht in deine Muttersprache.",
+            "der Charakter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sharing different perspectives is interesting.",
+        "text_de": "Verschiedene Perspektiven zu teilen, ist interessant.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verschiedene Perspektiven zu teilen, ist interessant.",
+            "Der Roman wurde ein weltweiter Bestseller.",
+            "Wo finde ich die Abteilung für Kinderbücher?",
+            "Ich habe dieses Buch in einer kleinen Buchhandlung gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reading develops empathy.",
+        "text_de": "Lesen fördert Empathie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lies weiter und träume weiter!",
+            "der Autor",
+            "Lesen fördert Empathie.",
+            "Komödien bringen Menschen zum Lachen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Books are my best friends.",
+        "text_de": "Bücher sind meine besten Freunde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Thema",
+            "Ein Lesezeichen hilft, die Stelle zu behalten.",
+            "Ich mag Bücher mit einem Happy End.",
+            "Bücher sind meine besten Freunde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I can travel anywhere through books.",
+        "text_de": "Durch Bücher kann ich überall hinreisen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Durch Bücher kann ich überall hinreisen.",
+            "Fantasy-Bücher versetzen dich in eine andere Welt.",
+            "Literatur ist ein Spiegel der Gesellschaft.",
+            "schreiben"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is stored in books.",
+        "text_de": "Wissen ist in Büchern gespeichert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen ist in Büchern gespeichert.",
+            "Bücher sind meine besten Freunde.",
+            "Der Bibliotheksausweis ist ein Jahr lang gültig.",
+            "Die Handlung hat viele überraschende Wendungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect your books from dust and sunlight.",
+        "text_de": "Schütze deine Bücher vor Staub und Sonnenlicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schütze deine Bücher vor Staub und Sonnenlicht.",
+            "Ich lese jeden Abend vor dem Schlafen eine Stunde lang.",
+            "Der Bibliotheksausweis ist ein Jahr lang gültig.",
+            "Verschiedene Perspektiven zu teilen, ist interessant."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love browsing in old libraries.",
+        "text_de": "Ich liebe es, in alten Bibliotheken zu stöbern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klassische Literatur wird oft in der Schule unterrichtet.",
+            "der Dichter",
+            "Der Schriftsteller verbrachte drei Jahre mit diesem Roman.",
+            "Ich liebe es, in alten Bibliotheken zu stöbern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The smell of old paper is unique.",
+        "text_de": "Der Geruch von altem Papier ist einzigartig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Lesezeichen hilft, die Stelle zu behalten.",
+            "Die Charaktere sind sehr gut entwickelt.",
+            "Lesen fördert Empathie.",
+            "Der Geruch von altem Papier ist einzigartig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Storytelling is an ancient art.",
+        "text_de": "Geschichtenerzählen ist eine uralte Kunst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Seite",
+            "Moderne Literatur ist zugänglicher.",
+            "Ich liebe es, in alten Bibliotheken zu stöbern.",
+            "Geschichtenerzählen ist eine uralte Kunst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep reading and keep dreaming!",
+        "text_de": "Lies weiter und träume weiter!",
+        "synonyms": [],
+        "description": "Example sentence for 'Literature'.",
+        "description_de": "Beispielsatz für 'Literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache mir Notizen, während ich akademische Texte lese.",
+            "Lies weiter und träume weiter!",
+            "der Protagonist",
+            "Lesen erweitert den Horizont."
+        ]
+    }
+]

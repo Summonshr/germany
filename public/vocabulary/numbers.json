@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "One",
+        "text_de": "eins",
+        "synonyms": [],
+        "description": "German word for 'One'.",
+        "description_de": "Deutsches Wort für 'One'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "eins",
+            "Die doppelte Menge, bitte.",
+            "Der neunte Platz ist immer noch gut.",
+            "Zehn mal zehn ist hundert."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Two",
+        "text_de": "zwei",
+        "synonyms": [],
+        "description": "German word for 'Two'.",
+        "description_de": "Deutsches Wort für 'Two'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Spielstand war drei zu null.",
+            "Ich brauche noch drei Briefmarken.",
+            "Achthundert Menschen besuchten das Konzert.",
+            "zwei"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Three",
+        "text_de": "drei",
+        "synonyms": [],
+        "description": "German word for 'Three'.",
+        "description_de": "Deutsches Wort für 'Three'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "drei",
+            "Ich brauche noch drei Briefmarken.",
+            "Dreizehn gilt bei einigen als Unglückszahl.",
+            "Der neunte Platz ist immer noch gut."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Four",
+        "text_de": "vier",
+        "synonyms": [],
+        "description": "German word for 'Four'.",
+        "description_de": "Deutsches Wort für 'Four'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gib mir fünf Minuten.",
+            "Der Tisch hat vier Beine.",
+            "Neunzehn ist eine Primzahl.",
+            "vier"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Five",
+        "text_de": "fünf",
+        "synonyms": [],
+        "description": "German word for 'Five'.",
+        "description_de": "Deutsches Wort für 'Five'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "fünf",
+            "sechs",
+            "Zwei mal zwei ist vier.",
+            "Ich arbeite acht Stunden am Tag."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Six",
+        "text_de": "sechs",
+        "synonyms": [],
+        "description": "German word for 'Six'.",
+        "description_de": "Deutsches Wort für 'Six'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "sechs",
+            "zwanzig",
+            "Es gibt vier Jahreszeiten.",
+            "Die zehnte Frage war schwierig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Seven",
+        "text_de": "sieben",
+        "synonyms": [],
+        "description": "German word for 'Seven'.",
+        "description_de": "Deutsches Wort für 'Seven'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "sieben",
+            "sechs",
+            "Eins und eins ist zwei.",
+            "eins"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Eight",
+        "text_de": "acht",
+        "synonyms": [],
+        "description": "German word for 'Eight'.",
+        "description_de": "Deutsches Wort für 'Eight'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "acht",
+            "Dies ist mein dritter Besuch in Berlin.",
+            "Ich brauche noch drei Briefmarken.",
+            "Ich habe siebzehn Euro in meiner Tasche."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Nine",
+        "text_de": "neun",
+        "synonyms": [],
+        "description": "German word for 'Nine'.",
+        "description_de": "Deutsches Wort für 'Nine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er wohnt im Haus Nummer sechs.",
+            "neun",
+            "Ich lebe seit achtzehn Jahren hier.",
+            "Die Volljährigkeit ist mit achtzehn."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Ten",
+        "text_de": "zehn",
+        "synonyms": [],
+        "description": "German word for 'Ten'.",
+        "description_de": "Deutsches Wort für 'Ten'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "sechzehn",
+            "siebzehn",
+            "Ich wohne im fünften Stock.",
+            "zehn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Eleven",
+        "text_de": "elf",
+        "synonyms": [],
+        "description": "German word for 'Eleven'.",
+        "description_de": "Deutsches Wort für 'Eleven'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde nächsten Monat zwanzig.",
+            "Elf Spieler sind auf dem Feld.",
+            "elf",
+            "Es war einmal."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Twelve",
+        "text_de": "zwölf",
+        "synonyms": [],
+        "description": "German word for 'Twelve'.",
+        "description_de": "Deutsches Wort für 'Twelve'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwölf",
+            "Zweihundert Gäste waren eingeladen.",
+            "Dies ist mein dritter Besuch in Berlin.",
+            "sechzehn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Thirteen",
+        "text_de": "dreizehn",
+        "synonyms": [],
+        "description": "German word for 'Thirteen'.",
+        "description_de": "Deutsches Wort für 'Thirteen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Viertelstunde ist vergangen.",
+            "Zwanzig Personen nahmen an der Besprechung teil.",
+            "sieben",
+            "dreizehn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Fourteen",
+        "text_de": "vierzehn",
+        "synonyms": [],
+        "description": "German word for 'Fourteen'.",
+        "description_de": "Deutsches Wort für 'Fourteen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwanzig",
+            "Die Gruppe hat zweiundzwanzig Mitglieder.",
+            "Ich bleibe für sieben Nächte.",
+            "vierzehn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Fifteen",
+        "text_de": "fünfzehn",
+        "synonyms": [],
+        "description": "German word for 'Fifteen'.",
+        "description_de": "Deutsches Wort für 'Fifteen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde nächsten Monat zwanzig.",
+            "fünfzehn",
+            "Die Katze hat neun Leben.",
+            "Beim sechsten Mal klappt's bestimmt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Sixteen",
+        "text_de": "sechzehn",
+        "synonyms": [],
+        "description": "German word for 'Sixteen'.",
+        "description_de": "Deutsches Wort für 'Sixteen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwei",
+            "Ich bleibe für sieben Nächte.",
+            "Neunhundert Jahre Geschichte.",
+            "sechzehn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Seventeen",
+        "text_de": "siebzehn",
+        "synonyms": [],
+        "description": "German word for 'Seventeen'.",
+        "description_de": "Deutsches Wort für 'Seventeen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "vierzehn",
+            "Siebzehn Schüler haben den Test bestanden.",
+            "siebzehn",
+            "Ich habe vierzehn Eier gekauft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Eighteen",
+        "text_de": "achtzehn",
+        "synonyms": [],
+        "description": "German word for 'Eighteen'.",
+        "description_de": "Deutsches Wort für 'Eighteen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lebe seit achtzehn Jahren hier.",
+            "achtzehn",
+            "Neunzehn ist eine Primzahl.",
+            "Neunhundert Jahre Geschichte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Nineteen",
+        "text_de": "neunzehn",
+        "synonyms": [],
+        "description": "German word for 'Nineteen'.",
+        "description_de": "Deutsches Wort für 'Nineteen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der siebte Himmel ist ein Ort der Glückseligkeit.",
+            "Der erste Platz bekommt eine Medaille.",
+            "neunzehn",
+            "Ich arbeite acht Stunden am Tag."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Twenty",
+        "text_de": "zwanzig",
+        "synonyms": [],
+        "description": "German word for 'Twenty'.",
+        "description_de": "Deutsches Wort für 'Twenty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwanzig",
+            "Der siebte Himmel ist ein Ort der Glückseligkeit.",
+            "fünf",
+            "Es sind zehn Kilometer bis zur Stadt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have one brother.",
+        "text_de": "Ich habe einen Bruder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe vierzehn Eier gekauft.",
+            "Die doppelte Menge, bitte.",
+            "Ich habe einen Bruder.",
+            "Siebenhundert Seiten in diesem Buch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have two sisters.",
+        "text_de": "Ich habe zwei Schwestern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe hundert Dinge zu tun.",
+            "Ich bin in neun Tagen zurück.",
+            "Zwei mal fünf ist zehn.",
+            "Ich habe zwei Schwestern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is three years old.",
+        "text_de": "Er ist drei Jahre alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "acht",
+            "Zwanzig Personen nahmen an der Besprechung teil.",
+            "Zwei mal zwei ist vier.",
+            "Er ist drei Jahre alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The table has four legs.",
+        "text_de": "Der Tisch hat vier Beine.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Bruder.",
+            "Ich habe siebzehn Euro in meiner Tasche.",
+            "Die Temperatur beträgt neunzehn Grad.",
+            "Der Tisch hat vier Beine."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Give me five minutes.",
+        "text_de": "Gib mir fünf Minuten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Bäckerdutzend ist dreizehn.",
+            "Gib mir fünf Minuten.",
+            "Es gibt vier Jahreszeiten.",
+            "dreizehn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The store opens at six o'clock.",
+        "text_de": "Der Laden öffnet um sechs Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde nächsten Monat zwanzig.",
+            "Die Volljährigkeit ist mit achtzehn.",
+            "Ich habe vierzehn Tage Urlaub.",
+            "Der Laden öffnet um sechs Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There are seven days in a week.",
+        "text_de": "Eine Woche hat sieben Tage.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Woche hat sieben Tage.",
+            "Die Pause dauert fünfzehn Minuten.",
+            "Siebenhundert Seiten in diesem Buch.",
+            "Er ist drei Jahre alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I work eight hours a day.",
+        "text_de": "Ich arbeite acht Stunden am Tag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe zwei Schwestern.",
+            "Eins und eins ist zwei.",
+            "Ein Bäckerdutzend ist dreizehn.",
+            "Ich arbeite acht Stunden am Tag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cat has nine lives.",
+        "text_de": "Die Katze hat neun Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pause dauert fünfzehn Minuten.",
+            "Achtzig Personen wohnen in diesem Gebäude.",
+            "Die Katze hat neun Leben.",
+            "siebzehn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It is ten kilometers to the city.",
+        "text_de": "Es sind zehn Kilometer bis zur Stadt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin mir zu neunzig Prozent sicher.",
+            "Er ging mit fünfundsechzig in Rente.",
+            "vier",
+            "Es sind zehn Kilometer bis zur Stadt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The train arrives in eleven minutes.",
+        "text_de": "Der Zug kommt in elf Minuten an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zug kommt in elf Minuten an.",
+            "sechs",
+            "Ich habe vierzehn Tage Urlaub.",
+            "Ich habe einen Bruder."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A year has twelve months.",
+        "text_de": "Ein Jahr hat zwölf Monate.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Jahr hat zwölf Monate.",
+            "Das Auto kostete sechshundert Euro Reparatur.",
+            "zwölf",
+            "Der Bus kommt in fünfzehn Minuten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Baker's dozen is thirteen.",
+        "text_de": "Ein Bäckerdutzend ist dreizehn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pause dauert fünfzehn Minuten.",
+            "Ein Bäckerdutzend ist dreizehn.",
+            "Die zweite Reihe ist frei.",
+            "Heute ist der vierte Juli."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought fourteen eggs.",
+        "text_de": "Ich habe vierzehn Eier gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pause dauert fünfzehn Minuten.",
+            "Es war einmal.",
+            "Ich habe vierzehn Eier gekauft.",
+            "zwölf"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The break lasts fifteen minutes.",
+        "text_de": "Die Pause dauert fünfzehn Minuten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zweihundert Gäste waren eingeladen.",
+            "drei",
+            "Die Pause dauert fünfzehn Minuten.",
+            "Acht geteilt durch zwei ist vier."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She is sixteen years old.",
+        "text_de": "Sie ist sechzehn Jahre alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie ist sechzehn Jahre alt.",
+            "Zwei mal fünf ist zehn.",
+            "acht",
+            "vier"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have seventeen euros in my pocket.",
+        "text_de": "Ich habe siebzehn Euro in meiner Tasche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben beginnt mit vierzig.",
+            "sechs",
+            "Zehn minus drei ist sieben.",
+            "Ich habe siebzehn Euro in meiner Tasche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The legal age is eighteen.",
+        "text_de": "Die Volljährigkeit ist mit achtzehn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Viertelstunde ist vergangen.",
+            "Die Volljährigkeit ist mit achtzehn.",
+            "Der Zug kommt in elf Minuten an.",
+            "Ich habe vierzehn Eier gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nineteen is a prime number.",
+        "text_de": "Neunzehn ist eine Primzahl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwei",
+            "Ein Jahr hat zwölf Monate.",
+            "eins",
+            "Neunzehn ist eine Primzahl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Twenty people attended the meeting.",
+        "text_de": "Zwanzig Personen nahmen an der Besprechung teil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche noch drei Briefmarken.",
+            "Zwanzig Personen nahmen an der Besprechung teil.",
+            "zwölf",
+            "Ein halber Apfel genügt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "One and one is two.",
+        "text_de": "Eins und eins ist zwei.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eins und eins ist zwei.",
+            "Die Volljährigkeit ist mit achtzehn.",
+            "Elf Spieler sind auf dem Feld.",
+            "Die Pause dauert fünfzehn Minuten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Two times two is four.",
+        "text_de": "Zwei mal zwei ist vier.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe zwei Schwestern.",
+            "Zwei mal zwei ist vier.",
+            "Dreizehn gilt bei einigen als Unglückszahl.",
+            "Achthundert Menschen besuchten das Konzert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need three more stamps.",
+        "text_de": "Ich brauche noch drei Briefmarken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben beginnt mit vierzig.",
+            "Ich brauche noch drei Briefmarken.",
+            "Es sind zehn Kilometer bis zur Stadt.",
+            "Der Spielstand war drei zu null."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There are four seasons.",
+        "text_de": "Es gibt vier Jahreszeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt vier Jahreszeiten.",
+            "Dreißig ist ein großer Meilenstein.",
+            "zwanzig",
+            "In neunundneunzig Prozent der Fälle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hand has five fingers.",
+        "text_de": "Die Hand hat fünf Finger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es war einmal.",
+            "Die Stadt ist dreihundert Jahre alt.",
+            "Ich habe zwei Schwestern.",
+            "Die Hand hat fünf Finger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He lives at number six.",
+        "text_de": "Er wohnt im Haus Nummer sechs.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der erste Platz bekommt eine Medaille.",
+            "Ich habe einen Bruder.",
+            "Er wohnt im Haus Nummer sechs.",
+            "Zehn mal zehn ist hundert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm staying for seven nights.",
+        "text_de": "Ich bleibe für sieben Nächte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde nächsten Monat zwanzig.",
+            "Sechzehn Gramm Zucker ist zu viel.",
+            "Ich bleibe für sieben Nächte.",
+            "Das Auto kostete sechshundert Euro Reparatur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flight leaves at eight AM.",
+        "text_de": "Der Flug geht um acht Uhr morgens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Flug geht um acht Uhr morgens.",
+            "Tausend Sterne am Himmel.",
+            "Dreißig ist ein großer Meilenstein.",
+            "Ich lebe seit achtzehn Jahren hier."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll be back in nine days.",
+        "text_de": "Ich bin in neun Tagen zurück.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin in neun Tagen zurück.",
+            "Einundzwanzig ist das Mindestalter für Alkohol in den USA.",
+            "Es gibt vier Jahreszeiten.",
+            "Ich habe siebzehn Euro in meiner Tasche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ten times ten is one hundred.",
+        "text_de": "Zehn mal zehn ist hundert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Flug geht um acht Uhr morgens.",
+            "Zehn mal zehn ist hundert.",
+            "Ein Bäckerdutzend ist dreizehn.",
+            "Die zweite Reihe ist frei."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eleven players are on the field.",
+        "text_de": "Elf Spieler sind auf dem Feld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Elf Spieler sind auf dem Feld.",
+            "Eine Woche hat sieben Tage.",
+            "Tausend Sterne am Himmel.",
+            "Ein halber Apfel genügt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Midnight is twelve o'clock.",
+        "text_de": "Mitternacht ist zwölf Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dreizehn gilt bei einigen als Unglückszahl.",
+            "Tausend Sterne am Himmel.",
+            "Mitternacht ist zwölf Uhr.",
+            "Ich habe vierzehn Eier gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Thirteen is considered unlucky by some.",
+        "text_de": "Dreizehn gilt bei einigen als Unglückszahl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "dreizehn",
+            "Dreizehn gilt bei einigen als Unglückszahl.",
+            "Die Gruppe hat zweiundzwanzig Mitglieder.",
+            "Achtzig Personen wohnen in diesem Gebäude."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have fourteen days of vacation.",
+        "text_de": "Ich habe vierzehn Tage Urlaub.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Siebenhundert Seiten in diesem Buch.",
+            "fünf",
+            "achtzehn",
+            "Ich habe vierzehn Tage Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bus comes in fifteen minutes.",
+        "text_de": "Der Bus kommt in fünfzehn Minuten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es sind zehn Kilometer bis zur Stadt.",
+            "zehn",
+            "Ich habe vierzehn Tage Urlaub.",
+            "Der Bus kommt in fünfzehn Minuten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sixteen grams of sugar is too much.",
+        "text_de": "Sechzehn Gramm Zucker ist zu viel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sechzehn Gramm Zucker ist zu viel.",
+            "Achthundert Menschen besuchten das Konzert.",
+            "Ich lebe seit achtzehn Jahren hier.",
+            "Ich habe vierzehn Eier gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Seventeen students passed the test.",
+        "text_de": "Siebzehn Schüler haben den Test bestanden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Siebzehn Schüler haben den Test bestanden.",
+            "neun",
+            "Vierhundert Meter bis zum Ziel.",
+            "vierzehn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I've lived here for eighteen years.",
+        "text_de": "Ich lebe seit achtzehn Jahren hier.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lebe seit achtzehn Jahren hier.",
+            "Ich werde nächsten Monat zwanzig.",
+            "Zehn minus drei ist sieben.",
+            "Meine Mutter ist fünfzig Jahre alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The temperature is nineteen degrees.",
+        "text_de": "Die Temperatur beträgt neunzehn Grad.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwei",
+            "Die Temperatur beträgt neunzehn Grad.",
+            "Siebzig Prozent der Erde sind Wasser.",
+            "Ich bin mir zu neunzig Prozent sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm turning twenty next month.",
+        "text_de": "Ich werde nächsten Monat zwanzig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zwei",
+            "Ich werde nächsten Monat zwanzig.",
+            "Ich habe zwei Schwestern.",
+            "Zwei mal zwei ist vier."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Twenty-one is the drinking age in the US.",
+        "text_de": "Einundzwanzig ist das Mindestalter für Alkohol in den USA.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die zweite Reihe ist frei.",
+            "neunzehn",
+            "sechs",
+            "Einundzwanzig ist das Mindestalter für Alkohol in den USA."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The group has twenty-two members.",
+        "text_de": "Die Gruppe hat zweiundzwanzig Mitglieder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitternacht ist zwölf Uhr.",
+            "Zwei mal fünf ist zehn.",
+            "Es sind zehn Kilometer bis zur Stadt.",
+            "Die Gruppe hat zweiundzwanzig Mitglieder."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Thirty is a big milestone.",
+        "text_de": "Dreißig ist ein großer Meilenstein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dreißig ist ein großer Meilenstein.",
+            "Die zehnte Frage war schwierig.",
+            "Die Gruppe hat zweiundzwanzig Mitglieder.",
+            "Heute ist der vierte Juli."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life begins at forty.",
+        "text_de": "Das Leben beginnt mit vierzig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Gruppe hat zweiundzwanzig Mitglieder.",
+            "Dreizehn gilt bei einigen als Unglückszahl.",
+            "Zehn mal zehn ist hundert.",
+            "Das Leben beginnt mit vierzig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My mother is fifty years old.",
+        "text_de": "Meine Mutter ist fünfzig Jahre alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das achte Kapitel ist das längste.",
+            "Meine Mutter ist fünfzig Jahre alt.",
+            "fünf",
+            "Zwei plus zwei ist vier."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He retired at sixty-five.",
+        "text_de": "Er ging mit fünfundsechzig in Rente.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ging mit fünfundsechzig in Rente.",
+            "sechs",
+            "Dies ist mein dritter Besuch in Berlin.",
+            "Zehn mal zehn ist hundert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Seventy percent of the earth is water.",
+        "text_de": "Siebzig Prozent der Erde sind Wasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie ist sechzehn Jahre alt.",
+            "Siebzig Prozent der Erde sind Wasser.",
+            "Zweihundert Gäste waren eingeladen.",
+            "Fünfhundert Euro für ein Telefon?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eighty people live in this building.",
+        "text_de": "Achtzig Personen wohnen in diesem Gebäude.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitternacht ist zwölf Uhr.",
+            "Eins und eins ist zwei.",
+            "Zwei mal zwei ist vier.",
+            "Achtzig Personen wohnen in diesem Gebäude."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm ninety percent sure.",
+        "text_de": "Ich bin mir zu neunzig Prozent sicher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Volljährigkeit ist mit achtzehn.",
+            "Eine Viertelstunde ist vergangen.",
+            "Achtzig Personen wohnen in diesem Gebäude.",
+            "Ich bin mir zu neunzig Prozent sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have one hundred things to do.",
+        "text_de": "Ich habe hundert Dinge zu tun.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dies ist mein dritter Besuch in Berlin.",
+            "Ich habe hundert Dinge zu tun.",
+            "siebzehn",
+            "Sechzehn Gramm Zucker ist zu viel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Two hundred guests were invited.",
+        "text_de": "Zweihundert Gäste waren eingeladen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Achtzig Personen wohnen in diesem Gebäude.",
+            "Zweihundert Gäste waren eingeladen.",
+            "sieben",
+            "Der Zug kommt in elf Minuten an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The city is three hundred years old.",
+        "text_de": "Die Stadt ist dreihundert Jahre alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "dreizehn",
+            "Die Stadt ist dreihundert Jahre alt.",
+            "Zwanzig Personen nahmen an der Besprechung teil.",
+            "sechs"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Four hundred meters to the goal.",
+        "text_de": "Vierhundert Meter bis zum Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Siebenhundert Seiten in diesem Buch.",
+            "Ich habe vierzehn Tage Urlaub.",
+            "Vierhundert Meter bis zum Ziel.",
+            "elf"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Five hundred euros for a phone?",
+        "text_de": "Fünfhundert Euro für ein Telefon?",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zehn mal zehn ist hundert.",
+            "Die Katze hat neun Leben.",
+            "Ich bleibe für sieben Nächte.",
+            "Fünfhundert Euro für ein Telefon?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The car cost six hundred euros to repair.",
+        "text_de": "Das Auto kostete sechshundert Euro Reparatur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Acht geteilt durch zwei ist vier.",
+            "Das Auto kostete sechshundert Euro Reparatur.",
+            "Der Spielstand war drei zu null.",
+            "Ich habe vierzehn Tage Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Seven hundred pages in this book.",
+        "text_de": "Siebenhundert Seiten in diesem Buch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Siebenhundert Seiten in diesem Buch.",
+            "Die Katze hat neun Leben.",
+            "zwanzig",
+            "fünf"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eight hundred people attended the concert.",
+        "text_de": "Achthundert Menschen besuchten das Konzert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Spielstand war drei zu null.",
+            "fünfzehn",
+            "Achthundert Menschen besuchten das Konzert.",
+            "Der Zug kommt in elf Minuten an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nine hundred years of history.",
+        "text_de": "Neunhundert Jahre Geschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das achte Kapitel ist das längste.",
+            "Siebenhundert Seiten in diesem Buch.",
+            "Die zweite Reihe ist frei.",
+            "Neunhundert Jahre Geschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "One thousand stars in the sky.",
+        "text_de": "Tausend Sterne am Himmel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Tisch hat vier Beine.",
+            "siebzehn",
+            "dreizehn",
+            "Tausend Sterne am Himmel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "First place gets a medal.",
+        "text_de": "Der erste Platz bekommt eine Medaille.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einundzwanzig ist das Mindestalter für Alkohol in den USA.",
+            "Der erste Platz bekommt eine Medaille.",
+            "Das Auto kostete sechshundert Euro Reparatur.",
+            "neun"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The second row is free.",
+        "text_de": "Die zweite Reihe ist frei.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "eins",
+            "Die zweite Reihe ist frei.",
+            "siebzehn",
+            "Neunhundert Jahre Geschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This is my third visit to Berlin.",
+        "text_de": "Dies ist mein dritter Besuch in Berlin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tausend Sterne am Himmel.",
+            "dreizehn",
+            "Siebenhundert Seiten in diesem Buch.",
+            "Dies ist mein dritter Besuch in Berlin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Today is the fourth of July.",
+        "text_de": "Heute ist der vierte Juli.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die zweite Reihe ist frei.",
+            "Ein halber Apfel genügt.",
+            "Heute ist der vierte Juli.",
+            "Zwanzig Personen nahmen an der Besprechung teil."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fifth floor is where I live.",
+        "text_de": "Ich wohne im fünften Stock.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Auto kostete sechshundert Euro Reparatur.",
+            "Ein halber Apfel genügt.",
+            "Eins und eins ist zwei.",
+            "Ich wohne im fünften Stock."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sixth time is the charm.",
+        "text_de": "Beim sechsten Mal klappt's bestimmt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde nächsten Monat zwanzig.",
+            "Eine Viertelstunde ist vergangen.",
+            "Er wohnt im Haus Nummer sechs.",
+            "Beim sechsten Mal klappt's bestimmt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Seventh heaven is a place of bliss.",
+        "text_de": "Der siebte Himmel ist ein Ort der Glückseligkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der siebte Himmel ist ein Ort der Glückseligkeit.",
+            "Die Stadt ist dreihundert Jahre alt.",
+            "zwanzig",
+            "sieben"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The eighth chapter is the longest.",
+        "text_de": "Das achte Kapitel ist das längste.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der erste Platz bekommt eine Medaille.",
+            "Ich bleibe für sieben Nächte.",
+            "Die Stadt ist dreihundert Jahre alt.",
+            "Das achte Kapitel ist das längste."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ninth place is still good.",
+        "text_de": "Der neunte Platz ist immer noch gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Laden öffnet um sechs Uhr.",
+            "Der neunte Platz ist immer noch gut.",
+            "Sechzehn Gramm Zucker ist zu viel.",
+            "Ich wohne im fünften Stock."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The tenth question was difficult.",
+        "text_de": "Die zehnte Frage war schwierig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "neun",
+            "In neunundneunzig Prozent der Fälle.",
+            "Die zehnte Frage war schwierig.",
+            "Fünfhundert Euro für ein Telefon?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Half an apple suffices.",
+        "text_de": "Ein halber Apfel genügt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In neunundneunzig Prozent der Fälle.",
+            "Dreißig ist ein großer Meilenstein.",
+            "Neunzehn ist eine Primzahl.",
+            "Ein halber Apfel genügt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "One third of the cake is gone.",
+        "text_de": "Ein Drittel des Kuchens ist weg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zug kommt in elf Minuten an.",
+            "Ein Drittel des Kuchens ist weg.",
+            "In neunundneunzig Prozent der Fälle.",
+            "Der erste Platz bekommt eine Medaille."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A quarter of an hour has passed.",
+        "text_de": "Eine Viertelstunde ist vergangen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben beginnt mit vierzig.",
+            "achtzehn",
+            "Der Bus kommt in fünfzehn Minuten.",
+            "Eine Viertelstunde ist vergangen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Double the amount, please.",
+        "text_de": "Die doppelte Menge, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ging mit fünfundsechzig in Rente.",
+            "Die doppelte Menge, bitte.",
+            "Ich habe hundert Dinge zu tun.",
+            "Das achte Kapitel ist das längste."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The score was three to zero.",
+        "text_de": "Der Spielstand war drei zu null.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Spielstand war drei zu null.",
+            "neun",
+            "Die doppelte Menge, bitte.",
+            "Meine Mutter ist fünfzig Jahre alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Two plus two is four.",
+        "text_de": "Zwei plus zwei ist vier.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich werde nächsten Monat zwanzig.",
+            "Zwei plus zwei ist vier.",
+            "Der Tisch hat vier Beine.",
+            "Dreizehn gilt bei einigen als Unglückszahl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ten minus three is seven.",
+        "text_de": "Zehn minus drei ist sieben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist drei Jahre alt.",
+            "Zehn minus drei ist sieben.",
+            "Die zweite Reihe ist frei.",
+            "Ich habe siebzehn Euro in meiner Tasche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Two times five is ten.",
+        "text_de": "Zwei mal fünf ist zehn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwei mal fünf ist zehn.",
+            "Ich werde nächsten Monat zwanzig.",
+            "Die zweite Reihe ist frei.",
+            "Zehn minus drei ist sieben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eight divided by two is four.",
+        "text_de": "Acht geteilt durch zwei ist vier.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Heute ist der vierte Juli.",
+            "neun",
+            "Acht geteilt durch zwei ist vier.",
+            "Ich bin mir zu neunzig Prozent sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ninety-nine percent of the time.",
+        "text_de": "In neunundneunzig Prozent der Fälle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Laden öffnet um sechs Uhr.",
+            "Die zweite Reihe ist frei.",
+            "Eins und eins ist zwei.",
+            "In neunundneunzig Prozent der Fälle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Once upon a time.",
+        "text_de": "Es war einmal.",
+        "synonyms": [],
+        "description": "Example sentence for 'Numbers'.",
+        "description_de": "Beispielsatz für 'Numbers'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwanzig Personen nahmen an der Besprechung teil.",
+            "Ich habe vierzehn Eier gekauft.",
+            "Ich bleibe für sieben Nächte.",
+            "Es war einmal."
+        ]
+    }
+]

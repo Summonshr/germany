@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The technology",
+        "text_de": "die Technologie",
+        "synonyms": [],
+        "description": "German word for 'The technology'.",
+        "description_de": "Deutsches Wort für 'The technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Laptop ist sehr dünn und leicht.",
+            "die Technologie",
+            "Ich bin ein Technik-Begeisterter.",
+            "das Internet"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The computer",
+        "text_de": "der Computer",
+        "synonyms": [],
+        "description": "German word for 'The computer'.",
+        "description_de": "Deutsches Wort für 'The computer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Computer",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "herunterladen",
+            "das Internet"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The laptop",
+        "text_de": "der Laptop",
+        "synonyms": [],
+        "description": "German word for 'The laptop'.",
+        "description_de": "Deutsches Wort für 'The laptop'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Laptop",
+            "Ich habe meinen USB-Stick mit wichtigen Daten verloren.",
+            "3D-Druck ermöglicht schnelles Prototyping.",
+            "Digital Detox ist manchmal notwendig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The smartphone",
+        "text_de": "das Smartphone",
+        "synonyms": [],
+        "description": "German word for 'The smartphone'.",
+        "description_de": "Deutsches Wort für 'The smartphone'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Informationstechnologie ist für Unternehmen unerlässlich.",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "das Smartphone",
+            "das Internet"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The internet",
+        "text_de": "das Internet",
+        "synonyms": [],
+        "description": "German word for 'The internet'.",
+        "description_de": "Deutsches Wort für 'The internet'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Breitbandzugang sollte überall verfügbar sein.",
+            "das Internet",
+            "Künstliche Intelligenz ist ein aktuelles Thema.",
+            "der Bildschirm"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The website",
+        "text_de": "die Webseite",
+        "synonyms": [],
+        "description": "German word for 'The website'.",
+        "description_de": "Deutsches Wort für 'The website'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ordner",
+            "die Webseite",
+            "Lerne weiter, um auf dem neuesten Stand zu bleiben!",
+            "Der Akku meines Telefons ist leer."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The software",
+        "text_de": "die Software",
+        "synonyms": [],
+        "description": "German word for 'The software'.",
+        "description_de": "Deutsches Wort für 'The software'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nutzt du soziale Medien?",
+            "der Ordner",
+            "die Software",
+            "Klicken Sie nicht auf verdächtige Links."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hardware",
+        "text_de": "die Hardware",
+        "synonyms": [],
+        "description": "German word for 'The hardware'.",
+        "description_de": "Deutsches Wort für 'The hardware'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Hardware",
+            "Smart-Home-Geräte machen das Leben leichter.",
+            "Technologie sollte den Menschen dienen.",
+            "Ich bevorzuge eine mechanische Tastatur."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The printer",
+        "text_de": "der Drucker",
+        "synonyms": [],
+        "description": "German word for 'The printer'.",
+        "description_de": "Deutsches Wort für 'The printer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Drucker",
+            "Ich kann mein Licht mit meinem Telefon steuern.",
+            "Wir brauchen mehr Forschung in grüner Technologie.",
+            "Ich habe mir gestern eine neue Smartwatch gekauft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The screen",
+        "text_de": "der Bildschirm",
+        "synonyms": [],
+        "description": "German word for 'The screen'.",
+        "description_de": "Deutsches Wort für 'The screen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Webseite hat ein sehr modernes Design.",
+            "der Bildschirm",
+            "Ich lese ein E-Book auf meinem Tablet.",
+            "Breitbandzugang sollte überall verfügbar sein."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The keyboard",
+        "text_de": "die Tastatur",
+        "synonyms": [],
+        "description": "German word for 'The keyboard'.",
+        "description_de": "Deutsches Wort für 'The keyboard'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Entdeckung des Transistors hat alles verändert.",
+            "Die Drohnen werden für Luftaufnahmen verwendet.",
+            "Ich nutze ein VPN für mehr Privatsphäre.",
+            "die Tastatur"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The mouse",
+        "text_de": "die Maus",
+        "synonyms": [],
+        "description": "German word for 'The mouse'.",
+        "description_de": "Deutsches Wort für 'The mouse'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Drucker hat kein Papier mehr.",
+            "Der Server ist momentan wegen Wartungsarbeiten offline.",
+            "die Technologie",
+            "die Maus"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The battery",
+        "text_de": "der Akku",
+        "synonyms": [],
+        "description": "German word for 'The battery'.",
+        "description_de": "Deutsches Wort für 'The battery'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nutzt du soziale Medien?",
+            "der Akku",
+            "Technologie kann eine Ablenkung sein.",
+            "Ich bin ein Technik-Begeisterter."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The charger",
+        "text_de": "das Ladegerät",
+        "synonyms": [],
+        "description": "German word for 'The charger'.",
+        "description_de": "Deutsches Wort für 'The charger'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ladegerät",
+            "Ich nutze ein VPN für mehr Privatsphäre.",
+            "Wir brauchen mehr Forschung in grüner Technologie.",
+            "Machen Sie immer ein Backup Ihrer Dateien."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The file",
+        "text_de": "die Datei",
+        "synonyms": [],
+        "description": "German word for 'The file'.",
+        "description_de": "Deutsches Wort für 'The file'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Datei",
+            "Heutzutage hat jeder ein Smartphone.",
+            "Machen Sie immer ein Backup Ihrer Dateien.",
+            "Erstellen Sie einen neuen Ordner für das Projekt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The folder",
+        "text_de": "der Ordner",
+        "synonyms": [],
+        "description": "German word for 'The folder'.",
+        "description_de": "Deutsches Wort für 'The folder'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Netzwerk",
+            "das Smartphone",
+            "der Ordner",
+            "die Daten"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The data",
+        "text_de": "die Daten",
+        "synonyms": [],
+        "description": "German word for 'The data'.",
+        "description_de": "Deutsches Wort für 'The data'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Akku meines Telefons ist leer.",
+            "Cybersicherheit ist ein wachsender Bereich.",
+            "die Daten",
+            "Kannst du die Fotos in die Cloud hochladen?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The network",
+        "text_de": "das Netzwerk",
+        "synonyms": [],
+        "description": "German word for 'The network'.",
+        "description_de": "Deutsches Wort für 'The network'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Benutzeroberfläche ist sehr intuitiv.",
+            "der Ordner",
+            "das Netzwerk",
+            "Ich benutze meinen Computer zum Arbeiten und Spielen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To download",
+        "text_de": "herunterladen",
+        "synonyms": [],
+        "description": "German word for 'To download'.",
+        "description_de": "Deutsches Wort für 'To download'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Touchscreen reagiert sehr gut.",
+            "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+            "herunterladen",
+            "3D-Druck ermöglicht schnelles Prototyping."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To upload",
+        "text_de": "hochladen",
+        "synonyms": [],
+        "description": "German word for 'To upload'.",
+        "description_de": "Deutsches Wort für 'To upload'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "hochladen",
+            "Das Kühlsystem ist sehr laut.",
+            "Die Hardware-Komponenten sind sehr teuer.",
+            "Digital Detox ist manchmal notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Technology is changing our lives.",
+        "text_de": "Technologie verändert unser Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese ein E-Book auf meinem Tablet.",
+            "Technologie verändert unser Leben.",
+            "Welche Programmiersprache bevorzugst du?",
+            "Der Drucker hat kein Papier mehr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I use my computer for work and gaming.",
+        "text_de": "Ich benutze meinen Computer zum Arbeiten und Spielen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "3D-Druck ermöglicht schnelles Prototyping.",
+            "Ich benutze meinen Computer zum Arbeiten und Spielen.",
+            "der Computer",
+            "Ich bevorzuge eine mechanische Tastatur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My laptop is very thin and light.",
+        "text_de": "Mein Laptop ist sehr dünn und leicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Heutzutage hat jeder ein Smartphone.",
+            "Mein Laptop ist sehr dünn und leicht.",
+            "Die Festplatte macht ein seltsames Geräusch.",
+            "Die Benutzeroberfläche ist sehr intuitiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everybody has a smartphone nowadays.",
+        "text_de": "Heutzutage hat jeder ein Smartphone.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Heutzutage hat jeder ein Smartphone.",
+            "Ich kann mir ein Leben ohne Internet nicht vorstellen.",
+            "der Akku",
+            "die Daten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I can't imagine life without the internet.",
+        "text_de": "Ich kann mir ein Leben ohne Internet nicht vorstellen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Drucker hat kein Papier mehr.",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "Ich muss den Anhang herunterladen.",
+            "Ich kann mir ein Leben ohne Internet nicht vorstellen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This website has a very modern design.",
+        "text_de": "Diese Webseite hat ein sehr modernes Design.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Computer",
+            "Technologie verändert unser Leben.",
+            "Die Drohnen werden für Luftaufnahmen verwendet.",
+            "Diese Webseite hat ein sehr modernes Design."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to update my software.",
+        "text_de": "Ich muss meine Software aktualisieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "herunterladen",
+            "Der Innovationszyklus wird immer kürzer.",
+            "Ich muss meine Software aktualisieren.",
+            "Der Akku meines Telefons ist leer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hardware components are very expensive.",
+        "text_de": "Die Hardware-Komponenten sind sehr teuer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Heutzutage hat jeder ein Smartphone.",
+            "Die Hardware-Komponenten sind sehr teuer.",
+            "Lerne weiter, um auf dem neuesten Stand zu bleiben!",
+            "Breitbandzugang sollte überall verfügbar sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The printer is out of paper.",
+        "text_de": "Der Drucker hat kein Papier mehr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Drucker hat kein Papier mehr.",
+            "Ich kann mein Licht mit meinem Telefon steuern.",
+            "Wissenschaft und Technologie gehen Hand in Hand.",
+            "Datensicherheit ist sehr wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The screen resolution is excellent.",
+        "text_de": "Die Bildschirmauflösung ist ausgezeichnet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klicken Sie nicht auf verdächtige Links.",
+            "Blockchain-Technologie ist ziemlich komplex.",
+            "Bitcoin ist eine berühmte Kryptowährung.",
+            "Die Bildschirmauflösung ist ausgezeichnet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer a mechanical keyboard.",
+        "text_de": "Ich bevorzuge eine mechanische Tastatur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleiben Sie sicher im Internet.",
+            "Die Bildschirmauflösung ist ausgezeichnet.",
+            "Ich bevorzuge eine mechanische Tastatur.",
+            "Ich nutze eine Glasfaserverbindung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wireless mouse is very practical.",
+        "text_de": "Die kabellose Maus ist sehr praktisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die kabellose Maus ist sehr praktisch.",
+            "die Webseite",
+            "Ich bevorzuge eine mechanische Tastatur.",
+            "Ich habe mir gestern eine neue Smartwatch gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The battery of my phone is empty.",
+        "text_de": "Der Akku meines Telefons ist leer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nutze ein VPN für mehr Privatsphäre.",
+            "Informationstechnologie ist für Unternehmen unerlässlich.",
+            "Ich lerne gerade Python.",
+            "Der Akku meines Telefons ist leer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have a charger for me?",
+        "text_de": "Hast du ein Ladegerät für mich?",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mikrochips sind heute in fast jedem Gerät.",
+            "Machen Sie immer ein Backup Ihrer Dateien.",
+            "Die Benutzeroberfläche ist sehr intuitiv.",
+            "Hast du ein Ladegerät für mich?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I saved the file in the documents folder.",
+        "text_de": "Ich habe die Datei im Dokumente-Ordner gespeichert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ladegerät",
+            "Ich lese ein E-Book auf meinem Tablet.",
+            "der Computer",
+            "Ich habe die Datei im Dokumente-Ordner gespeichert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Create a new folder for the project.",
+        "text_de": "Erstellen Sie einen neuen Ordner für das Projekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "Smart-Home-Geräte machen das Leben leichter.",
+            "Nutzt du soziale Medien?",
+            "Erstellen Sie einen neuen Ordner für das Projekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Data security is very important.",
+        "text_de": "Datensicherheit ist sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Webseite hat ein sehr modernes Design.",
+            "der Computer",
+            "Datensicherheit ist sehr wichtig.",
+            "der Drucker"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The network connection is slow today.",
+        "text_de": "Die Netzwerkverbindung ist heute langsam.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe mein Konto letzten Monat gelöscht.",
+            "Die Netzwerkverbindung ist heute langsam.",
+            "Ich lerne gerade Python.",
+            "Die digitale Transformation ist eine Herausforderung für viele Unternehmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to download the attachment.",
+        "text_de": "Ich muss den Anhang herunterladen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss mein Gerät neu starten.",
+            "Datensicherheit ist sehr wichtig.",
+            "Ich baue meinen eigenen Desktop-PC zusammen.",
+            "Ich muss den Anhang herunterladen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you upload the photos to the cloud?",
+        "text_de": "Kannst du die Fotos in die Cloud hochladen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kannst du die Fotos in die Cloud hochladen?",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "Mikrochips sind heute in fast jedem Gerät.",
+            "3D-Druck ermöglicht schnelles Prototyping."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Artificial intelligence is a hot topic.",
+        "text_de": "Künstliche Intelligenz ist ein aktuelles Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "5G wird die mobile Internetgeschwindigkeit verbessern.",
+            "Cybersicherheit ist ein wachsender Bereich.",
+            "Das Kühlsystem ist sehr laut.",
+            "Künstliche Intelligenz ist ein aktuelles Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Robots are used in manufacturing.",
+        "text_de": "Roboter werden in der Fertigung eingesetzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Roboter werden in der Fertigung eingesetzt.",
+            "die Technologie",
+            "Heutzutage hat jeder ein Smartphone.",
+            "Die Virtual-Reality-Brille ist erstaunlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought a new smartwatch yesterday.",
+        "text_de": "Ich habe mir gestern eine neue Smartwatch gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+            "Die Drohnen werden für Luftaufnahmen verwendet.",
+            "Die Benutzeroberfläche ist sehr intuitiv.",
+            "Ich habe mir gestern eine neue Smartwatch gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The virtual reality goggles are amazing.",
+        "text_de": "Die Virtual-Reality-Brille ist erstaunlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Virtual-Reality-Brille ist erstaunlich.",
+            "das Netzwerk",
+            "der Laptop",
+            "Die Technologie der Zukunft wird viele Überraschungen bringen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you use social media?",
+        "text_de": "Nutzt du soziale Medien?",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nutzt du soziale Medien?",
+            "der Akku",
+            "Schützen Sie Ihre Geräte mit einem starken Passwort.",
+            "Das Internet der Dinge vernetzt unsere Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I deleted my account last month.",
+        "text_de": "Ich habe mein Konto letzten Monat gelöscht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe mein Konto letzten Monat gelöscht.",
+            "Der Drucker hat kein Papier mehr.",
+            "Datensicherheit ist sehr wichtig.",
+            "Programmieren ist eine wertvolle Fähigkeit in der heutigen Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cybersecurity is a growing field.",
+        "text_de": "Cybersicherheit ist ein wachsender Bereich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz ist ein aktuelles Thema.",
+            "Ich kaufe Elektronik lieber online.",
+            "Cybersicherheit ist ein wachsender Bereich.",
+            "Die Netzwerkverbindung ist heute langsam."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect your devices with a strong password.",
+        "text_de": "Schützen Sie Ihre Geräte mit einem starken Passwort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "herunterladen",
+            "Das WLAN-Signal ist in diesem Zimmer schwach.",
+            "Schützen Sie Ihre Geräte mit einem starken Passwort.",
+            "Das Internet der Dinge vernetzt unsere Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't click on suspicious links.",
+        "text_de": "Klicken Sie nicht auf verdächtige Links.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nutzt du soziale Medien?",
+            "Wissenschaft und Technologie gehen Hand in Hand.",
+            "die Maus",
+            "Klicken Sie nicht auf verdächtige Links."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The server is currently down for maintenance.",
+        "text_de": "Der Server ist momentan wegen Wartungsarbeiten offline.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "5G wird die mobile Internetgeschwindigkeit verbessern.",
+            "Schützen Sie Ihre Geräte mit einem starken Passwort.",
+            "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+            "Der Server ist momentan wegen Wartungsarbeiten offline."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need more storage space on my hard drive.",
+        "text_de": "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Laptop ist sehr dünn und leicht.",
+            "Klicken Sie nicht auf verdächtige Links.",
+            "Privatsphäre ist ein Grundrecht, auch online.",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cloud computing is very scalable.",
+        "text_de": "Cloud-Computing ist sehr skalierbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz ist ein aktuelles Thema.",
+            "Hast du ein Ladegerät für mich?",
+            "Blockchain-Technologie ist ziemlich komplex.",
+            "Cloud-Computing ist sehr skalierbar."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open source software is free to use.",
+        "text_de": "Open-Source-Software ist kostenlos nutzbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Open-Source-Software ist kostenlos nutzbar.",
+            "Ich habe mein Konto letzten Monat gelöscht.",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "Die kabellose Maus ist sehr praktisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a software developer by profession.",
+        "text_de": "Ich bin von Beruf Softwareentwickler.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Internet",
+            "Cloud-Computing ist sehr skalierbar.",
+            "der Ordner",
+            "Ich bin von Beruf Softwareentwickler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Coding is a valuable skill in today's world.",
+        "text_de": "Programmieren ist eine wertvolle Fähigkeit in der heutigen Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Drucker hat kein Papier mehr.",
+            "Ich kann mir ein Leben ohne Internet nicht vorstellen.",
+            "Künstliche Intelligenz ist ein aktuelles Thema.",
+            "Programmieren ist eine wertvolle Fähigkeit in der heutigen Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Which programming language do you prefer?",
+        "text_de": "Welche Programmiersprache bevorzugst du?",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Welche Programmiersprache bevorzugst du?",
+            "Ich benutze meinen Computer zum Arbeiten und Spielen.",
+            "Der Server ist momentan wegen Wartungsarbeiten offline.",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm learning Python right now.",
+        "text_de": "Ich lerne gerade Python.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nutzt du soziale Medien?",
+            "Ich kann mir ein Leben ohne Internet nicht vorstellen.",
+            "die Datei",
+            "Ich lerne gerade Python."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The algorithm is very efficient.",
+        "text_de": "Der Algorithmus ist sehr effizient.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Algorithmus ist sehr effizient.",
+            "die Tastatur",
+            "Die Hardware-Komponenten sind sehr teuer.",
+            "Erstellen Sie einen neuen Ordner für das Projekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Blockchain technology is quite complex.",
+        "text_de": "Blockchain-Technologie ist ziemlich komplex.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich kann mein Licht mit meinem Telefon steuern.",
+            "Kannst du die Fotos in die Cloud hochladen?",
+            "Digital Detox ist manchmal notwendig.",
+            "Blockchain-Technologie ist ziemlich komplex."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bitcoin is a famous cryptocurrency.",
+        "text_de": "Bitcoin ist eine berühmte Kryptowährung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Netzwerk",
+            "Ich muss die Grafikkarte austauschen.",
+            "das Ladegerät",
+            "Bitcoin ist eine berühmte Kryptowährung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I use a VPN for more privacy.",
+        "text_de": "Ich nutze ein VPN für mehr Privatsphäre.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Software",
+            "Technologie kann eine Ablenkung sein.",
+            "Ich nutze ein VPN für mehr Privatsphäre.",
+            "das Internet"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "E-commerce is booming.",
+        "text_de": "E-Commerce boomt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Kühlsystem ist sehr laut.",
+            "Erstellen Sie einen neuen Ordner für das Projekt.",
+            "E-Commerce boomt.",
+            "der Akku"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer shopping online for electronics.",
+        "text_de": "Ich kaufe Elektronik lieber online.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne weiter, um auf dem neuesten Stand zu bleiben!",
+            "Ich muss mein Gerät neu starten.",
+            "Ich kaufe Elektronik lieber online.",
+            "der Laptop"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The drones are used for aerial photography.",
+        "text_de": "Die Drohnen werden für Luftaufnahmen verwendet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen USB-Stick mit wichtigen Daten verloren.",
+            "Machen Sie immer ein Backup Ihrer Dateien.",
+            "Cybersicherheit ist ein wachsender Bereich.",
+            "Die Drohnen werden für Luftaufnahmen verwendet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "3D printing allows rapid prototyping.",
+        "text_de": "3D-Druck ermöglicht schnelles Prototyping.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Drucker",
+            "die Datei",
+            "Diese Webseite hat ein sehr modernes Design.",
+            "3D-Druck ermöglicht schnelles Prototyping."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Smart home devices make life easier.",
+        "text_de": "Smart-Home-Geräte machen das Leben leichter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge eine mechanische Tastatur.",
+            "Ich lerne gerade Python.",
+            "Smart-Home-Geräte machen das Leben leichter.",
+            "Das Internet der Dinge vernetzt unsere Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I can control my lights with my phone.",
+        "text_de": "Ich kann mein Licht mit meinem Telefon steuern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "Ich muss mein Gerät neu starten.",
+            "herunterladen",
+            "Ich kann mein Licht mit meinem Telefon steuern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Digital transformation is a challenge for many companies.",
+        "text_de": "Die digitale Transformation ist eine Herausforderung für viele Unternehmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Netzwerkverbindung ist heute langsam.",
+            "Ich kann mir ein Leben ohne Internet nicht vorstellen.",
+            "E-Commerce boomt.",
+            "Die digitale Transformation ist eine Herausforderung für viele Unternehmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Information technology is essential for businesses.",
+        "text_de": "Informationstechnologie ist für Unternehmen unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Informationstechnologie ist für Unternehmen unerlässlich.",
+            "Technologie verändert unser Leben.",
+            "herunterladen",
+            "der Ordner"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The user interface is very intuitive.",
+        "text_de": "Die Benutzeroberfläche ist sehr intuitiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Benutzeroberfläche ist sehr intuitiv.",
+            "Cybersicherheit ist ein wachsender Bereich.",
+            "Ich nutze ein VPN für mehr Privatsphäre.",
+            "die Maus"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The app crashed again.",
+        "text_de": "Die App ist wieder abgestürzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die App ist wieder abgestürzt.",
+            "die Daten",
+            "Ich bin von Beruf Softwareentwickler.",
+            "Das Internet der Dinge vernetzt unsere Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to restart my device.",
+        "text_de": "Ich muss mein Gerät neu starten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss mein Gerät neu starten.",
+            "Künstliche Intelligenz ist ein aktuelles Thema.",
+            "herunterladen",
+            "Die Virtual-Reality-Brille ist erstaunlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Wi-Fi signal is weak in this room.",
+        "text_de": "Das WLAN-Signal ist in diesem Zimmer schwach.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das WLAN-Signal ist in diesem Zimmer schwach.",
+            "3D-Druck ermöglicht schnelles Prototyping.",
+            "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+            "Ich bin von Beruf Softwareentwickler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is the Wi-Fi password?",
+        "text_de": "Wie lautet das WLAN-Passwort?",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mikrochips sind heute in fast jedem Gerät.",
+            "Ich habe meinen USB-Stick mit wichtigen Daten verloren.",
+            "Wie lautet das WLAN-Passwort?",
+            "Ich lerne gerade Python."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm using a fiber optic connection.",
+        "text_de": "Ich nutze eine Glasfaserverbindung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Internet der Dinge vernetzt unsere Welt.",
+            "Ich nutze eine Glasfaserverbindung.",
+            "Die Entdeckung des Transistors hat alles verändert.",
+            "Klicken Sie nicht auf verdächtige Links."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "5G will improve mobile internet speed.",
+        "text_de": "5G wird die mobile Internetgeschwindigkeit verbessern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Netzwerk",
+            "Ich habe die Datei im Dokumente-Ordner gespeichert.",
+            "Kannst du die Fotos in die Cloud hochladen?",
+            "5G wird die mobile Internetgeschwindigkeit verbessern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Broadband access should be available everywhere.",
+        "text_de": "Breitbandzugang sollte überall verfügbar sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Breitbandzugang sollte überall verfügbar sein.",
+            "die Software",
+            "die Hardware",
+            "das Internet"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm reading an e-book on my tablet.",
+        "text_de": "Ich lese ein E-Book auf meinem Tablet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Daten",
+            "Ich kann mein Licht mit meinem Telefon steuern.",
+            "Ich lese ein E-Book auf meinem Tablet.",
+            "Wir brauchen mehr Forschung in grüner Technologie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The touch screen is very responsive.",
+        "text_de": "Der Touchscreen reagiert sehr gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "5G wird die mobile Internetgeschwindigkeit verbessern.",
+            "Smart-Home-Geräte machen das Leben leichter.",
+            "Der Touchscreen reagiert sehr gut.",
+            "Hast du ein Ladegerät für mich?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I lost my USB stick with important data.",
+        "text_de": "Ich habe meinen USB-Stick mit wichtigen Daten verloren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meine Software aktualisieren.",
+            "Ich habe meinen USB-Stick mit wichtigen Daten verloren.",
+            "Das Internet der Dinge vernetzt unsere Welt.",
+            "Die Netzwerkverbindung ist heute langsam."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Always make a backup of your files.",
+        "text_de": "Machen Sie immer ein Backup Ihrer Dateien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Akku",
+            "Der Drucker hat kein Papier mehr.",
+            "Machen Sie immer ein Backup Ihrer Dateien.",
+            "Die Benutzeroberfläche ist sehr intuitiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hard drive makes a strange noise.",
+        "text_de": "Die Festplatte macht ein seltsames Geräusch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Akku meines Telefons ist leer.",
+            "Die digitale Transformation ist eine Herausforderung für viele Unternehmen.",
+            "Das Kühlsystem ist sehr laut.",
+            "Die Festplatte macht ein seltsames Geräusch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to replace the graphics card.",
+        "text_de": "Ich muss die Grafikkarte austauschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meine Software aktualisieren.",
+            "Ich habe meinen USB-Stick mit wichtigen Daten verloren.",
+            "Ich muss die Grafikkarte austauschen.",
+            "Klicken Sie nicht auf verdächtige Links."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cooling system is very loud.",
+        "text_de": "Das Kühlsystem ist sehr laut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Digital Detox ist manchmal notwendig.",
+            "Ich baue meinen eigenen Desktop-PC zusammen.",
+            "Programmieren ist eine wertvolle Fähigkeit in der heutigen Welt.",
+            "Das Kühlsystem ist sehr laut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm building my own desktop PC.",
+        "text_de": "Ich baue meinen eigenen Desktop-PC zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe mir gestern eine neue Smartwatch gekauft.",
+            "Cloud-Computing ist sehr skalierbar.",
+            "Ich baue meinen eigenen Desktop-PC zusammen.",
+            "Hast du ein Ladegerät für mich?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Technology can be a distraction.",
+        "text_de": "Technologie kann eine Ablenkung sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nutze eine Glasfaserverbindung.",
+            "Mein Laptop ist sehr dünn und leicht.",
+            "Die kabellose Maus ist sehr praktisch.",
+            "Technologie kann eine Ablenkung sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Digital detox is sometimes necessary.",
+        "text_de": "Digital Detox ist manchmal notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen mehr Forschung in grüner Technologie.",
+            "Wissenschaft und Technologie gehen Hand in Hand.",
+            "Digital Detox ist manchmal notwendig.",
+            "Bleiben Sie sicher im Internet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay safe online.",
+        "text_de": "Bleiben Sie sicher im Internet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nutze eine Glasfaserverbindung.",
+            "das Ladegerät",
+            "Wissenschaft und Technologie gehen Hand in Hand.",
+            "Bleiben Sie sicher im Internet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethics in technology is an important discussion.",
+        "text_de": "Ethik in der Technologie ist eine wichtige Diskussion.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ethik in der Technologie ist eine wichtige Diskussion.",
+            "Das WLAN-Signal ist in diesem Zimmer schwach.",
+            "der Akku",
+            "die Daten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Future technology will bring many surprises.",
+        "text_de": "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bildschirmauflösung ist ausgezeichnet.",
+            "Ich bevorzuge eine mechanische Tastatur.",
+            "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+            "Bitcoin ist eine berühmte Kryptowährung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a tech enthusiast.",
+        "text_de": "Ich bin ein Technik-Begeisterter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Laptop",
+            "Ich bin ein Technik-Begeisterter.",
+            "Ich brauche mehr Speicherplatz auf meiner Festplatte.",
+            "Ich nutze ein VPN für mehr Privatsphäre."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The innovation cycle is getting shorter.",
+        "text_de": "Der Innovationszyklus wird immer kürzer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Drohnen werden für Luftaufnahmen verwendet.",
+            "Der Innovationszyklus wird immer kürzer.",
+            "Roboter werden in der Fertigung eingesetzt.",
+            "Ich bin von Beruf Softwareentwickler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need more research in green technology.",
+        "text_de": "Wir brauchen mehr Forschung in grüner Technologie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "5G wird die mobile Internetgeschwindigkeit verbessern.",
+            "Künstliche Intelligenz ist ein aktuelles Thema.",
+            "Wissenschaft und Technologie gehen Hand in Hand.",
+            "Wir brauchen mehr Forschung in grüner Technologie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Technology should serve people.",
+        "text_de": "Technologie sollte den Menschen dienen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Server ist momentan wegen Wartungsarbeiten offline.",
+            "Technologie sollte den Menschen dienen.",
+            "Ich kaufe Elektronik lieber online.",
+            "Bleiben Sie sicher im Internet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science and technology go hand in hand.",
+        "text_de": "Wissenschaft und Technologie gehen Hand in Hand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge eine mechanische Tastatur.",
+            "Wissenschaft und Technologie gehen Hand in Hand.",
+            "Die digitale Transformation ist eine Herausforderung für viele Unternehmen.",
+            "die Datei"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The discovery of the transistor changed everything.",
+        "text_de": "Die Entdeckung des Transistors hat alles verändert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Technologie der Zukunft wird viele Überraschungen bringen.",
+            "Ich nutze ein VPN für mehr Privatsphäre.",
+            "die Daten",
+            "Die Entdeckung des Transistors hat alles verändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Microchips are in almost every device today.",
+        "text_de": "Mikrochips sind heute in fast jedem Gerät.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Webseite",
+            "Roboter werden in der Fertigung eingesetzt.",
+            "Lerne weiter, um auf dem neuesten Stand zu bleiben!",
+            "Mikrochips sind heute in fast jedem Gerät."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The internet of things connects our world.",
+        "text_de": "Das Internet der Dinge vernetzt unsere Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Algorithmus ist sehr effizient.",
+            "3D-Druck ermöglicht schnelles Prototyping.",
+            "Das Internet der Dinge vernetzt unsere Welt.",
+            "die Datei"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Privacy is a fundamental right, also online.",
+        "text_de": "Privatsphäre ist ein Grundrecht, auch online.",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Innovationszyklus wird immer kürzer.",
+            "Cloud-Computing ist sehr skalierbar.",
+            "Privatsphäre ist ein Grundrecht, auch online.",
+            "Die Technologie der Zukunft wird viele Überraschungen bringen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Continue learning to stay up to date!",
+        "text_de": "Lerne weiter, um auf dem neuesten Stand zu bleiben!",
+        "synonyms": [],
+        "description": "Example sentence for 'Technology'.",
+        "description_de": "Beispielsatz für 'Technology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Internet",
+            "Ich lerne gerade Python.",
+            "Lerne weiter, um auf dem neuesten Stand zu bleiben!",
+            "Smart-Home-Geräte machen das Leben leichter."
+        ]
+    }
+]

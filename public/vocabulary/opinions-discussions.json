@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The opinion",
+        "text_de": "die Meinung",
+        "synonyms": [],
+        "description": "German word for 'The opinion'.",
+        "description_de": "Deutsches Wort für 'The opinion'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Daran hatte ich vorher noch nicht gedacht.",
+            "denken",
+            "die Meinung",
+            "der Grund"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The discussion",
+        "text_de": "die Diskussion",
+        "synonyms": [],
+        "description": "German word for 'The discussion'.",
+        "description_de": "Deutsches Wort für 'The discussion'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Prinzip stimme ich zu, aber...",
+            "Mir fehlen die Worte.",
+            "zustimmen",
+            "die Diskussion"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The argument",
+        "text_de": "das Argument",
+        "synonyms": [],
+        "description": "German word for 'The argument'.",
+        "description_de": "Deutsches Wort für 'The argument'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich entschuldige mich für das Missverständnis.",
+            "Wir sollten darüber abstimmen.",
+            "Einerseits stimme ich zu, aber andererseits...",
+            "das Argument"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The agreement",
+        "text_de": "die Zustimmung",
+        "synonyms": [],
+        "description": "German word for 'The agreement'.",
+        "description_de": "Deutsches Wort für 'The agreement'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meiner Meinung nach ist das eine gute Idee.",
+            "die Zustimmung",
+            "Ich glaube nicht, dass das wahr ist.",
+            "glauben"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The disagreement",
+        "text_de": "die Ablehnung",
+        "synonyms": [],
+        "description": "German word for 'The disagreement'.",
+        "description_de": "Deutsches Wort für 'The disagreement'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich respektiere Ihren Standpunkt.",
+            "Was meinst du damit?",
+            "Mir fehlen die Worte.",
+            "die Ablehnung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The reason",
+        "text_de": "der Grund",
+        "synonyms": [],
+        "description": "German word for 'The reason'.",
+        "description_de": "Deutsches Wort für 'The reason'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist irrelevant für das Thema.",
+            "Ich bin absolut gegen diesen Vorschlag.",
+            "der Grund",
+            "Sag mir die Wahrheit, was ist passiert?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The advantage",
+        "text_de": "der Vorteil",
+        "synonyms": [],
+        "description": "German word for 'The advantage'.",
+        "description_de": "Deutsches Wort für 'The advantage'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erst denken, dann handeln ist besser.",
+            "der Vorteil",
+            "Was meinst du damit?",
+            "Im Prinzip stimme ich zu, aber..."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The disadvantage",
+        "text_de": "der Nachteil",
+        "synonyms": [],
+        "description": "German word for 'The disadvantage'.",
+        "description_de": "Deutsches Wort für 'The disadvantage'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Nachteil",
+            "Ich habe meine Meinung über ihn geändert.",
+            "Mir fehlen die Worte.",
+            "Ich bin mir ziemlich sicher."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The fact",
+        "text_de": "die Tatsache",
+        "synonyms": [],
+        "description": "German word for 'The fact'.",
+        "description_de": "Deutsches Wort für 'The fact'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Prinzip stimme ich zu, aber...",
+            "Wir haben in dieser Frage eine gemeinsame Basis.",
+            "die Tatsache",
+            "Beschuldige nicht andere für dein Versagen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The truth",
+        "text_de": "die Wahrheit",
+        "synonyms": [],
+        "description": "German word for 'The truth'.",
+        "description_de": "Deutsches Wort für 'The truth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Mehrheit hat beschlossen, fortzufahren.",
+            "die Wahrheit",
+            "Nimm es nicht persönlich.",
+            "Sein Argument ist nicht sehr logisch."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The doubt",
+        "text_de": "der Zweifel",
+        "synonyms": [],
+        "description": "German word for 'The doubt'.",
+        "description_de": "Deutsches Wort für 'The doubt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zweifel",
+            "Ich habe eine andere Perspektive darauf.",
+            "Ich freue mich auf unsere nächste Diskussion.",
+            "der Vorteil"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To think",
+        "text_de": "denken",
+        "synonyms": [],
+        "description": "German word for 'To think'.",
+        "description_de": "Deutsches Wort für 'To think'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "denken",
+            "Es war ein Vergnügen, mit Ihnen zu sprechen.",
+            "Ich bin von der Notwendigkeit dieser Maßnahmen überzeugt.",
+            "Ziehen Sie keine voreiligen Schlüsse."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To believe",
+        "text_de": "glauben",
+        "synonyms": [],
+        "description": "German word for 'To believe'.",
+        "description_de": "Deutsches Wort für 'To believe'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist ein sehr interessanter Punkt.",
+            "glauben",
+            "Entschlossenheit führt zum Erfolg.",
+            "Ich bin für das neue Gesetz."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To mean",
+        "text_de": "meinen",
+        "synonyms": [],
+        "description": "German word for 'To mean'.",
+        "description_de": "Deutsches Wort für 'To mean'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Gegensatz zum vorherigen Redner...",
+            "Meiner Meinung nach ist das eine gute Idee.",
+            "meinen",
+            "Ich bin absolut gegen diesen Vorschlag."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To suggest",
+        "text_de": "vorschlagen",
+        "synonyms": [],
+        "description": "German word for 'To suggest'.",
+        "description_de": "Deutsches Wort für 'To suggest'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "vorschlagen",
+            "Kein Problem, mach dir keine Sorgen deswegen.",
+            "Ich bin mir ziemlich sicher.",
+            "die Ablehnung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To agree",
+        "text_de": "zustimmen",
+        "synonyms": [],
+        "description": "German word for 'To agree'.",
+        "description_de": "Deutsches Wort für 'To agree'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ernsthafte Zweifel an seiner Ehrlichkeit.",
+            "der Zweifel",
+            "zustimmen",
+            "Folge deiner Intuition."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To disagree",
+        "text_de": "widersprechen",
+        "synonyms": [],
+        "description": "German word for 'To disagree'.",
+        "description_de": "Deutsches Wort für 'To disagree'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns darauf einigen, dass wir uns nicht einig sind.",
+            "Ich bin für das neue Gesetz.",
+            "Das ist nur eine Geschmackssache.",
+            "widersprechen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To explain",
+        "text_de": "erklären",
+        "synonyms": [],
+        "description": "German word for 'To explain'.",
+        "description_de": "Deutsches Wort für 'To explain'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Gegensatz zum vorherigen Redner...",
+            "Können Sie mir ein Beispiel geben?",
+            "Wer ist hier verantwortlich?",
+            "erklären"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To doubt",
+        "text_de": "zweifeln",
+        "synonyms": [],
+        "description": "German word for 'To doubt'.",
+        "description_de": "Deutsches Wort für 'To doubt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zweifeln",
+            "die Tatsache",
+            "die Wahrheit",
+            "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To convince",
+        "text_de": "überzeugen",
+        "synonyms": [],
+        "description": "German word for 'To convince'.",
+        "description_de": "Deutsches Wort für 'To convince'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können Sie mir ein Beispiel geben?",
+            "Ich bin ein Mann der Tat.",
+            "überzeugen",
+            "widersprechen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In my opinion, this is a good idea.",
+        "text_de": "Meiner Meinung nach ist das eine gute Idee.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin mir ziemlich sicher.",
+            "Meiner Meinung nach ist das eine gute Idee.",
+            "Lass uns diese Angelegenheit objektiv diskutieren.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What do you think about this?",
+        "text_de": "Was denken Sie darüber?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wahrheit",
+            "meinen",
+            "Was denken Sie darüber?",
+            "Die Mehrheit hat beschlossen, fortzufahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't believe that's true.",
+        "text_de": "Ich glaube nicht, dass das wahr ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "überzeugen",
+            "Ich bin ein Mann der Tat.",
+            "Ich glaube nicht, dass das wahr ist.",
+            "Entschlossenheit führt zum Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I agree with you completely.",
+        "text_de": "Ich stimme dir voll und ganz zu.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem.",
+            "Ich stimme dir voll und ganz zu.",
+            "Sein Argument ist nicht sehr logisch.",
+            "Wer ist hier verantwortlich?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I beg to differ on this point.",
+        "text_de": "Ich muss Ihnen in diesem Punkt widersprechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin absolut gegen diesen Vorschlag.",
+            "der Nachteil",
+            "Ich muss Ihnen in diesem Punkt widersprechen.",
+            "Es war ein Vergnügen, mit Ihnen zu sprechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you explain your reasons?",
+        "text_de": "Können Sie Ihre Gründe erklären?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielen Dank für Ihren wertvollen Beitrag.",
+            "Können Sie Ihre Gründe erklären?",
+            "Kein Problem, mach dir keine Sorgen deswegen.",
+            "Es war ein Vergnügen, mit Ihnen zu sprechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There are many advantages to this plan.",
+        "text_de": "Dieser Plan hat viele Vorteile.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dieser Plan hat viele Vorteile.",
+            "Ich bin sehr beeindruckt von deiner Arbeit.",
+            "Es gibt noch keinen Konsens.",
+            "Es ist eine Tatsache, dass die Preise steigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The main disadvantage is the high cost.",
+        "text_de": "Der Hauptnachteil sind die hohen Kosten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Könnten Sie bitte konkreter werden?",
+            "Ich hoffe auf das Beste, aber bereite mich auf das Schlimmste vor.",
+            "Der Hauptnachteil sind die hohen Kosten.",
+            "Dieser Plan hat viele Vorteile."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a fact that prices are rising.",
+        "text_de": "Es ist eine Tatsache, dass die Preise steigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist eine Tatsache, dass die Preise steigen.",
+            "Wir müssen einen Kompromiss finden.",
+            "Erfahrung ist wichtiger als Theorie.",
+            "Ich bin ein Mann der Tat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tell me the truth, what happened?",
+        "text_de": "Sag mir die Wahrheit, was ist passiert?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sag mir die Wahrheit, was ist passiert?",
+            "Ich habe meine Meinung über ihn geändert.",
+            "Wer ist hier verantwortlich?",
+            "Ich habe eine andere Perspektive darauf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have serious doubts about his honesty.",
+        "text_de": "Ich habe ernsthafte Zweifel an seiner Ehrlichkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ernsthafte Zweifel an seiner Ehrlichkeit.",
+            "Kein Problem, mach dir keine Sorgen deswegen.",
+            "Gibt es Beweise für Ihre Aussage?",
+            "der Zweifel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I suggest we take a break now.",
+        "text_de": "Ich schlage vor, dass wir jetzt eine Pause machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schlage vor, dass wir jetzt eine Pause machen.",
+            "Ich habe ein Bauchgefühl dabei.",
+            "denken",
+            "der Vorteil"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He convinced me with his arguments.",
+        "text_de": "Er hat mich mit seinen Argumenten überzeugt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Prinzip stimme ich zu, aber...",
+            "Er hat mich mit seinen Argumenten überzeugt.",
+            "Ich kann Ihrer Argumentation nicht folgen.",
+            "Ich stimme dir voll und ganz zu."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What do you mean by that?",
+        "text_de": "Was meinst du damit?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "denken",
+            "Ich bin sehr beeindruckt von deiner Arbeit.",
+            "Was meinst du damit?",
+            "Ich schlage vor, dass wir jetzt eine Pause machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm not sure if I understand you correctly.",
+        "text_de": "Ich bin mir nicht sicher, ob ich Sie richtig verstehe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Mehrheit hat beschlossen, fortzufahren.",
+            "Erfahrung ist wichtiger als Theorie.",
+            "Ich bin mir nicht sicher, ob ich Sie richtig verstehe.",
+            "Lass uns diese Angelegenheit objektiv diskutieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On the one hand, I agree, but on the other hand...",
+        "text_de": "Einerseits stimme ich zu, aber andererseits...",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einerseits stimme ich zu, aber andererseits...",
+            "Sein Argument ist nicht sehr logisch.",
+            "Ziehen Sie keine voreiligen Schlüsse.",
+            "Was denken Sie darüber?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In contrast to the previous speaker...",
+        "text_de": "Im Gegensatz zum vorherigen Redner...",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib positiv!",
+            "Sag mir die Wahrheit, was ist passiert?",
+            "der Grund",
+            "Im Gegensatz zum vorherigen Redner..."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to emphasize this point.",
+        "text_de": "Ich möchte diesen Punkt betonen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte diesen Punkt betonen.",
+            "Ich habe meine Meinung über ihn geändert.",
+            "Ich bin skeptisch gegenüber den Ergebnissen.",
+            "Ich bin für das neue Gesetz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's get straight to the point.",
+        "text_de": "Kommen wir direkt zur Sache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte diesen Punkt betonen.",
+            "Kommen wir direkt zur Sache.",
+            "die Diskussion",
+            "Einerseits stimme ich zu, aber andererseits..."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "To sum up, it was a successful meeting.",
+        "text_de": "Zusammenfassend lässt sich sagen, dass es ein erfolgreiches Treffen war.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "denken",
+            "Zusammenfassend lässt sich sagen, dass es ein erfolgreiches Treffen war.",
+            "Wir sollten darüber abstimmen.",
+            "meinen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm convinced of the necessity of these measures.",
+        "text_de": "Ich bin von der Notwendigkeit dieser Maßnahmen überzeugt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "überzeugen",
+            "Einerseits stimme ich zu, aber andererseits...",
+            "Ich stimme mit der allgemeinen Richtung überein.",
+            "Ich bin von der Notwendigkeit dieser Maßnahmen überzeugt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there any proof for your statement?",
+        "text_de": "Gibt es Beweise für Ihre Aussage?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es Beweise für Ihre Aussage?",
+            "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem.",
+            "Ich übernehme die volle Verantwortung für den Fehler.",
+            "Kein Problem, mach dir keine Sorgen deswegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't take it personally.",
+        "text_de": "Nimm es nicht persönlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielen Dank für Ihren wertvollen Beitrag.",
+            "Es ist eine Tatsache, dass die Preise steigen.",
+            "Nimm es nicht persönlich.",
+            "Gib die Hoffnung nicht auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need to find a compromise.",
+        "text_de": "Wir müssen einen Kompromiss finden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist irrelevant für das Thema.",
+            "Wir müssen einen Kompromiss finden.",
+            "Ich bin von der Notwendigkeit dieser Maßnahmen überzeugt.",
+            "Lass uns darauf einigen, dass wir uns nicht einig sind."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I respect your point of view.",
+        "text_de": "Ich respektiere Ihren Standpunkt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ziehen Sie keine voreiligen Schlüsse.",
+            "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem.",
+            "Ich respektiere Ihren Standpunkt.",
+            "überzeugen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's discuss this matter objectively.",
+        "text_de": "Lass uns diese Angelegenheit objektiv diskutieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns diese Angelegenheit objektiv diskutieren.",
+            "Beschuldige nicht andere für dein Versagen.",
+            "Kein Problem, mach dir keine Sorgen deswegen.",
+            "widersprechen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a different perspective on this.",
+        "text_de": "Ich habe eine andere Perspektive darauf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ziehen Sie keine voreiligen Schlüsse.",
+            "Was meinst du damit?",
+            "Ich habe eine andere Perspektive darauf.",
+            "Ich hoffe auf das Beste, aber bereite mich auf das Schlimmste vor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "His argument is not very logical.",
+        "text_de": "Sein Argument ist nicht sehr logisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Diskussion",
+            "Sein Argument ist nicht sehr logisch.",
+            "Ich habe eine andere Perspektive darauf.",
+            "Meiner Meinung nach ist das eine gute Idee."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I can't follow your reasoning.",
+        "text_de": "Ich kann Ihrer Argumentation nicht folgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tatsache",
+            "Ich kann Ihrer Argumentation nicht folgen.",
+            "Ich habe eine andere Perspektive darauf.",
+            "Mir fehlen die Worte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "That's irrelevant to the topic.",
+        "text_de": "Das ist irrelevant für das Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich respektiere Ihren Standpunkt.",
+            "Wer ist hier verantwortlich?",
+            "Ich teile Ihre Sorgen um die Umwelt.",
+            "Das ist irrelevant für das Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm totally against this proposal.",
+        "text_de": "Ich bin absolut gegen diesen Vorschlag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin absolut gegen diesen Vorschlag.",
+            "Ich habe meine Meinung über ihn geändert.",
+            "Ich habe ein Bauchgefühl dabei.",
+            "Das ist nur eine Geschmackssache."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm in favor of the new law.",
+        "text_de": "Ich bin für das neue Gesetz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was meinst du damit?",
+            "Ich stimme mit der allgemeinen Richtung überein.",
+            "Ich bin für das neue Gesetz.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It depends on the situation.",
+        "text_de": "Es kommt auf die Situation an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen sofort handeln.",
+            "Es kommt auf die Situation an.",
+            "Es war ein Vergnügen, mit Ihnen zu sprechen.",
+            "zustimmen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm open to suggestions.",
+        "text_de": "Ich bin offen für Vorschläge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Hauptnachteil sind die hohen Kosten.",
+            "die Tatsache",
+            "Ich bin offen für Vorschläge.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't jump to conclusions.",
+        "text_de": "Ziehen Sie keine voreiligen Schlüsse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfahrung ist wichtiger als Theorie.",
+            "Ziehen Sie keine voreiligen Schlüsse.",
+            "Schönheit liegt im Auge des Betrachters.",
+            "Ich wurde in der Sitzung überstimmt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I changed my mind about him.",
+        "text_de": "Ich habe meine Meinung über ihn geändert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin ein Mann der Tat.",
+            "Wir müssen sofort handeln.",
+            "der Vorteil",
+            "Ich habe meine Meinung über ihn geändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have common ground on this issue.",
+        "text_de": "Wir haben in dieser Frage eine gemeinsame Basis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Daran hatte ich vorher noch nicht gedacht.",
+            "Wir haben in dieser Frage eine gemeinsame Basis.",
+            "Ziehen Sie keine voreiligen Schlüsse.",
+            "Es kommt auf die Situation an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm confused by your explanation.",
+        "text_de": "Ich bin verwirrt von deiner Erklärung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin verwirrt von deiner Erklärung.",
+            "Ich wurde in der Sitzung überstimmt.",
+            "Wir haben in dieser Frage eine gemeinsame Basis.",
+            "Zusammenfassend lässt sich sagen, dass es ein erfolgreiches Treffen war."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Could you be more specific, please?",
+        "text_de": "Könnten Sie bitte konkreter werden?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss Ihnen in diesem Punkt widersprechen.",
+            "Könnten Sie bitte konkreter werden?",
+            "Ich bin skeptisch gegenüber den Ergebnissen.",
+            "Kommen wir direkt zur Sache."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to add something to the discussion.",
+        "text_de": "Ich möchte etwas zur Diskussion hinzufügen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein Bauchgefühl dabei.",
+            "Es ist eine Tatsache, dass die Preise steigen.",
+            "Ich möchte etwas zur Diskussion hinzufügen.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I share your concerns about the environment.",
+        "text_de": "Ich teile Ihre Sorgen um die Umwelt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt noch keinen Konsens.",
+            "Ich teile Ihre Sorgen um die Umwelt.",
+            "Lass uns diese Angelegenheit objektiv diskutieren.",
+            "Ich bin mir nicht sicher, ob ich Sie richtig verstehe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is no consensus yet.",
+        "text_de": "Es gibt noch keinen Konsens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin sehr beeindruckt von deiner Arbeit.",
+            "Ich stimme mit der allgemeinen Richtung überein.",
+            "Ich teile Ihre Sorgen um die Umwelt.",
+            "Es gibt noch keinen Konsens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We should vote on this.",
+        "text_de": "Wir sollten darüber abstimmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich kann Ihrer Argumentation nicht folgen.",
+            "Ich muss Ihnen in diesem Punkt widersprechen.",
+            "Wir sollten darüber abstimmen.",
+            "Ich bin ein Mann der Tat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The majority decided to proceed.",
+        "text_de": "Die Mehrheit hat beschlossen, fortzufahren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ernsthafte Zweifel an seiner Ehrlichkeit.",
+            "Die Mehrheit hat beschlossen, fortzufahren.",
+            "Kein Problem, mach dir keine Sorgen deswegen.",
+            "Ich bin mir ziemlich sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I was outvoted in the meeting.",
+        "text_de": "Ich wurde in der Sitzung überstimmt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Könnten Sie bitte konkreter werden?",
+            "Ich wurde in der Sitzung überstimmt.",
+            "Es ist eine Tatsache, dass die Preise steigen.",
+            "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm skeptical about the results.",
+        "text_de": "Ich bin skeptisch gegenüber den Ergebnissen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist irrelevant für das Thema.",
+            "Ich bin skeptisch gegenüber den Ergebnissen.",
+            "Im Gegensatz zum vorherigen Redner...",
+            "Ich übernehme die volle Verantwortung für den Fehler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "That's just a matter of taste.",
+        "text_de": "Das ist nur eine Geschmackssache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "erklären",
+            "das Argument",
+            "Das ist nur eine Geschmackssache.",
+            "Ich bin mir ziemlich sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Beauty is in the eye of the beholder.",
+        "text_de": "Schönheit liegt im Auge des Betrachters.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Prinzip stimme ich zu, aber...",
+            "Wir haben in dieser Frage eine gemeinsame Basis.",
+            "Schönheit liegt im Auge des Betrachters.",
+            "Dieser Plan hat viele Vorteile."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a gut feeling about this.",
+        "text_de": "Ich habe ein Bauchgefühl dabei.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen einen Kompromiss finden.",
+            "die Tatsache",
+            "die Diskussion",
+            "Ich habe ein Bauchgefühl dabei."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Follow your intuition.",
+        "text_de": "Folge deiner Intuition.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Folge deiner Intuition.",
+            "widersprechen",
+            "Ich habe meine Meinung über ihn geändert.",
+            "Im Prinzip stimme ich zu, aber..."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm lost for words.",
+        "text_de": "Mir fehlen die Worte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mir fehlen die Worte.",
+            "Ich respektiere Ihren Standpunkt.",
+            "Glaub an dich selbst.",
+            "der Zweifel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I agree in principle, but...",
+        "text_de": "Im Prinzip stimme ich zu, aber...",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es war ein Vergnügen, mit Ihnen zu sprechen.",
+            "Können Sie mir ein Beispiel geben?",
+            "Im Prinzip stimme ich zu, aber...",
+            "Das Ergebnis ist noch ungewiss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's agree to disagree.",
+        "text_de": "Lass uns darauf einigen, dass wir uns nicht einig sind.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich stimme mit der allgemeinen Richtung überein.",
+            "Lass uns darauf einigen, dass wir uns nicht einig sind.",
+            "Könnten Sie bitte konkreter werden?",
+            "Die Mehrheit hat beschlossen, fortzufahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who is in charge here?",
+        "text_de": "Wer ist hier verantwortlich?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer ist hier verantwortlich?",
+            "Ich glaube nicht, dass das wahr ist.",
+            "Dieser Plan hat viele Vorteile.",
+            "Es kommt auf die Situation an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I take full responsibility for the mistake.",
+        "text_de": "Ich übernehme die volle Verantwortung für den Fehler.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Argument",
+            "Das Ergebnis ist noch ungewiss.",
+            "Ich übernehme die volle Verantwortung für den Fehler.",
+            "Ich bin absolut gegen diesen Vorschlag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't blame others for your failures.",
+        "text_de": "Beschuldige nicht andere für dein Versagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beschuldige nicht andere für dein Versagen.",
+            "meinen",
+            "Ich bin ein Mann der Tat.",
+            "zustimmen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I apologize for the misunderstanding.",
+        "text_de": "Ich entschuldige mich für das Missverständnis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gib die Hoffnung nicht auf.",
+            "Ich stimme mit der allgemeinen Richtung überein.",
+            "Ich entschuldige mich für das Missverständnis.",
+            "Es ist eine Tatsache, dass die Preise steigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "No problem, don't worry about it.",
+        "text_de": "Kein Problem, mach dir keine Sorgen deswegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich teile Ihre Sorgen um die Umwelt.",
+            "Ich kann Ihrer Argumentation nicht folgen.",
+            "die Zustimmung",
+            "Kein Problem, mach dir keine Sorgen deswegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm very impressed by your work.",
+        "text_de": "Ich bin sehr beeindruckt von deiner Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "erklären",
+            "Ich bin sehr beeindruckt von deiner Arbeit.",
+            "Ich bin absolut gegen diesen Vorschlag.",
+            "Das ist irrelevant für das Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "That's a very interesting point.",
+        "text_de": "Das ist ein sehr interessanter Punkt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sag mir die Wahrheit, was ist passiert?",
+            "zweifeln",
+            "Ich bin ein Mann der Tat.",
+            "Das ist ein sehr interessanter Punkt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hadn't thought of that before.",
+        "text_de": "Daran hatte ich vorher noch nicht gedacht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sein Argument ist nicht sehr logisch.",
+            "zustimmen",
+            "Entschlossenheit führt zum Erfolg.",
+            "Daran hatte ich vorher noch nicht gedacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you give me an example?",
+        "text_de": "Können Sie mir ein Beispiel geben?",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich teile Ihre Sorgen um die Umwelt.",
+            "Können Sie mir ein Beispiel geben?",
+            "Ich bin sehr beeindruckt von deiner Arbeit.",
+            "Kein Problem, mach dir keine Sorgen deswegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "For instance, last week we had a similar problem.",
+        "text_de": "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er hat mich mit seinen Argumenten überzeugt.",
+            "Zusammenfassend lässt sich sagen, dass es ein erfolgreiches Treffen war.",
+            "Zum Beispiel hatten wir letzte Woche ein ähnliches Problem.",
+            "Kommen wir direkt zur Sache."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The situation is getting worse.",
+        "text_de": "Die Situation verschlechtert sich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Mehrheit hat beschlossen, fortzufahren.",
+            "Wir sollten darüber abstimmen.",
+            "Lass uns diese Angelegenheit objektiv diskutieren.",
+            "Die Situation verschlechtert sich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need to act immediately.",
+        "text_de": "Wir müssen sofort handeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was denken Sie darüber?",
+            "Es kommt auf die Situation an.",
+            "Wir müssen sofort handeln.",
+            "Ich glaube nicht, dass das wahr ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Experience is more important than theory.",
+        "text_de": "Erfahrung ist wichtiger als Theorie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfahrung ist wichtiger als Theorie.",
+            "die Meinung",
+            "Ich kann Ihrer Argumentation nicht folgen.",
+            "denken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a man of action.",
+        "text_de": "Ich bin ein Mann der Tat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "vorschlagen",
+            "Ich habe eine andere Perspektive darauf.",
+            "Können Sie mir ein Beispiel geben?",
+            "Ich bin ein Mann der Tat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Thinking before acting is better.",
+        "text_de": "Erst denken, dann handeln ist besser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Gegensatz zum vorherigen Redner...",
+            "Erst denken, dann handeln ist besser.",
+            "Schönheit liegt im Auge des Betrachters.",
+            "Was denken Sie darüber?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is power.",
+        "text_de": "Wissen ist Macht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Können Sie Ihre Gründe erklären?",
+            "Wissen ist Macht.",
+            "Kein Problem, mach dir keine Sorgen deswegen.",
+            "Ich bin mir nicht sicher, ob ich Sie richtig verstehe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I agree with the general direction.",
+        "text_de": "Ich stimme mit der allgemeinen Richtung überein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dieser Plan hat viele Vorteile.",
+            "widersprechen",
+            "Ich stimme mit der allgemeinen Richtung überein.",
+            "Die Mehrheit hat beschlossen, fortzufahren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The outcome is still uncertain.",
+        "text_de": "Das Ergebnis ist noch ungewiss.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Gegensatz zum vorherigen Redner...",
+            "widersprechen",
+            "die Tatsache",
+            "Das Ergebnis ist noch ungewiss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hope for the best, but prepare for the worst.",
+        "text_de": "Ich hoffe auf das Beste, aber bereite mich auf das Schlimmste vor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Grund",
+            "der Vorteil",
+            "Ich hoffe auf das Beste, aber bereite mich auf das Schlimmste vor.",
+            "Ich habe meine Meinung über ihn geändert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't give up hope.",
+        "text_de": "Gib die Hoffnung nicht auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gib die Hoffnung nicht auf.",
+            "Es gibt noch keinen Konsens.",
+            "Ich bin skeptisch gegenüber den Ergebnissen.",
+            "Ich freue mich auf unsere nächste Diskussion."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Determination leads to success.",
+        "text_de": "Entschlossenheit führt zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Grund",
+            "Entschlossenheit führt zum Erfolg.",
+            "Lass uns diese Angelegenheit objektiv diskutieren.",
+            "Es war ein Vergnügen, mit Ihnen zu sprechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm fairly certain about this.",
+        "text_de": "Ich bin mir ziemlich sicher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin sehr beeindruckt von deiner Arbeit.",
+            "Kommen wir direkt zur Sache.",
+            "Ich bin mir ziemlich sicher.",
+            "Wir müssen einen Kompromiss finden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Believe in yourself.",
+        "text_de": "Glaub an dich selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns darauf einigen, dass wir uns nicht einig sind.",
+            "Erst denken, dann handeln ist besser.",
+            "Glaub an dich selbst.",
+            "Gib die Hoffnung nicht auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay positive!",
+        "text_de": "Bleib positiv!",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sein Argument ist nicht sehr logisch.",
+            "Wir sollten darüber abstimmen.",
+            "Ich habe ein Bauchgefühl dabei.",
+            "Bleib positiv!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to our next discussion.",
+        "text_de": "Ich freue mich auf unsere nächste Diskussion.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ernsthafte Zweifel an seiner Ehrlichkeit.",
+            "Ich wurde in der Sitzung überstimmt.",
+            "der Vorteil",
+            "Ich freue mich auf unsere nächste Diskussion."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Thank you for your valuable input.",
+        "text_de": "Vielen Dank für Ihren wertvollen Beitrag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfahrung ist wichtiger als Theorie.",
+            "Wir sollten darüber abstimmen.",
+            "Vielen Dank für Ihren wertvollen Beitrag.",
+            "Ich bin verwirrt von deiner Erklärung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It was a pleasure talking to you.",
+        "text_de": "Es war ein Vergnügen, mit Ihnen zu sprechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Opinions & Discussions'.",
+        "description_de": "Beispielsatz für 'Opinions & Discussions'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was denken Sie darüber?",
+            "Es war ein Vergnügen, mit Ihnen zu sprechen.",
+            "Was meinst du damit?",
+            "Ich habe meine Meinung über ihn geändert."
+        ]
+    }
+]

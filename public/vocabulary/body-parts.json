@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The head",
+        "text_de": "der Kopf",
+        "synonyms": [],
+        "description": "German word for 'The head'.",
+        "description_de": "Deutsches Wort für 'The head'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sonnencreme schützt deine Haut.",
+            "Tiefes Atmen ist gut für die Brust.",
+            "der Kopf",
+            "Nicke mit dem Kopf für 'Ja'."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hair",
+        "text_de": "die Haare",
+        "synonyms": [],
+        "description": "German word for 'The hair'.",
+        "description_de": "Deutsches Wort für 'The hair'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sehen geschieht mit den Augen.",
+            "die Zehe",
+            "Meine Schultern sind verspannt.",
+            "die Haare"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The face",
+        "text_de": "das Gesicht",
+        "synonyms": [],
+        "description": "German word for 'The face'.",
+        "description_de": "Deutsches Wort für 'The face'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Nervensystem steuert alles.",
+            "die Schulter",
+            "das Gesicht",
+            "das Auge"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The eye",
+        "text_de": "das Auge",
+        "synonyms": [],
+        "description": "German word for 'The eye'.",
+        "description_de": "Deutsches Wort für 'The eye'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffnen Sie bitte den Mund.",
+            "das Auge",
+            "die Zehe",
+            "der Fuß"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The nose",
+        "text_de": "die Nase",
+        "synonyms": [],
+        "description": "German word for 'The nose'.",
+        "description_de": "Deutsches Wort für 'The nose'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schüttle den Kopf für 'Nein'.",
+            "die Nase",
+            "Ich spüre einen Puls an meinem Handgelenk.",
+            "Blut fließt durch die Venen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The mouth",
+        "text_de": "der Mund",
+        "synonyms": [],
+        "description": "German word for 'The mouth'.",
+        "description_de": "Deutsches Wort für 'The mouth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schulter",
+            "der Mund",
+            "Wasch dir vor dem Essen die Hände.",
+            "der Hals"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ear",
+        "text_de": "das Ohr",
+        "synonyms": [],
+        "description": "German word for 'The ear'.",
+        "description_de": "Deutsches Wort für 'The ear'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ohr",
+            "Nägel wachsen an Fingern und Zehen.",
+            "Zucke mit den Schultern, wenn du es nicht weißt.",
+            "der Fuß"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The neck",
+        "text_de": "der Hals",
+        "synonyms": [],
+        "description": "German word for 'The neck'.",
+        "description_de": "Deutsches Wort für 'The neck'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bänder verbinden Knochen.",
+            "Der Ellbogen befindet sich in der Mitte des Arms.",
+            "Hast du Tätowierungen?",
+            "der Hals"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The shoulder",
+        "text_de": "die Schulter",
+        "synonyms": [],
+        "description": "German word for 'The shoulder'.",
+        "description_de": "Deutsches Wort für 'The shoulder'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Zehe",
+            "Rechtshänder oder Linkshänder?",
+            "die Schulter",
+            "Eine Hand hat fünf Finger."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The arm",
+        "text_de": "der Arm",
+        "synonyms": [],
+        "description": "German word for 'The arm'.",
+        "description_de": "Deutsches Wort für 'The arm'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe Rückenschmerzen vom langen Sitzen.",
+            "Tiefes Atmen ist gut für die Brust.",
+            "Wangen werden rot, wenn wir uns schämen.",
+            "der Arm"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hand",
+        "text_de": "die Hand",
+        "synonyms": [],
+        "description": "German word for 'The hand'.",
+        "description_de": "Deutsches Wort für 'The hand'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Geruchssinn ist in der Nase.",
+            "Der Magen verdaut die Nahrung.",
+            "die Hand",
+            "der Mund"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The finger",
+        "text_de": "der Finger",
+        "synonyms": [],
+        "description": "German word for 'The finger'.",
+        "description_de": "Deutsches Wort für 'The finger'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gelenke werden für Bewegungen benötigt.",
+            "Meine Nase läuft.",
+            "der Finger",
+            "Der Geruchssinn ist in der Nase."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The chest",
+        "text_de": "die Brust",
+        "synonyms": [],
+        "description": "German word for 'The chest'.",
+        "description_de": "Deutsches Wort für 'The chest'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sehen geschieht mit den Augen.",
+            "die Brust",
+            "Nieren sind wichtig für den Körper.",
+            "Seine Beine sind sehr stark."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The stomach",
+        "text_de": "der Bauch",
+        "synonyms": [],
+        "description": "German word for 'The stomach'.",
+        "description_de": "Deutsches Wort für 'The stomach'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Narbe am Bein.",
+            "Ich habe ein starkes Immunsystem.",
+            "Das Kinn befindet sich unter dem Mund.",
+            "der Bauch"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The back",
+        "text_de": "der Rücken",
+        "synonyms": [],
+        "description": "German word for 'The back'.",
+        "description_de": "Deutsches Wort für 'The back'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nase",
+            "Er hat sich den Arm gebrochen.",
+            "der Rücken",
+            "Eine Hand hat fünf Finger."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The leg",
+        "text_de": "das Bein",
+        "synonyms": [],
+        "description": "German word for 'The leg'.",
+        "description_de": "Deutsches Wort für 'The leg'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Magen verdaut die Nahrung.",
+            "Ich habe mir die Zehe am Tisch gestoßen.",
+            "das Bein",
+            "Schüttle den Kopf für 'Nein'."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The knee",
+        "text_de": "das Knie",
+        "synonyms": [],
+        "description": "German word for 'The knee'.",
+        "description_de": "Deutsches Wort für 'The knee'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sehnen verbinden Muskeln mit Knochen.",
+            "der Kopf",
+            "Der Körper ist ein komplexes System.",
+            "das Knie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The foot",
+        "text_de": "der Fuß",
+        "synonyms": [],
+        "description": "German word for 'The foot'.",
+        "description_de": "Deutsches Wort für 'The foot'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich spüre einen Puls an meinem Handgelenk.",
+            "der Fuß",
+            "Wasch dir vor dem Essen die Hände.",
+            "Ich habe Kopfschmerzen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The toe",
+        "text_de": "die Zehe",
+        "synonyms": [],
+        "description": "German word for 'The toe'.",
+        "description_de": "Deutsches Wort für 'The toe'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zähne werden zum Kauen benötigt.",
+            "Deine Haare sind sehr lang.",
+            "die Zehe",
+            "Ich habe Halsschmerzen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The skin",
+        "text_de": "die Haut",
+        "synonyms": [],
+        "description": "German word for 'The skin'.",
+        "description_de": "Deutsches Wort für 'The skin'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Haut",
+            "Zwinkere mit einem Auge.",
+            "Lächle mit dem ganzen Gesicht.",
+            "das Gesicht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a headache.",
+        "text_de": "Ich habe Kopfschmerzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe Kopfschmerzen.",
+            "Das Nervensystem steuert alles.",
+            "Das Kinn befindet sich unter dem Mund.",
+            "das Gesicht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Your hair is very long.",
+        "text_de": "Deine Haare sind sehr lang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deine Haare sind sehr lang.",
+            "Die Leber filtert Giftstoffe.",
+            "Blut fließt durch die Venen.",
+            "Schließe deine Augen und entspanne dich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She has a friendly face.",
+        "text_de": "Sie hat ein freundliches Gesicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie hat ein freundliches Gesicht.",
+            "die Hand",
+            "die Schulter",
+            "Mein Bauch ist voll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Close your eyes and relax.",
+        "text_de": "Schließe deine Augen und entspanne dich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe mir beim Fußballspielen das Knie verletzt.",
+            "Schließe deine Augen und entspanne dich.",
+            "Kitzelig an den Füßen.",
+            "Eine Hand hat fünf Finger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My nose is running.",
+        "text_de": "Meine Nase läuft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schüttle den Kopf für 'Nein'.",
+            "Die Zunge hilft beim Schmecken.",
+            "Meine Nase läuft.",
+            "Lächle mit dem ganzen Gesicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open your mouth, please.",
+        "text_de": "Öffnen Sie bitte den Mund.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Blut fließt durch die Venen.",
+            "Wasch dir vor dem Essen die Hände.",
+            "Öffnen Sie bitte den Mund.",
+            "der Kopf"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My ears are cold.",
+        "text_de": "Meine Ohren sind kalt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Ohren sind kalt.",
+            "die Zehe",
+            "Das Nervensystem steuert alles.",
+            "der Kopf"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a sore throat.",
+        "text_de": "Ich habe Halsschmerzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Rücken",
+            "Rechtshänder oder Linkshänder?",
+            "Er hat sich den Arm gebrochen.",
+            "Ich habe Halsschmerzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My shoulders are tense.",
+        "text_de": "Meine Schultern sind verspannt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Atme tief ein.",
+            "Meine Schultern sind verspannt.",
+            "Ich habe Kopfschmerzen.",
+            "Das Herz schlägt in der Brust."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He broke his arm.",
+        "text_de": "Er hat sich den Arm gebrochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sport hält den Körper fit.",
+            "Sehnen verbinden Muskeln mit Knochen.",
+            "Tiefes Atmen ist gut für die Brust.",
+            "Er hat sich den Arm gebrochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wash your hands before eating.",
+        "text_de": "Wasch dir vor dem Essen die Hände.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fühlen geschieht mit der Haut.",
+            "Wasch dir vor dem Essen die Hände.",
+            "Der Ellbogen befindet sich in der Mitte des Arms.",
+            "Ich habe mir beim Fußballspielen das Knie verletzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A hand has five fingers.",
+        "text_de": "Eine Hand hat fünf Finger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Achte auf deine Gesundheit.",
+            "Der Magen verdaut die Nahrung.",
+            "Lungen werden zum Atmen benötigt.",
+            "Eine Hand hat fünf Finger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Deep breathing is good for the chest.",
+        "text_de": "Tiefes Atmen ist gut für die Brust.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Skelett besteht aus vielen Knochen.",
+            "Ich habe Halsschmerzen.",
+            "Tiefes Atmen ist gut für die Brust.",
+            "Wangen werden rot, wenn wir uns schämen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My stomach is full.",
+        "text_de": "Mein Bauch ist voll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bauch ist voll.",
+            "Gelenke werden für Bewegungen benötigt.",
+            "Der Mittelfinger ist der längste.",
+            "Der Geschmackssinn ist auf der Zunge."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have back pain from sitting too long.",
+        "text_de": "Ich habe Rückenschmerzen vom langen Sitzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie hat ein freundliches Gesicht.",
+            "Die Handfläche.",
+            "der Kopf",
+            "Ich habe Rückenschmerzen vom langen Sitzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "His legs are very strong.",
+        "text_de": "Seine Beine sind sehr stark.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Stirn ist der obere Teil des Gesichts.",
+            "Seine Beine sind sehr stark.",
+            "Das Kinn befindet sich unter dem Mund.",
+            "Ich habe Kopfschmerzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hurt my knee while playing football.",
+        "text_de": "Ich habe mir beim Fußballspielen das Knie verletzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sehen geschieht mit den Augen.",
+            "Der Knöchel liegt zwischen Bein und Fuß.",
+            "der Fuß",
+            "Ich habe mir beim Fußballspielen das Knie verletzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My feet hurt after the long walk.",
+        "text_de": "Meine Füße tun nach dem langen Spaziergang weh.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kopf",
+            "Lungen werden zum Atmen benötigt.",
+            "Das Handgelenk liegt zwischen Arm und Hand.",
+            "Meine Füße tun nach dem langen Spaziergang weh."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I stubbed my toe on the table.",
+        "text_de": "Ich habe mir die Zehe am Tisch gestoßen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Knie",
+            "Ich habe mir die Zehe am Tisch gestoßen.",
+            "die Haare",
+            "Blut fließt durch die Venen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sunscreen protects your skin.",
+        "text_de": "Sonnencreme schützt deine Haut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gehirn befindet sich im Kopf.",
+            "Die Handfläche.",
+            "Sonnencreme schützt deine Haut.",
+            "Das Nervensystem steuert alles."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The heart beats in the chest.",
+        "text_de": "Das Herz schlägt in der Brust.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Nase läuft.",
+            "Zwinkere mit einem Auge.",
+            "Wimpern schützen die Augen.",
+            "Das Herz schlägt in der Brust."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Lungs are needed for breathing.",
+        "text_de": "Lungen werden zum Atmen benötigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wirbelsäule stützt den Rücken.",
+            "Der Daumen ist der kürzeste Finger.",
+            "Lungen werden zum Atmen benötigt.",
+            "Meine Füße tun nach dem langen Spaziergang weh."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The brain is in the head.",
+        "text_de": "Das Gehirn befindet sich im Kopf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Atme tief ein.",
+            "Die Fingerknöchel.",
+            "Das Gehirn befindet sich im Kopf.",
+            "Der kleine Finger ist der kleinste."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Muscles help us move.",
+        "text_de": "Muskeln helfen uns bei der Bewegung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deine Haare sind sehr lang.",
+            "Muskeln helfen uns bei der Bewegung.",
+            "Der Mittelfinger ist der längste.",
+            "Kitzelig an den Füßen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bones are the framework of the body.",
+        "text_de": "Knochen sind das Gerüst des Körpers.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Füße tun nach dem langen Spaziergang weh.",
+            "der Fuß",
+            "Knochen sind das Gerüst des Körpers.",
+            "Zwinkere mit einem Auge."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Blood flows through the veins.",
+        "text_de": "Blut fließt durch die Venen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schulter",
+            "die Hand",
+            "die Nase",
+            "Blut fließt durch die Venen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The stomach digests the food.",
+        "text_de": "Der Magen verdaut die Nahrung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lippen sind Teil des Mundes.",
+            "Der Magen verdaut die Nahrung.",
+            "Muskeln helfen uns bei der Bewegung.",
+            "Öffnen Sie bitte den Mund."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The liver filter toxins.",
+        "text_de": "Die Leber filtert Giftstoffe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ohr",
+            "Die Leber filtert Giftstoffe.",
+            "der Finger",
+            "Deine Haare sind sehr lang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Kidneys are important for the body.",
+        "text_de": "Nieren sind wichtig für den Körper.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nieren sind wichtig für den Körper.",
+            "Ich habe Kopfschmerzen.",
+            "Der Daumen ist der kürzeste Finger.",
+            "Zwinkere mit einem Auge."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a strong immune system.",
+        "text_de": "Ich habe ein starkes Immunsystem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Narbe am Bein.",
+            "Hast du Tätowierungen?",
+            "Ich habe ein starkes Immunsystem.",
+            "Meine Füße tun nach dem langen Spaziergang weh."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nails grow on fingers and toes.",
+        "text_de": "Nägel wachsen an Fingern und Zehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nägel wachsen an Fingern und Zehen.",
+            "Der Geschmackssinn ist auf der Zunge.",
+            "Die Fingerknöchel.",
+            "Schließe deine Augen und entspanne dich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Teeth are needed for chewing.",
+        "text_de": "Zähne werden zum Kauen benötigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zähne werden zum Kauen benötigt.",
+            "Zwinkere mit einem Auge.",
+            "Muskeln helfen uns bei der Bewegung.",
+            "Das Kinn befindet sich unter dem Mund."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The tongue helps with tasting.",
+        "text_de": "Die Zunge hilft beim Schmecken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der kleine Finger ist der kleinste.",
+            "Meine Füße tun nach dem langen Spaziergang weh.",
+            "Die Zunge hilft beim Schmecken.",
+            "die Haut"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Lips are part of the mouth.",
+        "text_de": "Lippen sind Teil des Mundes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein starkes Immunsystem.",
+            "der Hals",
+            "Lippen sind Teil des Mundes.",
+            "Das Handgelenk liegt zwischen Arm und Hand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eyebrows are above the eyes.",
+        "text_de": "Augenbrauen befinden sich über den Augen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Augenbrauen befinden sich über den Augen.",
+            "Tiefes Atmen ist gut für die Brust.",
+            "Meine Ohren sind kalt.",
+            "Achte auf deine Gesundheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eyelashes protect the eyes.",
+        "text_de": "Wimpern schützen die Augen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wimpern schützen die Augen.",
+            "Nägel wachsen an Fingern und Zehen.",
+            "Seine Beine sind sehr stark.",
+            "Meine Schultern sind verspannt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The forehead is the upper part of the face.",
+        "text_de": "Die Stirn ist der obere Teil des Gesichts.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bänder verbinden Knochen.",
+            "Die Stirn ist der obere Teil des Gesichts.",
+            "Seine Beine sind sehr stark.",
+            "der Kopf"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cheeks turn red when we are embarrassed.",
+        "text_de": "Wangen werden rot, wenn wir uns schämen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wangen werden rot, wenn wir uns schämen.",
+            "Ich habe mir beim Fußballspielen das Knie verletzt.",
+            "Sonnencreme schützt deine Haut.",
+            "Nicke mit dem Kopf für 'Ja'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The chin is below the mouth.",
+        "text_de": "Das Kinn befindet sich unter dem Mund.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Kinn befindet sich unter dem Mund.",
+            "der Mund",
+            "Sie hat ein freundliches Gesicht.",
+            "Das Skelett besteht aus vielen Knochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wrist is between the arm and hand.",
+        "text_de": "Das Handgelenk liegt zwischen Arm und Hand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Stirn ist der obere Teil des Gesichts.",
+            "Das Handgelenk liegt zwischen Arm und Hand.",
+            "Er hat sich den Arm gebrochen.",
+            "Nägel wachsen an Fingern und Zehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The elbow is in the middle of the arm.",
+        "text_de": "Der Ellbogen befindet sich in der Mitte des Arms.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Fuß",
+            "Der Ellbogen befindet sich in der Mitte des Arms.",
+            "Sehnen verbinden Muskeln mit Knochen.",
+            "das Knie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ankle is between the leg and foot.",
+        "text_de": "Der Knöchel liegt zwischen Bein und Fuß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nase",
+            "Der Knöchel liegt zwischen Bein und Fuß.",
+            "Rechtshänder oder Linkshänder?",
+            "die Brust"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hip is important for walking.",
+        "text_de": "Die Hüfte ist wichtig zum Gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hüfte ist wichtig zum Gehen.",
+            "Der Zeigefinger ist zum Zeigen da.",
+            "Das Herz schlägt in der Brust.",
+            "das Gesicht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The spine supports the back.",
+        "text_de": "Die Wirbelsäule stützt den Rücken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Haare",
+            "Die Wirbelsäule stützt den Rücken.",
+            "Ein gesunder Geist in einem gesunden Körper.",
+            "Ich habe ein starkes Immunsystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The skeleton consists of many bones.",
+        "text_de": "Das Skelett besteht aus vielen Knochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Rechtshänder oder Linkshänder?",
+            "Ich habe mir beim Fußballspielen das Knie verletzt.",
+            "Das Skelett besteht aus vielen Knochen.",
+            "die Haare"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a scar on my leg.",
+        "text_de": "Ich habe eine Narbe am Bein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schönheit kommt von innen.",
+            "das Ohr",
+            "Meine Ohren sind kalt.",
+            "Ich habe eine Narbe am Bein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have any tattoos?",
+        "text_de": "Hast du Tätowierungen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Narbe am Bein.",
+            "Der Geschmackssinn ist auf der Zunge.",
+            "Hast du Tätowierungen?",
+            "Der Zeigefinger ist zum Zeigen da."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Beauty comes from within.",
+        "text_de": "Schönheit kommt von innen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schönheit kommt von innen.",
+            "Gelenke werden für Bewegungen benötigt.",
+            "Wasch dir vor dem Essen die Hände.",
+            "Die Zunge hilft beim Schmecken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Exercise keeps the body fit.",
+        "text_de": "Sport hält den Körper fit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wirbelsäule stützt den Rücken.",
+            "Sport hält den Körper fit.",
+            "Sehnen verbinden Muskeln mit Knochen.",
+            "Meine Ohren sind kalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A healthy mind in a healthy body.",
+        "text_de": "Ein gesunder Geist in einem gesunden Körper.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nicke mit dem Kopf für 'Ja'.",
+            "Der kleine Finger ist der kleinste.",
+            "Ein gesunder Geist in einem gesunden Körper.",
+            "Sonnencreme schützt deine Haut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The thumb is the shortest finger.",
+        "text_de": "Der Daumen ist der kürzeste Finger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bänder verbinden Knochen.",
+            "Der Daumen ist der kürzeste Finger.",
+            "das Gesicht",
+            "Mein Bauch ist voll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The index finger is for pointing.",
+        "text_de": "Der Zeigefinger ist zum Zeigen da.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwinkere mit einem Auge.",
+            "Der Zeigefinger ist zum Zeigen da.",
+            "Gönne deinem Körper nach dem Sport Ruhe.",
+            "Wasch dir vor dem Essen die Hände."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The middle finger is the longest.",
+        "text_de": "Der Mittelfinger ist der längste.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Leber filtert Giftstoffe.",
+            "Deine Haare sind sehr lang.",
+            "Der Mittelfinger ist der längste.",
+            "Schließe deine Augen und entspanne dich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ring finger is for rings.",
+        "text_de": "Am Ringfinger trägt man Ringe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Muskeln helfen uns bei der Bewegung.",
+            "Am Ringfinger trägt man Ringe.",
+            "Zucke mit den Schultern, wenn du es nicht weißt.",
+            "Der kleine Finger ist der kleinste."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The pinky is the smallest finger.",
+        "text_de": "Der kleine Finger ist der kleinste.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der kleine Finger ist der kleinste.",
+            "die Brust",
+            "Der Körper ist ein komplexes System.",
+            "Nicke mit dem Kopf für 'Ja'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Palm of the hand.",
+        "text_de": "Die Handfläche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Handfläche.",
+            "Ich habe Rückenschmerzen vom langen Sitzen.",
+            "Augenbrauen befinden sich über den Augen.",
+            "Lächle mit dem ganzen Gesicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fist.",
+        "text_de": "Die Faust.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Faust.",
+            "Gelenke werden für Bewegungen benötigt.",
+            "Ich habe Halsschmerzen.",
+            "das Gesicht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knuckles.",
+        "text_de": "Die Fingerknöchel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Fingerknöchel.",
+            "Der Knöchel liegt zwischen Bein und Fuß.",
+            "Der Geschmackssinn ist auf der Zunge.",
+            "Fühlen geschieht mit der Haut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Joints are needed for movement.",
+        "text_de": "Gelenke werden für Bewegungen benötigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Handgelenk liegt zwischen Arm und Hand.",
+            "das Bein",
+            "Gelenke werden für Bewegungen benötigt.",
+            "Die Wirbelsäule stützt den Rücken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ligaments connect bones.",
+        "text_de": "Bänder verbinden Knochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bänder verbinden Knochen.",
+            "die Nase",
+            "Ich spüre einen Puls an meinem Handgelenk.",
+            "der Hals"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tendons connect muscles to bones.",
+        "text_de": "Sehnen verbinden Muskeln mit Knochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sehnen verbinden Muskeln mit Knochen.",
+            "Ich habe ein starkes Immunsystem.",
+            "die Nase",
+            "Knochen sind das Gerüst des Körpers."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The nervous system controls everything.",
+        "text_de": "Das Nervensystem steuert alles.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Atme langsam aus.",
+            "Das Nervensystem steuert alles.",
+            "Hast du Tätowierungen?",
+            "Ich habe ein starkes Immunsystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel a pulse in my wrist.",
+        "text_de": "Ich spüre einen Puls an meinem Handgelenk.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Atme langsam aus.",
+            "Atme tief ein.",
+            "Ich habe mir beim Fußballspielen das Knie verletzt.",
+            "Ich spüre einen Puls an meinem Handgelenk."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Breath in deeply.",
+        "text_de": "Atme tief ein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Atme tief ein.",
+            "die Zehe",
+            "Die Zunge hilft beim Schmecken.",
+            "Er hat sich den Arm gebrochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Breath out slowly.",
+        "text_de": "Atme langsam aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Knie",
+            "Meine Ohren sind kalt.",
+            "Atme langsam aus.",
+            "Bänder verbinden Knochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nod your head for 'yes'.",
+        "text_de": "Nicke mit dem Kopf für 'Ja'.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwinkere mit einem Auge.",
+            "Bänder verbinden Knochen.",
+            "Die Hüfte ist wichtig zum Gehen.",
+            "Nicke mit dem Kopf für 'Ja'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Shake your head for 'no'.",
+        "text_de": "Schüttle den Kopf für 'Nein'.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Narbe am Bein.",
+            "Sie hat ein freundliches Gesicht.",
+            "Schüttle den Kopf für 'Nein'.",
+            "Wangen werden rot, wenn wir uns schämen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Shrug your shoulders if you don't know.",
+        "text_de": "Zucke mit den Schultern, wenn du es nicht weißt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hast du Tätowierungen?",
+            "Ich habe mir die Zehe am Tisch gestoßen.",
+            "der Mund",
+            "Zucke mit den Schultern, wenn du es nicht weißt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wink with one eye.",
+        "text_de": "Zwinkere mit einem Auge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Handgelenk liegt zwischen Arm und Hand.",
+            "Ich habe ein starkes Immunsystem.",
+            "Zwinkere mit einem Auge.",
+            "Nicke mit dem Kopf für 'Ja'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Smile with your whole face.",
+        "text_de": "Lächle mit dem ganzen Gesicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lächle mit dem ganzen Gesicht.",
+            "Zähne werden zum Kauen benötigt.",
+            "Die Wirbelsäule stützt den Rücken.",
+            "Der Knöchel liegt zwischen Bein und Fuß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ticklish on the feet.",
+        "text_de": "Kitzelig an den Füßen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kitzelig an den Füßen.",
+            "Das Kinn befindet sich unter dem Mund.",
+            "Am Ringfinger trägt man Ringe.",
+            "die Schulter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Right-handed or left-handed?",
+        "text_de": "Rechtshänder oder Linkshänder?",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Nase läuft.",
+            "Sie hat ein freundliches Gesicht.",
+            "Öffnen Sie bitte den Mund.",
+            "Rechtshänder oder Linkshänder?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sense of smell is in the nose.",
+        "text_de": "Der Geruchssinn ist in der Nase.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Geruchssinn ist in der Nase.",
+            "das Knie",
+            "Lächle mit dem ganzen Gesicht.",
+            "der Hals"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sense of taste is on the tongue.",
+        "text_de": "Der Geschmackssinn ist auf der Zunge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lungen werden zum Atmen benötigt.",
+            "Muskeln helfen uns bei der Bewegung.",
+            "Kitzelig an den Füßen.",
+            "Der Geschmackssinn ist auf der Zunge."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hearing is with the ears.",
+        "text_de": "Hören geschieht mit den Ohren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sonnencreme schützt deine Haut.",
+            "Er hat sich den Arm gebrochen.",
+            "Hören geschieht mit den Ohren.",
+            "Die Wirbelsäule stützt den Rücken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sight is with the eyes.",
+        "text_de": "Sehen geschieht mit den Augen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Nase läuft.",
+            "das Knie",
+            "das Auge",
+            "Sehen geschieht mit den Augen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Touch is with the skin.",
+        "text_de": "Fühlen geschieht mit der Haut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wirbelsäule stützt den Rücken.",
+            "der Hals",
+            "Fühlen geschieht mit der Haut.",
+            "das Auge"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The body is a complex system.",
+        "text_de": "Der Körper ist ein komplexes System.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Körper ist ein komplexes System.",
+            "Ich habe Halsschmerzen.",
+            "Atme tief ein.",
+            "der Bauch"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Take care of your health.",
+        "text_de": "Achte auf deine Gesundheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deine Haare sind sehr lang.",
+            "Sport hält den Körper fit.",
+            "Hast du Tätowierungen?",
+            "Achte auf deine Gesundheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Rest your body after exercise.",
+        "text_de": "Gönne deinem Körper nach dem Sport Ruhe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Body Parts'.",
+        "description_de": "Beispielsatz für 'Body Parts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gönne deinem Körper nach dem Sport Ruhe.",
+            "Bänder verbinden Knochen.",
+            "der Fuß",
+            "der Mund"
+        ]
+    }
+]

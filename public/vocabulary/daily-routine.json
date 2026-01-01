@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "To wake up",
+        "text_de": "aufstehen",
+        "synonyms": [],
+        "description": "German word for 'To wake up'.",
+        "description_de": "Deutsches Wort für 'To wake up'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lesen",
+            "aufstehen",
+            "kochen",
+            "Zu Hause angekommen, ziehe ich mich erst mal um."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To shower",
+        "text_de": "duschen",
+        "synonyms": [],
+        "description": "German word for 'To shower'.",
+        "description_de": "Deutsches Wort für 'To shower'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich kämme mir die Haare vor dem Spiegel.",
+            "Ich gehe oft mit Kollegen in die Kantine.",
+            "Manchmal hole ich mir nur einen Salat.",
+            "duschen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To get dressed",
+        "text_de": "anziehen",
+        "synonyms": [],
+        "description": "German word for 'To get dressed'.",
+        "description_de": "Deutsches Wort für 'To get dressed'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich jogge gerne im Park in der Nähe.",
+            "Wir gehen zusammen ins Kino oder in ein Café.",
+            "Am Nachmittag telefoniere ich mit Kunden.",
+            "anziehen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To eat breakfast",
+        "text_de": "frühstücken",
+        "synonyms": [],
+        "description": "German word for 'To eat breakfast'.",
+        "description_de": "Deutsches Wort für 'To eat breakfast'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich putze mir gründlich die Zähne.",
+            "frühstücken",
+            "Ich arbeite konzentriert an meinem Projekt.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To brush teeth",
+        "text_de": "Zähne putzen",
+        "synonyms": [],
+        "description": "German word for 'To brush teeth'.",
+        "description_de": "Deutsches Wort für 'To brush teeth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nach dem Essen spüle ich das Geschirr ab.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "Haare kämmen",
+            "Zähne putzen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To comb hair",
+        "text_de": "Haare kämmen",
+        "synonyms": [],
+        "description": "German word for 'To comb hair'.",
+        "description_de": "Deutsches Wort für 'To comb hair'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zeit vergeht am Nachmittag sehr schnell.",
+            "Wir unterhalten uns über unseren Tag.",
+            "kochen",
+            "Haare kämmen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To go to work",
+        "text_de": "zur Arbeit fahren",
+        "synonyms": [],
+        "description": "German word for 'To go to work'.",
+        "description_de": "Deutsches Wort für 'To go to work'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In der Küche mache ich mir einen starken Kaffee.",
+            "zur Arbeit fahren",
+            "Ich freue mich auf den nächsten Tag.",
+            "Wir unterhalten uns über unseren Tag."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To work",
+        "text_de": "arbeiten",
+        "synonyms": [],
+        "description": "German word for 'To work'.",
+        "description_de": "Deutsches Wort für 'To work'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "arbeiten",
+            "Wir unterhalten uns über unseren Tag.",
+            "Am Wochenende schlafe ich gerne etwas länger.",
+            "Pause machen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To take a break",
+        "text_de": "Pause machen",
+        "synonyms": [],
+        "description": "German word for 'To take a break'.",
+        "description_de": "Deutsches Wort für 'To take a break'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Wochenende schlafe ich gerne etwas länger.",
+            "Ich trinke noch eine Tasse Tee um drei Uhr.",
+            "Pause machen",
+            "Dann gehe ich ins Bad und wasche mich."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To eat lunch",
+        "text_de": "zu Mittag essen",
+        "synonyms": [],
+        "description": "German word for 'To eat lunch'.",
+        "description_de": "Deutsches Wort für 'To eat lunch'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "nach Hause fahren",
+            "Ich gehe oft mit Kollegen in die Kantine.",
+            "zu Mittag essen",
+            "anziehen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To make calls",
+        "text_de": "Telefonate führen",
+        "synonyms": [],
+        "description": "German word for 'To make calls'.",
+        "description_de": "Deutsches Wort für 'To make calls'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zum Abendessen koche ich mir etwas Gesundes.",
+            "Um fünf Uhr ist endlich Feierabend.",
+            "Pause machen",
+            "Telefonate führen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To write emails",
+        "text_de": "E-Mails schreiben",
+        "synonyms": [],
+        "description": "German word for 'To write emails'.",
+        "description_de": "Deutsches Wort für 'To write emails'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "E-Mails schreiben",
+            "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+            "Um ein Uhr geht die Arbeit weiter.",
+            "Ich genieße mein Essen in aller Ruhe."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To finish work",
+        "text_de": "Feierabend machen",
+        "synonyms": [],
+        "description": "German word for 'To finish work'.",
+        "description_de": "Deutsches Wort für 'To finish work'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Feierabend machen",
+            "duschen",
+            "zu Mittag essen",
+            "Ich trinke noch eine Tasse Tee um drei Uhr."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To go home",
+        "text_de": "nach Hause fahren",
+        "synonyms": [],
+        "description": "German word for 'To go home'.",
+        "description_de": "Deutsches Wort für 'To go home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse zum Frühstück meistens ein Müsli.",
+            "Ich trinke noch eine Tasse Tee um drei Uhr.",
+            "Um acht Uhr verlasse ich das Haus.",
+            "nach Hause fahren"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To go shopping",
+        "text_de": "einkaufen gehen",
+        "synonyms": [],
+        "description": "German word for 'To go shopping'.",
+        "description_de": "Deutsches Wort für 'To go shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "aufstehen",
+            "Manchmal hole ich mir nur einen Salat.",
+            "Im Zug lese ich oft ein spannendes Buch.",
+            "einkaufen gehen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To cook",
+        "text_de": "kochen",
+        "synonyms": [],
+        "description": "German word for 'To cook'.",
+        "description_de": "Deutsches Wort für 'To cook'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lege mir die Kleidung für morgen bereit.",
+            "kochen",
+            "Ich lese noch ein paar Seiten in meinem Buch.",
+            "Nach dem Essen gehen wir eine Runde spazieren."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To eat dinner",
+        "text_de": "zu Abend essen",
+        "synonyms": [],
+        "description": "German word for 'To eat dinner'.",
+        "description_de": "Deutsches Wort für 'To eat dinner'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lüfte das Schlafzimmer noch einmal kurz durch.",
+            "Ich lerne jeden Abend ein bisschen Deutsch.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "zu Abend essen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To do sports",
+        "text_de": "Sport machen",
+        "synonyms": [],
+        "description": "German word for 'To do sports'.",
+        "description_de": "Deutsches Wort für 'To do sports'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zähne putzen",
+            "kochen",
+            "Zu Hause angekommen, ziehe ich mich erst mal um.",
+            "Sport machen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To read",
+        "text_de": "lesen",
+        "synonyms": [],
+        "description": "German word for 'To read'.",
+        "description_de": "Deutsches Wort für 'To read'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dann mache ich das Licht aus.",
+            "lesen",
+            "Wir gehen zusammen ins Kino oder in ein Café.",
+            "Zweimal pro Woche gehe ich zum Sport."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To go to sleep",
+        "text_de": "schlafen gehen",
+        "synonyms": [],
+        "description": "German word for 'To go to sleep'.",
+        "description_de": "Deutsches Wort für 'To go to sleep'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe oft mit Kollegen in die Kantine.",
+            "Dann gehe ich sofort ins Badezimmer.",
+            "schlafen gehen",
+            "Ich kaufe dort frisches Obst und Gemüse."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wake up at 6 AM every day.",
+        "text_de": "Ich stehe jeden Tag um 6 Uhr auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dann fahre ich mit der Bahn nach Hause.",
+            "Manchmal hole ich mir nur einen Salat.",
+            "Ich stehe jeden Tag um 6 Uhr auf.",
+            "Der Bus kommt meistens pünktlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My alarm clock rings at 6:30.",
+        "text_de": "Mein Wecker klingelt um halb sieben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Sonntag mache ich gerne einen langen Ausflug.",
+            "Ich jogge gerne im Park in der Nähe.",
+            "Mein Wecker klingelt um halb sieben.",
+            "kochen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I stay in bed for five more minutes.",
+        "text_de": "Ich bleibe noch fünf Minuten im Bett liegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bleibe noch fünf Minuten im Bett liegen.",
+            "Manchmal hole ich mir nur einen Salat.",
+            "lesen",
+            "Sport machen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Then I go straight to the bathroom.",
+        "text_de": "Dann gehe ich sofort ins Badezimmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Nacht und träum was Schönes!",
+            "Zweimal pro Woche gehe ich zum Sport.",
+            "Das hilft mir, vom Arbeitsalltag abzuschalten.",
+            "Dann gehe ich sofort ins Badezimmer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wash my face with cold water.",
+        "text_de": "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+            "frühstücken",
+            "Ich jogge gerne im Park in der Nähe.",
+            "Die frische Luft tut mir sehr gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I brush my teeth thoroughly.",
+        "text_de": "Ich putze mir gründlich die Zähne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse zum Frühstück meistens ein Müsli.",
+            "Feierabend machen",
+            "Ich putze mir gründlich die Zähne.",
+            "Nach dem Essen spüle ich das Geschirr ab."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "After that, I take a hot shower.",
+        "text_de": "Danach nehme ich eine heiße Dusche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Sonntag mache ich gerne einen langen Ausflug.",
+            "Um ein Uhr geht die Arbeit weiter.",
+            "arbeiten",
+            "Danach nehme ich eine heiße Dusche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I dry myself with a soft towel.",
+        "text_de": "Ich trockne mich mit einem weichen Handtuch ab.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trockne mich mit einem weichen Handtuch ab.",
+            "Ich esse zum Frühstück meistens ein Müsli.",
+            "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+            "duschen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I put on a clean shirt.",
+        "text_de": "Ich ziehe mir ein sauberes Hemd an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache es mir auf dem Sofa bequem.",
+            "Ich ziehe mir ein sauberes Hemd an.",
+            "arbeiten",
+            "anziehen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I comb my hair in front of the mirror.",
+        "text_de": "Ich kämme mir die Haare vor dem Spiegel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zuerst begrüße ich meine Kollegen.",
+            "Ich kämme mir die Haare vor dem Spiegel.",
+            "Sport machen",
+            "Wir gehen zusammen ins Kino oder in ein Café."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In the kitchen, I make a strong coffee.",
+        "text_de": "In der Küche mache ich mir einen starken Kaffee.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "frühstücken",
+            "Ich sauge Staub und räume die Küche auf.",
+            "Die frische Luft tut mir sehr gut.",
+            "In der Küche mache ich mir einen starken Kaffee."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I usually eat muesli for breakfast.",
+        "text_de": "Ich esse zum Frühstück meistens ein Müsli.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lüfte das Schlafzimmer noch einmal kurz durch.",
+            "arbeiten",
+            "Ich esse zum Frühstück meistens ein Müsli.",
+            "Manchmal trinke ich zwischendurch ein Glas Wasser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sometimes I bake fresh rolls.",
+        "text_de": "Manchmal backe ich mir frische Brötchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Um zwölf Uhr beginnt meine Mittagspause.",
+            "schlafen gehen",
+            "Ich trinke noch eine Tasse Tee um drei Uhr.",
+            "Manchmal backe ich mir frische Brötchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I read the news on my phone.",
+        "text_de": "Ich lese dabei die Nachrichten auf meinem Handy.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese dabei die Nachrichten auf meinem Handy.",
+            "zu Abend essen",
+            "zur Arbeit fahren",
+            "Dann schalte ich meinen Computer ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I leave the house at 8 o'clock.",
+        "text_de": "Um acht Uhr verlasse ich das Haus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "nach Hause fahren",
+            "Manchmal trinke ich zwischendurch ein Glas Wasser.",
+            "Ich lege mir die Kleidung für morgen bereit.",
+            "Um acht Uhr verlasse ich das Haus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I walk to the bus stop.",
+        "text_de": "Ich gehe zu Fuß zur Bushaltestelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zu Fuß zur Bushaltestelle.",
+            "Ich lerne jeden Abend ein bisschen Deutsch.",
+            "schlafen gehen",
+            "Zuerst begrüße ich meine Kollegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bus usually arrives on time.",
+        "text_de": "Der Bus kommt meistens pünktlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lesen",
+            "Ich wiederhole neue Wörter und Sätze.",
+            "Um acht Uhr verlasse ich das Haus.",
+            "Der Bus kommt meistens pünktlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like listening to music during the ride.",
+        "text_de": "Während der Fahrt höre ich gerne Musik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Nachmittag telefoniere ich mit Kunden.",
+            "Manchmal trinke ich zwischendurch ein Glas Wasser.",
+            "Während der Fahrt höre ich gerne Musik.",
+            "Ich fahre mit dem Rad in den Wald."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I arrive at the office at 8:30.",
+        "text_de": "Ich komme um halb neun im Büro an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Feierabend machen",
+            "schlafen gehen",
+            "Ich komme um halb neun im Büro an.",
+            "Zuerst begrüße ich meine Kollegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "First, I greet my colleagues.",
+        "text_de": "Zuerst begrüße ich meine Kollegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite konzentriert an meinem Projekt.",
+            "Dann gehe ich sofort ins Badezimmer.",
+            "Ich treffe mich auch oft mit meinen Freunden.",
+            "Zuerst begrüße ich meine Kollegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Then I turn on my computer.",
+        "text_de": "Dann schalte ich meinen Computer ein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Um zwölf Uhr beginnt meine Mittagspause.",
+            "Dann schalte ich meinen Computer ein.",
+            "Ich lösche das Licht im ganzen Haus.",
+            "Ich lese dabei die Nachrichten auf meinem Handy."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I read my emails and reply to them.",
+        "text_de": "Ich lese meine E-Mails und antworte darauf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das hilft mir, vom Arbeitsalltag abzuschalten.",
+            "Ich lese meine E-Mails und antworte darauf.",
+            "Ich lerne jeden Abend ein bisschen Deutsch.",
+            "Nach dem Essen gehen wir eine Runde spazieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a short meeting at 10 o'clock.",
+        "text_de": "Um zehn Uhr haben wir eine kurze Besprechung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Um zehn Uhr haben wir eine kurze Besprechung.",
+            "Das hilft mir, vom Arbeitsalltag abzuschalten.",
+            "Ich muss viele Dokumente bearbeiten.",
+            "Im Zug lese ich oft ein spannendes Buch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We plan the tasks for today.",
+        "text_de": "Wir planen die Aufgaben für den heutigen Tag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir planen die Aufgaben für den heutigen Tag.",
+            "Ich lese noch ein paar Seiten in meinem Buch.",
+            "Gute Nacht und träum was Schönes!",
+            "Ich muss viele Dokumente bearbeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I work focused on my project.",
+        "text_de": "Ich arbeite konzentriert an meinem Projekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite konzentriert an meinem Projekt.",
+            "Danach nehme ich eine heiße Dusche.",
+            "frühstücken",
+            "Ich ziehe mir ein sauberes Hemd an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sometimes I drink a glass of water in between.",
+        "text_de": "Manchmal trinke ich zwischendurch ein Glas Wasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf den nächsten Tag.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "Manchmal trinke ich zwischendurch ein Glas Wasser.",
+            "Oft gibt es Gemüse mit Reis oder Nudeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My lunch break starts at 12 o'clock.",
+        "text_de": "Um zwölf Uhr beginnt meine Mittagspause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein gesunder Lebensstil ist mir sehr wichtig.",
+            "In der Küche mache ich mir einen starken Kaffee.",
+            "Um zwölf Uhr beginnt meine Mittagspause.",
+            "Dann schalte ich meinen Computer ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I often go to the canteen with colleagues.",
+        "text_de": "Ich gehe oft mit Kollegen in die Kantine.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "duschen",
+            "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+            "Zweimal pro Woche gehe ich zum Sport.",
+            "Ich gehe oft mit Kollegen in die Kantine."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sometimes I just get a salad.",
+        "text_de": "Manchmal hole ich mir nur einen Salat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lösche das Licht im ganzen Haus.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "Manchmal hole ich mir nur einen Salat.",
+            "Danach fühle ich mich immer sehr erfrischt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "After eating, we go for a walk.",
+        "text_de": "Nach dem Essen gehen wir eine Runde spazieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zuerst begrüße ich meine Kollegen.",
+            "Ich räume meinen Schreibtisch ordentlich auf.",
+            "Nach dem Essen gehen wir eine Runde spazieren.",
+            "Ich lösche das Licht im ganzen Haus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work continues at 1 o'clock.",
+        "text_de": "Um ein Uhr geht die Arbeit weiter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Nacht und träum was Schönes!",
+            "Ich putze mir gründlich die Zähne.",
+            "Telefonate führen",
+            "Um ein Uhr geht die Arbeit weiter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to process many documents.",
+        "text_de": "Ich muss viele Dokumente bearbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss viele Dokumente bearbeiten.",
+            "Dann fahre ich mit der Bahn nach Hause.",
+            "E-Mails schreiben",
+            "Ich lerne jeden Abend ein bisschen Deutsch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In the afternoon, I call customers.",
+        "text_de": "Am Nachmittag telefoniere ich mit Kunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "arbeiten",
+            "Um fünf Uhr ist endlich Feierabend.",
+            "Am Nachmittag telefoniere ich mit Kunden.",
+            "Ich muss viele Dokumente bearbeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I drink another cup of tea at 3 o'clock.",
+        "text_de": "Ich trinke noch eine Tasse Tee um drei Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trinke noch eine Tasse Tee um drei Uhr.",
+            "Um zwölf Uhr beginnt meine Mittagspause.",
+            "Ich lege mir die Kleidung für morgen bereit.",
+            "Am Nachmittag telefoniere ich mit Kunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time goes by very quickly in the afternoon.",
+        "text_de": "Die Zeit vergeht am Nachmittag sehr schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "duschen",
+            "Um acht Uhr verlasse ich das Haus.",
+            "Aber zuerst muss ich noch den Haushalt machen.",
+            "Die Zeit vergeht am Nachmittag sehr schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work is finally over at 5 o'clock.",
+        "text_de": "Um fünf Uhr ist endlich Feierabend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich genieße mein Essen in aller Ruhe.",
+            "Um fünf Uhr ist endlich Feierabend.",
+            "Ich putze mir gründlich die Zähne.",
+            "Ich lege mir die Kleidung für morgen bereit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I tidy up my desk neatly.",
+        "text_de": "Ich räume meinen Schreibtisch ordentlich auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Telefonate führen",
+            "Um fünf Uhr ist endlich Feierabend.",
+            "Ich räume meinen Schreibtisch ordentlich auf.",
+            "Zweimal pro Woche gehe ich zum Sport."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Then I take the train home.",
+        "text_de": "Dann fahre ich mit der Bahn nach Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dann fahre ich mit der Bahn nach Hause.",
+            "Oft gibt es Gemüse mit Reis oder Nudeln.",
+            "Aber zuerst muss ich noch den Haushalt machen.",
+            "schlafen gehen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I often read an exciting book on the train.",
+        "text_de": "Im Zug lese ich oft ein spannendes Buch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf den nächsten Tag.",
+            "Ich fahre mit dem Rad in den Wald.",
+            "Im Zug lese ich oft ein spannendes Buch.",
+            "Dann gehe ich ins Bad und wasche mich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Once home, I change my clothes first.",
+        "text_de": "Zu Hause angekommen, ziehe ich mich erst mal um.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zu Hause angekommen, ziehe ich mich erst mal um.",
+            "Danach fühle ich mich immer sehr erfrischt.",
+            "Ich fahre mit dem Rad in den Wald.",
+            "Feierabend machen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I make myself comfortable on the sofa.",
+        "text_de": "Ich mache es mir auf dem Sofa bequem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das macht mir viel Spaß und ist wichtig.",
+            "Routines sind wichtig für meine Produktivität.",
+            "Danach fühle ich mich immer sehr erfrischt.",
+            "Ich mache es mir auf dem Sofa bequem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "But first, I have to do the housework.",
+        "text_de": "Aber zuerst muss ich noch den Haushalt machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Manchmal backe ich mir frische Brötchen.",
+            "Ich komme um halb neun im Büro an.",
+            "Aber zuerst muss ich noch den Haushalt machen.",
+            "Ich lösche das Licht im ganzen Haus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I vacuum and clean the kitchen.",
+        "text_de": "Ich sauge Staub und räume die Küche auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "zur Arbeit fahren",
+            "Die Zeit vergeht am Nachmittag sehr schnell.",
+            "Um zwölf Uhr beginnt meine Mittagspause.",
+            "Ich sauge Staub und räume die Küche auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go to sports twice a week.",
+        "text_de": "Zweimal pro Woche gehe ich zum Sport.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Routines sind wichtig für meine Produktivität.",
+            "Zweimal pro Woche gehe ich zum Sport.",
+            "Ich wiederhole neue Wörter und Sätze.",
+            "Das hilft mir, vom Arbeitsalltag abzuschalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like jogging in the nearby park.",
+        "text_de": "Ich jogge gerne im Park in der Nähe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich versuche, immer genug Schlaf zu bekommen.",
+            "Wir gehen zusammen ins Kino oder in ein Café.",
+            "Ich jogge gerne im Park in der Nähe.",
+            "Ich bleibe noch fünf Minuten im Bett liegen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "That helps me switch off from the workday.",
+        "text_de": "Das hilft mir, vom Arbeitsalltag abzuschalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Manchmal trinke ich zwischendurch ein Glas Wasser.",
+            "Das hilft mir, vom Arbeitsalltag abzuschalten.",
+            "Die frische Luft tut mir sehr gut.",
+            "Ich räume meinen Schreibtisch ordentlich auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I always feel very refreshed afterwards.",
+        "text_de": "Danach fühle ich mich immer sehr erfrischt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Danach fühle ich mich immer sehr erfrischt.",
+            "Manchmal hole ich mir nur einen Salat.",
+            "Ich räume meinen Schreibtisch ordentlich auf.",
+            "Ich gehe oft mit Kollegen in die Kantine."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I cook something healthy for dinner.",
+        "text_de": "Zum Abendessen koche ich mir etwas Gesundes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zu Hause angekommen, ziehe ich mich erst mal um.",
+            "Mein Tagesablauf ist meistens sehr strukturiert.",
+            "Gute Nacht und träum was Schönes!",
+            "Zum Abendessen koche ich mir etwas Gesundes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Often there is vegetables with rice or pasta.",
+        "text_de": "Oft gibt es Gemüse mit Reis oder Nudeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "arbeiten",
+            "Oft gibt es Gemüse mit Reis oder Nudeln.",
+            "E-Mails schreiben",
+            "nach Hause fahren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I enjoy my meal in peace.",
+        "text_de": "Ich genieße mein Essen in aller Ruhe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Sonntag mache ich gerne einen langen Ausflug.",
+            "Ich versuche, immer genug Schlaf zu bekommen.",
+            "Ich bleibe noch fünf Minuten im Bett liegen.",
+            "Ich genieße mein Essen in aller Ruhe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "After eating, I wash the dishes.",
+        "text_de": "Nach dem Essen spüle ich das Geschirr ab.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse zum Frühstück meistens ein Müsli.",
+            "Manchmal telefoniere ich auch mit meiner Mutter.",
+            "Nach dem Essen spüle ich das Geschirr ab.",
+            "Dann mache ich das Licht aus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Then I watch a series on TV.",
+        "text_de": "Dann schaue ich mir eine Serie im Fernsehen an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Danach nehme ich eine heiße Dusche.",
+            "Dann schaue ich mir eine Serie im Fernsehen an.",
+            "Zu Hause angekommen, ziehe ich mich erst mal um.",
+            "Das macht mir viel Spaß und ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sometimes I also talk to my mother on the phone.",
+        "text_de": "Manchmal telefoniere ich auch mit meiner Mutter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Nacht und träum was Schönes!",
+            "Manchmal telefoniere ich auch mit meiner Mutter.",
+            "Ich fahre mit dem Rad in den Wald.",
+            "Ich komme um halb neun im Büro an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We talk about our day.",
+        "text_de": "Wir unterhalten uns über unseren Tag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir unterhalten uns über unseren Tag.",
+            "Ich lese dabei die Nachrichten auf meinem Handy.",
+            "Ich bleibe noch fünf Minuten im Bett liegen.",
+            "Zähne putzen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I learn a little German every evening.",
+        "text_de": "Ich lerne jeden Abend ein bisschen Deutsch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "anziehen",
+            "Schließlich lege ich mich müde ins Bett.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "Ich lerne jeden Abend ein bisschen Deutsch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I repeat new words and sentences.",
+        "text_de": "Ich wiederhole neue Wörter und Sätze.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dann mache ich das Licht aus.",
+            "Samstags gehe ich oft auf den Markt einkaufen.",
+            "Ich wiederhole neue Wörter und Sätze.",
+            "Das hilft mir, vom Arbeitsalltag abzuschalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a lot of fun and important.",
+        "text_de": "Das macht mir viel Spaß und ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dann fahre ich mit der Bahn nach Hause.",
+            "Manchmal backe ich mir frische Brötchen.",
+            "Samstags gehe ich oft auf den Markt einkaufen.",
+            "Das macht mir viel Spaß und ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "At 10 o'clock I prepare for sleep.",
+        "text_de": "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haare kämmen",
+            "Nach dem Essen gehen wir eine Runde spazieren.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "Im Zug lese ich oft ein spannendes Buch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I get my clothes ready for tomorrow.",
+        "text_de": "Ich lege mir die Kleidung für morgen bereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "schlafen gehen",
+            "Wir unterhalten uns über unseren Tag.",
+            "Ich lege mir die Kleidung für morgen bereit.",
+            "Ich lese meine E-Mails und antworte darauf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Then I go to the bathroom and wash up.",
+        "text_de": "Dann gehe ich ins Bad und wasche mich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dann gehe ich ins Bad und wasche mich.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor.",
+            "Manchmal hole ich mir nur einen Salat.",
+            "Um fünf Uhr ist endlich Feierabend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I turn off the lights in the whole house.",
+        "text_de": "Ich lösche das Licht im ganzen Haus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich versuche, immer genug Schlaf zu bekommen.",
+            "Ich ziehe mir ein sauberes Hemd an.",
+            "Ich lösche das Licht im ganzen Haus.",
+            "Routines sind wichtig für meine Produktivität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I air out the bedroom again briefly.",
+        "text_de": "Ich lüfte das Schlafzimmer noch einmal kurz durch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lüfte das Schlafzimmer noch einmal kurz durch.",
+            "kochen",
+            "Die Zeit vergeht am Nachmittag sehr schnell.",
+            "Ich arbeite konzentriert an meinem Projekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Finally, I lie down tired in bed.",
+        "text_de": "Schließlich lege ich mich müde ins Bett.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sauge Staub und räume die Küche auf.",
+            "Dann mache ich das Licht aus.",
+            "Schließlich lege ich mich müde ins Bett.",
+            "Im Zug lese ich oft ein spannendes Buch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I read a few more pages in my book.",
+        "text_de": "Ich lese noch ein paar Seiten in meinem Buch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schließlich lege ich mich müde ins Bett.",
+            "Ich lese noch ein paar Seiten in meinem Buch.",
+            "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+            "Dann schaue ich mir eine Serie im Fernsehen an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Then I turn off the light.",
+        "text_de": "Dann mache ich das Licht aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf den nächsten Tag.",
+            "Dann mache ich das Licht aus.",
+            "Um ein Uhr geht die Arbeit weiter.",
+            "Samstags gehe ich oft auf den Markt einkaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I usually fall asleep very quickly.",
+        "text_de": "Meistens schlafe ich sehr schnell ein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meistens schlafe ich sehr schnell ein.",
+            "Mein Tagesablauf ist meistens sehr strukturiert.",
+            "Dann mache ich das Licht aus.",
+            "Sport machen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On the weekend I like to sleep a little longer.",
+        "text_de": "Am Wochenende schlafe ich gerne etwas länger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zu Fuß zur Bushaltestelle.",
+            "Am Wochenende schlafe ich gerne etwas länger.",
+            "Im Zug lese ich oft ein spannendes Buch.",
+            "Um zehn Uhr bereite ich mich auf das Schlafen vor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On Saturdays I often go shopping at the market.",
+        "text_de": "Samstags gehe ich oft auf den Markt einkaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Samstags gehe ich oft auf den Markt einkaufen.",
+            "Um fünf Uhr ist endlich Feierabend.",
+            "Meistens schlafe ich sehr schnell ein.",
+            "Dann gehe ich ins Bad und wasche mich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I buy fresh fruit and vegetables there.",
+        "text_de": "Ich kaufe dort frisches Obst und Gemüse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Routines sind wichtig für meine Produktivität.",
+            "Sport machen",
+            "Ich lese noch ein paar Seiten in meinem Buch.",
+            "Ich kaufe dort frisches Obst und Gemüse."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On Sunday I like to take a long trip.",
+        "text_de": "Am Sonntag mache ich gerne einen langen Ausflug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wasche mir mein Gesicht mit kaltem Wasser.",
+            "Am Sonntag mache ich gerne einen langen Ausflug.",
+            "arbeiten",
+            "Dann schalte ich meinen Computer ein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I ride my bike into the forest.",
+        "text_de": "Ich fahre mit dem Rad in den Wald.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich kaufe dort frisches Obst und Gemüse.",
+            "einkaufen gehen",
+            "Ich fahre mit dem Rad in den Wald.",
+            "frühstücken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fresh air is very good for me.",
+        "text_de": "Die frische Luft tut mir sehr gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die frische Luft tut mir sehr gut.",
+            "arbeiten",
+            "Aber zuerst muss ich noch den Haushalt machen.",
+            "Ich putze mir gründlich die Zähne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I also often meet up with my friends.",
+        "text_de": "Ich treffe mich auch oft mit meinen Freunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Manchmal backe ich mir frische Brötchen.",
+            "Am Nachmittag telefoniere ich mit Kunden.",
+            "Zu Hause angekommen, ziehe ich mich erst mal um.",
+            "Ich treffe mich auch oft mit meinen Freunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We go to the cinema or a cafe together.",
+        "text_de": "Wir gehen zusammen ins Kino oder in ein Café.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lerne jeden Abend ein bisschen Deutsch.",
+            "Wir gehen zusammen ins Kino oder in ein Café.",
+            "Ich arbeite konzentriert an meinem Projekt.",
+            "Dann mache ich das Licht aus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My daily routine is mostly very structured.",
+        "text_de": "Mein Tagesablauf ist meistens sehr strukturiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Routines sind wichtig für meine Produktivität.",
+            "Ich lerne jeden Abend ein bisschen Deutsch.",
+            "Dann schalte ich meinen Computer ein.",
+            "Mein Tagesablauf ist meistens sehr strukturiert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Routines are important for my productivity.",
+        "text_de": "Routines sind wichtig für meine Produktivität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Telefonate führen",
+            "Pause machen",
+            "Danach nehme ich eine heiße Dusche.",
+            "Routines sind wichtig für meine Produktivität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I try to always get enough sleep.",
+        "text_de": "Ich versuche, immer genug Schlaf zu bekommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trinke noch eine Tasse Tee um drei Uhr.",
+            "Am Nachmittag telefoniere ich mit Kunden.",
+            "Ich versuche, immer genug Schlaf zu bekommen.",
+            "Ich lese noch ein paar Seiten in meinem Buch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A healthy lifestyle is very important to me.",
+        "text_de": "Ein gesunder Lebensstil ist mir sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Aber zuerst muss ich noch den Haushalt machen.",
+            "Nach dem Essen spüle ich das Geschirr ab.",
+            "Ein gesunder Lebensstil ist mir sehr wichtig.",
+            "Schließlich lege ich mich müde ins Bett."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I look forward to the next day.",
+        "text_de": "Ich freue mich auf den nächsten Tag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich genieße mein Essen in aller Ruhe.",
+            "Haare kämmen",
+            "Ich freue mich auf den nächsten Tag.",
+            "Nach dem Essen gehen wir eine Runde spazieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good night and dream something nice!",
+        "text_de": "Gute Nacht und träum was Schönes!",
+        "synonyms": [],
+        "description": "Example sentence for 'Daily Routine'.",
+        "description_de": "Beispielsatz für 'Daily Routine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gute Nacht und träum was Schönes!",
+            "Ich gehe oft mit Kollegen in die Kantine.",
+            "Ich jogge gerne im Park in der Nähe.",
+            "Um zwölf Uhr beginnt meine Mittagspause."
+        ]
+    }
+]

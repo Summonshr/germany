@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The philosophy",
+        "text_de": "die Philosophie",
+        "synonyms": [],
+        "description": "German word for 'The philosophy'.",
+        "description_de": "Deutsches Wort für 'The philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zweifel ist der Anfang der Weisheit.",
+            "die Philosophie",
+            "Die Würde des Menschen ist unantastbar.",
+            "Lebe ein sinnvolles Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The philosopher",
+        "text_de": "der Philosoph",
+        "synonyms": [],
+        "description": "German word for 'The philosopher'.",
+        "description_de": "Deutsches Wort für 'The philosopher'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Philosoph",
+            "denken",
+            "Glück findet man im Inneren.",
+            "Gibt es ein Leben nach dem Tod?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The thought",
+        "text_de": "der Gedanke",
+        "synonyms": [],
+        "description": "German word for 'The thought'.",
+        "description_de": "Deutsches Wort für 'The thought'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltigkeit ist eine ethische Pflicht.",
+            "der Gedanke",
+            "Die Natur ist eine Quelle der Weisheit.",
+            "die Philosophie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The idea",
+        "text_de": "die Idee",
+        "synonyms": [],
+        "description": "German word for 'The idea'.",
+        "description_de": "Deutsches Wort für 'The idea'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Idee",
+            "Was macht ein 'gutes Leben' aus?",
+            "Füge anderen keinen Schaden zu.",
+            "die Vernunft"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The reason",
+        "text_de": "die Vernunft",
+        "synonyms": [],
+        "description": "German word for 'The reason'.",
+        "description_de": "Deutsches Wort für 'The reason'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin fasziniert von den alten Griechen.",
+            "Geist und Körper sind miteinander verbunden.",
+            "Logik ist das Werkzeug der philosophischen Analyse.",
+            "die Vernunft"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The logic",
+        "text_de": "die Logik",
+        "synonyms": [],
+        "description": "German word for 'The logic'.",
+        "description_de": "Deutsches Wort für 'The logic'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Höre zu, bevor du sprichst.",
+            "Die Schönheit liegt im Auge des Betrachters.",
+            "Die Ethik befasst sich mit der Frage nach Richtig und Falsch.",
+            "die Logik"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ethics",
+        "text_de": "die Ethik",
+        "synonyms": [],
+        "description": "German word for 'The ethics'.",
+        "description_de": "Deutsches Wort für 'The ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philosophie ist die Liebe zur Weisheit.",
+            "die Ethik",
+            "Ein Dialog ist besser als Monologe.",
+            "Respektiere die Umwelt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The morality",
+        "text_de": "die Moral",
+        "synonyms": [],
+        "description": "German word for 'The morality'.",
+        "description_de": "Deutsches Wort für 'The morality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Moral",
+            "Karma ist das Gesetz von Ursache und Wirkung.",
+            "Denk für dich selbst.",
+            "Ich bin fasziniert von den alten Griechen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The truth",
+        "text_de": "die Wahrheit",
+        "synonyms": [],
+        "description": "German word for 'The truth'.",
+        "description_de": "Deutsches Wort für 'The truth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Determinismus sagt, alles ist festgelegt.",
+            "die Existenz",
+            "die Wahrheit",
+            "Die Seele ist unsterblich, sagen einige."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The existence",
+        "text_de": "die Existenz",
+        "synonyms": [],
+        "description": "German word for 'The existence'.",
+        "description_de": "Deutsches Wort für 'The existence'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Existenz",
+            "Das Höhlengleichnis von Platon.",
+            "der Philosoph",
+            "Glaube gibt den Menschen Hoffnung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The meaning",
+        "text_de": "der Sinn",
+        "synonyms": [],
+        "description": "German word for 'The meaning'.",
+        "description_de": "Deutsches Wort für 'The meaning'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich denke, also bin ich.",
+            "Jeder Mensch ist eine eigene Welt.",
+            "Ich habe eine neue Idee für unser Projekt.",
+            "der Sinn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The wisdom",
+        "text_de": "die Weisheit",
+        "synonyms": [],
+        "description": "German word for 'The wisdom'.",
+        "description_de": "Deutsches Wort für 'The wisdom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ethik",
+            "Materieller Reichtum ist vorübergehend.",
+            "die Weisheit",
+            "Eine Frage kann wichtiger sein als eine Antwort."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The reality",
+        "text_de": "die Realität",
+        "synonyms": [],
+        "description": "German word for 'The reality'.",
+        "description_de": "Deutsches Wort für 'The reality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gleichheit ist ein Grundrecht.",
+            "die Realität",
+            "Künstliche Intelligenz und Bewusstsein.",
+            "Das Höhlengleichnis von Platon."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The consciousness",
+        "text_de": "das Bewusstsein",
+        "synonyms": [],
+        "description": "German word for 'The consciousness'.",
+        "description_de": "Deutsches Wort für 'The consciousness'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die moderne Philosophie befasst sich mit Technologie und Ethik.",
+            "das Bewusstsein",
+            "Alles fließt.",
+            "Materieller Reichtum ist vorübergehend."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The value",
+        "text_de": "der Wert",
+        "synonyms": [],
+        "description": "German word for 'The value'.",
+        "description_de": "Deutsches Wort für 'The value'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist unsere Realität nur eine Illusion?",
+            "Das Bewusstsein ist ein Rätsel für die Wissenschaft.",
+            "der Wert",
+            "Die Ethik befasst sich mit der Frage nach Richtig und Falsch."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The doubt",
+        "text_de": "der Zweifel",
+        "synonyms": [],
+        "description": "German word for 'The doubt'.",
+        "description_de": "Deutsches Wort für 'The doubt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Natur ist eine Quelle der Weisheit.",
+            "der Zweifel",
+            "der Gedanke",
+            "Geist und Körper sind miteinander verbunden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The belief",
+        "text_de": "der Glaube",
+        "synonyms": [],
+        "description": "German word for 'The belief'.",
+        "description_de": "Deutsches Wort für 'The belief'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es ein Leben nach dem Tod?",
+            "Ich bin fasziniert von den alten Griechen.",
+            "Ich suche nach dem Sinn des Lebens.",
+            "der Glaube"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To think",
+        "text_de": "denken",
+        "synonyms": [],
+        "description": "German word for 'To think'.",
+        "description_de": "Deutsches Wort für 'To think'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Bewusstsein ist ein Rätsel für die Wissenschaft.",
+            "Denk für dich selbst.",
+            "Ich versuche, die Welt zu verstehen.",
+            "denken"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To question",
+        "text_de": "hinterfragen",
+        "synonyms": [],
+        "description": "German word for 'To question'.",
+        "description_de": "Deutsches Wort für 'To question'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zweifel",
+            "hinterfragen",
+            "Der Sinn der Existenz ist eine tiefe Frage.",
+            "Die Ethik der Gentechnik."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To understand",
+        "text_de": "verstehen",
+        "synonyms": [],
+        "description": "German word for 'To understand'.",
+        "description_de": "Deutsches Wort für 'To understand'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ethik befasst sich mit der Frage nach Richtig und Falsch.",
+            "die Moral",
+            "verstehen",
+            "Was macht ein 'gutes Leben' aus?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Philosophy is the love of wisdom.",
+        "text_de": "Philosophie ist die Liebe zur Weisheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lebe ein sinnvolles Leben.",
+            "die Existenz",
+            "Philosophie ist die Liebe zur Weisheit.",
+            "der Zweifel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Socrates was a famous Greek philosopher.",
+        "text_de": "Sokrates war ein berühmter griechischer Philosoph.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Natur ist eine Quelle der Weisheit.",
+            "Sokrates war ein berühmter griechischer Philosoph.",
+            "denken",
+            "Empathie ist die Basis der Sozialethik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Thinking is the first step to understanding.",
+        "text_de": "Denken ist der erste Schritt zum Verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Denken ist der erste Schritt zum Verstehen.",
+            "Macht neigt dazu, zu korrumpieren.",
+            "der Glaube",
+            "Die Ethik der Gentechnik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a new idea for our project.",
+        "text_de": "Ich habe eine neue Idee für unser Projekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verstehen",
+            "Ich habe eine neue Idee für unser Projekt.",
+            "Ich versuche, die Welt zu verstehen.",
+            "die Ethik"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human reason distinguishes us from animals.",
+        "text_de": "Die menschliche Vernunft unterscheidet uns von den Tieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sinn der Existenz ist eine tiefe Frage.",
+            "Die menschliche Vernunft unterscheidet uns von den Tieren.",
+            "die Realität",
+            "der Gedanke"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Logic is the tool of philosophical analysis.",
+        "text_de": "Logik ist das Werkzeug der philosophischen Analyse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Logik ist das Werkzeug der philosophischen Analyse.",
+            "Die Würde des Menschen ist unantastbar.",
+            "Folge der Menge nicht blind.",
+            "der Zweifel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethics deals with the question of right and wrong.",
+        "text_de": "Die Ethik befasst sich mit der Frage nach Richtig und Falsch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ethik befasst sich mit der Frage nach Richtig und Falsch.",
+            "Die Seele ist unsterblich, sagen einige.",
+            "Der Sinn der Existenz ist eine tiefe Frage.",
+            "Die goldene Regel: Behandle andere so, wie du selbst behandelt werden möchtest."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Morality depends on cultural context.",
+        "text_de": "Moral ist vom kulturellen Kontext abhängig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philosophie ist die Liebe zur Weisheit.",
+            "Die goldene Regel: Behandle andere so, wie du selbst behandelt werden möchtest.",
+            "Moral ist vom kulturellen Kontext abhängig.",
+            "Höre zu, bevor du sprichst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there an objective truth?",
+        "text_de": "Gibt es eine objektive Wahrheit?",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moral ist vom kulturellen Kontext abhängig.",
+            "Wir sind verantwortlich für unseren Planeten.",
+            "Gibt es eine objektive Wahrheit?",
+            "Jeder Mensch ist eine eigene Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The meaning of existence is a deep question.",
+        "text_de": "Der Sinn der Existenz ist eine tiefe Frage.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sinn der Existenz ist eine tiefe Frage.",
+            "die Weisheit",
+            "denken",
+            "Eine Frage kann wichtiger sein als eine Antwort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for the meaning of life.",
+        "text_de": "Ich suche nach dem Sinn des Lebens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne von den großen Denkern der Vergangenheit.",
+            "Ich suche nach dem Sinn des Lebens.",
+            "Gerechtigkeit ist Fairness für jeden.",
+            "der Philosoph"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wisdom comes through experience and reflection.",
+        "text_de": "Weisheit kommt durch Erfahrung und Nachdenken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Bewusstsein ist ein Rätsel für die Wissenschaft.",
+            "Wir sind verantwortlich für unseren Planeten.",
+            "Füge anderen keinen Schaden zu.",
+            "Weisheit kommt durch Erfahrung und Nachdenken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is our reality just an illusion?",
+        "text_de": "Ist unsere Realität nur eine Illusion?",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "hinterfragen",
+            "Philosophische Diskussionen können sehr tief sein.",
+            "Ist unsere Realität nur eine Illusion?",
+            "Gerechtigkeit ist Fairness für jeden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Consciousness is a mystery for science.",
+        "text_de": "Das Bewusstsein ist ein Rätsel für die Wissenschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stille ist manchmal die beste Antwort.",
+            "Ich denke, also bin ich.",
+            "Das Bewusstsein ist ein Rätsel für die Wissenschaft.",
+            "Bleib neugierig und frag weiter 'warum'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are your core values?",
+        "text_de": "Was sind deine Kernwerte?",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was sind deine Kernwerte?",
+            "Ich versuche, die Welt zu verstehen.",
+            "Gleichheit ist ein Grundrecht.",
+            "Bleib bescheiden und aufgeschlossen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Doubt is the beginning of wisdom.",
+        "text_de": "Zweifel ist der Anfang der Weisheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sokrates war ein berühmter griechischer Philosoph.",
+            "Lerne von den großen Denkern der Vergangenheit.",
+            "Zweifel ist der Anfang der Weisheit.",
+            "Philosophie ist die Liebe zur Weisheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Belief gives people hope.",
+        "text_de": "Glaube gibt den Menschen Hoffnung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die deutsche Philosophie hat eine lange Tradition.",
+            "Die Würde des Menschen ist unantastbar.",
+            "Geist und Körper sind miteinander verbunden.",
+            "Glaube gibt den Menschen Hoffnung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I think, therefore I am.",
+        "text_de": "Ich denke, also bin ich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich denke, also bin ich.",
+            "Moral ist vom kulturellen Kontext abhängig.",
+            "Philosophie ist die Liebe zur Weisheit.",
+            "Ich versuche, die Welt zu verstehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must question our assumptions.",
+        "text_de": "Wir müssen unsere Annahmen hinterfragen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen unsere Annahmen hinterfragen.",
+            "Lerne von den großen Denkern der Vergangenheit.",
+            "Gibt es eine objektive Wahrheit?",
+            "der Sinn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm trying to understand the world.",
+        "text_de": "Ich versuche, die Welt zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philosophie hilft uns, eine bessere Welt aufzubauen.",
+            "Ist unsere Realität nur eine Illusion?",
+            "Die Schönheit liegt im Auge des Betrachters.",
+            "Ich versuche, die Welt zu verstehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Kant wrote about pure reason.",
+        "text_de": "Kant schrieb über die reine Vernunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Gedanke",
+            "das Bewusstsein",
+            "hinterfragen",
+            "Kant schrieb über die reine Vernunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "German philosophy has a long tradition.",
+        "text_de": "Die deutsche Philosophie hat eine lange Tradition.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Macht neigt dazu, zu korrumpieren.",
+            "Frieden ist mehr als die Abwesenheit von Krieg.",
+            "Die deutsche Philosophie hat eine lange Tradition.",
+            "Ein Dialog ist besser als Monologe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nietzsche was a very controversial philosopher.",
+        "text_de": "Nietzsche war ein sehr umstrittener Philosoph.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nietzsche war ein sehr umstrittener Philosoph.",
+            "Höre zu, bevor du sprichst.",
+            "Philosophische Diskussionen können sehr tief sein.",
+            "Weisheit kommt durch Erfahrung und Nachdenken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom of will is a central topic.",
+        "text_de": "Willensfreiheit ist ein zentrales Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche nach dem Sinn des Lebens.",
+            "Der Sinn der Existenz ist eine tiefe Frage.",
+            "Stoizismus lehrt uns, ruhig zu bleiben.",
+            "Willensfreiheit ist ein zentrales Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Determinism says everything is fixed.",
+        "text_de": "Determinismus sagt, alles ist festgelegt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Determinismus sagt, alles ist festgelegt.",
+            "Respektiere die Umwelt.",
+            "Jeder Mensch ist eine eigene Welt.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stoicism teaches us to stay calm.",
+        "text_de": "Stoizismus lehrt uns, ruhig zu bleiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Umwelt.",
+            "der Sinn",
+            "Die Seele ist unsterblich, sagen einige.",
+            "Stoizismus lehrt uns, ruhig zu bleiben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cave allegory of Plato.",
+        "text_de": "Das Höhlengleichnis von Platon.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder Mensch ist eine eigene Welt.",
+            "Determinismus sagt, alles ist festgelegt.",
+            "Gleichheit ist ein Grundrecht.",
+            "Das Höhlengleichnis von Platon."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Philosophy challenges our everyday thinking.",
+        "text_de": "Philosophie fordert unser alltägliches Denken heraus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Macht neigt dazu, zu korrumpieren.",
+            "Jeder Mensch ist eine eigene Welt.",
+            "Philosophie fordert unser alltägliches Denken heraus.",
+            "Ich lese gerne philosophische Bücher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there life after death?",
+        "text_de": "Gibt es ein Leben nach dem Tod?",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen erhöht unsere Verantwortung.",
+            "Einheit in Vielfalt.",
+            "Gibt es ein Leben nach dem Tod?",
+            "Folge der Menge nicht blind."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Karma is the law of cause and effect.",
+        "text_de": "Karma ist das Gesetz von Ursache und Wirkung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Karma ist das Gesetz von Ursache und Wirkung.",
+            "Glaube gibt den Menschen Hoffnung.",
+            "Ich suche nach dem Sinn des Lebens.",
+            "denken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Empathy is the basis of social ethics.",
+        "text_de": "Empathie ist die Basis der Sozialethik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Empathie ist die Basis der Sozialethik.",
+            "Die menschliche Vernunft unterscheidet uns von den Tieren.",
+            "Denk für dich selbst.",
+            "Die Ethik der Gentechnik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Power tends to corrupt.",
+        "text_de": "Macht neigt dazu, zu korrumpieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist unsere Realität nur eine Illusion?",
+            "Gleichheit ist ein Grundrecht.",
+            "Philosophische Diskussionen können sehr tief sein.",
+            "Macht neigt dazu, zu korrumpieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Justice is fairness for everyone.",
+        "text_de": "Gerechtigkeit ist Fairness für jeden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gerechtigkeit ist Fairness für jeden.",
+            "Zweifel ist der Anfang der Weisheit.",
+            "Folge der Menge nicht blind.",
+            "Die deutsche Philosophie hat eine lange Tradition."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The beauty is in the eye of the beholder.",
+        "text_de": "Die Schönheit liegt im Auge des Betrachters.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen erhöht unsere Verantwortung.",
+            "Alles fließt.",
+            "Die Schönheit liegt im Auge des Betrachters.",
+            "Bleib bescheiden und aufgeschlossen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time is relative.",
+        "text_de": "Zeit ist relativ.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zukünftige Generationen werden uns beurteilen.",
+            "die Existenz",
+            "Ich habe eine neue Idee für unser Projekt.",
+            "Zeit ist relativ."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge increases our responsibility.",
+        "text_de": "Wissen erhöht unsere Verantwortung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles fließt.",
+            "Eine Frage kann wichtiger sein als eine Antwort.",
+            "Zukünftige Generationen werden uns beurteilen.",
+            "Wissen erhöht unsere Verantwortung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peace is more than the absence of war.",
+        "text_de": "Frieden ist mehr als die Abwesenheit von Krieg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wahrheit",
+            "Frieden ist mehr als die Abwesenheit von Krieg.",
+            "der Wert",
+            "Willensfreiheit ist ein zentrales Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I enjoy reading philosophical books.",
+        "text_de": "Ich lese gerne philosophische Bücher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philosophie ist die Liebe zur Weisheit.",
+            "Lasst uns weiter die großen Fragen erforschen.",
+            "Das Höhlengleichnis von Platon.",
+            "Ich lese gerne philosophische Bücher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A dialogue is better than monologues.",
+        "text_de": "Ein Dialog ist besser als Monologe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Seele ist unsterblich, sagen einige.",
+            "Philosophie ist für jeden da, nicht nur für Akademiker.",
+            "Die Natur ist eine Quelle der Weisheit.",
+            "Ein Dialog ist besser als Monologe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn from the great thinkers of the past.",
+        "text_de": "Lerne von den großen Denkern der Vergangenheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ethik",
+            "Logik ist das Werkzeug der philosophischen Analyse.",
+            "hinterfragen",
+            "Lerne von den großen Denkern der Vergangenheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Philosophy is for everyone, not just for academics.",
+        "text_de": "Philosophie ist für jeden da, nicht nur für Akademiker.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich denke, also bin ich.",
+            "Philosophie ist für jeden da, nicht nur für Akademiker.",
+            "Denken ist der erste Schritt zum Verstehen.",
+            "die Ethik"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay curious and keep asking 'why'.",
+        "text_de": "Bleib neugierig und frag weiter 'warum'.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gerechtigkeit ist Fairness für jeden.",
+            "Gibt es ein Leben nach dem Tod?",
+            "Bleib neugierig und frag weiter 'warum'.",
+            "Stille ist manchmal die beste Antwort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The soul is immortal, according to some.",
+        "text_de": "Die Seele ist unsterblich, sagen einige.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hab keine Angst vor der Wahrheit.",
+            "Was sind deine Kernwerte?",
+            "Die Seele ist unsterblich, sagen einige.",
+            "Einheit in Vielfalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mind and body are connected.",
+        "text_de": "Geist und Körper sind miteinander verbunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geist und Körper sind miteinander verbunden.",
+            "Wir sind verantwortlich für unseren Planeten.",
+            "Höre zu, bevor du sprichst.",
+            "Nietzsche war ein sehr umstrittener Philosoph."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do no harm to others.",
+        "text_de": "Füge anderen keinen Schaden zu.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ethik befasst sich mit der Frage nach Richtig und Falsch.",
+            "Philosophie fordert unser alltägliches Denken heraus.",
+            "Höre zu, bevor du sprichst.",
+            "Füge anderen keinen Schaden zu."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Equality is a fundamental right.",
+        "text_de": "Gleichheit ist ein Grundrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Glaube",
+            "der Sinn",
+            "die Wahrheit",
+            "Gleichheit ist ein Grundrecht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human dignity is inviolable.",
+        "text_de": "Die Würde des Menschen ist unantastbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Logik ist das Werkzeug der philosophischen Analyse.",
+            "Die Würde des Menschen ist unantastbar.",
+            "Die Ethik der Gentechnik.",
+            "Die menschliche Vernunft unterscheidet uns von den Tieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are responsible for our planet.",
+        "text_de": "Wir sind verantwortlich für unseren Planeten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir sind verantwortlich für unseren Planeten.",
+            "der Glaube",
+            "Die Schönheit liegt im Auge des Betrachters.",
+            "Gerechtigkeit ist Fairness für jeden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future is uncertain but full of potential.",
+        "text_de": "Die Zukunft ist ungewiss, aber voller Potenzial.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ethik",
+            "der Zweifel",
+            "Die Zukunft ist ungewiss, aber voller Potenzial.",
+            "Ich denke, also bin ich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be the master of your own thoughts.",
+        "text_de": "Sei der Herr deiner eigenen Gedanken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ehrlichkeit beginnt bei dir selbst.",
+            "Denk für dich selbst.",
+            "Sei der Herr deiner eigenen Gedanken.",
+            "Philosophie fordert unser alltägliches Denken heraus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't follow the crowd blindly.",
+        "text_de": "Folge der Menge nicht blind.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen ist das beste Gut.",
+            "Gerechtigkeit ist Fairness für jeden.",
+            "Folge der Menge nicht blind.",
+            "Frieden ist mehr als die Abwesenheit von Krieg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Think for yourself.",
+        "text_de": "Denk für dich selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die goldene Regel: Behandle andere so, wie du selbst behandelt werden möchtest.",
+            "Ehrlichkeit beginnt bei dir selbst.",
+            "der Zweifel",
+            "Denk für dich selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honesty starts with yourself.",
+        "text_de": "Ehrlichkeit beginnt bei dir selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Seele ist unsterblich, sagen einige.",
+            "Die Ethik der Gentechnik.",
+            "Füge anderen keinen Schaden zu.",
+            "Ehrlichkeit beginnt bei dir selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything is in flux.",
+        "text_de": "Alles fließt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Denken ist der erste Schritt zum Verstehen.",
+            "Alles fließt.",
+            "die Wahrheit",
+            "Karma ist das Gesetz von Ursache und Wirkung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The golden rule: treat others as you want to be treated.",
+        "text_de": "Die goldene Regel: Behandle andere so, wie du selbst behandelt werden möchtest.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns weiter die großen Fragen erforschen.",
+            "Die goldene Regel: Behandle andere so, wie du selbst behandelt werden möchtest.",
+            "der Wert",
+            "Einheit in Vielfalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Happiness is found within.",
+        "text_de": "Glück findet man im Inneren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philosophie ist die Liebe zur Weisheit.",
+            "Glück findet man im Inneren.",
+            "Wissen erhöht unsere Verantwortung.",
+            "Ich habe eine neue Idee für unser Projekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Material wealth is temporary.",
+        "text_de": "Materieller Reichtum ist vorübergehend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Materieller Reichtum ist vorübergehend.",
+            "Weisheit kommt durch Erfahrung und Nachdenken.",
+            "die Realität",
+            "Gibt es ein Leben nach dem Tod?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is the best asset.",
+        "text_de": "Wissen ist das beste Gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Willensfreiheit ist ein zentrales Thema.",
+            "Ich lese gerne philosophische Bücher.",
+            "Denken ist der erste Schritt zum Verstehen.",
+            "Wissen ist das beste Gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Philosophy helps us build a better world.",
+        "text_de": "Philosophie hilft uns, eine bessere Welt aufzubauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tugend ist ihr eigener Lohn.",
+            "denken",
+            "Gibt es eine objektive Wahrheit?",
+            "Philosophie hilft uns, eine bessere Welt aufzubauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay humble and open-minded.",
+        "text_de": "Bleib bescheiden und aufgeschlossen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Folge der Menge nicht blind.",
+            "Ich lese gerne philosophische Bücher.",
+            "Determinismus sagt, alles ist festgelegt.",
+            "Bleib bescheiden und aufgeschlossen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature is a source of wisdom.",
+        "text_de": "Die Natur ist eine Quelle der Weisheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Philosophie ist für jeden da, nicht nur für Akademiker.",
+            "die Ethik",
+            "Die Natur ist eine Quelle der Weisheit.",
+            "Macht neigt dazu, zu korrumpieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Silence is sometimes the best answer.",
+        "text_de": "Stille ist manchmal die beste Antwort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stille ist manchmal die beste Antwort.",
+            "Bleib neugierig und frag weiter 'warum'.",
+            "Glaube gibt den Menschen Hoffnung.",
+            "Das Höhlengleichnis von Platon."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Listen before you speak.",
+        "text_de": "Höre zu, bevor du sprichst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hab keine Angst vor der Wahrheit.",
+            "Stoizismus lehrt uns, ruhig zu bleiben.",
+            "Höre zu, bevor du sprichst.",
+            "Was sind deine Kernwerte?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every person is a world of their own.",
+        "text_de": "Jeder Mensch ist eine eigene Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geist und Körper sind miteinander verbunden.",
+            "Jeder Mensch ist eine eigene Welt.",
+            "Die Ethik befasst sich mit der Frage nach Richtig und Falsch.",
+            "Die Suche nach Antworten ist eine Reise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Unity in diversity.",
+        "text_de": "Einheit in Vielfalt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns weiter die großen Fragen erforschen.",
+            "der Sinn",
+            "Karma ist das Gesetz von Ursache und Wirkung.",
+            "Einheit in Vielfalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the environment.",
+        "text_de": "Respektiere die Umwelt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Umwelt.",
+            "die Logik",
+            "Alles fließt.",
+            "Ich suche nach dem Sinn des Lebens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainability is an ethical duty.",
+        "text_de": "Nachhaltigkeit ist eine ethische Pflicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese gerne philosophische Bücher.",
+            "Philosophie ist für jeden da, nicht nur für Akademiker.",
+            "Stille ist manchmal die beste Antwort.",
+            "Nachhaltigkeit ist eine ethische Pflicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Future generations will judge us.",
+        "text_de": "Zukünftige Generationen werden uns beurteilen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einheit in Vielfalt.",
+            "Ich lese gerne philosophische Bücher.",
+            "Zukünftige Generationen werden uns beurteilen.",
+            "Materieller Reichtum ist vorübergehend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Live a meaningful life.",
+        "text_de": "Lebe ein sinnvolles Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen unsere Annahmen hinterfragen.",
+            "Empathie ist die Basis der Sozialethik.",
+            "Lebe ein sinnvolles Leben.",
+            "Die moderne Philosophie befasst sich mit Technologie und Ethik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What makes a 'good life'?",
+        "text_de": "Was macht ein 'gutes Leben' aus?",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zeit ist relativ.",
+            "Alles fließt.",
+            "Denk für dich selbst.",
+            "Was macht ein 'gutes Leben' aus?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Virtue is its own reward.",
+        "text_de": "Tugend ist ihr eigener Lohn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tugend ist ihr eigener Lohn.",
+            "Ich habe eine neue Idee für unser Projekt.",
+            "Gibt es eine objektive Wahrheit?",
+            "Jeder Mensch ist eine eigene Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't be afraid of the truth.",
+        "text_de": "Hab keine Angst vor der Wahrheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "denken",
+            "Hab keine Angst vor der Wahrheit.",
+            "die Vernunft",
+            "der Sinn"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Searching for answers is a journey.",
+        "text_de": "Die Suche nach Antworten ist eine Reise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Wert",
+            "Die Suche nach Antworten ist eine Reise.",
+            "Kant schrieb über die reine Vernunft.",
+            "Ehrlichkeit beginnt bei dir selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A question can be more important than an answer.",
+        "text_de": "Eine Frage kann wichtiger sein als eine Antwort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Frage kann wichtiger sein als eine Antwort.",
+            "Höre zu, bevor du sprichst.",
+            "Ich versuche, die Welt zu verstehen.",
+            "Was macht ein 'gutes Leben' aus?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Philosophical discussions can be very deep.",
+        "text_de": "Philosophische Diskussionen können sehr tief sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Determinismus sagt, alles ist festgelegt.",
+            "Philosophische Diskussionen können sehr tief sein.",
+            "Wir müssen unsere Annahmen hinterfragen.",
+            "denken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm fascinated by the ancient Greeks.",
+        "text_de": "Ich bin fasziniert von den alten Griechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin fasziniert von den alten Griechen.",
+            "Tugend ist ihr eigener Lohn.",
+            "Philosophie ist für jeden da, nicht nur für Akademiker.",
+            "Ich versuche, die Welt zu verstehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Modern philosophy addresses technology and ethics.",
+        "text_de": "Die moderne Philosophie befasst sich mit Technologie und Ethik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was macht ein 'gutes Leben' aus?",
+            "der Glaube",
+            "Die moderne Philosophie befasst sich mit Technologie und Ethik.",
+            "Lerne von den großen Denkern der Vergangenheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Artificial intelligence and consciousness.",
+        "text_de": "Künstliche Intelligenz und Bewusstsein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Höre zu, bevor du sprichst.",
+            "Logik ist das Werkzeug der philosophischen Analyse.",
+            "Künstliche Intelligenz und Bewusstsein.",
+            "Die Zukunft ist ungewiss, aber voller Potenzial."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ethics of genetic engineering.",
+        "text_de": "Die Ethik der Gentechnik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir sind verantwortlich für unseren Planeten.",
+            "Die Ethik der Gentechnik.",
+            "Alles fließt.",
+            "Philosophie hilft uns, eine bessere Welt aufzubauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's continue to explore the big questions.",
+        "text_de": "Lasst uns weiter die großen Fragen erforschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Philosophy'.",
+        "description_de": "Beispielsatz für 'Philosophy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich versuche, die Welt zu verstehen.",
+            "Die moderne Philosophie befasst sich mit Technologie und Ethik.",
+            "Lasst uns weiter die großen Fragen erforschen.",
+            "Bleib neugierig und frag weiter 'warum'."
+        ]
+    }
+]

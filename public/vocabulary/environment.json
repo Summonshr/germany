@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The environment",
+        "text_de": "die Umwelt",
+        "synonyms": [],
+        "description": "German word for 'The environment'.",
+        "description_de": "Deutsches Wort für 'The environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Umwelt",
+            "Wassersparen ist im Sommer unerlässlich.",
+            "Recycling hilft, Ressourcen zu sparen.",
+            "die Erde"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The nature",
+        "text_de": "die Natur",
+        "synonyms": [],
+        "description": "German word for 'The nature'.",
+        "description_de": "Deutsches Wort für 'The nature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Verschmutzung",
+            "Der CO2-Fußabdruck sollte minimiert werden.",
+            "die Natur",
+            "der Baum"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The climate",
+        "text_de": "das Klima",
+        "synonyms": [],
+        "description": "German word for 'The climate'.",
+        "description_de": "Deutsches Wort für 'The climate'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wasche deine Kleidung bei niedrigen Temperaturen.",
+            "die Blume",
+            "das Klima",
+            "Ökologische Landwirtschaft ist besser für den Boden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The earth",
+        "text_de": "die Erde",
+        "synonyms": [],
+        "description": "German word for 'The earth'.",
+        "description_de": "Deutsches Wort für 'The earth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, in den Bergen zu wandern.",
+            "Kompostieren reduziert den Hausmüll.",
+            "Bäume produzieren den Sauerstoff, den wir atmen.",
+            "die Erde"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The water",
+        "text_de": "das Wasser",
+        "synonyms": [],
+        "description": "German word for 'The water'.",
+        "description_de": "Deutsches Wort für 'The water'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erde ist unser einziges Zuhause.",
+            "das Wasser",
+            "Die Stille des Waldes ist beruhigend.",
+            "Recycling hilft, Ressourcen zu sparen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The air",
+        "text_de": "die Luft",
+        "synonyms": [],
+        "description": "German word for 'The air'.",
+        "description_de": "Deutsches Wort für 'The air'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, in den Bergen zu wandern.",
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "die Luft",
+            "Rettet die Wale!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The forest",
+        "text_de": "der Wald",
+        "synonyms": [],
+        "description": "German word for 'The forest'.",
+        "description_de": "Deutsches Wort für 'The forest'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf meinen kleinen Garten.",
+            "der Berg",
+            "der Wald",
+            "Ich vermeide Kurzstreckenflüge."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tree",
+        "text_de": "der Baum",
+        "synonyms": [],
+        "description": "German word for 'The tree'.",
+        "description_de": "Deutsches Wort für 'The tree'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Übergang zu grüner Energie findet jetzt statt.",
+            "der Baum",
+            "Die Wüste ist eine raue Umgebung.",
+            "Wasserkraft ist eine weitere Quelle für Ökostrom."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The flower",
+        "text_de": "die Blume",
+        "synonyms": [],
+        "description": "German word for 'The flower'.",
+        "description_de": "Deutsches Wort für 'The flower'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Wasser",
+            "Spare Energie, indem du das Licht ausschaltest.",
+            "der Müll",
+            "die Blume"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The animal",
+        "text_de": "das Tier",
+        "synonyms": [],
+        "description": "German word for 'The animal'.",
+        "description_de": "Deutsches Wort für 'The animal'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Tier",
+            "die Natur",
+            "Pestizide können Bienen schaden.",
+            "Der CO2-Fußabdruck sollte minimiert werden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The pollution",
+        "text_de": "die Verschmutzung",
+        "synonyms": [],
+        "description": "German word for 'The pollution'.",
+        "description_de": "Deutsches Wort für 'The pollution'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Benutzen Sie eine wiederverwendbare Wasserflasche.",
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "Elektroautos reduzieren den CO2-Ausstoß.",
+            "die Verschmutzung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The waste",
+        "text_de": "der Müll",
+        "synonyms": [],
+        "description": "German word for 'The waste'.",
+        "description_de": "Deutsches Wort für 'The waste'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bewusstsein ist der erste Schritt zur Veränderung.",
+            "der Müll",
+            "Die Alpen sind eine Reise wert.",
+            "Die Natur ist wunderschön und vielfältig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The recycling",
+        "text_de": "das Recycling",
+        "synonyms": [],
+        "description": "German word for 'The recycling'.",
+        "description_de": "Deutsches Wort für 'The recycling'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Recycling",
+            "Bewusstsein ist der erste Schritt zur Veränderung.",
+            "Kompostieren ist toll für den Garten.",
+            "Pflanze heute einen Baum."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The energy",
+        "text_de": "die Energie",
+        "synonyms": [],
+        "description": "German word for 'The energy'.",
+        "description_de": "Deutsches Wort für 'The energy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Solarenergie kommt von der Sonne.",
+            "die Energie",
+            "die Blume",
+            "Die Sonne liefert kostenlose Energie."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sun",
+        "text_de": "die Sonne",
+        "synonyms": [],
+        "description": "German word for 'The sun'.",
+        "description_de": "Deutsches Wort für 'The sun'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sonne",
+            "Fossile Brennstoffe sind begrenzt.",
+            "der Ozean",
+            "Sauberes Wasser ist ein Menschenrecht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The wind",
+        "text_de": "der Wind",
+        "synonyms": [],
+        "description": "German word for 'The wind'.",
+        "description_de": "Deutsches Wort für 'The wind'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Wald ist das Zuhause vieler Tiere.",
+            "der Wind",
+            "Die Luftqualität hat sich während des Lockdowns verbessert.",
+            "Bewusstsein ist der erste Schritt zur Veränderung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ocean",
+        "text_de": "der Ozean",
+        "synonyms": [],
+        "description": "German word for 'The ocean'.",
+        "description_de": "Deutsches Wort für 'The ocean'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wassersparen ist im Sommer unerlässlich.",
+            "der Ozean",
+            "der Baum",
+            "Ökologische Landwirtschaft ist besser für den Boden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The mountain",
+        "text_de": "der Berg",
+        "synonyms": [],
+        "description": "German word for 'The mountain'.",
+        "description_de": "Deutsches Wort für 'The mountain'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "die Natur",
+            "Bäume produzieren den Sauerstoff, den wir atmen.",
+            "der Berg"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To protect",
+        "text_de": "schützen",
+        "synonyms": [],
+        "description": "German word for 'To protect'.",
+        "description_de": "Deutsches Wort für 'To protect'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "schützen",
+            "Pflücke keine geschützten Wildblumen.",
+            "Stoppt die Abholzung!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To save",
+        "text_de": "sparen",
+        "synonyms": [],
+        "description": "German word for 'To save'.",
+        "description_de": "Deutsches Wort für 'To save'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ozeane sind voller Plastikmüll.",
+            "der Ozean",
+            "sparen",
+            "Jede kleine Tat für die Umwelt zählt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must protect the environment.",
+        "text_de": "Wir müssen die Umwelt schützen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir müssen die Umwelt schützen.",
+            "Ich baue mein eigenes Gemüse an.",
+            "das Recycling",
+            "Respektiere die Natur und ihre Gesetze."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature is beautiful and diverse.",
+        "text_de": "Die Natur ist wunderschön und vielfältig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der CO2-Fußabdruck sollte minimiert werden.",
+            "Die Natur ist wunderschön und vielfältig.",
+            "Wir sollten alle Tiere mit Respekt behandeln.",
+            "Wassersparen ist im Sommer unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Climate change is a global challenge.",
+        "text_de": "Der Klimawandel ist eine globale Herausforderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Klimawandel ist eine globale Herausforderung.",
+            "Eisbären verlieren ihren Lebensraum.",
+            "Die Sonne liefert kostenlose Energie.",
+            "Künftige Generationen verdienen eine gesunde Erde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The earth is our only home.",
+        "text_de": "Die Erde ist unser einziges Zuhause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ökologische Landwirtschaft ist besser für den Boden.",
+            "Die Erde ist unser einziges Zuhause.",
+            "Halte unsere Strände sauber!",
+            "die Umwelt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Clean water is a human right.",
+        "text_de": "Sauberes Wasser ist ein Menschenrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstgezogene Tomaten schmecken am besten.",
+            "Der CO2-Fußabdruck sollte minimiert werden.",
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "Ich bin stolz auf meinen kleinen Garten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fresh air is good for our health.",
+        "text_de": "Frische Luft ist gut für unsere Gesundheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kernenergie ist umstritten.",
+            "Elektroautos reduzieren den CO2-Ausstoß.",
+            "Frische Luft ist gut für unsere Gesundheit.",
+            "Künftige Generationen verdienen eine gesunde Erde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The forest is home to many animals.",
+        "text_de": "Der Wald ist das Zuhause vieler Tiere.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fahre mit dem Fahrrad zur Arbeit.",
+            "Der Wald ist das Zuhause vieler Tiere.",
+            "Pestizide können Bienen schaden.",
+            "schützen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trees produce the oxygen we breathe.",
+        "text_de": "Bäume produzieren den Sauerstoff, den wir atmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erneuerbare Energie ist die Zukunft.",
+            "Das Reservoir ist fast leer.",
+            "Bäume produzieren den Sauerstoff, den wir atmen.",
+            "Der CO2-Fußabdruck sollte minimiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Flowers bloom in spring.",
+        "text_de": "Blumen blühen im Frühling.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Elektroautos reduzieren den CO2-Ausstoß.",
+            "Blumen blühen im Frühling.",
+            "Künftige Generationen verdienen eine gesunde Erde.",
+            "Die Natur ist die beste Lehrerin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We should treat all animals with respect.",
+        "text_de": "Wir sollten alle Tiere mit Respekt behandeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Natur und ihre Gesetze.",
+            "die Erde",
+            "die Sonne",
+            "Wir sollten alle Tiere mit Respekt behandeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Air pollution is a major problem in cities.",
+        "text_de": "Luftverschmutzung ist ein großes Problem in Städten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ozonschicht schützt uns vor UV-Strahlen.",
+            "Eisbären verlieren ihren Lebensraum.",
+            "Luftverschmutzung ist ein großes Problem in Städten.",
+            "Reduzieren, Wiederverwenden, Recyceln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Produce as little waste as possible.",
+        "text_de": "Produziere so wenig Müll wie möglich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kompostieren ist toll für den Garten.",
+            "Nationalparks sind für jeden da.",
+            "Regenwälder sind die Lungen der Erde.",
+            "Produziere so wenig Müll wie möglich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Recycling helps to save resources.",
+        "text_de": "Recycling hilft, Ressourcen zu sparen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sonne",
+            "die Luft",
+            "Recycling hilft, Ressourcen zu sparen.",
+            "Das Mittelmeer ist im Sommer sehr warm."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Renewable energy is the future.",
+        "text_de": "Erneuerbare Energie ist die Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sonne liefert kostenlose Energie.",
+            "Bewusstsein ist der erste Schritt zur Veränderung.",
+            "die Energie",
+            "Erneuerbare Energie ist die Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Solar power comes from the sun.",
+        "text_de": "Solarenergie kommt von der Sonne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "Benutzen Sie eine wiederverwendbare Wasserflasche.",
+            "das Klima",
+            "Solarenergie kommt von der Sonne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wind turbines generate green electricity.",
+        "text_de": "Windkraftanlagen erzeugen Ökostrom.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Tier",
+            "Wasserkraft ist eine weitere Quelle für Ökostrom.",
+            "die Luft",
+            "Windkraftanlagen erzeugen Ökostrom."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The oceans are full of plastic waste.",
+        "text_de": "Die Ozeane sind voller Plastikmüll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sonne",
+            "Dreh den Hahn zu, während du dir die Zähne putzt.",
+            "Kompostieren reduziert den Hausmüll.",
+            "Die Ozeane sind voller Plastikmüll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Glaciers are melting in the mountains.",
+        "text_de": "In den Bergen schmelzen die Gletscher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kompostieren ist toll für den Garten.",
+            "Ich baue mein eigenes Gemüse an.",
+            "In den Bergen schmelzen die Gletscher.",
+            "das Wasser"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every small action for the environment counts.",
+        "text_de": "Jede kleine Tat für die Umwelt zählt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Recycling hilft, Ressourcen zu sparen.",
+            "Jede kleine Tat für die Umwelt zählt.",
+            "die Umwelt",
+            "Lasst uns gemeinsam für einen grüneren Planeten handeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Save energy by turning off the lights.",
+        "text_de": "Spare Energie, indem du das Licht ausschaltest.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Produziere so wenig Müll wie möglich.",
+            "Pflanze heute einen Baum.",
+            "Respektiere die Natur und ihre Gesetze.",
+            "Spare Energie, indem du das Licht ausschaltest."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Global warming is real.",
+        "text_de": "Die globale Erwärmung ist real.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die globale Erwärmung ist real.",
+            "der Wald",
+            "Der CO2-Fußabdruck sollte minimiert werden.",
+            "Solarenergie kommt von der Sonne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ozone layer protects us from UV rays.",
+        "text_de": "Die Ozonschicht schützt uns vor UV-Strahlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ozonschicht schützt uns vor UV-Strahlen.",
+            "der Berg",
+            "Ich bin stolz auf meinen kleinen Garten.",
+            "das Klima"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Droughts are becoming more frequent.",
+        "text_de": "Dürren werden immer häufiger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kompostieren reduziert den Hausmüll.",
+            "Ich unterstütze lokale Umweltorganisationen.",
+            "Dürren werden immer häufiger.",
+            "Pestizide können Bienen schaden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Floods cause devastating damage.",
+        "text_de": "Überschwemmungen verursachen verheerende Schäden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir sollten alle Tiere mit Respekt behandeln.",
+            "der Wald",
+            "Überschwemmungen verursachen verheerende Schäden.",
+            "der Berg"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Biodiversity must be preserved.",
+        "text_de": "Die Artenvielfalt muss bewahrt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Artenvielfalt muss bewahrt werden.",
+            "Kompostieren ist toll für den Garten.",
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "Überschwemmungen verursachen verheerende Schäden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Many species are endangered.",
+        "text_de": "Viele Arten sind vom Aussterben bedroht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Etwas über die Umwelt zu lernen beginnt in der Schule.",
+            "Viele Arten sind vom Aussterben bedroht.",
+            "Dürren werden immer häufiger.",
+            "Der Übergang zu grüner Energie findet jetzt statt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stop deforestation!",
+        "text_de": "Stoppt die Abholzung!",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "Die Ozeane sind voller Plastikmüll.",
+            "Die Erde ist unser einziges Zuhause.",
+            "Stoppt die Abholzung!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Plant a tree today.",
+        "text_de": "Pflanze heute einen Baum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Etwas über die Umwelt zu lernen beginnt in der Schule.",
+            "Solarenergie kommt von der Sonne.",
+            "Pflanze heute einen Baum.",
+            "die Verschmutzung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Avoid single-use plastics.",
+        "text_de": "Vermeiden Sie Einwegplastik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Einwegplastik.",
+            "Das Reservoir ist fast leer.",
+            "Stoppt die Abholzung!",
+            "Etwas über die Umwelt zu lernen beginnt in der Schule."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Use a reusable water bottle.",
+        "text_de": "Benutzen Sie eine wiederverwendbare Wasserflasche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fossile Brennstoffe sind begrenzt.",
+            "Elektroautos reduzieren den CO2-Ausstoß.",
+            "Benutzen Sie eine wiederverwendbare Wasserflasche.",
+            "Die Ozonschicht schützt uns vor UV-Strahlen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Composting is great for the garden.",
+        "text_de": "Kompostieren ist toll für den Garten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kompostieren ist toll für den Garten.",
+            "Die globale Erwärmung ist real.",
+            "Die Ozeane sind voller Plastikmüll.",
+            "Erneuerbare Energie ist die Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Organic farming is better for the soil.",
+        "text_de": "Ökologische Landwirtschaft ist besser für den Boden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich unterstütze lokale Umweltorganisationen.",
+            "Ökologische Landwirtschaft ist besser für den Boden.",
+            "Überschwemmungen verursachen verheerende Schäden.",
+            "Dürren werden immer häufiger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Pesticides can harm bees.",
+        "text_de": "Pestizide können Bienen schaden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ozean",
+            "Solarenergie kommt von der Sonne.",
+            "Pestizide können Bienen schaden.",
+            "Benutzen Sie eine wiederverwendbare Wasserflasche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Electric cars reduce carbon emissions.",
+        "text_de": "Elektroautos reduzieren den CO2-Ausstoß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wassersparen ist im Sommer unerlässlich.",
+            "Frische Luft ist gut für unsere Gesundheit.",
+            "Kernenergie ist umstritten.",
+            "Elektroautos reduzieren den CO2-Ausstoß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Public transport is more eco-friendly than driving.",
+        "text_de": "Öffentliche Verkehrsmittel sind umweltfreundlicher als Autofahren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffentliche Verkehrsmittel sind umweltfreundlicher als Autofahren.",
+            "Bäume produzieren den Sauerstoff, den wir atmen.",
+            "Respektiere die Natur und ihre Gesetze.",
+            "Die Stille des Waldes ist beruhigend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go to work by bicycle.",
+        "text_de": "Ich fahre mit dem Fahrrad zur Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fahre mit dem Fahrrad zur Arbeit.",
+            "Selbstgezogene Tomaten schmecken am besten.",
+            "Zugreisen sind nachhaltiger.",
+            "sparen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Conserving water is essential during summer.",
+        "text_de": "Wassersparen ist im Sommer unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pflanze heute einen Baum.",
+            "Blumen blühen im Frühling.",
+            "das Wasser",
+            "Wassersparen ist im Sommer unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The reservoir is almost empty.",
+        "text_de": "Das Reservoir ist fast leer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Etwas über die Umwelt zu lernen beginnt in der Schule.",
+            "Blumen blühen im Frühling.",
+            "Das Reservoir ist fast leer.",
+            "Die Ozeane sind voller Plastikmüll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't throw trash on the ground.",
+        "text_de": "Wirf keinen Müll auf den Boden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bewusstsein ist der erste Schritt zur Veränderung.",
+            "sparen",
+            "die Umwelt",
+            "Wirf keinen Müll auf den Boden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep our beaches clean!",
+        "text_de": "Halte unsere Strände sauber!",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Papier oder Plastik? Keins von beidem, nimm einen Stoffbeutel.",
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "Halte unsere Strände sauber!",
+            "Die Sonne liefert kostenlose Energie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ecosystem is very sensitive.",
+        "text_de": "Das Ökosystem ist sehr empfindlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wasche deine Kleidung bei niedrigen Temperaturen.",
+            "Das Ökosystem ist sehr empfindlich.",
+            "Produziere so wenig Müll wie möglich.",
+            "Kompostieren ist toll für den Garten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Marine life is threatened by overfishing.",
+        "text_de": "Das Leben im Meer ist durch Überfischung bedroht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pflanze heute einen Baum.",
+            "die Luft",
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "der Berg"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Polar bears are losing their habitat.",
+        "text_de": "Eisbären verlieren ihren Lebensraum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eisbären verlieren ihren Lebensraum.",
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "der Ozean",
+            "schützen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainable development is our goal.",
+        "text_de": "Nachhaltige Entwicklung ist unser Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstgezogene Tomaten schmecken am besten.",
+            "Papier oder Plastik? Keins von beidem, nimm einen Stoffbeutel.",
+            "Die Luftqualität hat sich während des Lockdowns verbessert.",
+            "Nachhaltige Entwicklung ist unser Ziel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reduce, Reuse, Recycle.",
+        "text_de": "Reduzieren, Wiederverwenden, Recyceln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reduzieren, Wiederverwenden, Recyceln.",
+            "Sauberes Wasser ist ein Menschenrecht.",
+            "Die Natur ist die beste Lehrerin.",
+            "Die Erde ist unser einziges Zuhause."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Paper or plastic? Neither, take a cloth bag.",
+        "text_de": "Papier oder Plastik? Keins von beidem, nimm einen Stoffbeutel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Naturschutzgebiete schützen die Tierwelt.",
+            "Recycling hilft, Ressourcen zu sparen.",
+            "Papier oder Plastik? Keins von beidem, nimm einen Stoffbeutel.",
+            "Regenwälder sind die Lungen der Erde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The air quality improved during the lockdown.",
+        "text_de": "Die Luftqualität hat sich während des Lockdowns verbessert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Luftqualität hat sich während des Lockdowns verbessert.",
+            "die Luft",
+            "Ich baue mein eigenes Gemüse an.",
+            "die Umwelt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I support local environmental organizations.",
+        "text_de": "Ich unterstütze lokale Umweltorganisationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich unterstütze lokale Umweltorganisationen.",
+            "der Wald",
+            "das Recycling",
+            "Das Mittelmeer ist im Sommer sehr warm."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature reserves protect wild life.",
+        "text_de": "Naturschutzgebiete schützen die Tierwelt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Naturschutzgebiete schützen die Tierwelt.",
+            "Öffentliche Verkehrsmittel sind umweltfreundlicher als Autofahren.",
+            "Dürren werden immer häufiger.",
+            "Der CO2-Fußabdruck sollte minimiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "National parks are for everyone to enjoy.",
+        "text_de": "Nationalparks sind für jeden da.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fossile Brennstoffe sind begrenzt.",
+            "die Verschmutzung",
+            "Nationalparks sind für jeden da.",
+            "die Energie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love hiking in the mountains.",
+        "text_de": "Ich liebe es, in den Bergen zu wandern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Rettet die Wale!",
+            "die Luft",
+            "Ich liebe es, in den Bergen zu wandern.",
+            "das Recycling"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The silence of the forest is calming.",
+        "text_de": "Die Stille des Waldes ist beruhigend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "Die Stille des Waldes ist beruhigend.",
+            "Öffentliche Verkehrsmittel sind umweltfreundlicher als Autofahren.",
+            "das Recycling"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't pick protected wild flowers.",
+        "text_de": "Pflücke keine geschützten Wildblumen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ozean",
+            "Pflücke keine geschützten Wildblumen.",
+            "Die Luftqualität hat sich während des Lockdowns verbessert.",
+            "Lasst uns gemeinsam für einen grüneren Planeten handeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The desert is a harsh environment.",
+        "text_de": "Die Wüste ist eine raue Umgebung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Baum",
+            "Wasche deine Kleidung bei niedrigen Temperaturen.",
+            "Die Wüste ist eine raue Umgebung.",
+            "Viele Arten sind vom Aussterben bedroht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Rainforests are the lungs of the earth.",
+        "text_de": "Regenwälder sind die Lungen der Erde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Regenwälder sind die Lungen der Erde.",
+            "Pflanze heute einen Baum.",
+            "die Verschmutzung",
+            "Bäume produzieren den Sauerstoff, den wir atmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Save the whales!",
+        "text_de": "Rettet die Wale!",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fahre mit dem Fahrrad zur Arbeit.",
+            "Rettet die Wale!",
+            "Benutzen Sie eine wiederverwendbare Wasserflasche.",
+            "Spare Energie, indem du das Licht ausschaltest."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Mediterranean Sea is very warm in summer.",
+        "text_de": "Das Mittelmeer ist im Sommer sehr warm.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kompostieren ist toll für den Garten.",
+            "die Sonne",
+            "Das Mittelmeer ist im Sommer sehr warm.",
+            "Reduzieren, Wiederverwenden, Recyceln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Alps are worth a visit.",
+        "text_de": "Die Alpen sind eine Reise wert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Einwegplastik.",
+            "Wasserkraft ist eine weitere Quelle für Ökostrom.",
+            "Regenwälder sind die Lungen der Erde.",
+            "Die Alpen sind eine Reise wert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect nature and its laws.",
+        "text_de": "Respektiere die Natur und ihre Gesetze.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sonne",
+            "In den Bergen schmelzen die Gletscher.",
+            "Respektiere die Natur und ihre Gesetze.",
+            "Die Artenvielfalt muss bewahrt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be aware of your ecological footprint.",
+        "text_de": "Sei dir deines ökologischen Fußabdrucks bewusst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pestizide können Bienen schaden.",
+            "Die Stille des Waldes ist beruhigend.",
+            "Sei dir deines ökologischen Fußabdrucks bewusst.",
+            "Dreh den Hahn zu, während du dir die Zähne putzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Carbon footprint should be minimized.",
+        "text_de": "Der CO2-Fußabdruck sollte minimiert werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dürren werden immer häufiger.",
+            "Vermeiden Sie Einwegplastik.",
+            "Dreh den Hahn zu, während du dir die Zähne putzt.",
+            "Der CO2-Fußabdruck sollte minimiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I avoid short-haul flights.",
+        "text_de": "Ich vermeide Kurzstreckenflüge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Baum",
+            "Ich baue mein eigenes Gemüse an.",
+            "Ich vermeide Kurzstreckenflüge.",
+            "Die Stille des Waldes ist beruhigend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Train travel is more sustainable.",
+        "text_de": "Zugreisen sind nachhaltiger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künftige Generationen verdienen eine gesunde Erde.",
+            "das Wasser",
+            "Zugreisen sind nachhaltiger.",
+            "Regenwälder sind die Lungen der Erde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Turn off the tap while brushing your teeth.",
+        "text_de": "Dreh den Hahn zu, während du dir die Zähne putzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zugreisen sind nachhaltiger.",
+            "Die Alpen sind eine Reise wert.",
+            "Nachhaltige Entwicklung ist unser Ziel.",
+            "Dreh den Hahn zu, während du dir die Zähne putzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wash your clothes at low temperatures.",
+        "text_de": "Wasche deine Kleidung bei niedrigen Temperaturen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wasche deine Kleidung bei niedrigen Temperaturen.",
+            "der Müll",
+            "Sei dir deines ökologischen Fußabdrucks bewusst.",
+            "Kompostieren reduziert den Hausmüll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sun provides free energy.",
+        "text_de": "Die Sonne liefert kostenlose Energie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sonne liefert kostenlose Energie.",
+            "Recycling hilft, Ressourcen zu sparen.",
+            "Kompostieren reduziert den Hausmüll.",
+            "Die Natur wird ohne Menschen überleben, aber der Mensch kann ohne die Natur nicht überleben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hydroelectric power is another source of green energy.",
+        "text_de": "Wasserkraft ist eine weitere Quelle für Ökostrom.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wasserkraft ist eine weitere Quelle für Ökostrom.",
+            "Bäume produzieren den Sauerstoff, den wir atmen.",
+            "Ökologische Landwirtschaft ist besser für den Boden.",
+            "Wir sollten alle Tiere mit Respekt behandeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nuclear energy is controversial.",
+        "text_de": "Kernenergie ist umstritten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kernenergie ist umstritten.",
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "sparen",
+            "Dürren werden immer häufiger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fossil fuels are limited.",
+        "text_de": "Fossile Brennstoffe sind begrenzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erneuerbare Energie ist die Zukunft.",
+            "das Recycling",
+            "Fossile Brennstoffe sind begrenzt.",
+            "Elektroautos reduzieren den CO2-Ausstoß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transition to green energy is happening now.",
+        "text_de": "Der Übergang zu grüner Energie findet jetzt statt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kernenergie ist umstritten.",
+            "Der Übergang zu grüner Energie findet jetzt statt.",
+            "Die Alpen sind eine Reise wert.",
+            "Etwas über die Umwelt zu lernen beginnt in der Schule."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of my small garden.",
+        "text_de": "Ich bin stolz auf meinen kleinen Garten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Natur",
+            "Recycling hilft, Ressourcen zu sparen.",
+            "die Erde",
+            "Ich bin stolz auf meinen kleinen Garten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I grow my own vegetables.",
+        "text_de": "Ich baue mein eigenes Gemüse an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sonne",
+            "Ich baue mein eigenes Gemüse an.",
+            "Wir müssen die Umwelt schützen.",
+            "Die Luftqualität hat sich während des Lockdowns verbessert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Homegrown tomatoes taste the best.",
+        "text_de": "Selbstgezogene Tomaten schmecken am besten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kompostieren reduziert den Hausmüll.",
+            "Wasche deine Kleidung bei niedrigen Temperaturen.",
+            "Selbstgezogene Tomaten schmecken am besten.",
+            "Wirf keinen Müll auf den Boden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Composting reduces household waste.",
+        "text_de": "Kompostieren reduziert den Hausmüll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Natur",
+            "Pflanze heute einen Baum.",
+            "Kompostieren reduziert den Hausmüll.",
+            "Wirf keinen Müll auf den Boden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature is the best teacher.",
+        "text_de": "Die Natur ist die beste Lehrerin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Verschmutzung",
+            "Die Natur ist die beste Lehrerin.",
+            "Das Leben im Meer ist durch Überfischung bedroht.",
+            "Naturschutzgebiete schützen die Tierwelt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learning about the environment starts in school.",
+        "text_de": "Etwas über die Umwelt zu lernen beginnt in der Schule.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pestizide können Bienen schaden.",
+            "Etwas über die Umwelt zu lernen beginnt in der Schule.",
+            "Lasst uns gemeinsam für einen grüneren Planeten handeln.",
+            "Künftige Generationen verdienen eine gesunde Erde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Awareness is the first step toward change.",
+        "text_de": "Bewusstsein ist der erste Schritt zur Veränderung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bewusstsein ist der erste Schritt zur Veränderung.",
+            "Blumen blühen im Frühling.",
+            "Die Luftqualität hat sich während des Lockdowns verbessert.",
+            "Recycling hilft, Ressourcen zu sparen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's act together for a greener planet.",
+        "text_de": "Lasst uns gemeinsam für einen grüneren Planeten handeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wassersparen ist im Sommer unerlässlich.",
+            "Lasst uns gemeinsam für einen grüneren Planeten handeln.",
+            "Dreh den Hahn zu, während du dir die Zähne putzt.",
+            "Wir sollten alle Tiere mit Respekt behandeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Future generations deserve a healthy earth.",
+        "text_de": "Künftige Generationen verdienen eine gesunde Erde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich baue mein eigenes Gemüse an.",
+            "Künftige Generationen verdienen eine gesunde Erde.",
+            "Der CO2-Fußabdruck sollte minimiert werden.",
+            "Luftverschmutzung ist ein großes Problem in Städten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature will survive without humans, but humans cannot survive without nature.",
+        "text_de": "Die Natur wird ohne Menschen überleben, aber der Mensch kann ohne die Natur nicht überleben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Environment'.",
+        "description_de": "Beispielsatz für 'Environment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Natur wird ohne Menschen überleben, aber der Mensch kann ohne die Natur nicht überleben.",
+            "Halte unsere Strände sauber!",
+            "Das Mittelmeer ist im Sommer sehr warm.",
+            "Pestizide können Bienen schaden."
+        ]
+    }
+]

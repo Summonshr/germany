@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The Family",
+        "text_de": "die Familie",
+        "synonyms": [],
+        "description": "German word for 'The Family'.",
+        "description_de": "Deutsches Wort für 'The Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Familie",
+            "Meine Schwester hat gerade ein Mädchen bekommen.",
+            "Mein Bruder studiert in München.",
+            "Mein Vater kann sehr gut Dinge reparieren."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Mother",
+        "text_de": "die Mutter",
+        "synonyms": [],
+        "description": "German word for 'The Mother'.",
+        "description_de": "Deutsches Wort für 'The Mother'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Mutter",
+            "Meine Schwester hat einen tollen Sinn für Humor.",
+            "die Tante",
+            "Ich habe eine starke Bindung zu meiner Familie."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Father",
+        "text_de": "der Vater",
+        "synonyms": [],
+        "description": "German word for 'The Father'.",
+        "description_de": "Deutsches Wort für 'The Father'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe meine Familie so, wie sie ist.",
+            "Mein Vater arbeitet als Ingenieur.",
+            "Mein Großvater erzählt tolle Geschichten.",
+            "der Vater"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Parents",
+        "text_de": "die Eltern",
+        "synonyms": [],
+        "description": "German word for 'The Parents'.",
+        "description_de": "Deutsches Wort für 'The Parents'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Onkel",
+            "die Eltern",
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Mein Bruder lebt jetzt in den USA."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Brother",
+        "text_de": "der Bruder",
+        "synonyms": [],
+        "description": "German word for 'The Brother'.",
+        "description_de": "Deutsches Wort für 'The Brother'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Schwester hat einen tollen Sinn für Humor.",
+            "der Bruder",
+            "Hast du Geschwister?",
+            "Die Familie ist das Wichtigste im Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Sister",
+        "text_de": "die Schwester",
+        "synonyms": [],
+        "description": "German word for 'The Sister'.",
+        "description_de": "Deutsches Wort für 'The Sister'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir telefonieren jede Woche per Video.",
+            "die Schwester",
+            "Mein Bruder studiert in München.",
+            "Ich verstehe mich sehr gut mit meinen Geschwistern."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Son",
+        "text_de": "der Sohn",
+        "synonyms": [],
+        "description": "German word for 'The Son'.",
+        "description_de": "Deutsches Wort für 'The Son'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Onkel ist sehr lustig.",
+            "Ich reise, um meine Verwandten zu besuchen.",
+            "Die Familie ist das Wichtigste im Leben.",
+            "der Sohn"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Daughter",
+        "text_de": "die Tochter",
+        "synonyms": [],
+        "description": "German word for 'The Daughter'.",
+        "description_de": "Deutsches Wort für 'The Daughter'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sehe meinen Vater jeden Sonntag.",
+            "Hast du Geschwister?",
+            "die Tochter",
+            "die Ehefrau"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Grandfather",
+        "text_de": "der Großvater",
+        "synonyms": [],
+        "description": "German word for 'The Grandfather'.",
+        "description_de": "Deutsches Wort für 'The Grandfather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Familie unterstützt mich in allem.",
+            "Mein Ehemann ist auf Geschäftsreise.",
+            "der Onkel",
+            "der Großvater"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Grandmother",
+        "text_de": "die Großmutter",
+        "synonyms": [],
+        "description": "German word for 'The Grandmother'.",
+        "description_de": "Deutsches Wort für 'The Grandmother'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Ehemann",
+            "Wir leben hier seit Generationen.",
+            "Mein Cousin lebt in der Schweiz.",
+            "die Großmutter"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Uncle",
+        "text_de": "der Onkel",
+        "synonyms": [],
+        "description": "German word for 'The Uncle'.",
+        "description_de": "Deutsches Wort für 'The Uncle'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Tante arbeitet im Krankenhaus.",
+            "der Onkel",
+            "Meine Tante ist sehr kreativ.",
+            "das Enkelkind"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Aunt",
+        "text_de": "die Tante",
+        "synonyms": [],
+        "description": "German word for 'The Aunt'.",
+        "description_de": "Deutsches Wort für 'The Aunt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Sohn",
+            "die Tante",
+            "Ich erforsche meine Vorfahren.",
+            "Die Familie ist das Wichtigste im Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Cousin (male)",
+        "text_de": "der Cousin",
+        "synonyms": [],
+        "description": "German word for 'The Cousin (male)'.",
+        "description_de": "Deutsches Wort für 'The Cousin (male)'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unsere Tochter beginnt bald ihr Studium.",
+            "die Großmutter",
+            "der Cousin",
+            "Mein Sohn ist fünf Jahre alt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Cousin (female)",
+        "text_de": "die Cousine",
+        "synonyms": [],
+        "description": "German word for 'The Cousin (female)'.",
+        "description_de": "Deutsches Wort für 'The Cousin (female)'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie viele Personen sind in deiner Familie?",
+            "Mein Sohn ist fünf Jahre alt.",
+            "der Großvater",
+            "die Cousine"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Nephew",
+        "text_de": "der Neffe",
+        "synonyms": [],
+        "description": "German word for 'The Nephew'.",
+        "description_de": "Deutsches Wort für 'The Nephew'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe viele Tanten und Onkel.",
+            "der Neffe",
+            "die Nichte",
+            "Ich reise, um meine Verwandten zu besuchen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Niece",
+        "text_de": "die Nichte",
+        "synonyms": [],
+        "description": "German word for 'The Niece'.",
+        "description_de": "Deutsches Wort für 'The Niece'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tochter",
+            "die Nichte",
+            "Wir gehen oft mit der Familie wandern.",
+            "die Cousine"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Husband",
+        "text_de": "der Ehemann",
+        "synonyms": [],
+        "description": "German word for 'The Husband'.",
+        "description_de": "Deutsches Wort für 'The Husband'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wohnst du bei deinen Eltern?",
+            "die Cousine",
+            "Ich habe einen älteren Bruder und eine jüngere Schwester.",
+            "der Ehemann"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Wife",
+        "text_de": "die Ehefrau",
+        "synonyms": [],
+        "description": "German word for 'The Wife'.",
+        "description_de": "Deutsches Wort für 'The Wife'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder studiert in München.",
+            "Mein Bruder lebt jetzt in den USA.",
+            "die Verwandten",
+            "die Ehefrau"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Grandchild",
+        "text_de": "das Enkelkind",
+        "synonyms": [],
+        "description": "German word for 'The Grandchild'.",
+        "description_de": "Deutsches Wort für 'The Grandchild'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Neffe",
+            "das Enkelkind",
+            "Mein Vater erzählt jedes Jahr die gleichen Witze.",
+            "Mein Stammbaum ist sehr interessant."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The Relatives",
+        "text_de": "die Verwandten",
+        "synonyms": [],
+        "description": "German word for 'The Relatives'.",
+        "description_de": "Deutsches Wort für 'The Relatives'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir kochen Abendessen für die Familie.",
+            "Mein Bruder ist ein echtes Vorbild für mich.",
+            "die Verwandten",
+            "die Großmutter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love my family.",
+        "text_de": "Ich liebe meine Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Schwester geht noch zur Schule.",
+            "Meine Schwester hat gerade ein Mädchen bekommen.",
+            "Ich liebe meine Familie.",
+            "Es ist ein Junge!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How many people are in your family?",
+        "text_de": "Wie viele Personen sind in deiner Familie?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Kinder?",
+            "Wie viele Personen sind in deiner Familie?",
+            "Wir haben zwei Kinder, einen Jungen und ein Mädchen.",
+            "Ich habe eine starke Bindung zu meiner Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My mother is a teacher.",
+        "text_de": "Meine Mutter ist Lehrerin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Mutter ist Lehrerin.",
+            "Hast du Cousins?",
+            "Wir haben jeden Sommer ein Familientreffen.",
+            "Mein Bruder studiert in München."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My father works as an engineer.",
+        "text_de": "Mein Vater arbeitet als Ingenieur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Vater arbeitet als Ingenieur.",
+            "Mein Großvater erzählt tolle Geschichten.",
+            "Meine Schwester ist die Jüngste in der Familie.",
+            "Meine Cousine ist schwanger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have any siblings?",
+        "text_de": "Hast du Geschwister?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder lebt jetzt in den USA.",
+            "die Tante",
+            "Hast du Geschwister?",
+            "Meine Schwester geht noch zur Schule."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have an older brother and a younger sister.",
+        "text_de": "Ich habe einen älteren Bruder und eine jüngere Schwester.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist noch sehr fit und aktiv.",
+            "die Großmutter",
+            "der Bruder",
+            "Ich habe einen älteren Bruder und eine jüngere Schwester."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My brother is studying in Munich.",
+        "text_de": "Mein Bruder studiert in München.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder studiert in München.",
+            "Mein Cousin und ich sind wie Brüder.",
+            "Ich liebe meine Familie.",
+            "Mein Großvater erzählt tolle Geschichten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My sister is still at school.",
+        "text_de": "Meine Schwester geht noch zur Schule.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Großmutter",
+            "Meine Schwester geht noch zur Schule.",
+            "Mein Onkel reist beruflich viel.",
+            "Mein Bruder heiratet nächsten Monat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How old is your daughter?",
+        "text_de": "Wie alt ist deine Tochter?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir lachen viel, wenn wir zusammen sind.",
+            "Wie alt ist deine Tochter?",
+            "Es ist ein Junge!",
+            "Sind Sie verheiratet?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My son is five years old.",
+        "text_de": "Mein Sohn ist fünf Jahre alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Sohn ist fünf Jahre alt.",
+            "der Cousin",
+            "Die Familie ist das Wichtigste im Leben.",
+            "der Vater"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are visiting our grandparents this weekend.",
+        "text_de": "Wir besuchen dieses Wochenende unsere Großeltern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Sohn",
+            "Mein Vater kann sehr gut Dinge reparieren.",
+            "Wie alt ist deine Tochter?",
+            "Wir besuchen dieses Wochenende unsere Großeltern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My grandfather tells great stories.",
+        "text_de": "Mein Großvater erzählt tolle Geschichten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Verwandten leben in ganz Deutschland.",
+            "Mein Großvater erzählt tolle Geschichten.",
+            "Mein Urgroßvater ist neunzig Jahre alt.",
+            "Wir essen sonntags immer zusammen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My grandmother bakes the best cake.",
+        "text_de": "Meine Großmutter backt den besten Kuchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Großmutter backt den besten Kuchen.",
+            "Mein Vater kann sehr gut Dinge reparieren.",
+            "Ich habe einen älteren Bruder und eine jüngere Schwester.",
+            "Meine Eltern besuchen uns morgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have many aunts and uncles.",
+        "text_de": "Ich habe viele Tanten und Onkel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sehe meinen Vater jeden Sonntag.",
+            "Meine Cousine ist schwanger.",
+            "Ich habe viele Tanten und Onkel.",
+            "Meine Schwester ist die Jüngste in der Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My cousin lives in Switzerland.",
+        "text_de": "Mein Cousin lebt in der Schweiz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tante",
+            "der Vater",
+            "Mein Cousin lebt in der Schweiz.",
+            "Es ist ein Junge!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to my niece's birthday party.",
+        "text_de": "Ich gehe zum Geburtstag meiner Nichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Schwester geht noch zur Schule.",
+            "Mein Bruder lebt jetzt in den USA.",
+            "Wir besuchen dieses Wochenende unsere Großeltern.",
+            "Ich gehe zum Geburtstag meiner Nichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My nephew is very talented in music.",
+        "text_de": "Mein Neffe ist sehr musikalisch begabt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir besuchen dieses Wochenende unsere Großeltern.",
+            "Mein Stammbaum ist sehr interessant.",
+            "Wir wollen eine große Familie haben.",
+            "Mein Neffe ist sehr musikalisch begabt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are you married?",
+        "text_de": "Sind Sie verheiratet?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hast du Cousins?",
+            "Sind Sie verheiratet?",
+            "der Großvater",
+            "Mein Onkel ist sehr lustig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My husband is away on a business trip.",
+        "text_de": "Mein Ehemann ist auf Geschäftsreise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Sohn ist fünf Jahre alt.",
+            "Meine Familie unterstützt mich in allem.",
+            "Mein Ehemann ist auf Geschäftsreise.",
+            "Mein Vater erzählt jedes Jahr die gleichen Witze."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My wife is a very good cook.",
+        "text_de": "Meine Ehefrau ist eine sehr gute Köchin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist toll, alle wiederzusehen.",
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Mein Onkel ist sehr lustig.",
+            "Wohnst du bei deinen Eltern?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have two children, a boy and a girl.",
+        "text_de": "Wir haben zwei Kinder, einen Jungen und ein Mädchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Familie stammt aus Norddeutschland.",
+            "die Schwester",
+            "Sind Sie verheiratet?",
+            "Wir haben zwei Kinder, einen Jungen und ein Mädchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My parents have been married for thirty years.",
+        "text_de": "Meine Eltern sind seit dreißig Jahren verheiratet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Schwester geht noch zur Schule.",
+            "Mein Vater kann sehr gut Dinge reparieren.",
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Meine Eltern sind seit dreißig Jahren verheiratet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We celebrate Christmas with the whole family.",
+        "text_de": "Wir feiern Weihnachten mit der ganzen Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Großvater",
+            "Wir feiern Weihnachten mit der ganzen Familie.",
+            "die Schwester",
+            "Wir haben jeden Sommer ein Familientreffen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My relatives live all over Germany.",
+        "text_de": "Meine Verwandten leben in ganz Deutschland.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Verwandten leben in ganz Deutschland.",
+            "Mein Bruder heiratet nächsten Monat.",
+            "Mein Cousin und ich sind wie Brüder.",
+            "Mein Großvater erzählt tolle Geschichten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I get along very well with my siblings.",
+        "text_de": "Ich verstehe mich sehr gut mit meinen Geschwistern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich verstehe mich sehr gut mit meinen Geschwistern.",
+            "Ich reise, um meine Verwandten zu besuchen.",
+            "Wie viele Personen sind in deiner Familie?",
+            "Meine Tante arbeitet im Krankenhaus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you live with your parents?",
+        "text_de": "Wohnst du bei deinen Eltern?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sehe meinen Vater jeden Sonntag.",
+            "Meine Mutter hilft mir bei der Gartenarbeit.",
+            "Wir besuchen dieses Wochenende unsere Großeltern.",
+            "Wohnst du bei deinen Eltern?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I moved out three years ago.",
+        "text_de": "Ich bin vor drei Jahren ausgezogen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist toll, alle wiederzusehen.",
+            "der Sohn",
+            "der Ehemann",
+            "Ich bin vor drei Jahren ausgezogen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My mother is my best friend.",
+        "text_de": "Meine Mutter ist meine beste Freundin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Cousin und ich sind wie Brüder.",
+            "Wir erwarten im Frühling ein Baby.",
+            "Ich vermisse meine Familie, wenn ich auf Reisen bin.",
+            "Meine Mutter ist meine beste Freundin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I see my father every Sunday.",
+        "text_de": "Ich sehe meinen Vater jeden Sonntag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Sohn",
+            "Meine Eltern besuchen uns morgen.",
+            "Ich sehe meinen Vater jeden Sonntag.",
+            "Ich liebe meine Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We often go hiking with the family.",
+        "text_de": "Wir gehen oft mit der Familie wandern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie viele Personen sind in deiner Familie?",
+            "Ich habe viele Tanten und Onkel.",
+            "Haben Sie Kinder?",
+            "Wir gehen oft mit der Familie wandern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My uncle is very funny.",
+        "text_de": "Mein Onkel ist sehr lustig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben zwei Kinder, einen Jungen und ein Mädchen.",
+            "Meine Familie stammt aus Norddeutschland.",
+            "die Eltern",
+            "Mein Onkel ist sehr lustig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My aunt works at the hospital.",
+        "text_de": "Meine Tante arbeitet im Krankenhaus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Tante ist sehr kreativ.",
+            "Meine Tante arbeitet im Krankenhaus.",
+            "Ich bin vor drei Jahren ausgezogen.",
+            "Meine Schwester ist die Jüngste in der Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a very large family.",
+        "text_de": "Ich habe eine sehr große Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine sehr große Familie.",
+            "Wie viele Personen sind in deiner Familie?",
+            "der Cousin",
+            "Meine Familie unterstützt mich in allem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is your brother older than you?",
+        "text_de": "Ist dein Bruder älter als du?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben jeden Sommer ein Familientreffen.",
+            "Familientraditionen sind uns sehr wichtig.",
+            "Ich reise, um meine Verwandten zu besuchen.",
+            "Ist dein Bruder älter als du?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My sister is the youngest in the family.",
+        "text_de": "Meine Schwester ist die Jüngste in der Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Enkelkind",
+            "Meine Schwester ist die Jüngste in der Familie.",
+            "Die Hochzeit findet in einer kleinen Kirche statt.",
+            "Ich bin vor drei Jahren ausgezogen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are very proud of our son.",
+        "text_de": "Wir sind sehr stolz auf unseren Sohn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Sohn",
+            "Wir kochen Abendessen für die Familie.",
+            "Wie viele Personen sind in deiner Familie?",
+            "Wir sind sehr stolz auf unseren Sohn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our daughter is starting university soon.",
+        "text_de": "Unsere Tochter beginnt bald ihr Studium.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder lebt jetzt in den USA.",
+            "Unsere Tochter beginnt bald ihr Studium.",
+            "Ich vermisse meine Familie, wenn ich auf Reisen bin.",
+            "Meine Schwester hat einen tollen Sinn für Humor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My grandparents live in a small village.",
+        "text_de": "Meine Großeltern wohnen in einem kleinen Dorf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Eltern sind seit dreißig Jahren verheiratet.",
+            "Wir leben hier seit Generationen.",
+            "Mein Onkel reist beruflich viel.",
+            "Meine Großeltern wohnen in einem kleinen Dorf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I miss my family when I'm traveling.",
+        "text_de": "Ich vermisse meine Familie, wenn ich auf Reisen bin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe meine Familie so, wie sie ist.",
+            "Wir essen sonntags immer zusammen.",
+            "Ich sehe meinen Vater jeden Sonntag.",
+            "Ich vermisse meine Familie, wenn ich auf Reisen bin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Family is the most important thing in life.",
+        "text_de": "Die Familie ist das Wichtigste im Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Verwandten",
+            "die Großmutter",
+            "Meine Tante ist sehr kreativ.",
+            "Die Familie ist das Wichtigste im Leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have children?",
+        "text_de": "Haben Sie Kinder?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir leben hier seit Generationen.",
+            "Meine Schwester hat einen tollen Sinn für Humor.",
+            "Haben Sie Kinder?",
+            "Er ist noch sehr fit und aktiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We want to have a big family.",
+        "text_de": "Wir wollen eine große Familie haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Vater erzählt jedes Jahr die gleichen Witze.",
+            "Familientraditionen sind uns sehr wichtig.",
+            "Wir wollen eine große Familie haben.",
+            "Mein Sohn ist fünf Jahre alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My brother is getting married next month.",
+        "text_de": "Mein Bruder heiratet nächsten Monat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Neffe ist sehr musikalisch begabt.",
+            "Hast du Geschwister?",
+            "Mein Bruder heiratet nächsten Monat.",
+            "Mein Cousin lebt in der Schweiz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm the best man at his wedding.",
+        "text_de": "Ich bin sein Trauzeuge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ehefrau",
+            "Ich gehe zum Geburtstag meiner Nichte.",
+            "Ich bin sein Trauzeuge.",
+            "die Nichte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wedding will be in a small church.",
+        "text_de": "Die Hochzeit findet in einer kleinen Kirche statt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir essen sonntags immer zusammen.",
+            "Mein Bruder ist ein echtes Vorbild für mich.",
+            "Wie alt ist deine Tochter?",
+            "Die Hochzeit findet in einer kleinen Kirche statt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My cousin is pregnant.",
+        "text_de": "Meine Cousine ist schwanger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Vater kann sehr gut Dinge reparieren.",
+            "Meine Eltern besuchen uns morgen.",
+            "Meine Cousine ist schwanger.",
+            "Mein Onkel reist beruflich viel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are expecting a baby in spring.",
+        "text_de": "Wir erwarten im Frühling ein Baby.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir erwarten im Frühling ein Baby.",
+            "der Onkel",
+            "Meine Schwester ist die Jüngste in der Familie.",
+            "Wir kochen Abendessen für die Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a boy!",
+        "text_de": "Es ist ein Junge!",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin vor drei Jahren ausgezogen.",
+            "Ich liebe meine Familie.",
+            "Es ist ein Junge!",
+            "Mein Bruder ist ein echtes Vorbild für mich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My sister just had a baby girl.",
+        "text_de": "Meine Schwester hat gerade ein Mädchen bekommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Onkel ist sehr lustig.",
+            "Meine Schwester hat gerade ein Mädchen bekommen.",
+            "Meine Mutter ist Lehrerin.",
+            "Ich reise, um meine Verwandten zu besuchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a proud uncle now.",
+        "text_de": "Ich bin jetzt ein stolzer Onkel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Schwester ist die Jüngste in der Familie.",
+            "Mein Cousin lebt in der Schweiz.",
+            "Ich bin jetzt ein stolzer Onkel.",
+            "Mein Vater erzählt jedes Jahr die gleichen Witze."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My parents are visiting us tomorrow.",
+        "text_de": "Meine Eltern besuchen uns morgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Vater erzählt jedes Jahr die gleichen Witze.",
+            "Meine Eltern besuchen uns morgen.",
+            "Wir leben hier seit Generationen.",
+            "Familientraditionen sind uns sehr wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are cooking dinner for the family.",
+        "text_de": "Wir kochen Abendessen für die Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Kinder?",
+            "Wir kochen Abendessen für die Familie.",
+            "Meine Tante ist sehr kreativ.",
+            "die Cousine"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My mother helps me with gardening.",
+        "text_de": "Meine Mutter hilft mir bei der Gartenarbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Mutter hilft mir bei der Gartenarbeit.",
+            "Wir kochen Abendessen für die Familie.",
+            "Es ist toll, alle wiederzusehen.",
+            "Ich gehe zum Geburtstag meiner Nichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My father is very good at repairing things.",
+        "text_de": "Mein Vater kann sehr gut Dinge reparieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hochzeit findet in einer kleinen Kirche statt.",
+            "Wir haben jeden Sommer ein Familientreffen.",
+            "Mein Sohn ist fünf Jahre alt.",
+            "Mein Vater kann sehr gut Dinge reparieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a strong bond with my family.",
+        "text_de": "Ich habe eine starke Bindung zu meiner Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder lebt jetzt in den USA.",
+            "Unsere Tochter beginnt bald ihr Studium.",
+            "Ich erforsche meine Vorfahren.",
+            "Ich habe eine starke Bindung zu meiner Familie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have any cousins?",
+        "text_de": "Hast du Cousins?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder studiert in München.",
+            "Wir leben hier seit Generationen.",
+            "Hast du Cousins?",
+            "Mein Vater arbeitet als Ingenieur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My cousin and I are like brothers.",
+        "text_de": "Mein Cousin und ich sind wie Brüder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Großvater",
+            "Mein Cousin und ich sind wie Brüder.",
+            "das Enkelkind",
+            "die Tochter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We grew up together.",
+        "text_de": "Wir sind zusammen aufgewachsen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe viele Tanten und Onkel.",
+            "die Cousine",
+            "Wir telefonieren jede Woche per Video.",
+            "Wir sind zusammen aufgewachsen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My aunt is very creative.",
+        "text_de": "Meine Tante ist sehr kreativ.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Onkel",
+            "Wir haben zwei Kinder, einen Jungen und ein Mädchen.",
+            "Ich liebe meine Familie so, wie sie ist.",
+            "Meine Tante ist sehr kreativ."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My uncle travels a lot for work.",
+        "text_de": "Mein Onkel reist beruflich viel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Onkel reist beruflich viel.",
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Ich habe eine sehr große Familie.",
+            "Meine Eltern besuchen uns morgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a family reunion every summer.",
+        "text_de": "Wir haben jeden Sommer ein Familientreffen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Kinder?",
+            "Meine Schwester hat gerade ein Mädchen bekommen.",
+            "die Schwester",
+            "Wir haben jeden Sommer ein Familientreffen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's great to see everyone again.",
+        "text_de": "Es ist toll, alle wiederzusehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Onkel ist sehr lustig.",
+            "Ich liebe meine Familie.",
+            "Es ist toll, alle wiederzusehen.",
+            "Ich bin vor drei Jahren ausgezogen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My brother lives in the US now.",
+        "text_de": "Mein Bruder lebt jetzt in den USA.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ehefrau",
+            "Mein Bruder lebt jetzt in den USA.",
+            "die Tochter",
+            "Mein Vater kann sehr gut Dinge reparieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We talk via video calls every week.",
+        "text_de": "Wir telefonieren jede Woche per Video.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich verstehe mich sehr gut mit meinen Geschwistern.",
+            "der Neffe",
+            "Wir telefonieren jede Woche per Video.",
+            "Mein Cousin lebt in der Schweiz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm traveling to visit my relatives.",
+        "text_de": "Ich reise, um meine Verwandten zu besuchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sind Sie verheiratet?",
+            "Meine Mutter hilft mir bei der Gartenarbeit.",
+            "Ich reise, um meine Verwandten zu besuchen.",
+            "der Bruder"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My family supports me in everything.",
+        "text_de": "Meine Familie unterstützt mich in allem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Familie unterstützt mich in allem.",
+            "Ich liebe meine Familie so, wie sie ist.",
+            "Wir essen sonntags immer zusammen.",
+            "Wir erwarten im Frühling ein Baby."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who is the oldest in your family?",
+        "text_de": "Wer ist der Älteste in deiner Familie?",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist dein Bruder älter als du?",
+            "Ich liebe meine Familie.",
+            "Unsere Tochter beginnt bald ihr Studium.",
+            "Wer ist der Älteste in deiner Familie?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My great-grandfather is ninety years old.",
+        "text_de": "Mein Urgroßvater ist neunzig Jahre alt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Onkel ist sehr lustig.",
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Meine Mutter hilft mir bei der Gartenarbeit.",
+            "Mein Urgroßvater ist neunzig Jahre alt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is still very fit and active.",
+        "text_de": "Er ist noch sehr fit und aktiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Mutter ist meine beste Freundin.",
+            "Ich sehe meinen Vater jeden Sonntag.",
+            "Meine Großmutter backt den besten Kuchen.",
+            "Er ist noch sehr fit und aktiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My family tree is very interesting.",
+        "text_de": "Mein Stammbaum ist sehr interessant.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Tante arbeitet im Krankenhaus.",
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Mein Stammbaum ist sehr interessant.",
+            "Wir sind sehr stolz auf unseren Sohn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm researching my ancestors.",
+        "text_de": "Ich erforsche meine Vorfahren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich erforsche meine Vorfahren.",
+            "Die Familie ist das Wichtigste im Leben.",
+            "Meine Schwester hat einen tollen Sinn für Humor.",
+            "Meine Verwandten leben in ganz Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My family comes from Northern Germany.",
+        "text_de": "Meine Familie stammt aus Norddeutschland.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Neffe ist sehr musikalisch begabt.",
+            "Mein Bruder studiert in München.",
+            "Meine Familie stammt aus Norddeutschland.",
+            "Es ist toll, alle wiederzusehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have lived here for generations.",
+        "text_de": "Wir leben hier seit Generationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Neffe ist sehr musikalisch begabt.",
+            "Mein Vater erzählt jedes Jahr die gleichen Witze.",
+            "Meine Familie stammt aus Norddeutschland.",
+            "Wir leben hier seit Generationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My brother is a real role model for me.",
+        "text_de": "Mein Bruder ist ein echtes Vorbild für mich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir erwarten im Frühling ein Baby.",
+            "Mein Vater kann sehr gut Dinge reparieren.",
+            "Mein Bruder ist ein echtes Vorbild für mich.",
+            "Mein Vater arbeitet als Ingenieur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My sister has a great sense of humor.",
+        "text_de": "Meine Schwester hat einen tollen Sinn für Humor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Ehefrau ist eine sehr gute Köchin.",
+            "Wir sind zusammen aufgewachsen.",
+            "Mein Großvater erzählt tolle Geschichten.",
+            "Meine Schwester hat einen tollen Sinn für Humor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We laugh a lot when we are together.",
+        "text_de": "Wir lachen viel, wenn wir zusammen sind.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben zwei Kinder, einen Jungen und ein Mädchen.",
+            "Wir lachen viel, wenn wir zusammen sind.",
+            "die Tante",
+            "die Familie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Family traditions are very important to us.",
+        "text_de": "Familientraditionen sind uns sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Schwester ist die Jüngste in der Familie.",
+            "Familientraditionen sind uns sehr wichtig.",
+            "Haben Sie Kinder?",
+            "Die Hochzeit findet in einer kleinen Kirche statt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We always eat together on Sundays.",
+        "text_de": "Wir essen sonntags immer zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Neffe ist sehr musikalisch begabt.",
+            "Wir essen sonntags immer zusammen.",
+            "Wie viele Personen sind in deiner Familie?",
+            "Wir erwarten im Frühling ein Baby."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My father tells the same jokes every year.",
+        "text_de": "Mein Vater erzählt jedes Jahr die gleichen Witze.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Vater erzählt jedes Jahr die gleichen Witze.",
+            "der Neffe",
+            "Ich verstehe mich sehr gut mit meinen Geschwistern.",
+            "die Großmutter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love my family just the way they are.",
+        "text_de": "Ich liebe meine Familie so, wie sie ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Family'.",
+        "description_de": "Beispielsatz für 'Family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe meine Familie so, wie sie ist.",
+            "Wir besuchen dieses Wochenende unsere Großeltern.",
+            "Ich habe eine sehr große Familie.",
+            "Die Familie ist das Wichtigste im Leben."
+        ]
+    }
+]

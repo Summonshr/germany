@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The relationship",
+        "text_de": "die Beziehung",
+        "synonyms": [],
+        "description": "German word for 'The relationship'.",
+        "description_de": "Deutsches Wort für 'The relationship'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Unterstützung",
+            "die Beziehung",
+            "Kommunikation ist der Schlüssel zur Lösung von Konflikten.",
+            "Ich liebe dich von ganzem Herzen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The friendship",
+        "text_de": "die Freundschaft",
+        "synonyms": [],
+        "description": "German word for 'The friendship'.",
+        "description_de": "Deutsches Wort für 'The friendship'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kommunikation ist der Schlüssel zur Lösung von Konflikten.",
+            "die Freundschaft",
+            "Eifersucht kann eine Beziehung zerstören.",
+            "Loyalität bedeutet, jemandem auch in schwierigen Zeiten beizustehen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The love",
+        "text_de": "die Liebe",
+        "synonyms": [],
+        "description": "German word for 'The love'.",
+        "description_de": "Deutsches Wort für 'The love'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei offen dafür, neue Leute kennenzulernen.",
+            "Verliere nicht die Hoffnung an die Liebe.",
+            "die Liebe",
+            "Ich schätze unsere Bindung sehr."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The partner",
+        "text_de": "der Partner",
+        "synonyms": [],
+        "description": "German word for 'The partner'.",
+        "description_de": "Deutsches Wort für 'The partner'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere lange Freundschaft.",
+            "der Konflikt",
+            "der Partner",
+            "Respektiere die persönlichen Grenzen anderer."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The friend",
+        "text_de": "der Freund",
+        "synonyms": [],
+        "description": "German word for 'The friend'.",
+        "description_de": "Deutsches Wort für 'The friend'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Freund",
+            "Verstecke deine Emotionen nicht.",
+            "Neid ist ein Gift für die Freundschaft.",
+            "Gegenseitige Unterstützung ist in einem Team unerlässlich."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The colleague",
+        "text_de": "der Kollege",
+        "synonyms": [],
+        "description": "German word for 'The colleague'.",
+        "description_de": "Deutsches Wort für 'The colleague'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kompromiss",
+            "der Konflikt",
+            "der Kollege",
+            "Ich bin stolz auf unsere lange Freundschaft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The neighbor",
+        "text_de": "der Nachbar",
+        "synonyms": [],
+        "description": "German word for 'The neighbor'.",
+        "description_de": "Deutsches Wort für 'The neighbor'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gieße sie mit Aufmerksamkeit und Zeit.",
+            "Lass uns über unsere gemeinsame Zukunft reden.",
+            "der Nachbar",
+            "Verliere nicht die Hoffnung an die Liebe."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The trust",
+        "text_de": "das Vertrauen",
+        "synonyms": [],
+        "description": "German word for 'The trust'.",
+        "description_de": "Deutsches Wort für 'The trust'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Vertrauen",
+            "Lass uns später darüber reden, wenn wir ruhig sind.",
+            "Wahre Freunde sind selten.",
+            "die Eifersucht"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The respect",
+        "text_de": "der Respekt",
+        "synonyms": [],
+        "description": "German word for 'The respect'.",
+        "description_de": "Deutsches Wort für 'The respect'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Respekt",
+            "Gieße sie mit Aufmerksamkeit und Zeit.",
+            "Selbstliebe ist der erste Schritt zur Liebe für andere.",
+            "Freundschaft ist eine Pflanze, die Pflege braucht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The communication",
+        "text_de": "die Kommunikation",
+        "synonyms": [],
+        "description": "German word for 'The communication'.",
+        "description_de": "Deutsches Wort für 'The communication'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ehrlichkeit ist die Basis jeder gesunden Beziehung.",
+            "Ich brauche etwas Zeit für mich selbst.",
+            "die Kommunikation",
+            "Lachen ist die beste Medizin für eine Beziehung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The conflict",
+        "text_de": "der Konflikt",
+        "synonyms": [],
+        "description": "German word for 'The conflict'.",
+        "description_de": "Deutsches Wort für 'The conflict'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Balance zwischen Nähe und Distanz ist wichtig.",
+            "Freundschaft ist eine Pflanze, die Pflege braucht.",
+            "der Konflikt",
+            "Ich bin dankbar für die Unterstützung meiner Familie."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The compromise",
+        "text_de": "der Kompromiss",
+        "synonyms": [],
+        "description": "German word for 'The compromise'.",
+        "description_de": "Deutsches Wort für 'The compromise'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wahre Liebe ist uneigennützig.",
+            "Es ist wichtig, einander zu verzeihen.",
+            "der Kompromiss",
+            "Sei glücklich mit dem, was du hast."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The support",
+        "text_de": "die Unterstützung",
+        "synonyms": [],
+        "description": "German word for 'The support'.",
+        "description_de": "Deutsches Wort für 'The support'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Unterstützung",
+            "Gehe auf jemanden zu, der vielleicht einsam ist.",
+            "die Eifersucht",
+            "Güte ist nie verschwendet."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The honesty",
+        "text_de": "die Ehrlichkeit",
+        "synonyms": [],
+        "description": "German word for 'The honesty'.",
+        "description_de": "Deutsches Wort für 'The honesty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ehrlichkeit",
+            "Wahre Freunde sind selten.",
+            "der Freund",
+            "Tiefe Gespräche sind sehr bedeutungsvoll."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The loyalty",
+        "text_de": "die Loyalität",
+        "synonyms": [],
+        "description": "German word for 'The loyalty'.",
+        "description_de": "Deutsches Wort für 'The loyalty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Loyalität",
+            "die Beziehung",
+            "Die richtige Person wird zur richtigen Zeit kommen.",
+            "lieben"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The jealousy",
+        "text_de": "die Eifersucht",
+        "synonyms": [],
+        "description": "German word for 'The jealousy'.",
+        "description_de": "Deutsches Wort für 'The jealousy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist wichtig, einander zu verzeihen.",
+            "Networking hilft dir, neue Möglichkeiten zu finden.",
+            "Kleine Gesten zeigen, dass man sich kümmert.",
+            "die Eifersucht"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To love",
+        "text_de": "lieben",
+        "synonyms": [],
+        "description": "German word for 'To love'.",
+        "description_de": "Deutsches Wort für 'To love'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Konflikt",
+            "Kommunikation ist der Schlüssel zur Lösung von Konflikten.",
+            "lieben",
+            "Wahre Liebe ist uneigennützig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To trust",
+        "text_de": "vertrauen",
+        "synonyms": [],
+        "description": "German word for 'To trust'.",
+        "description_de": "Deutsches Wort für 'To trust'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "vertrauen",
+            "Seelenverwandte finden sich.",
+            "Ich freue mich über deinen Erfolg.",
+            "Verliere nicht die Hoffnung an die Liebe."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To depend",
+        "text_de": "abhängen",
+        "synonyms": [],
+        "description": "German word for 'To depend'.",
+        "description_de": "Deutsches Wort für 'To depend'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Liebe",
+            "abhängen",
+            "Beziehungen sind das Fundament eines glücklichen Lebens.",
+            "Ich habe meinen Lebenspartner gefunden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To forgive",
+        "text_de": "verzeihen",
+        "synonyms": [],
+        "description": "German word for 'To forgive'.",
+        "description_de": "Deutsches Wort für 'To forgive'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verzeihen",
+            "Ich schätze deine Hilfe sehr.",
+            "Lass uns später darüber reden, wenn wir ruhig sind.",
+            "abhängen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Relationships are the foundation of a happy life.",
+        "text_de": "Beziehungen sind das Fundament eines glücklichen Lebens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Smalltalk ist ein guter Weg, um ein Gespräch zu beginnen.",
+            "Zeige jedem Respekt, dem du begegnest.",
+            "Die Balance zwischen Nähe und Distanz ist wichtig.",
+            "Beziehungen sind das Fundament eines glücklichen Lebens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A good friendship is worth more than gold.",
+        "text_de": "Eine gute Freundschaft ist mehr wert als Gold.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine gute Freundschaft ist mehr wert als Gold.",
+            "Abendessen bei Kerzenschein ist sehr romantisch.",
+            "vertrauen",
+            "Doppel-Dates können viel Spaß machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Love is the most beautiful feeling.",
+        "text_de": "Liebe ist das schönste Gefühl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Konflikt",
+            "Liebe ist das schönste Gefühl.",
+            "Ein gebrochenes Herz braucht Zeit zum Heilen.",
+            "Neid ist ein Gift für die Freundschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I've found my life partner.",
+        "text_de": "Ich habe meinen Lebenspartner gefunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tiefe Gespräche sind sehr bedeutungsvoll.",
+            "Ein Lächeln kann alles verändern.",
+            "die Liebe",
+            "Ich habe meinen Lebenspartner gefunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He has been my best friend since childhood.",
+        "text_de": "Er ist seit der Kindheit mein bester Freund.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Loyalität bedeutet, jemandem auch in schwierigen Zeiten beizustehen.",
+            "Liebe ist das schönste Gefühl.",
+            "Er ist seit der Kindheit mein bester Freund.",
+            "Seelenverwandte finden sich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mutual support is essential in a team.",
+        "text_de": "Gegenseitige Unterstützung ist in einem Team unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geht gemeinsam durch dick und dünn.",
+            "die Loyalität",
+            "Gegenseitige Unterstützung ist in einem Team unerlässlich.",
+            "Lass uns dieses Wochenende mit Freunden ausgehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trust is easily broken but hard to rebuild.",
+        "text_de": "Vertrauen ist leicht gebrochen, aber schwer wiederaufzubauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seelenverwandte finden sich.",
+            "Die Romantik ist nicht tot.",
+            "Ich habe meinen Lebenspartner gefunden.",
+            "Vertrauen ist leicht gebrochen, aber schwer wiederaufzubauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Show respect to everyone you meet.",
+        "text_de": "Zeige jedem Respekt, dem du begegnest.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstliebe ist der erste Schritt zur Liebe für andere.",
+            "Zeige jedem Respekt, dem du begegnest.",
+            "Verstecke deine Emotionen nicht.",
+            "Ich fühle mich in deiner Gegenwart sehr wohl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Communication is key to resolving conflicts.",
+        "text_de": "Kommunikation ist der Schlüssel zur Lösung von Konflikten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Manchmal müssen wir einen Kompromiss finden.",
+            "Lügen führen auf lange Sicht zu mehr Problemen.",
+            "Ich habe meinen Lebenspartner gefunden.",
+            "Kommunikation ist der Schlüssel zur Lösung von Konflikten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sometimes we have to find a compromise.",
+        "text_de": "Manchmal müssen wir einen Kompromiss finden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche euch alles Gute für eure Beziehung!",
+            "der Konflikt",
+            "Manchmal müssen wir einen Kompromiss finden.",
+            "Eine Umarmung kann mehr sagen als tausend Worte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm grateful for the support of my family.",
+        "text_de": "Ich bin dankbar für die Unterstützung meiner Familie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Respekt",
+            "Ich bin dankbar für die Unterstützung meiner Familie.",
+            "Networking hilft dir, neue Möglichkeiten zu finden.",
+            "das Vertrauen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honesty is the basis of every healthy relationship.",
+        "text_de": "Ehrlichkeit ist die Basis jeder gesunden Beziehung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ehrlichkeit ist die Basis jeder gesunden Beziehung.",
+            "Die Balance zwischen Nähe und Distanz ist wichtig.",
+            "Lass uns über unsere gemeinsame Zukunft reden.",
+            "Höre aktiv zu, wenn jemand mit dir spricht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Loyalty means standing by someone even in difficult times.",
+        "text_de": "Loyalität bedeutet, jemandem auch in schwierigen Zeiten beizustehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Loyalität bedeutet, jemandem auch in schwierigen Zeiten beizustehen.",
+            "Beziehungen sind das Fundament eines glücklichen Lebens.",
+            "Liebe ist das schönste Gefühl.",
+            "Ich fühle mich in deiner Gegenwart sehr wohl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Jealousy can destroy a relationship.",
+        "text_de": "Eifersucht kann eine Beziehung zerstören.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kommunikation",
+            "Eifersucht kann eine Beziehung zerstören.",
+            "Verliere nicht die Hoffnung an die Liebe.",
+            "Finde gemeinsame Interessen mit anderen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love you with all my heart.",
+        "text_de": "Ich liebe dich von ganzem Herzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe dich von ganzem Herzen.",
+            "Es ist wichtig, einander zu verzeihen.",
+            "das Vertrauen",
+            "lieben"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You can always trust me.",
+        "text_de": "Du kannst mir immer vertrauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kleine Gesten zeigen, dass man sich kümmert.",
+            "Lass uns dieses Wochenende mit Freunden ausgehen.",
+            "Respektiere die persönlichen Grenzen anderer.",
+            "Du kannst mir immer vertrauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Happiness depends on our inner attitude.",
+        "text_de": "Glück hängt von unserer inneren Einstellung ab.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glück hängt von unserer inneren Einstellung ab.",
+            "Ich liebe dich von ganzem Herzen.",
+            "Behandle andere so, wie du selbst behandelt werden möchtest.",
+            "die Eifersucht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's important to forgive each other.",
+        "text_de": "Es ist wichtig, einander zu verzeihen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verliere nicht die Hoffnung an die Liebe.",
+            "die Freundschaft",
+            "Ich bin dankbar für die Unterstützung meiner Familie.",
+            "Es ist wichtig, einander zu verzeihen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a very good relationship with our neighbors.",
+        "text_de": "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei glücklich mit dem, was du hast.",
+            "Lügen führen auf lange Sicht zu mehr Problemen.",
+            "Ein gebrochenes Herz braucht Zeit zum Heilen.",
+            "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Working with such great colleagues is a pleasure.",
+        "text_de": "Mit so tollen Kollegen zu arbeiten, ist ein Vergnügen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glück hängt von unserer inneren Einstellung ab.",
+            "Mit so tollen Kollegen zu arbeiten, ist ein Vergnügen.",
+            "Behandle andere so, wie du selbst behandelt werden möchtest.",
+            "Selbstliebe ist der erste Schritt zur Liebe für andere."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's talk about our future together.",
+        "text_de": "Lass uns über unsere gemeinsame Zukunft reden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Freundschaft",
+            "die Liebe",
+            "Lass uns für immer Freunde bleiben.",
+            "Lass uns über unsere gemeinsame Zukunft reden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel very comfortable in your presence.",
+        "text_de": "Ich fühle mich in deiner Gegenwart sehr wohl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kommunikation",
+            "Ich fühle mich in deiner Gegenwart sehr wohl.",
+            "Ich freue mich darauf, dich bald wiederzusehen.",
+            "Ehrlichkeit ist die Basis jeder gesunden Beziehung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You are the most important person in my life.",
+        "text_de": "Du bist die wichtigste Person in meinem Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Kompetenzen sind wichtig für deine Karriere.",
+            "Du bist die wichtigste Person in meinem Leben.",
+            "Ich schätze deine Hilfe sehr.",
+            "der Freund"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A smile can change everything.",
+        "text_de": "Ein Lächeln kann alles verändern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Lächeln kann alles verändern.",
+            "Ich brauche etwas Zeit für mich selbst.",
+            "Ich freue mich darauf, dich bald wiederzusehen.",
+            "Networking hilft dir, neue Möglichkeiten zu finden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be kind to yourself and others.",
+        "text_de": "Sei gütig zu dir selbst und zu anderen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist wichtig, einander zu verzeihen.",
+            "Kleine Gesten zeigen, dass man sich kümmert.",
+            "Ich liebe dich von ganzem Herzen.",
+            "Sei gütig zu dir selbst und zu anderen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Empathy helps us understand others better.",
+        "text_de": "Empathie hilft uns, andere besser zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Empathie hilft uns, andere besser zu verstehen.",
+            "Sei ehrlich, auch wenn es schwierig ist.",
+            "Seelenverwandte finden sich.",
+            "Lachen ist die beste Medizin für eine Beziehung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Listen actively when someone is talking to you.",
+        "text_de": "Höre aktiv zu, wenn jemand mit dir spricht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns für immer Freunde bleiben.",
+            "Lass uns dieses Wochenende mit Freunden ausgehen.",
+            "der Kompromiss",
+            "Höre aktiv zu, wenn jemand mit dir spricht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Express your feelings clearly.",
+        "text_de": "Drücke deine Gefühle klar aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geht gemeinsam durch dick und dünn.",
+            "der Freund",
+            "Drücke deine Gefühle klar aus.",
+            "Neid ist ein Gift für die Freundschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't hide your emotions.",
+        "text_de": "Verstecke deine Emotionen nicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Umarmung kann mehr sagen als tausend Worte.",
+            "Lass uns für immer Freunde bleiben.",
+            "Verstecke deine Emotionen nicht.",
+            "Du kannst dich auf mich verlassen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every relationship has its ups and downs.",
+        "text_de": "Jede Beziehung hat ihre Höhen und Tiefen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geht gemeinsam durch dick und dünn.",
+            "die Ehrlichkeit",
+            "Jede Beziehung hat ihre Höhen und Tiefen.",
+            "Wahre Liebe ist uneigennützig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay together through thick and thin.",
+        "text_de": "Geht gemeinsam durch dick und dünn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geht gemeinsam durch dick und dünn.",
+            "das Vertrauen",
+            "Ich vermisse dich, wenn du nicht hier bist.",
+            "Ein Lächeln kann alles verändern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of our long friendship.",
+        "text_de": "Ich bin stolz auf unsere lange Freundschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kleine Gesten zeigen, dass man sich kümmert.",
+            "Ich bin stolz auf unsere lange Freundschaft.",
+            "Doppel-Dates können viel Spaß machen.",
+            "Ich habe meinen Lebenspartner gefunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We share many beautiful memories.",
+        "text_de": "Wir teilen viele schöne Erinnerungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glück hängt von unserer inneren Einstellung ab.",
+            "Wir teilen viele schöne Erinnerungen.",
+            "Die Balance zwischen Nähe und Distanz ist wichtig.",
+            "Lass uns später darüber reden, wenn wir ruhig sind."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Laughter is the best medicine for a relationship.",
+        "text_de": "Lachen ist die beste Medizin für eine Beziehung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lachen ist die beste Medizin für eine Beziehung.",
+            "Sei ehrlich, auch wenn es schwierig ist.",
+            "Geht gemeinsam durch dick und dünn.",
+            "Tiefe Gespräche sind sehr bedeutungsvoll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Small gestures show that you care.",
+        "text_de": "Kleine Gesten zeigen, dass man sich kümmert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kleine Gesten zeigen, dass man sich kümmert.",
+            "Ich liebe dich von ganzem Herzen.",
+            "Du bist die wichtigste Person in meinem Leben.",
+            "Gieße sie mit Aufmerksamkeit und Zeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A hug can say more than a thousand words.",
+        "text_de": "Eine Umarmung kann mehr sagen als tausend Worte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mit so tollen Kollegen zu arbeiten, ist ein Vergnügen.",
+            "Ich bin dankbar für die Unterstützung meiner Familie.",
+            "Freundschaft beginnt mit einem einfachen 'Hallo'.",
+            "Eine Umarmung kann mehr sagen als tausend Worte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be honest, even if it's difficult.",
+        "text_de": "Sei ehrlich, auch wenn es schwierig ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Vertrauen",
+            "Zeige jedem Respekt, dem du begegnest.",
+            "die Beziehung",
+            "Sei ehrlich, auch wenn es schwierig ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Lies lead to more problems in the long run.",
+        "text_de": "Lügen führen auf lange Sicht zu mehr Problemen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schätze unsere Bindung sehr.",
+            "Vertrauen ist leicht gebrochen, aber schwer wiederaufzubauen.",
+            "Jede Beziehung hat ihre Höhen und Tiefen.",
+            "Lügen führen auf lange Sicht zu mehr Problemen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I appreciate your help very much.",
+        "text_de": "Ich schätze deine Hilfe sehr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen Lebenspartner gefunden.",
+            "Höre aktiv zu, wenn jemand mit dir spricht.",
+            "Ich schätze deine Hilfe sehr.",
+            "Ein Lächeln kann alles verändern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You can rely on me.",
+        "text_de": "Du kannst dich auf mich verlassen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Du kannst dich auf mich verlassen.",
+            "Ich fühle mich in deiner Gegenwart sehr wohl.",
+            "vertrauen",
+            "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "True friends are rare.",
+        "text_de": "Wahre Freunde sind selten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Balance zwischen Nähe und Distanz ist wichtig.",
+            "Lass uns über unsere gemeinsame Zukunft reden.",
+            "Sei ehrlich, auch wenn es schwierig ist.",
+            "Wahre Freunde sind selten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's celebrate our anniversary tonight.",
+        "text_de": "Lass uns heute Abend unseren Jahrestag feiern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei offen dafür, neue Leute kennenzulernen.",
+            "der Konflikt",
+            "Die richtige Person wird zur richtigen Zeit kommen.",
+            "Lass uns heute Abend unseren Jahrestag feiern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Romance is not dead.",
+        "text_de": "Die Romantik ist nicht tot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gieße sie mit Aufmerksamkeit und Zeit.",
+            "Ich habe auf der Party eine interessante Person kennengelernt.",
+            "Die Romantik ist nicht tot.",
+            "Ich vermisse dich, wenn du nicht hier bist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Candlelight dinner is very romantic.",
+        "text_de": "Abendessen bei Kerzenschein ist sehr romantisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich über deinen Erfolg.",
+            "Ehrlichkeit ist die Basis jeder gesunden Beziehung.",
+            "Abendessen bei Kerzenschein ist sehr romantisch.",
+            "Wahre Liebe ist uneigennützig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I miss you when you're not here.",
+        "text_de": "Ich vermisse dich, wenn du nicht hier bist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Beziehung",
+            "Ich vermisse dich, wenn du nicht hier bist.",
+            "vertrauen",
+            "Gegenseitige Unterstützung ist in einem Team unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Looking forward to seeing you again soon.",
+        "text_de": "Ich freue mich darauf, dich bald wiederzusehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vertrauen ist leicht gebrochen, aber schwer wiederaufzubauen.",
+            "Sei offen dafür, neue Leute kennenzulernen.",
+            "Ich freue mich darauf, dich bald wiederzusehen.",
+            "Kleine Gesten zeigen, dass man sich kümmert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Friendship starts with a simple 'Hello'.",
+        "text_de": "Freundschaft beginnt mit einem einfachen 'Hallo'.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beziehungen sind das Fundament eines glücklichen Lebens.",
+            "Lass uns dieses Wochenende mit Freunden ausgehen.",
+            "Freundschaft beginnt mit einem einfachen 'Hallo'.",
+            "der Kompromiss"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be open to meeting new people.",
+        "text_de": "Sei offen dafür, neue Leute kennenzulernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche euch alles Gute für eure Beziehung!",
+            "Sei offen dafür, neue Leute kennenzulernen.",
+            "Geht gemeinsam durch dick und dünn.",
+            "Du kannst dich auf mich verlassen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social skills are important for your career.",
+        "text_de": "Soziale Kompetenzen sind wichtig für deine Karriere.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine gute Freundschaft ist mehr wert als Gold.",
+            "Eine Umarmung kann mehr sagen als tausend Worte.",
+            "Sei gütig zu dir selbst und zu anderen.",
+            "Soziale Kompetenzen sind wichtig für deine Karriere."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Networking helps you find new opportunities.",
+        "text_de": "Networking hilft dir, neue Möglichkeiten zu finden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Liebe",
+            "Freundschaft ist eine Pflanze, die Pflege braucht.",
+            "Networking hilft dir, neue Möglichkeiten zu finden.",
+            "Du kannst dich auf mich verlassen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I met an interesting person at the party.",
+        "text_de": "Ich habe auf der Party eine interessante Person kennengelernt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe auf der Party eine interessante Person kennengelernt.",
+            "Lügen führen auf lange Sicht zu mehr Problemen.",
+            "Ein Lächeln kann alles verändern.",
+            "Sei ehrlich, auch wenn es schwierig ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Loneliness is a growing problem in our society.",
+        "text_de": "Einsamkeit ist ein wachsendes Problem in unserer Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beziehungen sind das Fundament eines glücklichen Lebens.",
+            "Einsamkeit ist ein wachsendes Problem in unserer Gesellschaft.",
+            "Ich freue mich darauf, dich bald wiederzusehen.",
+            "Ich schätze deine Hilfe sehr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reach out to someone who might be lonely.",
+        "text_de": "Gehe auf jemanden zu, der vielleicht einsam ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Lächeln kann alles verändern.",
+            "Zeige jedem Respekt, dem du begegnest.",
+            "Gehe auf jemanden zu, der vielleicht einsam ist.",
+            "Ich freue mich über deinen Erfolg."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Small talk is a good way to start a conversation.",
+        "text_de": "Smalltalk ist ein guter Weg, um ein Gespräch zu beginnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Smalltalk ist ein guter Weg, um ein Gespräch zu beginnen.",
+            "Sich ohne Worte verstehen.",
+            "Sei ehrlich, auch wenn es schwierig ist.",
+            "Lachen ist die beste Medizin für eine Beziehung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Find common interests with others.",
+        "text_de": "Finde gemeinsame Interessen mit anderen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin dankbar für die Unterstützung meiner Familie.",
+            "Finde gemeinsame Interessen mit anderen.",
+            "Gegenseitige Unterstützung ist in einem Team unerlässlich.",
+            "die Unterstützung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Balance between closeness and distance is important.",
+        "text_de": "Die Balance zwischen Nähe und Distanz ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gegenseitige Unterstützung ist in einem Team unerlässlich.",
+            "Beziehungen sind das Fundament eines glücklichen Lebens.",
+            "Die Balance zwischen Nähe und Distanz ist wichtig.",
+            "die Eifersucht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the personal boundaries of others.",
+        "text_de": "Respektiere die persönlichen Grenzen anderer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere lange Freundschaft.",
+            "Respektiere die persönlichen Grenzen anderer.",
+            "Abendessen bei Kerzenschein ist sehr romantisch.",
+            "Networking hilft dir, neue Möglichkeiten zu finden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need some time for myself.",
+        "text_de": "Ich brauche etwas Zeit für mich selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Neid ist ein Gift für die Freundschaft.",
+            "Networking hilft dir, neue Möglichkeiten zu finden.",
+            "Güte ist nie verschwendet.",
+            "Ich brauche etwas Zeit für mich selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's go out with friends this weekend.",
+        "text_de": "Lass uns dieses Wochenende mit Freunden ausgehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns dieses Wochenende mit Freunden ausgehen.",
+            "Loyalität bedeutet, jemandem auch in schwierigen Zeiten beizustehen.",
+            "Ich bin dankbar für die Unterstützung meiner Familie.",
+            "Lass uns über unsere gemeinsame Zukunft reden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Double dating can be a lot of fun.",
+        "text_de": "Doppel-Dates können viel Spaß machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Du kannst dich auf mich verlassen.",
+            "Doppel-Dates können viel Spaß machen.",
+            "Sei glücklich mit dem, was du hast.",
+            "Einsamkeit ist ein wachsendes Problem in unserer Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you all the best for your relationship!",
+        "text_de": "Ich wünsche euch alles Gute für eure Beziehung!",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche euch alles Gute für eure Beziehung!",
+            "der Nachbar",
+            "Ich brauche etwas Zeit für mich selbst.",
+            "Lass uns heute Abend unseren Jahrestag feiern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay true to yourself.",
+        "text_de": "Bleib dir selbst treu.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beziehungen sind das Fundament eines glücklichen Lebens.",
+            "Ich bin stolz auf unsere lange Freundschaft.",
+            "die Beziehung",
+            "Bleib dir selbst treu."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Self-love is the first step toward loving others.",
+        "text_de": "Selbstliebe ist der erste Schritt zur Liebe für andere.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Freundschaft",
+            "Güte ist nie verschwendet.",
+            "Selbstliebe ist der erste Schritt zur Liebe für andere.",
+            "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Treat others the way you want to be treated.",
+        "text_de": "Behandle andere so, wie du selbst behandelt werden möchtest.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unsere lange Freundschaft.",
+            "Behandle andere so, wie du selbst behandelt werden möchtest.",
+            "Lass uns dieses Wochenende mit Freunden ausgehen.",
+            "Ich liebe dich von ganzem Herzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Kindness is never wasted.",
+        "text_de": "Güte ist nie verschwendet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Lächeln kann alles verändern.",
+            "Güte ist nie verschwendet.",
+            "Respektiere die persönlichen Grenzen anderer.",
+            "der Kollege"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A broken heart takes time to heal.",
+        "text_de": "Ein gebrochenes Herz braucht Zeit zum Heilen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Freundschaft",
+            "die Kommunikation",
+            "Mit so tollen Kollegen zu arbeiten, ist ein Vergnügen.",
+            "Ein gebrochenes Herz braucht Zeit zum Heilen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't lose hope in love.",
+        "text_de": "Verliere nicht die Hoffnung an die Liebe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gehe auf jemanden zu, der vielleicht einsam ist.",
+            "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn.",
+            "Verliere nicht die Hoffnung an die Liebe.",
+            "Ich brauche etwas Zeit für mich selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The right person will come at the right time.",
+        "text_de": "Die richtige Person wird zur richtigen Zeit kommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die richtige Person wird zur richtigen Zeit kommen.",
+            "Lass uns heute Abend unseren Jahrestag feiern.",
+            "Manchmal müssen wir einen Kompromiss finden.",
+            "der Respekt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm happy for your success.",
+        "text_de": "Ich freue mich über deinen Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich über deinen Erfolg.",
+            "Jede Beziehung hat ihre Höhen und Tiefen.",
+            "Wir teilen viele schöne Erinnerungen.",
+            "Ehrlichkeit ist die Basis jeder gesunden Beziehung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Envy is a poison for friendship.",
+        "text_de": "Neid ist ein Gift für die Freundschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein gebrochenes Herz braucht Zeit zum Heilen.",
+            "Tiefe Gespräche sind sehr bedeutungsvoll.",
+            "Neid ist ein Gift für die Freundschaft.",
+            "Sei ehrlich, auch wenn es schwierig ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be happy with what you have.",
+        "text_de": "Sei glücklich mit dem, was du hast.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Networking hilft dir, neue Möglichkeiten zu finden.",
+            "Du kannst mir immer vertrauen.",
+            "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn.",
+            "Sei glücklich mit dem, was du hast."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's talk about it later when we're calm.",
+        "text_de": "Lass uns später darüber reden, wenn wir ruhig sind.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich über deinen Erfolg.",
+            "Lass uns später darüber reden, wenn wir ruhig sind.",
+            "Ich freue mich darauf, dich bald wiederzusehen.",
+            "Sei offen dafür, neue Leute kennenzulernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Deep conversations are very meaningful.",
+        "text_de": "Tiefe Gespräche sind sehr bedeutungsvoll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tiefe Gespräche sind sehr bedeutungsvoll.",
+            "Networking hilft dir, neue Möglichkeiten zu finden.",
+            "Ich freue mich über deinen Erfolg.",
+            "lieben"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Understanding each other without words.",
+        "text_de": "Sich ohne Worte verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Romantik ist nicht tot.",
+            "Lass uns später darüber reden, wenn wir ruhig sind.",
+            "Sich ohne Worte verstehen.",
+            "die Eifersucht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Soulmates find each other.",
+        "text_de": "Seelenverwandte finden sich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seelenverwandte finden sich.",
+            "der Freund",
+            "Güte ist nie verschwendet.",
+            "Wir haben ein sehr gutes Verhältnis zu unseren Nachbarn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "True love is selfless.",
+        "text_de": "Wahre Liebe ist uneigennützig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wahre Liebe ist uneigennützig.",
+            "Gegenseitige Unterstützung ist in einem Team unerlässlich.",
+            "Ich brauche etwas Zeit für mich selbst.",
+            "Ich schätze unsere Bindung sehr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Friendship is a plant that needs care.",
+        "text_de": "Freundschaft ist eine Pflanze, die Pflege braucht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kollege",
+            "Freundschaft ist eine Pflanze, die Pflege braucht.",
+            "Ich freue mich darauf, dich bald wiederzusehen.",
+            "Ich habe auf der Party eine interessante Person kennengelernt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Water it with attention and time.",
+        "text_de": "Gieße sie mit Aufmerksamkeit und Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Empathie hilft uns, andere besser zu verstehen.",
+            "Gieße sie mit Aufmerksamkeit und Zeit.",
+            "Eine Umarmung kann mehr sagen als tausend Worte.",
+            "Vertrauen ist leicht gebrochen, aber schwer wiederaufzubauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I value our bond very much.",
+        "text_de": "Ich schätze unsere Bindung sehr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schätze unsere Bindung sehr.",
+            "Abendessen bei Kerzenschein ist sehr romantisch.",
+            "Loyalität bedeutet, jemandem auch in schwierigen Zeiten beizustehen.",
+            "Lügen führen auf lange Sicht zu mehr Problemen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's stay friends forever.",
+        "text_de": "Lass uns für immer Freunde bleiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Relationships'.",
+        "description_de": "Beispielsatz für 'Relationships'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstliebe ist der erste Schritt zur Liebe für andere.",
+            "Smalltalk ist ein guter Weg, um ein Gespräch zu beginnen.",
+            "die Freundschaft",
+            "Lass uns für immer Freunde bleiben."
+        ]
+    }
+]

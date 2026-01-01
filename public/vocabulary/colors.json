@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Red",
+        "text_de": "rot",
+        "synonyms": [],
+        "description": "German word for 'Red'.",
+        "description_de": "Deutsches Wort für 'Red'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "rot",
+            "Ich hätte gerne ein blaues Hemd, bitte.",
+            "Seine Krawatte ist bordeaux.",
+            "Eine schwarze Katze überquerte die Straße."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Blue",
+        "text_de": "blau",
+        "synonyms": [],
+        "description": "German word for 'Blue'.",
+        "description_de": "Deutsches Wort für 'Blue'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sand ist normalerweise beige.",
+            "Das Gemälde ist sehr einfarbig.",
+            "blau",
+            "Ich mag dunkle Farben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Green",
+        "text_de": "grün",
+        "synonyms": [],
+        "description": "German word for 'Green'.",
+        "description_de": "Deutsches Wort für 'Green'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe bunte Blumen.",
+            "grün",
+            "Milch ist weiß.",
+            "Pfirsich ist ein sanftes Orange."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Yellow",
+        "text_de": "gelb",
+        "synonyms": [],
+        "description": "German word for 'Yellow'.",
+        "description_de": "Deutsches Wort für 'Yellow'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein cremefarbenes Sofa.",
+            "Mir gefällt dein roter Pullover.",
+            "Seine Krawatte ist bordeaux.",
+            "gelb"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Black",
+        "text_de": "schwarz",
+        "synonyms": [],
+        "description": "German word for 'Black'.",
+        "description_de": "Deutsches Wort für 'Black'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "schwarz",
+            "Die Erde ist braun.",
+            "türkis",
+            "hellgrün"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "White",
+        "text_de": "weiß",
+        "synonyms": [],
+        "description": "German word for 'White'.",
+        "description_de": "Deutsches Wort für 'White'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich hätte gerne ein blaues Hemd, bitte.",
+            "Das Wasser in der Lagune ist türkis.",
+            "weiß",
+            "hellgrün"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Gray",
+        "text_de": "grau",
+        "synonyms": [],
+        "description": "German word for 'Gray'.",
+        "description_de": "Deutsches Wort für 'Gray'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe blaue Augen.",
+            "Nebel ist meistens grau.",
+            "Zitronen sind leuchtend gelb.",
+            "grau"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Brown",
+        "text_de": "braun",
+        "synonyms": [],
+        "description": "German word for 'Brown'.",
+        "description_de": "Deutsches Wort für 'Brown'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "rot",
+            "Dunkelheit ist schwarz.",
+            "Neongrün ist sehr grell.",
+            "braun"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Orange",
+        "text_de": "orange",
+        "synonyms": [],
+        "description": "German word for 'Orange'.",
+        "description_de": "Deutsches Wort für 'Orange'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "orange",
+            "beige",
+            "gelb",
+            "Kupfer ist ein rötliches Metall."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Purple",
+        "text_de": "lila",
+        "synonyms": [],
+        "description": "German word for 'Purple'.",
+        "description_de": "Deutsches Wort für 'Purple'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Silber glänzt hell.",
+            "Der Schnee ist strahlend weiß.",
+            "lila",
+            "Blut ist rot."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Pink",
+        "text_de": "rosa",
+        "synonyms": [],
+        "description": "German word for 'Pink'.",
+        "description_de": "Deutsches Wort für 'Pink'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seine Krawatte ist bordeaux.",
+            "Die Sonne ist ein großer gelber Ball.",
+            "Der Wald ist tiefgrün.",
+            "rosa"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Gold",
+        "text_de": "gold",
+        "synonyms": [],
+        "description": "German word for 'Gold'.",
+        "description_de": "Deutsches Wort für 'Gold'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mir gefällt dein roter Pullover.",
+            "Licht ist weiß.",
+            "gold",
+            "Kaffee ist dunkelbraun."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Silver",
+        "text_de": "silber",
+        "synonyms": [],
+        "description": "German word for 'Silver'.",
+        "description_de": "Deutsches Wort für 'Silver'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kontrast zwischen Schwarz und Weiß.",
+            "Kupfer ist ein rötliches Metall.",
+            "silber",
+            "weiß"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Beige",
+        "text_de": "beige",
+        "synonyms": [],
+        "description": "German word for 'Beige'.",
+        "description_de": "Deutsches Wort für 'Beige'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "silber",
+            "beige",
+            "Der Wald ist tiefgrün.",
+            "rosa"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Turquoise",
+        "text_de": "türkis",
+        "synonyms": [],
+        "description": "German word for 'Turquoise'.",
+        "description_de": "Deutsches Wort für 'Turquoise'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Vorhänge sind hellgelb.",
+            "türkis",
+            "blau",
+            "Kupfer ist ein rötliches Metall."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Dark blue",
+        "text_de": "dunkelblau",
+        "synonyms": [],
+        "description": "German word for 'Dark blue'.",
+        "description_de": "Deutsches Wort für 'Dark blue'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pfirsich ist ein sanftes Orange.",
+            "Das Dach ist dunkelgrau.",
+            "Das Gras ist nach dem Regen sehr grün.",
+            "dunkelblau"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Light green",
+        "text_de": "hellgrün",
+        "synonyms": [],
+        "description": "German word for 'Light green'.",
+        "description_de": "Deutsches Wort für 'Light green'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wände sind in einem sanften Beige gestrichen.",
+            "Ich hätte gerne ein blaues Hemd, bitte.",
+            "Die Eidechse ist smaragdgrün.",
+            "hellgrün"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Bordeaux",
+        "text_de": "bordeaux",
+        "synonyms": [],
+        "description": "German word for 'Bordeaux'.",
+        "description_de": "Deutsches Wort für 'Bordeaux'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "grau",
+            "Die Flagge ist schwarz-rot-gold.",
+            "bordeaux",
+            "Licht ist weiß."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Olive",
+        "text_de": "oliv",
+        "synonyms": [],
+        "description": "German word for 'Olive'.",
+        "description_de": "Deutsches Wort für 'Olive'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "oliv",
+            "Das Gemälde ist sehr einfarbig.",
+            "Der Sonnenuntergang war feuerrot.",
+            "Ich habe ein dunkelblaues Auto."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Colorful",
+        "text_de": "bunt",
+        "synonyms": [],
+        "description": "German word for 'Colorful'.",
+        "description_de": "Deutsches Wort für 'Colorful'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Holzkohle ist ein sehr dunkles Grau.",
+            "bunt",
+            "Hamburg ist oft grau und regnerisch.",
+            "Das Haus ist weiß gestrichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sky is blue today.",
+        "text_de": "Der Himmel ist heute blau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "blau",
+            "Pfirsich ist ein sanftes Orange.",
+            "Der Himmel ist heute blau.",
+            "Die Nacht ist stockfinster."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like your red sweater.",
+        "text_de": "Mir gefällt dein roter Pullover.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lila",
+            "Licht ist weiß.",
+            "beige",
+            "Mir gefällt dein roter Pullover."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The grass is very green after the rain.",
+        "text_de": "Das Gras ist nach dem Regen sehr grün.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein cremefarbenes Sofa.",
+            "Lila ist eine königliche Farbe.",
+            "Das Gras ist nach dem Regen sehr grün.",
+            "Jede Farbe hat eine andere Bedeutung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bananas are yellow when they are ripe.",
+        "text_de": "Bananen sind gelb, wenn sie reif sind.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Katze hat weiches braunes Fell.",
+            "Ich suche einen grauen Anzug.",
+            "Bananen sind gelb, wenn sie reif sind.",
+            "Der Sonnenuntergang war feuerrot."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She is wearing a beautiful black dress.",
+        "text_de": "Sie trägt ein wunderschönes schwarzes Kleid.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Elfenbein ist ein gelbliches Weiß.",
+            "Holzkohle ist ein sehr dunkles Grau.",
+            "Sie trägt ein wunderschönes schwarzes Kleid.",
+            "Das Gemälde ist sehr einfarbig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The snow is bright white.",
+        "text_de": "Der Schnee ist strahlend weiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Schnee ist strahlend weiß.",
+            "hellgrün",
+            "braun",
+            "Jede Farbe hat eine andere Bedeutung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hamburg is often gray and rainy.",
+        "text_de": "Hamburg ist oft grau und regnerisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kirschrot ist eine beliebte Farbe für Autos.",
+            "grau",
+            "Hamburg ist oft grau und regnerisch.",
+            "Der Schnee ist strahlend weiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The cat has soft brown fur.",
+        "text_de": "Die Katze hat weiches braunes Fell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Katze hat weiches braunes Fell.",
+            "Blut ist rot.",
+            "dunkelblau",
+            "Die Nacht ist stockfinster."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Autumn leaves are often orange and red.",
+        "text_de": "Herbstblätter sind oft orange und rot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "oliv",
+            "Die Katze hat weiches braunes Fell.",
+            "Kontrast zwischen Schwarz und Weiß.",
+            "Herbstblätter sind oft orange und rot."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My favorite color is purple.",
+        "text_de": "Meine Lieblingsfarbe ist lila.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "oliv",
+            "Sie trägt ein wunderschönes schwarzes Kleid.",
+            "Meine Lieblingsfarbe ist lila.",
+            "Die Sonne ist ein großer gelber Ball."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Flamingos are naturally pink.",
+        "text_de": "Flamingos sind von Natur aus rosa.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pfirsich ist ein sanftes Orange.",
+            "rosa",
+            "Hamburg ist oft grau und regnerisch.",
+            "Flamingos sind von Natur aus rosa."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The winner receives a gold medal.",
+        "text_de": "Der Gewinner erhält eine Goldmedaille.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Gewinner erhält eine Goldmedaille.",
+            "Die Wände sind in einem sanften Beige gestrichen.",
+            "bordeaux",
+            "rosa"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ring is made of real silver.",
+        "text_de": "Der Ring ist aus echtem Silber.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Smaragdgrün ist wunderschön.",
+            "Der Ring ist aus echtem Silber.",
+            "Die Erde ist braun.",
+            "braun"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sand is usually beige.",
+        "text_de": "Sand ist normalerweise beige.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Lavendel ist lila.",
+            "Sand ist normalerweise beige.",
+            "Kaffee ist dunkelbraun.",
+            "Bananen sind gelb, wenn sie reif sind."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The water in the lagoon is turquoise.",
+        "text_de": "Das Wasser in der Lagune ist türkis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Ring ist aus echtem Silber.",
+            "hellgrün",
+            "Das Wasser in der Lagune ist türkis.",
+            "Ich suche einen grauen Anzug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a dark blue car.",
+        "text_de": "Ich habe ein dunkelblaues Auto.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Olivenöl ist goldgelb.",
+            "oliv",
+            "Ich habe ein dunkelblaues Auto.",
+            "Ich suche einen grauen Anzug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Light green is a very fresh color.",
+        "text_de": "Hellgrün ist eine sehr frische Farbe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hellgrün ist eine sehr frische Farbe.",
+            "Der Schnee ist strahlend weiß.",
+            "Die Erde ist braun.",
+            "grün"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "His tie is bordeaux.",
+        "text_de": "Seine Krawatte ist bordeaux.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "braun",
+            "lila",
+            "Was ist deine Lieblingsfarbe?",
+            "Seine Krawatte ist bordeaux."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The soldiers wear olive uniforms.",
+        "text_de": "Die Soldaten tragen olivgrüne Uniformen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "orange",
+            "rot",
+            "Der Regenbogen hat sieben Farben.",
+            "Die Soldaten tragen olivgrüne Uniformen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Children like colorful toys.",
+        "text_de": "Kinder mögen buntes Spielzeug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Milch ist weiß.",
+            "Ihre Haare sind rosa gefärbt.",
+            "Sie trägt ein wunderschönes schwarzes Kleid.",
+            "Kinder mögen buntes Spielzeug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is your favorite color?",
+        "text_de": "Was ist deine Lieblingsfarbe?",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "türkis",
+            "Was ist deine Lieblingsfarbe?",
+            "grün",
+            "Licht ist weiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The house is painted white.",
+        "text_de": "Das Haus ist weiß gestrichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Flamingos sind von Natur aus rosa.",
+            "Der Regenbogen hat sieben Farben.",
+            "Das Haus ist weiß gestrichen.",
+            "Der Himmel ist heute blau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The roof is dark gray.",
+        "text_de": "Das Dach ist dunkelgrau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gras ist nach dem Regen sehr grün.",
+            "Das Dach ist dunkelgrau.",
+            "hellgrün",
+            "rot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have blue eyes.",
+        "text_de": "Ich habe blaue Augen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Flamingos sind von Natur aus rosa.",
+            "Sand ist normalerweise beige.",
+            "Der Schnee ist strahlend weiß.",
+            "Ich habe blaue Augen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A black cat crossed the street.",
+        "text_de": "Eine schwarze Katze überquerte die Straße.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jede Farbe hat eine andere Bedeutung.",
+            "Helle Farben lassen den Raum größer wirken.",
+            "Eine schwarze Katze überquerte die Straße.",
+            "Die Wände sind in einem sanften Beige gestrichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sun is a big yellow ball.",
+        "text_de": "Die Sonne ist ein großer gelber Ball.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "rot",
+            "Die Sonne ist ein großer gelber Ball.",
+            "Der Sonnenuntergang war feuerrot.",
+            "Ich mag dunkle Farben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Blood is red.",
+        "text_de": "Blut ist rot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen grauen Anzug.",
+            "dunkelblau",
+            "Blut ist rot.",
+            "Ich mag keine braunen Schuhe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like a blue shirt, please.",
+        "text_de": "Ich hätte gerne ein blaues Hemd, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gelb bedeutet warten.",
+            "Minzgrün ist sehr modern.",
+            "Das Wasser in der Lagune ist türkis.",
+            "Ich hätte gerne ein blaues Hemd, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The curtains are light yellow.",
+        "text_de": "Die Vorhänge sind hellgelb.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Gewinner erhält eine Goldmedaille.",
+            "Die Vorhänge sind hellgelb.",
+            "Kirschrot ist eine beliebte Farbe für Autos.",
+            "Das Haus ist weiß gestrichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't like brown shoes.",
+        "text_de": "Ich mag keine braunen Schuhe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erde ist braun.",
+            "Die Katze hat weiches braunes Fell.",
+            "Ich mag keine braunen Schuhe.",
+            "Stahl ist grau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The walls are painted in a soft beige.",
+        "text_de": "Die Wände sind in einem sanften Beige gestrichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "türkis",
+            "Die Eidechse ist smaragdgrün.",
+            "Im Winter ist alles weiß.",
+            "Die Wände sind in einem sanften Beige gestrichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Purple is a regal color.",
+        "text_de": "Lila ist eine königliche Farbe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Marineblau ist sehr formell.",
+            "Milch ist weiß.",
+            "Herbstblätter sind oft orange und rot.",
+            "Lila ist eine königliche Farbe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Her hair is dyed pink.",
+        "text_de": "Ihre Haare sind rosa gefärbt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ihre Haare sind rosa gefärbt.",
+            "Flamingos sind von Natur aus rosa.",
+            "Ich habe ein cremefarbenes Sofa.",
+            "Ich mag keine braunen Schuhe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything is white in winter.",
+        "text_de": "Im Winter ist alles weiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Winter ist alles weiß.",
+            "Gelb bedeutet warten.",
+            "Sand ist normalerweise beige.",
+            "Das Gras ist nach dem Regen sehr grün."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The night is pitch black.",
+        "text_de": "Die Nacht ist stockfinster.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine schwarze Katze überquerte die Straße.",
+            "Olivenöl ist goldgelb.",
+            "Licht ist weiß.",
+            "Die Nacht ist stockfinster."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like dark colors.",
+        "text_de": "Ich mag dunkle Farben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Minzgrün ist sehr modern.",
+            "Ich mag dunkle Farben.",
+            "Silber glänzt hell.",
+            "Schatten sind grau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Light colors make the room look larger.",
+        "text_de": "Helle Farben lassen den Raum größer wirken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Himmel ist heute blau.",
+            "Helle Farben lassen den Raum größer wirken.",
+            "Marineblau ist sehr formell.",
+            "Kaffee ist dunkelbraun."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The rainbow has seven colors.",
+        "text_de": "Der Regenbogen hat sieben Farben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regenbogen hat sieben Farben.",
+            "Ich mag dunkle Farben.",
+            "weiß",
+            "Der Himmel ist heute blau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Contrast between black and white.",
+        "text_de": "Kontrast zwischen Schwarz und Weiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "rot",
+            "Kaffee ist dunkelbraun.",
+            "Kontrast zwischen Schwarz und Weiß.",
+            "Der Mond ist manchmal silbern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flag is black, red and gold.",
+        "text_de": "Die Flagge ist schwarz-rot-gold.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein cremefarbenes Sofa.",
+            "Die Flagge ist schwarz-rot-gold.",
+            "Ich mag Pastellfarben.",
+            "Stahl ist grau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The traffic light turns green.",
+        "text_de": "Die Ampel wird grün.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wasser in der Lagune ist türkis.",
+            "türkis",
+            "Die Ampel wird grün.",
+            "Herbstblätter sind oft orange und rot."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You must stop at a red light.",
+        "text_de": "Bei Rot musst du stehen bleiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stahl ist grau.",
+            "Bei Rot musst du stehen bleiben.",
+            "Milch ist weiß.",
+            "rosa"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Yellow means wait.",
+        "text_de": "Gelb bedeutet warten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gras ist nach dem Regen sehr grün.",
+            "Der Wald ist tiefgrün.",
+            "Gelb bedeutet warten.",
+            "Die Wände sind in einem sanften Beige gestrichen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The forest is deep green.",
+        "text_de": "Der Wald ist tiefgrün.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Wald ist tiefgrün.",
+            "Ich habe blaue Augen.",
+            "bunt",
+            "Smaragdgrün ist wunderschön."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a gray suit.",
+        "text_de": "Ich suche einen grauen Anzug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Flamingos sind von Natur aus rosa.",
+            "Kaffee ist dunkelbraun.",
+            "Ich habe blaue Augen.",
+            "Ich suche einen grauen Anzug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ocean looks deep blue.",
+        "text_de": "Der Ozean sieht tiefblau aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lila",
+            "Mir gefällt dein roter Pullover.",
+            "Der Ozean sieht tiefblau aus.",
+            "Dunkelheit ist schwarz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like pastel colors.",
+        "text_de": "Ich mag Pastellfarben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Katze hat weiches braunes Fell.",
+            "Ich mag Pastellfarben.",
+            "gold",
+            "Im Winter ist alles weiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Neon green is very bright.",
+        "text_de": "Neongrün ist sehr grell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Neongrün ist sehr grell.",
+            "Helle Farben lassen den Raum größer wirken.",
+            "Ich liebe bunte Blumen.",
+            "Die Erde ist braun."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Copper is a reddish metal.",
+        "text_de": "Kupfer ist ein rötliches Metall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kupfer ist ein rötliches Metall.",
+            "Marineblau ist sehr formell.",
+            "Die Soldaten tragen olivgrüne Uniformen.",
+            "Ich liebe bunte Blumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Rust is brownish.",
+        "text_de": "Rost ist bräunlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "gold",
+            "Kinder mögen buntes Spielzeug.",
+            "Rost ist bräunlich.",
+            "Der Mond ist manchmal silbern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The grapes are dark purple.",
+        "text_de": "Die Trauben sind dunkelviolett.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "beige",
+            "Hamburg ist oft grau und regnerisch.",
+            "Seine Krawatte ist bordeaux.",
+            "Die Trauben sind dunkelviolett."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The roses are crimson.",
+        "text_de": "Die Rosen sind tiefrot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Rosen sind tiefrot.",
+            "Der Schnee ist strahlend weiß.",
+            "orange",
+            "Im Winter ist alles weiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a cream-colored sofa.",
+        "text_de": "Ich habe ein cremefarbenes Sofa.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein cremefarbenes Sofa.",
+            "braun",
+            "grau",
+            "Die Erde ist braun."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The earth is brown.",
+        "text_de": "Die Erde ist braun.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schatten sind grau.",
+            "Die Erde ist braun.",
+            "Jede Farbe hat eine andere Bedeutung.",
+            "Hamburg ist oft grau und regnerisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ivory is a yellowish white.",
+        "text_de": "Elfenbein ist ein gelbliches Weiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "hellgrün",
+            "Das Haus ist weiß gestrichen.",
+            "Die Vorhänge sind hellgelb.",
+            "Elfenbein ist ein gelbliches Weiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Charcoal is a very dark gray.",
+        "text_de": "Holzkohle ist ein sehr dunkles Grau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "blau",
+            "Bei Rot musst du stehen bleiben.",
+            "Gelb bedeutet warten.",
+            "Holzkohle ist ein sehr dunkles Grau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Emerald green is beautiful.",
+        "text_de": "Smaragdgrün ist wunderschön.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Milch ist weiß.",
+            "Die Eidechse ist smaragdgrün.",
+            "Smaragdgrün ist wunderschön.",
+            "türkis"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Navy blue is very formal.",
+        "text_de": "Marineblau ist sehr formell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Ozean sieht tiefblau aus.",
+            "Jede Farbe hat eine andere Bedeutung.",
+            "Marineblau ist sehr formell.",
+            "Ich hätte gerne ein blaues Hemd, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gold symbolizes wealth.",
+        "text_de": "Gold symbolisiert Reichtum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regenbogen hat sieben Farben.",
+            "Milch ist weiß.",
+            "Die Wände sind in einem sanften Beige gestrichen.",
+            "Gold symbolisiert Reichtum."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Silver shines brightly.",
+        "text_de": "Silber glänzt hell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mag dunkle Farben.",
+            "Ich suche einen grauen Anzug.",
+            "türkis",
+            "Silber glänzt hell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sunset was fiery red.",
+        "text_de": "Der Sonnenuntergang war feuerrot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sonnenuntergang war feuerrot.",
+            "Der Lavendel ist lila.",
+            "Jede Farbe hat eine andere Bedeutung.",
+            "Bananen sind gelb, wenn sie reif sind."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The moon is sometimes silvery.",
+        "text_de": "Der Mond ist manchmal silbern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bei Rot musst du stehen bleiben.",
+            "Der Mond ist manchmal silbern.",
+            "Ich hätte gerne ein blaues Hemd, bitte.",
+            "Ein klarer Himmel ist himmelblau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fog is usually gray.",
+        "text_de": "Nebel ist meistens grau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Eidechse ist smaragdgrün.",
+            "Ich liebe bunte Blumen.",
+            "Nebel ist meistens grau.",
+            "Der Ozean sieht tiefblau aus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A clear sky is sky blue.",
+        "text_de": "Ein klarer Himmel ist himmelblau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mag dunkle Farben.",
+            "Ein klarer Himmel ist himmelblau.",
+            "Was ist deine Lieblingsfarbe?",
+            "Meine Lieblingsfarbe ist lila."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Olive oil is golden yellow.",
+        "text_de": "Olivenöl ist goldgelb.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Olivenöl ist goldgelb.",
+            "türkis",
+            "Im Winter ist alles weiß.",
+            "braun"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mint green is very trendy.",
+        "text_de": "Minzgrün ist sehr modern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Minzgrün ist sehr modern.",
+            "rosa",
+            "Blut ist rot.",
+            "beige"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peach is a soft orange.",
+        "text_de": "Pfirsich ist ein sanftes Orange.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Himmel ist heute blau.",
+            "Pfirsich ist ein sanftes Orange.",
+            "Ich mag keine braunen Schuhe.",
+            "Bananen sind gelb, wenn sie reif sind."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lavender is purple.",
+        "text_de": "Der Lavendel ist lila.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Lavendel ist lila.",
+            "Ich mag Pastellfarben.",
+            "grün",
+            "Was ist deine Lieblingsfarbe?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Steel is gray.",
+        "text_de": "Stahl ist grau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sand ist normalerweise beige.",
+            "Stahl ist grau.",
+            "Ich mag Pastellfarben.",
+            "Die Nacht ist stockfinster."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Coffee is dark brown.",
+        "text_de": "Kaffee ist dunkelbraun.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "grau",
+            "Der Wald ist tiefgrün.",
+            "dunkelblau",
+            "Kaffee ist dunkelbraun."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Milk is white.",
+        "text_de": "Milch ist weiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Olivenöl ist goldgelb.",
+            "Milch ist weiß.",
+            "Meine Lieblingsfarbe ist lila.",
+            "Was ist deine Lieblingsfarbe?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Lemons are bright yellow.",
+        "text_de": "Zitronen sind leuchtend gelb.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bananen sind gelb, wenn sie reif sind.",
+            "Kinder mögen buntes Spielzeug.",
+            "Im Winter ist alles weiß.",
+            "Zitronen sind leuchtend gelb."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cherry red is a popular color for cars.",
+        "text_de": "Kirschrot ist eine beliebte Farbe für Autos.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kontrast zwischen Schwarz und Weiß.",
+            "Holzkohle ist ein sehr dunkles Grau.",
+            "braun",
+            "Kirschrot ist eine beliebte Farbe für Autos."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lizard is emerald green.",
+        "text_de": "Die Eidechse ist smaragdgrün.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kupfer ist ein rötliches Metall.",
+            "Die Eidechse ist smaragdgrün.",
+            "Lila ist eine königliche Farbe.",
+            "Der Regenbogen hat sieben Farben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Darkness is black.",
+        "text_de": "Dunkelheit ist schwarz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Silber glänzt hell.",
+            "Zitronen sind leuchtend gelb.",
+            "Kaffee ist dunkelbraun.",
+            "Dunkelheit ist schwarz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Light is white.",
+        "text_de": "Licht ist weiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ihre Haare sind rosa gefärbt.",
+            "rosa",
+            "Licht ist weiß.",
+            "Zitronen sind leuchtend gelb."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Shadows are gray.",
+        "text_de": "Schatten sind grau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mir gefällt dein roter Pullover.",
+            "orange",
+            "Schatten sind grau.",
+            "hellgrün"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love colorful flowers.",
+        "text_de": "Ich liebe bunte Blumen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gelb bedeutet warten.",
+            "Die Wände sind in einem sanften Beige gestrichen.",
+            "Die Erde ist braun.",
+            "Ich liebe bunte Blumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The painting is very monochromatic.",
+        "text_de": "Das Gemälde ist sehr einfarbig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gemälde ist sehr einfarbig.",
+            "Die Erde ist braun.",
+            "Der Lavendel ist lila.",
+            "Lila ist eine königliche Farbe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Each color has a different meaning.",
+        "text_de": "Jede Farbe hat eine andere Bedeutung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Colors'.",
+        "description_de": "Beispielsatz für 'Colors'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Schnee ist strahlend weiß.",
+            "Elfenbein ist ein gelbliches Weiß.",
+            "Die Rosen sind tiefrot.",
+            "Jede Farbe hat eine andere Bedeutung."
+        ]
+    }
+]

@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The shirt",
+        "text_de": "das Hemd",
+        "synonyms": [],
+        "description": "German word for 'The shirt'.",
+        "description_de": "Deutsches Wort für 'The shirt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich folge nicht jedem Trend.",
+            "Gefällt dir mein neues T-Shirt?",
+            "Der Trockner steht im Keller.",
+            "das Hemd"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The T-shirt",
+        "text_de": "das T-Shirt",
+        "synonyms": [],
+        "description": "German word for 'The T-shirt'.",
+        "description_de": "Deutsches Wort für 'The T-shirt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Kleid",
+            "das T-Shirt",
+            "Ich mag einfache und klassische Stile.",
+            "Vergiss deine Jacke nicht, es ist kalt draußen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The pants",
+        "text_de": "die Hose",
+        "synonyms": [],
+        "description": "German word for 'The pants'.",
+        "description_de": "Deutsches Wort für 'The pants'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Hose",
+            "Ich brauche neue Laufschuhe.",
+            "Second-Hand-Läden haben einzigartige Stücke.",
+            "Er trägt immer einen Hut."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The jeans",
+        "text_de": "die Jeans",
+        "synonyms": [],
+        "description": "German word for 'The jeans'.",
+        "description_de": "Deutsches Wort für 'The jeans'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Jeans",
+            "Das Kleid passt dir perfekt.",
+            "Punkte sind süß.",
+            "Bequemlichkeit ist wichtiger als Stil."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The skirt",
+        "text_de": "der Rock",
+        "synonyms": [],
+        "description": "German word for 'The skirt'.",
+        "description_de": "Deutsches Wort für 'The skirt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergiss deine Jacke nicht, es ist kalt draußen.",
+            "der Rock",
+            "Für die Hochzeit brauche ich festliche Kleidung.",
+            "Gefällt dir mein neues T-Shirt?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The dress",
+        "text_de": "das Kleid",
+        "synonyms": [],
+        "description": "German word for 'The dress'.",
+        "description_de": "Deutsches Wort für 'The dress'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist eine zwanglose Veranstaltung.",
+            "Ich muss meine Hemden aufhängen.",
+            "Der Rucksack ist praktisch zum Wandern.",
+            "das Kleid"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The jacket",
+        "text_de": "die Jacke",
+        "synonyms": [],
+        "description": "German word for 'The jacket'.",
+        "description_de": "Deutsches Wort für 'The jacket'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Jacke",
+            "Lederjacken kommen nie aus der Mode.",
+            "Mein Regenschirm ist kaputt.",
+            "die Krawatte"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The coat",
+        "text_de": "der Mantel",
+        "synonyms": [],
+        "description": "German word for 'The coat'.",
+        "description_de": "Deutsches Wort für 'The coat'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Mantel",
+            "Ich trage Stiefel, wenn es regnet.",
+            "Modetrends ändern sich schnell.",
+            "Das Kleid passt dir perfekt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sweater",
+        "text_de": "der Pullover",
+        "synonyms": [],
+        "description": "German word for 'The sweater'.",
+        "description_de": "Deutsches Wort für 'The sweater'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Hose ist mir zu lang.",
+            "der Pullover",
+            "Meine Lieblingsmarke ist ziemlich teuer.",
+            "Ich muss neue Socken kaufen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The socks",
+        "text_de": "die Socken",
+        "synonyms": [],
+        "description": "German word for 'The socks'.",
+        "description_de": "Deutsches Wort für 'The socks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das T-Shirt",
+            "Ich brauche Nadel und Faden.",
+            "Second-Hand-Läden haben einzigartige Stücke.",
+            "die Socken"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The shoes",
+        "text_de": "die Schuhe",
+        "synonyms": [],
+        "description": "German word for 'The shoes'.",
+        "description_de": "Deutsches Wort für 'The shoes'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Unterwäsche",
+            "die Schuhe",
+            "Ich muss mein Hemd bügeln.",
+            "In hohen Schuhen kann man schwer laufen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The boots",
+        "text_de": "die Stiefel",
+        "synonyms": [],
+        "description": "German word for 'The boots'.",
+        "description_de": "Deutsches Wort für 'The boots'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist eine zwanglose Veranstaltung.",
+            "In hohen Schuhen kann man schwer laufen.",
+            "Ich brauche Nadel und Faden.",
+            "die Stiefel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hat",
+        "text_de": "der Hut",
+        "synonyms": [],
+        "description": "German word for 'The hat'.",
+        "description_de": "Deutsches Wort für 'The hat'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin für diese Party zu schick angezogen.",
+            "Diese Jacke kann man wenden.",
+            "der Hut",
+            "Second-Hand-Läden haben einzigartige Stücke."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cap",
+        "text_de": "die Mütze",
+        "synonyms": [],
+        "description": "German word for 'The cap'.",
+        "description_de": "Deutsches Wort für 'The cap'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche neue Laufschuhe.",
+            "Ich suche eine warme Weste.",
+            "die Mütze",
+            "Der Kapuzenpullover ist sehr gemütlich."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The scarf",
+        "text_de": "der Schal",
+        "synonyms": [],
+        "description": "German word for 'The scarf'.",
+        "description_de": "Deutsches Wort für 'The scarf'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Setz deine Mütze auf, die Sonne ist stark.",
+            "der Schal",
+            "Diese Jacke kann man wenden.",
+            "Ich habe einen meiner Handschuhe verloren."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The gloves",
+        "text_de": "die Handschuhe",
+        "synonyms": [],
+        "description": "German word for 'The gloves'.",
+        "description_de": "Deutsches Wort für 'The gloves'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Kleid passt dir perfekt.",
+            "die Handschuhe",
+            "die Socken",
+            "Prüfen Sie den Dresscode auf der Einladung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The belt",
+        "text_de": "der Gürtel",
+        "synonyms": [],
+        "description": "German word for 'The belt'.",
+        "description_de": "Deutsches Wort für 'The belt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist das im Angebot?",
+            "die Mütze",
+            "der Gürtel",
+            "Ich trage lieber Turnschuhe."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tie",
+        "text_de": "die Krawatte",
+        "synonyms": [],
+        "description": "German word for 'The tie'.",
+        "description_de": "Deutsches Wort für 'The tie'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gestreift oder kariert?",
+            "die Jeans",
+            "Prüfen Sie den Dresscode auf der Einladung.",
+            "die Krawatte"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The pajamas",
+        "text_de": "der Schlafanzug",
+        "synonyms": [],
+        "description": "German word for 'The pajamas'.",
+        "description_de": "Deutsches Wort für 'The pajamas'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage Stiefel, wenn es regnet.",
+            "der Schlafanzug",
+            "Setz deine Mütze auf, die Sonne ist stark.",
+            "Ich suche Freizeitkleidung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The underwear",
+        "text_de": "die Unterwäsche",
+        "synonyms": [],
+        "description": "German word for 'The underwear'.",
+        "description_de": "Deutsches Wort für 'The underwear'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meine Hemden aufhängen.",
+            "die Unterwäsche",
+            "Ich folge nicht jedem Trend.",
+            "Ich suche eine warme Weste."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm wearing a blue shirt today.",
+        "text_de": "Ich trage heute ein blaues Hemd.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Kleid",
+            "Ich trage eine Sonnenbrille, weil es hell ist.",
+            "Ich trage heute ein blaues Hemd.",
+            "Sportkleidung sollte elastisch sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you like my new T-shirt?",
+        "text_de": "Gefällt dir mein neues T-Shirt?",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Modetrends ändern sich schnell.",
+            "Ich brauche ein neues Portemonnaie.",
+            "Gefällt dir mein neues T-Shirt?",
+            "Prüfen Sie den Dresscode auf der Einladung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "These pants are too long for me.",
+        "text_de": "Diese Hose ist mir zu lang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Hose ist mir zu lang.",
+            "Ich wasche heute die Wäsche.",
+            "Der Schal passt zu deinen Augen.",
+            "das Hemd"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wear jeans almost every day.",
+        "text_de": "Ich trage fast jeden Tag Jeans.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche neue Laufschuhe.",
+            "Ich muss neue Socken kaufen.",
+            "Der Kapuzenpullover ist sehr gemütlich.",
+            "Ich trage fast jeden Tag Jeans."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She is wearing a beautiful red skirt.",
+        "text_de": "Sie trägt einen wunderschönen roten Rock.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage fast jeden Tag Jeans.",
+            "Sie trägt einen wunderschönen roten Rock.",
+            "Ich folge nicht jedem Trend.",
+            "der Pullover"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The dress fits you perfectly.",
+        "text_de": "Das Kleid passt dir perfekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Kleid passt dir perfekt.",
+            "Ich folge nicht jedem Trend.",
+            "Punkte sind süß.",
+            "Vergiss deine Jacke nicht, es ist kalt draußen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't forget your jacket, it's cold outside.",
+        "text_de": "Vergiss deine Jacke nicht, es ist kalt draußen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Socken",
+            "der Schal",
+            "Vergiss deine Jacke nicht, es ist kalt draußen.",
+            "Uhr und Schmuck machen das Outfit komplett."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a warm coat for the winter.",
+        "text_de": "Ich brauche einen warmen Mantel für den Winter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche einen warmen Mantel für den Winter.",
+            "Ich trage heute ein blaues Hemd.",
+            "Ich habe einen meiner Handschuhe verloren.",
+            "Bequemlichkeit ist wichtiger als Stil."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sweater is made of soft wool.",
+        "text_de": "Der Pullover ist aus weicher Wolle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Farbe steht dir gut.",
+            "Viel Spaß beim Shoppen!",
+            "Der Pullover ist aus weicher Wolle.",
+            "der Schal"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to buy new socks.",
+        "text_de": "Ich muss neue Socken kaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Material ist sehr hochwertig.",
+            "Seide fühlt sich sehr glatt auf der Haut an.",
+            "Ich muss neue Socken kaufen.",
+            "Mein Gürtel ist zu eng."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "These shoes are very comfortable.",
+        "text_de": "Diese Schuhe sind sehr bequem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meine Unterwäsche waschen.",
+            "Diese Schuhe sind sehr bequem.",
+            "die Jeans",
+            "Der Reißverschluss klemmt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wear boots when it rains.",
+        "text_de": "Ich trage Stiefel, wenn es regnet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage Stiefel, wenn es regnet.",
+            "Ich brauche ein neues Portemonnaie.",
+            "der Rock",
+            "Der Kapuzenpullover ist sehr gemütlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He always wears a hat.",
+        "text_de": "Er trägt immer einen Hut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er trägt immer einen Hut.",
+            "Es ist eine zwanglose Veranstaltung.",
+            "die Hose",
+            "Ich bin für diese Party zu schick angezogen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Put on your cap, the sun is strong.",
+        "text_de": "Setz deine Mütze auf, die Sonne ist stark.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Du siehst toll aus in diesem Anzug!",
+            "Welche Größe tragen Sie?",
+            "das T-Shirt",
+            "Setz deine Mütze auf, die Sonne ist stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wrap the scarf around your neck.",
+        "text_de": "Wickle den Schal um deinen Hals.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Krawatte",
+            "Setz deine Mütze auf, die Sonne ist stark.",
+            "Ich mag einfache und klassische Stile.",
+            "Wickle den Schal um deinen Hals."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I lost one of my gloves.",
+        "text_de": "Ich habe einen meiner Handschuhe verloren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Material ist sehr hochwertig.",
+            "Ich habe einen meiner Handschuhe verloren.",
+            "Der Trockner steht im Keller.",
+            "Ich muss meine Hemden aufhängen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My belt is too tight.",
+        "text_de": "Mein Gürtel ist zu eng.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bikini ist sehr bunt.",
+            "die Mütze",
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Mein Gürtel ist zu eng."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to wear a tie for the meeting.",
+        "text_de": "Ich muss eine Krawatte für die Besprechung tragen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Meine Lieblingsmarke ist ziemlich teuer.",
+            "Mein Kleiderschrank quillt über.",
+            "Der Pullover ist aus weicher Wolle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to put on my pajamas now.",
+        "text_de": "Ich ziehe mir jetzt meinen Schlafanzug an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich ziehe mir jetzt meinen Schlafanzug an.",
+            "Ich trage fast jeden Tag Jeans.",
+            "Diese Hose ist mir zu lang.",
+            "Er trägt immer einen Hut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to wash my underwear.",
+        "text_de": "Ich muss meine Unterwäsche waschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Socken",
+            "Das Kleid passt dir perfekt.",
+            "Ich muss meine Unterwäsche waschen.",
+            "Der Reißverschluss klemmt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What size do you wear?",
+        "text_de": "Welche Größe tragen Sie?",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es regnet. Ich brauche einen Regenmantel.",
+            "die Socken",
+            "Welche Größe tragen Sie?",
+            "Das Kleid passt dir perfekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The changing room is over there.",
+        "text_de": "Die Umkleidekabine ist dort drüben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bikini ist sehr bunt.",
+            "Es ist eine zwanglose Veranstaltung.",
+            "Viel Spaß beim Shoppen!",
+            "Die Umkleidekabine ist dort drüben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to try this on, please.",
+        "text_de": "Ich möchte das her bitte anprobieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Du siehst toll aus in diesem Anzug!",
+            "Ich ziehe mir jetzt meinen Schlafanzug an.",
+            "Ich möchte das her bitte anprobieren.",
+            "Er trägt immer einen Hut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Does this come in a different color?",
+        "text_de": "Gibt es das auch in einer anderen Farbe?",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schlafanzug",
+            "Gefällt dir mein neues T-Shirt?",
+            "Die Umkleidekabine ist dort drüben.",
+            "Gibt es das auch in einer anderen Farbe?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The material is very high quality.",
+        "text_de": "Das Material ist sehr hochwertig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schuhe",
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Ich brauche Nadel und Faden.",
+            "Das Material ist sehr hochwertig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This color suits you well.",
+        "text_de": "Diese Farbe steht dir gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage fast jeden Tag Jeans.",
+            "Diese Farbe steht dir gut.",
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Meine Kleider sind im Schrank."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll take it!",
+        "text_de": "Ich nehme es!",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nehme es!",
+            "Mein Regenschirm ist kaputt.",
+            "Für die Hochzeit brauche ich festliche Kleidung.",
+            "die Jeans"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is this on sale?",
+        "text_de": "Ist das im Angebot?",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche neue Laufschuhe.",
+            "Ich muss neue Socken kaufen.",
+            "Ich trage eine Sonnenbrille, weil es hell ist.",
+            "Ist das im Angebot?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for casual clothes.",
+        "text_de": "Ich suche Freizeitkleidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche Freizeitkleidung.",
+            "Ich trage lieber Turnschuhe.",
+            "Diese Farbe steht dir gut.",
+            "die Jacke"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "For the wedding, I need formal wear.",
+        "text_de": "Für die Hochzeit brauche ich festliche Kleidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gestreift oder kariert?",
+            "Für die Hochzeit brauche ich festliche Kleidung.",
+            "die Krawatte",
+            "Seide fühlt sich sehr glatt auf der Haut an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My favorite brand is quite expensive.",
+        "text_de": "Meine Lieblingsmarke ist ziemlich teuer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Hemd",
+            "Das Material ist sehr hochwertig.",
+            "Meine Lieblingsmarke ist ziemlich teuer.",
+            "die Unterwäsche"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like simple and classic styles.",
+        "text_de": "Ich mag einfache und klassische Stile.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage eine Sonnenbrille, weil es hell ist.",
+            "der Pullover",
+            "Ich mag einfache und klassische Stile.",
+            "die Jeans"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cotton is very breathable.",
+        "text_de": "Baumwolle ist sehr atmungsaktiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Reißverschluss klemmt.",
+            "Baumwolle ist sehr atmungsaktiv.",
+            "Ich muss mein Hemd bügeln.",
+            "Ist das im Angebot?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Silk feels very smooth on the skin.",
+        "text_de": "Seide fühlt sich sehr glatt auf der Haut an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seide fühlt sich sehr glatt auf der Haut an.",
+            "Es regnet. Ich brauche einen Regenmantel.",
+            "die Socken",
+            "Meine Kleider sind im Schrank."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Leather jackets never go out of style.",
+        "text_de": "Lederjacken kommen nie aus der Mode.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Waschmaschine ist voll.",
+            "der Mantel",
+            "Lederjacken kommen nie aus der Mode.",
+            "Modetrends ändern sich schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer wearing sneakers.",
+        "text_de": "Ich trage lieber Turnschuhe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Hose ist mir zu lang.",
+            "der Mantel",
+            "Ich trage lieber Turnschuhe.",
+            "Es ist eine zwanglose Veranstaltung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "High heels are difficult to walk in.",
+        "text_de": "In hohen Schuhen kann man schwer laufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Schuhe sind sehr bequem.",
+            "In hohen Schuhen kann man schwer laufen.",
+            "Ich brauche einen neuen Badeanzug für meinen Urlaub.",
+            "Der Trockner steht im Keller."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new swimsuit for my vacation.",
+        "text_de": "Ich brauche einen neuen Badeanzug für meinen Urlaub.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Krawatte",
+            "Ich trage eine Sonnenbrille, weil es hell ist.",
+            "Ich brauche einen neuen Badeanzug für meinen Urlaub.",
+            "Ich habe nichts zum Anziehen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bikini is very colorful.",
+        "text_de": "Der Bikini ist sehr bunt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage meine Sachen in einer Handtasche.",
+            "Der Bikini ist sehr bunt.",
+            "Ich suche Freizeitkleidung.",
+            "Der Schal passt zu deinen Augen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sandals are great for the summer.",
+        "text_de": "Sandalen sind toll für den Sommer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Kleiderschrank quillt über.",
+            "Sandalen sind toll für den Sommer.",
+            "Der Pullover ist aus weicher Wolle.",
+            "Kleider machen Leute."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's raining. I need a raincoat.",
+        "text_de": "Es regnet. Ich brauche einen Regenmantel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es regnet. Ich brauche einen Regenmantel.",
+            "die Stiefel",
+            "das T-Shirt",
+            "Es ist eine zwanglose Veranstaltung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My umbrella is broken.",
+        "text_de": "Mein Regenschirm ist kaputt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin für diese Party zu schick angezogen.",
+            "Mein Regenschirm ist kaputt.",
+            "die Schuhe",
+            "Zieh dich vor dem Abendessen um."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm wearing sunglasses because it's bright.",
+        "text_de": "Ich trage eine Sonnenbrille, weil es hell ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Pullover ist aus weicher Wolle.",
+            "Ich trage eine Sonnenbrille, weil es hell ist.",
+            "der Schal",
+            "Punkte sind süß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Watch and jewelry complete the outfit.",
+        "text_de": "Uhr und Schmuck machen das Outfit komplett.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Uhr und Schmuck machen das Outfit komplett.",
+            "Ich möchte das her bitte anprobieren.",
+            "Für die Hochzeit brauche ich festliche Kleidung.",
+            "Diese Schuhe sind sehr bequem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I carry my things in a handbag.",
+        "text_de": "Ich trage meine Sachen in einer Handtasche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trage meine Sachen in einer Handtasche.",
+            "Ich brauche einen warmen Mantel für den Winter.",
+            "der Mantel",
+            "Der Schal passt zu deinen Augen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The backpack is practical for hiking.",
+        "text_de": "Der Rucksack ist praktisch zum Wandern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Rucksack ist praktisch zum Wandern.",
+            "Das Kleid passt dir perfekt.",
+            "Ich trage heute ein blaues Hemd.",
+            "Gibt es das auch in einer anderen Farbe?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new wallet.",
+        "text_de": "Ich brauche ein neues Portemonnaie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meine Hemden aufhängen.",
+            "Falte deine Pullover ordentlich.",
+            "die Krawatte",
+            "Ich brauche ein neues Portemonnaie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My clothes are in the closet.",
+        "text_de": "Meine Kleider sind im Schrank.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Kleider sind im Schrank.",
+            "die Schuhe",
+            "Ich muss neue Socken kaufen.",
+            "das Hemd"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to hang up my shirts.",
+        "text_de": "Ich muss meine Hemden aufhängen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bikini ist sehr bunt.",
+            "Mein Gürtel ist zu eng.",
+            "Ich muss meine Hemden aufhängen.",
+            "Diese Hose ist mir zu lang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fold your sweaters neatly.",
+        "text_de": "Falte deine Pullover ordentlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schlafanzug",
+            "die Mütze",
+            "Falte deine Pullover ordentlich.",
+            "Ich trage heute ein blaues Hemd."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm doing the laundry today.",
+        "text_de": "Ich wasche heute die Wäsche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergiss deine Jacke nicht, es ist kalt draußen.",
+            "Baumwolle ist sehr atmungsaktiv.",
+            "Ich wasche heute die Wäsche.",
+            "Ich brauche einen neuen Badeanzug für meinen Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The washing machine is full.",
+        "text_de": "Die Waschmaschine ist voll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Waschmaschine ist voll.",
+            "Ich nehme es!",
+            "der Rock",
+            "Ich brauche einen neuen Badeanzug für meinen Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to iron my shirt.",
+        "text_de": "Ich muss mein Hemd bügeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Du siehst toll aus in diesem Anzug!",
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Ich muss mein Hemd bügeln.",
+            "das Hemd"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The dryer is in the basement.",
+        "text_de": "Der Trockner steht im Keller.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Trockner steht im Keller.",
+            "Das Kleid passt dir perfekt.",
+            "Seide fühlt sich sehr glatt auf der Haut an.",
+            "Diese Farbe steht dir gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Change your clothes before dinner.",
+        "text_de": "Zieh dich vor dem Abendessen um.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Uhr und Schmuck machen das Outfit komplett.",
+            "Zieh dich vor dem Abendessen um.",
+            "Ich brauche neue Laufschuhe.",
+            "Diese Jacke kann man wenden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You look great in that suit!",
+        "text_de": "Du siehst toll aus in diesem Anzug!",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Ich habe einen meiner Handschuhe verloren.",
+            "Der Trockner steht im Keller.",
+            "Du siehst toll aus in diesem Anzug!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This jacket is reversible.",
+        "text_de": "Diese Jacke kann man wenden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Lieblingsmarke ist ziemlich teuer.",
+            "Ich trage fast jeden Tag Jeans.",
+            "Diese Jacke kann man wenden.",
+            "Ich brauche einen warmen Mantel für den Winter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The zipper is stuck.",
+        "text_de": "Der Reißverschluss klemmt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche neue Laufschuhe.",
+            "Der Reißverschluss klemmt.",
+            "Ich trage meine Sachen in einer Handtasche.",
+            "Zieh dich vor dem Abendessen um."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A button is missing on my coat.",
+        "text_de": "An meinem Mantel fehlt ein Knopf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wasche heute die Wäsche.",
+            "Ich brauche ein neues Portemonnaie.",
+            "An meinem Mantel fehlt ein Knopf.",
+            "Ich bin für diese Party zu schick angezogen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a needle and thread.",
+        "text_de": "Ich brauche Nadel und Faden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Krawatte",
+            "Ich habe nichts zum Anziehen!",
+            "Ich brauche Nadel und Faden.",
+            "Diese Jacke kann man wenden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you sew this for me?",
+        "text_de": "Kannst du das für mich nähen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergiss deine Jacke nicht, es ist kalt draußen.",
+            "Ich brauche einen warmen Mantel für den Winter.",
+            "Welche Größe tragen Sie?",
+            "Kannst du das für mich nähen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The clothes make the man.",
+        "text_de": "Kleider machen Leute.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kleider machen Leute.",
+            "Ich nehme es!",
+            "Sandalen sind toll für den Sommer.",
+            "Mein Regenschirm ist kaputt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm overdressed for this party.",
+        "text_de": "Ich bin für diese Party zu schick angezogen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bikini ist sehr bunt.",
+            "Der Trockner steht im Keller.",
+            "Ich bin für diese Party zu schick angezogen.",
+            "Es ist eine zwanglose Veranstaltung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a casual event.",
+        "text_de": "Es ist eine zwanglose Veranstaltung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Viel Spaß beim Shoppen!",
+            "Es regnet. Ich brauche einen Regenmantel.",
+            "Der Trockner steht im Keller.",
+            "Es ist eine zwanglose Veranstaltung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Check the dress code on the invitation.",
+        "text_de": "Prüfen Sie den Dresscode auf der Einladung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Prüfen Sie den Dresscode auf der Einladung.",
+            "Ich sollte einige alte Kleider spenden.",
+            "Modetrends ändern sich schnell.",
+            "der Pullover"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have nothing to wear!",
+        "text_de": "Ich habe nichts zum Anziehen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Waschmaschine ist voll.",
+            "Ich habe nichts zum Anziehen!",
+            "die Handschuhe",
+            "Ich trage eine Sonnenbrille, weil es hell ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My closet is overflowing.",
+        "text_de": "Mein Kleiderschrank quillt über.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Hut",
+            "Mein Kleiderschrank quillt über.",
+            "Du siehst toll aus in diesem Anzug!",
+            "Wickle den Schal um deinen Hals."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I should donate some old clothes.",
+        "text_de": "Ich sollte einige alte Kleider spenden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zieh dich vor dem Abendessen um.",
+            "Ich wasche heute die Wäsche.",
+            "Der Rucksack ist praktisch zum Wandern.",
+            "Ich sollte einige alte Kleider spenden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Second-hand shops have unique items.",
+        "text_de": "Second-Hand-Läden haben einzigartige Stücke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Unterwäsche",
+            "Kleider machen Leute.",
+            "Second-Hand-Läden haben einzigartige Stücke.",
+            "Es regnet. Ich brauche einen Regenmantel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fashion trends change quickly.",
+        "text_de": "Modetrends ändern sich schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gestreift oder kariert?",
+            "das Hemd",
+            "die Hose",
+            "Modetrends ändern sich schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't follow every trend.",
+        "text_de": "Ich folge nicht jedem Trend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Trockner steht im Keller.",
+            "Sportkleidung sollte elastisch sein.",
+            "Ich habe einen meiner Handschuhe verloren.",
+            "Ich folge nicht jedem Trend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Comfort is more important than style.",
+        "text_de": "Bequemlichkeit ist wichtiger als Stil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bequemlichkeit ist wichtiger als Stil.",
+            "Setz deine Mütze auf, die Sonne ist stark.",
+            "Ich möchte das her bitte anprobieren.",
+            "Diese Hose ist mir zu lang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Striped or checkered?",
+        "text_de": "Gestreift oder kariert?",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gestreift oder kariert?",
+            "Ich wasche heute die Wäsche.",
+            "Falte deine Pullover ordentlich.",
+            "das Kleid"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Polka dots are cute.",
+        "text_de": "Punkte sind süß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Pullover",
+            "Der Rucksack ist praktisch zum Wandern.",
+            "Punkte sind süß.",
+            "der Hut"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The scarf matches your eyes.",
+        "text_de": "Der Schal passt zu deinen Augen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schuhe",
+            "Der Schal passt zu deinen Augen.",
+            "Gibt es das auch in einer anderen Farbe?",
+            "Meine Lieblingsmarke ist ziemlich teuer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a warm vest.",
+        "text_de": "Ich suche eine warme Weste.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Hemd",
+            "Diese Schuhe sind sehr bequem.",
+            "Ich suche eine warme Weste.",
+            "Ich trage Stiefel, wenn es regnet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hoodie is very cozy.",
+        "text_de": "Der Kapuzenpullover ist sehr gemütlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss meine Unterwäsche waschen.",
+            "An meinem Mantel fehlt ein Knopf.",
+            "Zieh dich vor dem Abendessen um.",
+            "Der Kapuzenpullover ist sehr gemütlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sports clothes should be elastic.",
+        "text_de": "Sportkleidung sollte elastisch sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sportkleidung sollte elastisch sein.",
+            "Welche Größe tragen Sie?",
+            "Ich wasche heute die Wäsche.",
+            "Ich habe einen meiner Handschuhe verloren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need new running shoes.",
+        "text_de": "Ich brauche neue Laufschuhe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss eine Krawatte für die Besprechung tragen.",
+            "Ich habe nichts zum Anziehen!",
+            "Ich brauche einen neuen Badeanzug für meinen Urlaub.",
+            "Ich brauche neue Laufschuhe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy your shopping trip!",
+        "text_de": "Viel Spaß beim Shoppen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Clothing'.",
+        "description_de": "Beispielsatz für 'Clothing'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schlafanzug",
+            "Viel Spaß beim Shoppen!",
+            "Diese Farbe steht dir gut.",
+            "der Pullover"
+        ]
+    }
+]

@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The weather",
+        "text_de": "das Wetter",
+        "synonyms": [],
+        "description": "German word for 'The weather'.",
+        "description_de": "Deutsches Wort für 'The weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf den ersten Schnee.",
+            "Die Wassertemperatur beträgt zweiundzwanzig Grad.",
+            "Das Wetter ist unberechenbar.",
+            "das Wetter"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sun",
+        "text_de": "die Sonne",
+        "synonyms": [],
+        "description": "German word for 'The sun'.",
+        "description_de": "Deutsches Wort für 'The sun'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Frühling wird das Tageslicht länger.",
+            "die Sonne",
+            "Das Eis schmilzt in der Sonne.",
+            "Der Himmel wurde lila während des Sturms."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The rain",
+        "text_de": "der Regen",
+        "synonyms": [],
+        "description": "German word for 'The rain'.",
+        "description_de": "Deutsches Wort für 'The rain'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Luft ist heute sehr feucht.",
+            "der Regen",
+            "Die Natur erwacht im Frühling.",
+            "der Schnee"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The snow",
+        "text_de": "der Schnee",
+        "synonyms": [],
+        "description": "German word for 'The snow'.",
+        "description_de": "Deutsches Wort für 'The snow'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schnee",
+            "der Donner",
+            "Die Herbstblätter fallen.",
+            "das Grad"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The wind",
+        "text_de": "der Wind",
+        "synonyms": [],
+        "description": "German word for 'The wind'.",
+        "description_de": "Deutsches Wort für 'The wind'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Klima verändert sich weltweit.",
+            "Schneeflocken sind wunderschön und einzigartig.",
+            "Der Frühling ist meine Lieblingsjahreszeit.",
+            "der Wind"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cloud",
+        "text_de": "die Wolke",
+        "synonyms": [],
+        "description": "German word for 'The cloud'.",
+        "description_de": "Deutsches Wort für 'The cloud'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie ist die Temperatur draußen?",
+            "Typisches Aprilwetter: Sonne und Regen.",
+            "die Wolke",
+            "Es ist ein milder Winter dieses Jahr."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The storm",
+        "text_de": "der Sturm",
+        "synonyms": [],
+        "description": "German word for 'The storm'.",
+        "description_de": "Deutsches Wort für 'The storm'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Wind ist heute sehr stark.",
+            "Der Frühling ist meine Lieblingsjahreszeit.",
+            "der Sturm",
+            "der Blitz"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The thunder",
+        "text_de": "der Donner",
+        "synonyms": [],
+        "description": "German word for 'The thunder'.",
+        "description_de": "Deutsches Wort für 'The thunder'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Donner",
+            "Die Temperatur sank unter Null.",
+            "Ich bin wetterfühlig.",
+            "Ich genieße die vier Jahreszeiten in Europa."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The lightning",
+        "text_de": "der Blitz",
+        "synonyms": [],
+        "description": "German word for 'The lightning'.",
+        "description_de": "Deutsches Wort für 'The lightning'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Temperatur",
+            "Es ist ein milder Winter dieses Jahr.",
+            "der Blitz",
+            "Die Sonne scheint hell."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The fog",
+        "text_de": "der Nebel",
+        "synonyms": [],
+        "description": "German word for 'The fog'.",
+        "description_de": "Deutsches Wort für 'The fog'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns über das Wetter reden.",
+            "Der Morgentau auf dem Gras.",
+            "der Nebel",
+            "Schützt die Umwelt für zukünftige Generationen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The temperature",
+        "text_de": "die Temperatur",
+        "synonyms": [],
+        "description": "German word for 'The temperature'.",
+        "description_de": "Deutsches Wort für 'The temperature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "In klaren Nächten sind die Sterne sichtbar.",
+            "regnerisch",
+            "die Temperatur",
+            "Der Herbst ist die Zeit der Ernte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The degree",
+        "text_de": "das Grad",
+        "synonyms": [],
+        "description": "German word for 'The degree'.",
+        "description_de": "Deutsches Wort für 'The degree'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hitzewelle wird die ganze Woche dauern.",
+            "das Grad",
+            "Der Sonnenaufgang war um sechs Uhr morgens.",
+            "Der Wind pfeift durch die Bäume."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The climate",
+        "text_de": "das Klima",
+        "synonyms": [],
+        "description": "German word for 'The climate'.",
+        "description_de": "Deutsches Wort für 'The climate'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Donner folgte dem Blitz schnell.",
+            "das Klima",
+            "Im Frühling wird das Tageslicht länger.",
+            "Der Sonnenuntergang war heute Abend feuerrot."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The season",
+        "text_de": "die Jahreszeit",
+        "synonyms": [],
+        "description": "German word for 'The season'.",
+        "description_de": "Deutsches Wort für 'The season'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Jahreszeit",
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "Ein Regenbogen erscheint, wenn es regnet und die Sonne scheint.",
+            "regnerisch"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The rainbow",
+        "text_de": "der Regenbogen",
+        "synonyms": [],
+        "description": "German word for 'The rainbow'.",
+        "description_de": "Deutsches Wort für 'The rainbow'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Regenbogen",
+            "regnerisch",
+            "sonnig",
+            "Typisches Aprilwetter: Sonne und Regen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Hot",
+        "text_de": "heiß",
+        "synonyms": [],
+        "description": "German word for 'Hot'.",
+        "description_de": "Deutsches Wort für 'Hot'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hitzewelle wird die ganze Woche dauern.",
+            "heiß",
+            "Ich liebe es, im Schnee spazieren zu gehen.",
+            "Die Natur erwacht im Frühling."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Cold",
+        "text_de": "kalt",
+        "synonyms": [],
+        "description": "German word for 'Cold'.",
+        "description_de": "Deutsches Wort für 'Cold'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "Schützt die Umwelt für zukünftige Generationen.",
+            "kalt",
+            "der Nebel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Sunny",
+        "text_de": "sonnig",
+        "synonyms": [],
+        "description": "German word for 'Sunny'.",
+        "description_de": "Deutsches Wort für 'Sunny'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "sonnig",
+            "Die Ernte war gut dieses Jahr.",
+            "Die Natur erwacht im Frühling.",
+            "der Schnee"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Rainy",
+        "text_de": "regnerisch",
+        "synonyms": [],
+        "description": "German word for 'Rainy'.",
+        "description_de": "Deutsches Wort für 'Rainy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "regnerisch",
+            "Lass uns im See schwimmen gehen.",
+            "kalt",
+            "Ich kann die Sonne durch die Wolken nicht sehen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Cloudy",
+        "text_de": "bewölkt",
+        "synonyms": [],
+        "description": "German word for 'Cloudy'.",
+        "description_de": "Deutsches Wort für 'Cloudy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es sind zwanzig Grad Celsius.",
+            "Ich genieße die vier Jahreszeiten in Europa.",
+            "bewölkt",
+            "Das Meer ist heute sehr ruhig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How is the weather today?",
+        "text_de": "Wie ist das Wetter heute?",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Regenbogen erscheint, wenn es regnet und die Sonne scheint.",
+            "Ich liebe den Geruch von Regen auf heißem Asphalt.",
+            "Wie ist das Wetter heute?",
+            "die Jahreszeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sun is shining brightly.",
+        "text_de": "Die Sonne scheint hell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sonne scheint hell.",
+            "Die Ernte war gut dieses Jahr.",
+            "Schneeflocken sind wunderschön und einzigartig.",
+            "sonnig"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's going to rain later.",
+        "text_de": "Es wird später regnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schützt die Umwelt für zukünftige Generationen.",
+            "die Jahreszeit",
+            "Ich suche eine warme Winterjacke.",
+            "Es wird später regnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love walking in the snow.",
+        "text_de": "Ich liebe es, im Schnee spazieren zu gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, im Schnee spazieren zu gehen.",
+            "der Sturm",
+            "Lass uns diesen sonnigen Nachmittag genießen.",
+            "Die Luft ist heute sehr feucht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wind is very strong today.",
+        "text_de": "Der Wind ist heute sehr stark.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trinken Sie genug Wasser bei der Hitze.",
+            "Die Sonne scheint hell.",
+            "Lass uns im See schwimmen gehen.",
+            "Der Wind ist heute sehr stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sky is covered with dark clouds.",
+        "text_de": "Der Himmel ist mit dunklen Wolken bedeckt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Himmel ist mit dunklen Wolken bedeckt.",
+            "In klaren Nächten sind die Sterne sichtbar.",
+            "das Wetter",
+            "Bei kaltem Wetter fühle ich mich energetischer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A storm is coming from the west.",
+        "text_de": "Ein Sturm zieht von Westen her auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Sturm zieht von Westen her auf.",
+            "Die Erderwärmung ist ein ernstes Problem.",
+            "kalt",
+            "Ein Sonnenstich kann gefährlich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Thunder followed the lightning quickly.",
+        "text_de": "Der Donner folgte dem Blitz schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns diesen sonnigen Nachmittag genießen.",
+            "Der Donner folgte dem Blitz schnell.",
+            "Ich bevorzuge kühles Wetter zum Laufen.",
+            "Die Luft ist heute sehr feucht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fog makes driving dangerous.",
+        "text_de": "Nebel macht das Autofahren gefährlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns diesen sonnigen Nachmittag genießen.",
+            "Nebel macht das Autofahren gefährlich.",
+            "die Temperatur",
+            "Schneeflocken sind wunderschön und einzigartig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What's the temperature outside?",
+        "text_de": "Wie ist die Temperatur draußen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Regen",
+            "Ich suche eine warme Winterjacke.",
+            "Wie ist die Temperatur draußen?",
+            "Ist es windig am Strand?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's twenty degrees Celsius.",
+        "text_de": "Es sind zwanzig Grad Celsius.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Donner",
+            "Ich suche eine warme Winterjacke.",
+            "das Grad",
+            "Es sind zwanzig Grad Celsius."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The climate is changing globally.",
+        "text_de": "Das Klima verändert sich weltweit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sommer ist perfekt für Aktivitäten im Freien.",
+            "Das Klima verändert sich weltweit.",
+            "Die Felder sind trocken und brauchen Regen.",
+            "Die Temperatur sank unter Null."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Spring is my favorite season.",
+        "text_de": "Der Frühling ist meine Lieblingsjahreszeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "Bleiben Sie am Mittag im Schatten.",
+            "Der Garten braucht wegen der Hitze mehr Wasser.",
+            "Der Frühling ist meine Lieblingsjahreszeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Look! There is a beautiful rainbow.",
+        "text_de": "Schau mal! Da ist ein wunderschöner Regenbogen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schau mal! Da ist ein wunderschöner Regenbogen.",
+            "Pflanzen wachsen schnell im Sommerregen.",
+            "Bleiben Sie am Mittag im Schatten.",
+            "Die Herbstblätter fallen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's too hot to work today.",
+        "text_de": "Es ist heute zu heiß zum Arbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist heute zu heiß zum Arbeiten.",
+            "Ein Sonnenstich kann gefährlich sein.",
+            "Der Boden ist fest gefroren.",
+            "Der Frühling ist meine Lieblingsjahreszeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The winter in Germany can be very cold.",
+        "text_de": "Der Winter in Deutschland kann sehr kalt sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ernte war gut dieses Jahr.",
+            "Der Winter in Deutschland kann sehr kalt sein.",
+            "Der Himmel wurde lila während des Sturms.",
+            "Die Wassertemperatur beträgt zweiundzwanzig Grad."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's enjoy this sunny afternoon.",
+        "text_de": "Lass uns diesen sonnigen Nachmittag genießen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Luft ist heute sehr feucht.",
+            "Die Berge sind mit Schnee bedeckt.",
+            "Die Luftfeuchtigkeit in den Tropen ist sehr hoch.",
+            "Lass uns diesen sonnigen Nachmittag genießen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Take an umbrella, it's rainy outside.",
+        "text_de": "Nimm einen Regenschirm mit, es ist regnerisch draußen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich genieße die vier Jahreszeiten in Europa.",
+            "Bleiben Sie am Mittag im Schatten.",
+            "Es wird später regnen.",
+            "Nimm einen Regenschirm mit, es ist regnerisch draußen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a bit cloudy, but still warm.",
+        "text_de": "Es ist etwas bewölkt, aber immer noch warm.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sonne scheint hell.",
+            "Die Temperatur sank unter Null.",
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "die Temperatur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The weather forecast for tomorrow is good.",
+        "text_de": "Die Wettervorhersage für morgen ist gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sonnenuntergang war heute Abend feuerrot.",
+            "Die Wettervorhersage für morgen ist gut.",
+            "Ich liebe den Geruch von Regen auf heißem Asphalt.",
+            "Nebel macht das Autofahren gefährlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The air is very humid today.",
+        "text_de": "Die Luft ist heute sehr feucht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Luft ist heute sehr feucht.",
+            "Der Wind ist heute sehr stark.",
+            "Der Mond scheint am Himmel.",
+            "Es ist heute zu heiß zum Arbeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I can't see the sun through the clouds.",
+        "text_de": "Ich kann die Sonne durch die Wolken nicht sehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schneeflocken sind wunderschön und einzigartig.",
+            "Ich kann die Sonne durch die Wolken nicht sehen.",
+            "kalt",
+            "Schützt die Umwelt für zukünftige Generationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ice is melting in the sun.",
+        "text_de": "Das Eis schmilzt in der Sonne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trinken Sie genug Wasser bei der Hitze.",
+            "Das Eis schmilzt in der Sonne.",
+            "Schneeflocken sind wunderschön und einzigartig.",
+            "Der Sonnenaufgang war um sechs Uhr morgens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Beware of black ice on the roads.",
+        "text_de": "Vorsicht vor Blitzeis auf den Straßen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Sturm zieht von Westen her auf.",
+            "der Wind",
+            "Vorsicht vor Blitzeis auf den Straßen.",
+            "Lass uns im See schwimmen gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The autumn leaves are falling.",
+        "text_de": "Die Herbstblätter fallen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Klima",
+            "Nimm einen Regenschirm mit, es ist regnerisch draußen.",
+            "Die Hitze macht mich müde.",
+            "Die Herbstblätter fallen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The garden needs more water because of the heat.",
+        "text_de": "Der Garten braucht wegen der Hitze mehr Wasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schützt die Umwelt für zukünftige Generationen.",
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "Der Herbst ist die Zeit der Ernte.",
+            "Der Garten braucht wegen der Hitze mehr Wasser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is it windy at the beach?",
+        "text_de": "Ist es windig am Strand?",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schnee",
+            "Die Wettervorhersage für morgen ist gut.",
+            "Der Wind ist heute sehr stark.",
+            "Ist es windig am Strand?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The heatwave will last all week.",
+        "text_de": "Die Hitzewelle wird die ganze Woche dauern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hitzewelle wird die ganze Woche dauern.",
+            "Nimm einen Regenschirm mit, es ist regnerisch draußen.",
+            "Frost an den Fenstern am Morgen.",
+            "Ein Sonnenstich kann gefährlich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to the first snow.",
+        "text_de": "Ich freue mich auf den ersten Schnee.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergiss deine Handschuhe nicht, es friert.",
+            "Ich freue mich auf den ersten Schnee.",
+            "Ein Sonnenstich kann gefährlich sein.",
+            "Ich liebe den Geruch von Regen auf heißem Asphalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't forget your gloves, it's freezing.",
+        "text_de": "Vergiss deine Handschuhe nicht, es friert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nebel macht das Autofahren gefährlich.",
+            "In klaren Nächten sind die Sterne sichtbar.",
+            "Vergiss deine Handschuhe nicht, es friert.",
+            "heiß"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The mountains are covered with snow.",
+        "text_de": "Die Berge sind mit Schnee bedeckt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, im Schnee spazieren zu gehen.",
+            "Die Felder sind trocken und brauchen Regen.",
+            "Die Berge sind mit Schnee bedeckt.",
+            "Die Herbstblätter fallen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The humidity is very high in the tropics.",
+        "text_de": "Die Luftfeuchtigkeit in den Tropen ist sehr hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Natur erwacht im Frühling.",
+            "Der Donner folgte dem Blitz schnell.",
+            "Die Luftfeuchtigkeit in den Tropen ist sehr hoch.",
+            "Die Berge sind mit Schnee bedeckt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A light breeze is refreshing.",
+        "text_de": "Eine leichte Brise ist erfrischend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Morgentau auf dem Gras.",
+            "Im Frühling wird das Tageslicht länger.",
+            "Der Sonnenuntergang war heute Abend feuerrot.",
+            "Eine leichte Brise ist erfrischend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sea is very calm today.",
+        "text_de": "Das Meer ist heute sehr ruhig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sonne scheint hell.",
+            "Das Meer ist heute sehr ruhig.",
+            "Vergiss deine Handschuhe nicht, es friert.",
+            "Ich freue mich auf den ersten Schnee."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Severe weather warnings were issued.",
+        "text_de": "Unwetterwarnungen wurden herausgegeben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unwetterwarnungen wurden herausgegeben.",
+            "der Donner",
+            "Der Herbst ist die Zeit der Ernte.",
+            "Der Winter in Deutschland kann sehr kalt sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The storm caused a lot of damage.",
+        "text_de": "Der Sturm hat viel Schaden angerichtet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Grad",
+            "Typisches Aprilwetter: Sonne und Regen.",
+            "Es ist heute zu heiß zum Arbeiten.",
+            "Der Sturm hat viel Schaden angerichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A rainbow appears when it rains and the sun shines.",
+        "text_de": "Ein Regenbogen erscheint, wenn es regnet und die Sonne scheint.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trinken Sie genug Wasser bei der Hitze.",
+            "Ein Regenbogen erscheint, wenn es regnet und die Sonne scheint.",
+            "die Jahreszeit",
+            "Die Temperatur sank unter Null."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The temperature dropped below zero.",
+        "text_de": "Die Temperatur sank unter Null.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Temperatur sank unter Null.",
+            "heiß",
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "Ein Sonnenstich kann gefährlich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a mild winter this year.",
+        "text_de": "Es ist ein milder Winter dieses Jahr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wetter ist unberechenbar.",
+            "Der Garten braucht wegen der Hitze mehr Wasser.",
+            "Die Natur erwacht im Frühling.",
+            "Es ist ein milder Winter dieses Jahr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the smell of rain on hot asphalt.",
+        "text_de": "Ich liebe den Geruch von Regen auf heißem Asphalt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Himmel ist mit dunklen Wolken bedeckt.",
+            "der Schnee",
+            "Ich liebe den Geruch von Regen auf heißem Asphalt.",
+            "Die Hitze macht mich müde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The stars are visible during clear nights.",
+        "text_de": "In klaren Nächten sind die Sterne sichtbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schnee",
+            "die Temperatur",
+            "In klaren Nächten sind die Sterne sichtbar.",
+            "Der Sturm hat viel Schaden angerichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The moon is shining in the sky.",
+        "text_de": "Der Mond scheint am Himmel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleiben Sie am Mittag im Schatten.",
+            "Genieße den schönen Tag!",
+            "Der Frühling ist meine Lieblingsjahreszeit.",
+            "Der Mond scheint am Himmel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Global warming is a serious problem.",
+        "text_de": "Die Erderwärmung ist ein ernstes Problem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Frühling wird das Tageslicht länger.",
+            "Der Frühling ist meine Lieblingsjahreszeit.",
+            "Die Hitze macht mich müde.",
+            "Die Erderwärmung ist ein ernstes Problem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need more renewable energy.",
+        "text_de": "Wir brauchen mehr erneuerbare Energie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen mehr erneuerbare Energie.",
+            "Ich liebe es, im Schnee spazieren zu gehen.",
+            "Der Winter in Deutschland kann sehr kalt sein.",
+            "Die Hitze macht mich müde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect the environment for future generations.",
+        "text_de": "Schützt die Umwelt für zukünftige Generationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hitze macht mich müde.",
+            "Schützt die Umwelt für zukünftige Generationen.",
+            "Das Klima verändert sich weltweit.",
+            "Ich liebe den Geruch von Regen auf heißem Asphalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sunset was fiery red tonight.",
+        "text_de": "Der Sonnenuntergang war heute Abend feuerrot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schneeflocken sind wunderschön und einzigartig.",
+            "Der Sonnenuntergang war heute Abend feuerrot.",
+            "Der Morgentau auf dem Gras.",
+            "Die Wettervorhersage für morgen ist gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sunrise was at six AM.",
+        "text_de": "Der Sonnenaufgang war um sechs Uhr morgens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sonnenaufgang war um sechs Uhr morgens.",
+            "Ein Regenschirm ist in London unerlässlich.",
+            "Ich genieße die vier Jahreszeiten in Europa.",
+            "Ich bin wetterfühlig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Daylight is getting longer in spring.",
+        "text_de": "Im Frühling wird das Tageslicht länger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin wetterfühlig.",
+            "Der Sonnenaufgang war um sechs Uhr morgens.",
+            "Im Frühling wird das Tageslicht länger.",
+            "Ein Sturm zieht von Westen her auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The shortest day of the year is in December.",
+        "text_de": "Der kürzeste Tag des Jahres ist im Dezember.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schau mal! Da ist ein wunderschöner Regenbogen.",
+            "Es ist ein milder Winter dieses Jahr.",
+            "Der kürzeste Tag des Jahres ist im Dezember.",
+            "Die Hitzewelle wird die ganze Woche dauern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I enjoy the four seasons in Europe.",
+        "text_de": "Ich genieße die vier Jahreszeiten in Europa.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wassertemperatur beträgt zweiundzwanzig Grad.",
+            "Der Sonnenuntergang war heute Abend feuerrot.",
+            "Ich genieße die vier Jahreszeiten in Europa.",
+            "Der Donner folgte dem Blitz schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Summer is perfect for outdoor activities.",
+        "text_de": "Der Sommer ist perfekt für Aktivitäten im Freien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sommer ist perfekt für Aktivitäten im Freien.",
+            "Ich genieße die vier Jahreszeiten in Europa.",
+            "Die Luft ist heute sehr feucht.",
+            "das Grad"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Autumn is the time for harvest.",
+        "text_de": "Der Herbst ist die Zeit der Ernte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "kalt",
+            "Ein Sonnenstich kann gefährlich sein.",
+            "Die Natur erwacht im Frühling.",
+            "Der Herbst ist die Zeit der Ernte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature awakens in spring.",
+        "text_de": "Die Natur erwacht im Frühling.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schau mal! Da ist ein wunderschöner Regenbogen.",
+            "Die Natur erwacht im Frühling.",
+            "Ein gemütlicher Abend zu Hause, während es draußen regnet.",
+            "Die Sonne scheint hell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Plants grow fast during summer rain.",
+        "text_de": "Pflanzen wachsen schnell im Sommerregen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pflanzen wachsen schnell im Sommerregen.",
+            "Die Luftfeuchtigkeit in den Tropen ist sehr hoch.",
+            "Lass uns über das Wetter reden.",
+            "Der Himmel ist mit dunklen Wolken bedeckt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ground is frozen hard.",
+        "text_de": "Der Boden ist fest gefroren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Boden ist fest gefroren.",
+            "Das Eis schmilzt in der Sonne.",
+            "Genieße den schönen Tag!",
+            "Die Hitzewelle wird die ganze Woche dauern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Snowflakes are beautiful and unique.",
+        "text_de": "Schneeflocken sind wunderschön und einzigartig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Donner",
+            "die Wolke",
+            "Das Eis schmilzt in der Sonne.",
+            "Schneeflocken sind wunderschön und einzigartig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wind is whistling through the trees.",
+        "text_de": "Der Wind pfeift durch die Bäume.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Frühling ist meine Lieblingsjahreszeit.",
+            "Der Wind pfeift durch die Bäume.",
+            "Ich suche eine warme Winterjacke.",
+            "Schützt die Umwelt für zukünftige Generationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sky turned purple during the storm.",
+        "text_de": "Der Himmel wurde lila während des Sturms.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Himmel wurde lila während des Sturms.",
+            "Ein Sonnenstich kann gefährlich sein.",
+            "Wir brauchen mehr erneuerbare Energie.",
+            "der Schnee"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm sensitive to weather changes.",
+        "text_de": "Ich bin wetterfühlig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist ein milder Winter dieses Jahr.",
+            "Nebel macht das Autofahren gefährlich.",
+            "Ich bin wetterfühlig.",
+            "Das Reservoir ist fast leer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A cozy evening at home while it's raining outside.",
+        "text_de": "Ein gemütlicher Abend zu Hause, während es draußen regnet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen mehr erneuerbare Energie.",
+            "Ein gemütlicher Abend zu Hause, während es draußen regnet.",
+            "Die Herbstblätter fallen.",
+            "Vorsicht vor Blitzeis auf den Straßen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fields are dry and need rain.",
+        "text_de": "Die Felder sind trocken und brauchen Regen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist etwas bewölkt, aber immer noch warm.",
+            "der Blitz",
+            "Der Boden ist fest gefroren.",
+            "Die Felder sind trocken und brauchen Regen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The reservoir is almost empty.",
+        "text_de": "Das Reservoir ist fast leer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Typisches Aprilwetter: Sonne und Regen.",
+            "Der Wind ist heute sehr stark.",
+            "Das Reservoir ist fast leer.",
+            "Der Sonnenuntergang war heute Abend feuerrot."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's go for a swim in the lake.",
+        "text_de": "Lass uns im See schwimmen gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sturm hat viel Schaden angerichtet.",
+            "Lass uns im See schwimmen gehen.",
+            "die Temperatur",
+            "Lass uns über das Wetter reden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The water temperature is twenty-two degrees.",
+        "text_de": "Die Wassertemperatur beträgt zweiundzwanzig Grad.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns über das Wetter reden.",
+            "Wie ist die Temperatur draußen?",
+            "der Sturm",
+            "Die Wassertemperatur beträgt zweiundzwanzig Grad."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sunstroke can be dangerous.",
+        "text_de": "Ein Sonnenstich kann gefährlich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Im Frühling wird das Tageslicht länger.",
+            "Ein Sonnenstich kann gefährlich sein.",
+            "Ich liebe den Geruch von Regen auf heißem Asphalt.",
+            "Wie ist das Wetter heute?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay in the shade during midday.",
+        "text_de": "Bleiben Sie am Mittag im Schatten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Temperatur sank unter Null.",
+            "Nebel macht das Autofahren gefährlich.",
+            "Bleiben Sie am Mittag im Schatten.",
+            "Ein Regenbogen erscheint, wenn es regnet und die Sonne scheint."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Drink enough water in the heat.",
+        "text_de": "Trinken Sie genug Wasser bei der Hitze.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trinken Sie genug Wasser bei der Hitze.",
+            "Lass uns über das Wetter reden.",
+            "Das Meer ist heute sehr ruhig.",
+            "die Sonne"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The morning dew on the grass.",
+        "text_de": "Der Morgentau auf dem Gras.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wettervorhersage für morgen ist gut.",
+            "Der Morgentau auf dem Gras.",
+            "die Wolke",
+            "Die Felder sind trocken und brauchen Regen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Frost on the windows in the morning.",
+        "text_de": "Frost an den Fenstern am Morgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sonnenuntergang war heute Abend feuerrot.",
+            "Die Luft ist heute sehr feucht.",
+            "Frost an den Fenstern am Morgen.",
+            "Die Erderwärmung ist ein ernstes Problem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a warm winter jacket.",
+        "text_de": "Ich suche eine warme Winterjacke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hitzewelle wird die ganze Woche dauern.",
+            "Ich suche eine warme Winterjacke.",
+            "Ich bin wetterfühlig.",
+            "Der Sonnenaufgang war um sechs Uhr morgens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "An umbrella is essential in London.",
+        "text_de": "Ein Regenschirm ist in London unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schnee",
+            "die Sonne",
+            "der Donner",
+            "Ein Regenschirm ist in London unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The weather is unpredictable.",
+        "text_de": "Das Wetter ist unberechenbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist es windig am Strand?",
+            "Das Wetter ist unberechenbar.",
+            "Der Himmel wurde lila während des Sturms.",
+            "Es ist etwas bewölkt, aber immer noch warm."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's talk about the weather.",
+        "text_de": "Lass uns über das Wetter reden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vorsicht vor Blitzeis auf den Straßen.",
+            "Die Wassertemperatur beträgt zweiundzwanzig Grad.",
+            "Lass uns über das Wetter reden.",
+            "Genieße den schönen Tag!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Typical April weather: sun and rain.",
+        "text_de": "Typisches Aprilwetter: Sonne und Regen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Typisches Aprilwetter: Sonne und Regen.",
+            "Eine leichte Brise ist erfrischend.",
+            "Lass uns über das Wetter reden.",
+            "das Wetter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer cool weather for running.",
+        "text_de": "Ich bevorzuge kühles Wetter zum Laufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge kühles Wetter zum Laufen.",
+            "Die Luftfeuchtigkeit in den Tropen ist sehr hoch.",
+            "Die Temperatur sank unter Null.",
+            "der Nebel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The heat makes me tired.",
+        "text_de": "Die Hitze macht mich müde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Boden ist fest gefroren.",
+            "Trinken Sie genug Wasser bei der Hitze.",
+            "Die Temperatur sank unter Null.",
+            "Die Hitze macht mich müde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel more energetic in cold weather.",
+        "text_de": "Bei kaltem Wetter fühle ich mich energetischer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bei kaltem Wetter fühle ich mich energetischer.",
+            "Schützt die Umwelt für zukünftige Generationen.",
+            "Pflanzen wachsen schnell im Sommerregen.",
+            "Ein Sturm zieht von Westen her auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature needs the rain.",
+        "text_de": "Die Natur braucht den Regen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "kalt",
+            "Die Ernte war gut dieses Jahr.",
+            "regnerisch",
+            "Die Natur braucht den Regen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The harvest was good this year.",
+        "text_de": "Die Ernte war gut dieses Jahr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Hitzewelle wird die ganze Woche dauern.",
+            "Ist es windig am Strand?",
+            "Nebel macht das Autofahren gefährlich.",
+            "Die Ernte war gut dieses Jahr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy the beautiful day!",
+        "text_de": "Genieße den schönen Tag!",
+        "synonyms": [],
+        "description": "Example sentence for 'Weather'.",
+        "description_de": "Beispielsatz für 'Weather'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Genieße den schönen Tag!",
+            "Ich suche eine warme Winterjacke.",
+            "Der Sonnenuntergang war heute Abend feuerrot.",
+            "Ein Regenschirm ist in London unerlässlich."
+        ]
+    }
+]

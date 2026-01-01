@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The sociology",
+        "text_de": "die Soziologie",
+        "synonyms": [],
+        "description": "German word for 'The sociology'.",
+        "description_de": "Deutsches Wort für 'The sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erforsche weiter die soziale Welt.",
+            "Die moderne Gesellschaft ist sehr komplex.",
+            "Starke Familien führen zu starken Gesellschaften.",
+            "die Soziologie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The society",
+        "text_de": "die Gesellschaft",
+        "synonyms": [],
+        "description": "German word for 'The society'.",
+        "description_de": "Deutsches Wort für 'The society'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Devianz ist Verhalten, das gegen Normen verstößt.",
+            "die Gesellschaft",
+            "Die moderne Gesellschaft ist sehr komplex.",
+            "Sozialstrukturen definieren unsere Rollen im Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The social structure",
+        "text_de": "die Sozialstruktur",
+        "synonyms": [],
+        "description": "German word for 'The social structure'.",
+        "description_de": "Deutsches Wort für 'The social structure'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Max Weber war ein berühmter deutscher Soziologe.",
+            "Emile Durkheim untersuchte die soziale Integration.",
+            "die Sozialstruktur",
+            "Arbeit definiert einen Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The social class",
+        "text_de": "die soziale Schicht",
+        "synonyms": [],
+        "description": "German word for 'The social class'.",
+        "description_de": "Deutsches Wort für 'The social class'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Subkulturen bieten Alternativen zum Mainstream.",
+            "Wissen ist ein öffentliches Gut.",
+            "Religion spielt im Leben vieler Menschen eine Rolle.",
+            "die soziale Schicht"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The community",
+        "text_de": "die Gemeinschaft",
+        "synonyms": [],
+        "description": "German word for 'The community'.",
+        "description_de": "Deutsches Wort für 'The community'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "beeinflussen",
+            "Die Zukunft der Arbeit ist ungewiss.",
+            "Belästigung in jeder Form ist inakzeptabel.",
+            "die Gemeinschaft"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The group",
+        "text_de": "die Gruppe",
+        "synonyms": [],
+        "description": "German word for 'The group'.",
+        "description_de": "Deutsches Wort für 'The group'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gruppe",
+            "Kapitalismus ist ein wirtschaftliches und soziales System.",
+            "Nachhaltigkeit ist eine soziale Verantwortung.",
+            "Beobachtung ist eine Methode der Soziologie."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The individual",
+        "text_de": "das Individuum",
+        "synonyms": [],
+        "description": "German word for 'The individual'.",
+        "description_de": "Deutsches Wort für 'The individual'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Individuum",
+            "Peer-Groups sind wichtig für Teenager.",
+            "interagieren",
+            "Umweltgerechtigkeit ist ein soziales Thema."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The norm",
+        "text_de": "die Norm",
+        "synonyms": [],
+        "description": "German word for 'The norm'.",
+        "description_de": "Deutsches Wort für 'The norm'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Demokratie erfordert aktive Bürger.",
+            "die Norm",
+            "Alleinerziehende Familien sind heute häufiger.",
+            "Künstliche Intelligenz und Gesellschaft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The value",
+        "text_de": "der Wert",
+        "synonyms": [],
+        "description": "German word for 'The value'.",
+        "description_de": "Deutsches Wort für 'The value'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die digitale Kluft ist eine Form der Ungleichheit.",
+            "Migration bringt sowohl Chancen als auch Herausforderungen.",
+            "Erforsche weiter die soziale Welt.",
+            "der Wert"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The culture",
+        "text_de": "die Kultur",
+        "synonyms": [],
+        "description": "German word for 'The culture'.",
+        "description_de": "Deutsches Wort für 'The culture'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kultur",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem.",
+            "Karl Marx analysierte den Klassenkampf.",
+            "interagieren"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The socialization",
+        "text_de": "die Sozialisation",
+        "synonyms": [],
+        "description": "German word for 'The socialization'.",
+        "description_de": "Deutsches Wort für 'The socialization'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung sollte für alle kostenlos sein.",
+            "Fördere Inklusion und Vielfalt.",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem.",
+            "die Sozialisation"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The inequality",
+        "text_de": "die Ungleichheit",
+        "synonyms": [],
+        "description": "German word for 'The inequality'.",
+        "description_de": "Deutsches Wort für 'The inequality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Individuum ist Teil des Ganzen.",
+            "die Ungleichheit",
+            "Wissen ist ein öffentliches Gut.",
+            "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The poverty",
+        "text_de": "die Armut",
+        "synonyms": [],
+        "description": "German word for 'The poverty'.",
+        "description_de": "Deutsches Wort für 'The poverty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl.",
+            "Die Familie ist die Grundeinheit der Gesellschaft.",
+            "die Armut",
+            "Soziale Normen helfen, die Ordnung aufrechtzuerhalten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The gender",
+        "text_de": "das Geschlecht",
+        "synonyms": [],
+        "description": "German word for 'The gender'.",
+        "description_de": "Deutsches Wort für 'The gender'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind universell.",
+            "Arbeit definiert einen Teil unserer Identität.",
+            "das Geschlecht",
+            "die Gemeinschaft"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ethnicity",
+        "text_de": "die Ethnizität",
+        "synonyms": [],
+        "description": "German word for 'The ethnicity'.",
+        "description_de": "Deutsches Wort für 'The ethnicity'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bürokratie kann Prozesse verlangsamen.",
+            "die Ethnizität",
+            "Soziale Bewegungen kämpfen für Gerechtigkeit.",
+            "Fördere Inklusion und Vielfalt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The family",
+        "text_de": "die Familie",
+        "synonyms": [],
+        "description": "German word for 'The family'.",
+        "description_de": "Deutsches Wort für 'The family'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medien können die öffentliche Meinung beeinflussen.",
+            "Soziale Bewegungen kämpfen für Gerechtigkeit.",
+            "Integration ist ein Prozess in zwei Richtungen.",
+            "die Familie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The religion",
+        "text_de": "die Religion",
+        "synonyms": [],
+        "description": "German word for 'The religion'.",
+        "description_de": "Deutsches Wort für 'The religion'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alleinerziehende Familien sind heute häufiger.",
+            "Freizeit ist notwendig für das Wohlbefinden.",
+            "die Religion",
+            "Soziale Bewegungen kämpfen für Gerechtigkeit."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The state",
+        "text_de": "der Staat",
+        "synonyms": [],
+        "description": "German word for 'The state'.",
+        "description_de": "Deutsches Wort für 'The state'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diskriminierung ist gesetzlich verboten.",
+            "Soziale Normen helfen, die Ordnung aufrechtzuerhalten.",
+            "Chancengleichheit ist ein Ziel.",
+            "der Staat"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To interact",
+        "text_de": "interagieren",
+        "synonyms": [],
+        "description": "German word for 'To interact'.",
+        "description_de": "Deutsches Wort für 'To interact'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Wert",
+            "Der Sozialstaat bietet ein Sicherheitsnetz.",
+            "interagieren",
+            "Sozialer Fortschritt ist ein langsamer Prozess."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To influence",
+        "text_de": "beeinflussen",
+        "synonyms": [],
+        "description": "German word for 'To influence'.",
+        "description_de": "Deutsches Wort für 'To influence'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "beeinflussen",
+            "Soziale Normen helfen, die Ordnung aufrechtzuerhalten.",
+            "Armut zu bekämpfen ist eine ethische Pflicht.",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sociology is the study of human society.",
+        "text_de": "Soziologie ist das Studium der menschlichen Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl.",
+            "Soziologie ist das Studium der menschlichen Gesellschaft.",
+            "Die digitale Kluft ist eine Form der Ungleichheit.",
+            "Solidarität ist wichtig in einer Krise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Modern society is very complex.",
+        "text_de": "Die moderne Gesellschaft ist sehr komplex.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die moderne Gesellschaft ist sehr komplex.",
+            "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+            "Beobachtung ist eine Methode der Soziologie.",
+            "Die digitale Kluft ist eine Form der Ungleichheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social structures define our roles in life.",
+        "text_de": "Sozialstrukturen definieren unsere Rollen im Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere vielfältige Lebensstile.",
+            "die Sozialstruktur",
+            "Sozialstrukturen definieren unsere Rollen im Leben.",
+            "Künstliche Intelligenz und Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Growing inequality is a major concern.",
+        "text_de": "Wachsende Ungleichheit ist ein großes Anliegen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Religion",
+            "Wachsende Ungleichheit ist ein großes Anliegen.",
+            "Die Generationskluft kann zu Missverständnissen führen.",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We all belong to different communities.",
+        "text_de": "Wir alle gehören verschiedenen Gemeinschaften an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Devianz ist Verhalten, das gegen Normen verstößt.",
+            "beeinflussen",
+            "Wir alle gehören verschiedenen Gemeinschaften an.",
+            "Sozialstrukturen definieren unsere Rollen im Leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Group dynamics can be very powerful.",
+        "text_de": "Gruppendynamik kann sehr mächtig sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Theoretische Modelle helfen uns, die Welt zu verstehen.",
+            "Gruppendynamik kann sehr mächtig sein.",
+            "Starke Familien führen zu starken Gesellschaften.",
+            "Die Zukunft der Arbeit ist ungewiss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The individual is parts of the whole.",
+        "text_de": "Das Individuum ist Teil des Ganzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sozialkapital besteht aus Netzwerken und Vertrauen.",
+            "Das Individuum ist Teil des Ganzen.",
+            "Religion spielt im Leben vieler Menschen eine Rolle.",
+            "Fördere Inklusion und Vielfalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social norms help to maintain order.",
+        "text_de": "Soziale Normen helfen, die Ordnung aufrechtzuerhalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Religion",
+            "Freizeit ist notwendig für das Wohlbefinden.",
+            "Soziale Normen helfen, die Ordnung aufrechtzuerhalten.",
+            "Devianz ist Verhalten, das gegen Normen verstößt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cultural values vary across the world.",
+        "text_de": "Kulturelle Werte variieren auf der ganzen Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ethnizität",
+            "Sozialstrukturen definieren unsere Rollen im Leben.",
+            "Die moderne Gesellschaft ist sehr komplex.",
+            "Kulturelle Werte variieren auf der ganzen Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Socialization starts in early childhood.",
+        "text_de": "Sozialisation beginnt in der frühen Kindheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die moderne Gesellschaft ist sehr komplex.",
+            "Sozialisation beginnt in der frühen Kindheit.",
+            "Transparenz verhindert Korruption.",
+            "Die Lebenserwartung steigt in vielen Ländern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fighting poverty is an ethical duty.",
+        "text_de": "Armut zu bekämpfen ist eine ethische Pflicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Arbeit definiert einen Teil unserer Identität.",
+            "Soziologie ist das Studium der menschlichen Gesellschaft.",
+            "Armut zu bekämpfen ist eine ethische Pflicht.",
+            "Religion spielt im Leben vieler Menschen eine Rolle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gender equality is a human right.",
+        "text_de": "Gleichstellung der Geschlechter ist ein Menschenrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ungleichheit",
+            "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl.",
+            "Gleichstellung der Geschlechter ist ein Menschenrecht.",
+            "Armut zu bekämpfen ist eine ethische Pflicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethnicity is about shared cultural heritage.",
+        "text_de": "Ethnizität geht um gemeinsames kulturelles Erbe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltigkeit ist eine soziale Verantwortung.",
+            "die Sozialstruktur",
+            "Ethnizität geht um gemeinsames kulturelles Erbe.",
+            "Der 'amerikanische Traum' ist ein kultureller Mythos."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The family is the basic unit of society.",
+        "text_de": "Die Familie ist die Grundeinheit der Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kultur",
+            "Peer-Groups sind wichtig für Teenager.",
+            "Emile Durkheim untersuchte die soziale Integration.",
+            "Die Familie ist die Grundeinheit der Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Religion plays a role in many people's lives.",
+        "text_de": "Religion spielt im Leben vieler Menschen eine Rolle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Religion spielt im Leben vieler Menschen eine Rolle.",
+            "Gesundheitsversorgung sollte für jeden zugänglich sein.",
+            "Alleinerziehende Familien sind heute häufiger.",
+            "Kulturelle Werte variieren auf der ganzen Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The state should protect its citizens.",
+        "text_de": "Der Staat sollte seine Bürger schützen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Staat sollte seine Bürger schützen.",
+            "die Familie",
+            "Die Familie ist die Grundeinheit der Gesellschaft.",
+            "Ich interessiere mich für soziologische Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How do people interact in big cities?",
+        "text_de": "Wie interagieren Menschen in Großstädten?",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie interagieren Menschen in Großstädten?",
+            "Transparenz verhindert Korruption.",
+            "Diskriminierung ist gesetzlich verboten.",
+            "die Familie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Media can influence public opinion.",
+        "text_de": "Medien können die öffentliche Meinung beeinflussen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medien können die öffentliche Meinung beeinflussen.",
+            "Macht und Autorität sind zentrale Konzepte.",
+            "Transparenz verhindert Korruption.",
+            "Künstliche Intelligenz und Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Urbanization leads to significant changes.",
+        "text_de": "Urbanisierung führt zu bedeutenden Veränderungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Karl Marx analysierte den Klassenkampf.",
+            "Urbanisierung führt zu bedeutenden Veränderungen.",
+            "Beobachtung ist eine Methode der Soziologie.",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Demographic change is a challenge for the pension system.",
+        "text_de": "Der demografische Wandel ist eine Herausforderung für das Rentensystem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Staat sollte seine Bürger schützen.",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem.",
+            "Urbanisierung führt zu bedeutenden Veränderungen.",
+            "Arbeit definiert einen Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Migration brings both opportunities and challenges.",
+        "text_de": "Migration bringt sowohl Chancen als auch Herausforderungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diskriminierung ist gesetzlich verboten.",
+            "die Ethnizität",
+            "Migration bringt sowohl Chancen als auch Herausforderungen.",
+            "Ich interessiere mich für soziologische Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Integration is a two-way process.",
+        "text_de": "Integration ist ein Prozess in zwei Richtungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Peer-Groups sind wichtig für Teenager.",
+            "Traditionelle Rollen verändern sich.",
+            "die Ungleichheit",
+            "Integration ist ein Prozess in zwei Richtungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social movements fight for justice.",
+        "text_de": "Soziale Bewegungen kämpfen für Gerechtigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gewerkschaften schützen die Rechte der Arbeitnehmer.",
+            "die Soziologie",
+            "Wie interagieren Menschen in Großstädten?",
+            "Soziale Bewegungen kämpfen für Gerechtigkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Labor unions protect the rights of workers.",
+        "text_de": "Gewerkschaften schützen die Rechte der Arbeitnehmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gewerkschaften schützen die Rechte der Arbeitnehmer.",
+            "Künstliche Intelligenz und Gesellschaft.",
+            "Gleichstellung der Geschlechter ist ein Menschenrecht.",
+            "Toleranz ist die Basis einer friedlichen Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bureaucracy can slow down processes.",
+        "text_de": "Bürokratie kann Prozesse verlangsamen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Urbanisierung führt zu bedeutenden Veränderungen.",
+            "Bürokratie kann Prozesse verlangsamen.",
+            "Toleranz ist die Basis einer friedlichen Gesellschaft.",
+            "Solidarität ist wichtig in einer Krise."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education is the key to social mobility.",
+        "text_de": "Bildung ist der Schlüssel zur sozialen Mobilität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung ist der Schlüssel zur sozialen Mobilität.",
+            "die Soziologie",
+            "Karl Marx analysierte den Klassenkampf.",
+            "Macht und Autorität sind zentrale Konzepte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The digital divide is a form of inequality.",
+        "text_de": "Die digitale Kluft ist eine Form der Ungleichheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die digitale Kluft ist eine Form der Ungleichheit.",
+            "interagieren",
+            "Belästigung in jeder Form ist inakzeptabel.",
+            "Die moderne Gesellschaft ist sehr komplex."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Consumer culture influences our lifestyle.",
+        "text_de": "Konsumkultur beeinflusst unseren Lebensstil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Konsumkultur beeinflusst unseren Lebensstil.",
+            "die Familie",
+            "das Geschlecht",
+            "Globalisierung verbindet verschiedene Teile der Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Globalization connects different parts of the world.",
+        "text_de": "Globalisierung verbindet verschiedene Teile der Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Toleranz ist die Basis einer friedlichen Gesellschaft.",
+            "die Ungleichheit",
+            "Globalisierung verbindet verschiedene Teile der Welt.",
+            "Das Individuum ist Teil des Ganzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Subcultures offer alternatives to the mainstream.",
+        "text_de": "Subkulturen bieten Alternativen zum Mainstream.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Armut zu bekämpfen ist eine ethische Pflicht.",
+            "Gleichstellung der Geschlechter ist ein Menschenrecht.",
+            "Subkulturen bieten Alternativen zum Mainstream.",
+            "Ethnizität geht um gemeinsames kulturelles Erbe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social capital consists of networks and trust.",
+        "text_de": "Sozialkapital besteht aus Netzwerken und Vertrauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sozialkapital besteht aus Netzwerken und Vertrauen.",
+            "Die digitale Kluft ist eine Form der Ungleichheit.",
+            "Die Generationskluft kann zu Missverständnissen führen.",
+            "Gib die Hoffnung auf eine bessere Welt nicht auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Deviance is behavior that goes against norms.",
+        "text_de": "Devianz ist Verhalten, das gegen Normen verstößt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medien können die öffentliche Meinung beeinflussen.",
+            "Ich interessiere mich für soziologische Forschung.",
+            "Devianz ist Verhalten, das gegen Normen verstößt.",
+            "die Ethnizität"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Power and authority are central concepts.",
+        "text_de": "Macht und Autorität sind zentrale Konzepte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für soziologische Forschung.",
+            "Emile Durkheim untersuchte die soziale Integration.",
+            "Macht und Autorität sind zentrale Konzepte.",
+            "Karl Marx analysierte den Klassenkampf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Capitalism is an economic and social system.",
+        "text_de": "Kapitalismus ist ein wirtschaftliches und soziales System.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Armut zu bekämpfen ist eine ethische Pflicht.",
+            "Menschenrechte sind universell.",
+            "Kapitalismus ist ein wirtschaftliches und soziales System.",
+            "Subkulturen bieten Alternativen zum Mainstream."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainability is a social responsibility.",
+        "text_de": "Nachhaltigkeit ist eine soziale Verantwortung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltigkeit ist eine soziale Verantwortung.",
+            "Kulturelle Werte variieren auf der ganzen Welt.",
+            "Konsumkultur beeinflusst unseren Lebensstil.",
+            "die Gruppe"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The welfare state provides a safety net.",
+        "text_de": "Der Sozialstaat bietet ein Sicherheitsnetz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind universell.",
+            "die Gemeinschaft",
+            "Der Sozialstaat bietet ein Sicherheitsnetz.",
+            "Gesundheitsversorgung sollte für jeden zugänglich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Healthcare should be accessible for everyone.",
+        "text_de": "Gesundheitsversorgung sollte für jeden zugänglich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Religion spielt im Leben vieler Menschen eine Rolle.",
+            "Die Familie ist die Grundeinheit der Gesellschaft.",
+            "Gesundheitsversorgung sollte für jeden zugänglich sein.",
+            "Globale Zusammenarbeit ist notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social media has changed how we communicate.",
+        "text_de": "Soziale Medien haben verändert, wie wir kommunizieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die moderne Gesellschaft ist sehr komplex.",
+            "Kapitalismus ist ein wirtschaftliches und soziales System.",
+            "Soziale Medien haben verändert, wie wir kommunizieren.",
+            "Der demografische Wandel ist eine Herausforderung für das Rentensystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Public space belongs to all citizens.",
+        "text_de": "Der öffentliche Raum gehört allen Bürgern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ethik der Technologie.",
+            "Starke Familien führen zu starken Gesellschaften.",
+            "Der öffentliche Raum gehört allen Bürgern.",
+            "Ich interessiere mich für soziologische Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Solidarity is important in a crisis.",
+        "text_de": "Solidarität ist wichtig in einer Krise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen ist ein öffentliches Gut.",
+            "Freizeit ist notwendig für das Wohlbefinden.",
+            "Solidarität ist wichtig in einer Krise.",
+            "Diskriminierung ist gesetzlich verboten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect diverse lifestyles.",
+        "text_de": "Respektiere vielfältige Lebensstile.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "interagieren",
+            "Menschenrechte sind universell.",
+            "Respektiere vielfältige Lebensstile.",
+            "Das Individuum ist Teil des Ganzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tolerance is the basis of a peaceful society.",
+        "text_de": "Toleranz ist die Basis einer friedlichen Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für soziologische Forschung.",
+            "die Armut",
+            "Toleranz ist die Basis einer friedlichen Gesellschaft.",
+            "Nachhaltigkeit ist eine soziale Verantwortung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in sociological research.",
+        "text_de": "Ich interessiere mich für soziologische Forschung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der 'amerikanische Traum' ist ein kultureller Mythos.",
+            "die Religion",
+            "Ich interessiere mich für soziologische Forschung.",
+            "Umweltgerechtigkeit ist ein soziales Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Surveys can provide data on social trends.",
+        "text_de": "Umfragen können Daten über soziale Trends liefern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung ist der Schlüssel zur sozialen Mobilität.",
+            "die Religion",
+            "Toleranz ist die Basis einer friedlichen Gesellschaft.",
+            "Umfragen können Daten über soziale Trends liefern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Qualitative interviews offer deep insights.",
+        "text_de": "Qualitative Interviews bieten tiefe Einblicke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gemeinschaft",
+            "Qualitative Interviews bieten tiefe Einblicke.",
+            "Bildung ist der Schlüssel zur sozialen Mobilität.",
+            "Menschenrechte sind universell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Observation is a method of sociology.",
+        "text_de": "Beobachtung ist eine Methode der Soziologie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Normen helfen, die Ordnung aufrechtzuerhalten.",
+            "Belästigung in jeder Form ist inakzeptabel.",
+            "Beobachtung ist eine Methode der Soziologie.",
+            "die soziale Schicht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Theoretical models help us understand the world.",
+        "text_de": "Theoretische Modelle helfen uns, die Welt zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Theoretische Modelle helfen uns, die Welt zu verstehen.",
+            "Globalisierung verbindet verschiedene Teile der Welt.",
+            "Die Familie ist die Grundeinheit der Gesellschaft.",
+            "Die moderne Gesellschaft ist sehr komplex."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Max Weber was a famous German sociologist.",
+        "text_de": "Max Weber war ein berühmter deutscher Soziologe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Konsumkultur beeinflusst unseren Lebensstil.",
+            "Max Weber war ein berühmter deutscher Soziologe.",
+            "die Gesellschaft",
+            "die Kultur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Emile Durkheim studied social integration.",
+        "text_de": "Emile Durkheim untersuchte die soziale Integration.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie interagieren Menschen in Großstädten?",
+            "Belästigung in jeder Form ist inakzeptabel.",
+            "die Norm",
+            "Emile Durkheim untersuchte die soziale Integration."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Karl Marx analyzed class struggle.",
+        "text_de": "Karl Marx analysierte den Klassenkampf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Karl Marx analysierte den Klassenkampf.",
+            "Chancengleichheit ist ein Ziel.",
+            "Nachhaltigkeit ist eine soziale Verantwortung.",
+            "Wir alle gehören verschiedenen Gemeinschaften an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The 'American Dream' is a cultural myth.",
+        "text_de": "Der 'amerikanische Traum' ist ein kultureller Mythos.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Theoretische Modelle helfen uns, die Welt zu verstehen.",
+            "Fördere Inklusion und Vielfalt.",
+            "Der 'amerikanische Traum' ist ein kultureller Mythos.",
+            "Wie interagieren Menschen in Großstädten?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Traditional roles are changing.",
+        "text_de": "Traditionelle Rollen verändern sich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für soziologische Forschung.",
+            "Traditionelle Rollen verändern sich.",
+            "der Staat",
+            "Sozialisation beginnt in der frühen Kindheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Single-parent families are more common today.",
+        "text_de": "Alleinerziehende Familien sind heute häufiger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ungleichheit",
+            "die Kultur",
+            "Alleinerziehende Familien sind heute häufiger.",
+            "Macht und Autorität sind zentrale Konzepte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life expectancy is increasing in many countries.",
+        "text_de": "Die Lebenserwartung steigt in vielen Ländern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Familie ist die Grundeinheit der Gesellschaft.",
+            "Ethik der Technologie.",
+            "Die Zukunft der Arbeit ist ungewiss.",
+            "Die Lebenserwartung steigt in vielen Ländern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The generation gap can lead to misunderstandings.",
+        "text_de": "Die Generationskluft kann zu Missverständnissen führen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Umfragen können Daten über soziale Trends liefern.",
+            "Die Generationskluft kann zu Missverständnissen führen.",
+            "Sozialer Fortschritt ist ein langsamer Prozess.",
+            "Globale Zusammenarbeit ist notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peer groups are important for teenagers.",
+        "text_de": "Peer-Groups sind wichtig für Teenager.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Peer-Groups sind wichtig für Teenager.",
+            "Die Generationskluft kann zu Missverständnissen führen.",
+            "die Ungleichheit",
+            "Wissen ist ein öffentliches Gut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work defines part of our identity.",
+        "text_de": "Arbeit definiert einen Teil unserer Identität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kultur",
+            "Gewerkschaften schützen die Rechte der Arbeitnehmer.",
+            "Umfragen können Daten über soziale Trends liefern.",
+            "Arbeit definiert einen Teil unserer Identität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Leisure time is necessary for well-being.",
+        "text_de": "Freizeit ist notwendig für das Wohlbefinden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Generationskluft kann zu Missverständnissen führen.",
+            "Sozialstrukturen definieren unsere Rollen im Leben.",
+            "Konsumkultur beeinflusst unseren Lebensstil.",
+            "Freizeit ist notwendig für das Wohlbefinden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tourism has a huge social impact.",
+        "text_de": "Tourismus hat eine riesige soziale Auswirkung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beobachtung ist eine Methode der Soziologie.",
+            "Tourismus hat eine riesige soziale Auswirkung.",
+            "Ich glaube an die Kraft der Gemeinschaft.",
+            "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Environmental justice is a social issue.",
+        "text_de": "Umweltgerechtigkeit ist ein soziales Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Umweltgerechtigkeit ist ein soziales Thema.",
+            "Religion spielt im Leben vieler Menschen eine Rolle.",
+            "Nachhaltigkeit ist eine soziale Verantwortung.",
+            "Ich interessiere mich für soziologische Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human rights are universal.",
+        "text_de": "Menschenrechte sind universell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind universell.",
+            "Soziale Medien haben verändert, wie wir kommunizieren.",
+            "Gleichstellung der Geschlechter ist ein Menschenrecht.",
+            "Beobachtung ist eine Methode der Soziologie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Democracy requires active citizens.",
+        "text_de": "Demokratie erfordert aktive Bürger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Demokratie erfordert aktive Bürger.",
+            "Armut zu bekämpfen ist eine ethische Pflicht.",
+            "Sozialisation beginnt in der frühen Kindheit.",
+            "Künstliche Intelligenz und Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Civil society organizations work for the public good.",
+        "text_de": "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltigkeit ist eine soziale Verantwortung.",
+            "Zivilgesellschaftliche Organisationen arbeiten für das Gemeinwohl.",
+            "Belästigung in jeder Form ist inakzeptabel.",
+            "Alleinerziehende Familien sind heute häufiger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transparency prevents corruption.",
+        "text_de": "Transparenz verhindert Korruption.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ethnizität",
+            "die Norm",
+            "Tourismus hat eine riesige soziale Auswirkung.",
+            "Transparenz verhindert Korruption."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Equality of opportunity is a goal.",
+        "text_de": "Chancengleichheit ist ein Ziel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sozialkapital besteht aus Netzwerken und Vertrauen.",
+            "Chancengleichheit ist ein Ziel.",
+            "Beobachtung ist eine Methode der Soziologie.",
+            "Macht und Autorität sind zentrale Konzepte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Discrimination is prohibited by law.",
+        "text_de": "Diskriminierung ist gesetzlich verboten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Macht und Autorität sind zentrale Konzepte.",
+            "Ethik der Technologie.",
+            "Der Staat sollte seine Bürger schützen.",
+            "Diskriminierung ist gesetzlich verboten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Harassment in any form is unacceptable.",
+        "text_de": "Belästigung in jeder Form ist inakzeptabel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Belästigung in jeder Form ist inakzeptabel.",
+            "Tourismus hat eine riesige soziale Auswirkung.",
+            "Subkulturen bieten Alternativen zum Mainstream.",
+            "Toleranz ist die Basis einer friedlichen Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Promote inclusion and diversity.",
+        "text_de": "Fördere Inklusion und Vielfalt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fördere Inklusion und Vielfalt.",
+            "Erforsche weiter die soziale Welt.",
+            "Emile Durkheim untersuchte die soziale Integration.",
+            "Migration bringt sowohl Chancen als auch Herausforderungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future of work is uncertain.",
+        "text_de": "Die Zukunft der Arbeit ist ungewiss.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zukunft der Arbeit ist ungewiss.",
+            "Gewerkschaften schützen die Rechte der Arbeitnehmer.",
+            "Respektiere vielfältige Lebensstile.",
+            "Medien können die öffentliche Meinung beeinflussen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Artificial intelligence and society.",
+        "text_de": "Künstliche Intelligenz und Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz und Gesellschaft.",
+            "Macht und Autorität sind zentrale Konzepte.",
+            "Gewerkschaften schützen die Rechte der Arbeitnehmer.",
+            "die Sozialstruktur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethics of technology.",
+        "text_de": "Ethik der Technologie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Norm",
+            "Wissen ist ein öffentliches Gut.",
+            "Ethik der Technologie.",
+            "Toleranz ist die Basis einer friedlichen Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Global cooperation is necessary.",
+        "text_de": "Globale Zusammenarbeit ist notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Solidarität ist wichtig in einer Krise.",
+            "Max Weber war ein berühmter deutscher Soziologe.",
+            "Ethik der Technologie.",
+            "Globale Zusammenarbeit ist notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect the vulnarable members of society.",
+        "text_de": "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Theoretische Modelle helfen uns, die Welt zu verstehen.",
+            "Umweltgerechtigkeit ist ein soziales Thema.",
+            "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+            "Soziale Medien haben verändert, wie wir kommunizieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I believe in the power of community.",
+        "text_de": "Ich glaube an die Kraft der Gemeinschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung sollte für alle kostenlos sein.",
+            "Ich glaube an die Kraft der Gemeinschaft.",
+            "Demokratie erfordert aktive Bürger.",
+            "Künstliche Intelligenz und Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Strong families lead to strong societies.",
+        "text_de": "Starke Familien führen zu starken Gesellschaften.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gib die Hoffnung auf eine bessere Welt nicht auf.",
+            "Diskriminierung ist gesetzlich verboten.",
+            "Kulturelle Werte variieren auf der ganzen Welt.",
+            "Starke Familien führen zu starken Gesellschaften."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep exploring the social world.",
+        "text_de": "Erforsche weiter die soziale Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erforsche weiter die soziale Welt.",
+            "Ich interessiere mich für soziologische Forschung.",
+            "das Geschlecht",
+            "die Sozialisation"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is a public good.",
+        "text_de": "Wissen ist ein öffentliches Gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Integration ist ein Prozess in zwei Richtungen.",
+            "Wissen ist ein öffentliches Gut.",
+            "Karl Marx analysierte den Klassenkampf.",
+            "Bildung ist der Schlüssel zur sozialen Mobilität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education should be free for all.",
+        "text_de": "Bildung sollte für alle kostenlos sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich glaube an die Kraft der Gemeinschaft.",
+            "Kapitalismus ist ein wirtschaftliches und soziales System.",
+            "Umfragen können Daten über soziale Trends liefern.",
+            "Bildung sollte für alle kostenlos sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social progress is a slow process.",
+        "text_de": "Sozialer Fortschritt ist ein langsamer Prozess.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Umfragen können Daten über soziale Trends liefern.",
+            "Solidarität ist wichtig in einer Krise.",
+            "Sozialer Fortschritt ist ein langsamer Prozess.",
+            "Der Staat sollte seine Bürger schützen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't give up on a better world.",
+        "text_de": "Gib die Hoffnung auf eine bessere Welt nicht auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Sociology'.",
+        "description_de": "Beispielsatz für 'Sociology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gib die Hoffnung auf eine bessere Welt nicht auf.",
+            "Theoretische Modelle helfen uns, die Welt zu verstehen.",
+            "Soziale Bewegungen kämpfen für Gerechtigkeit.",
+            "Diskriminierung ist gesetzlich verboten."
+        ]
+    }
+]

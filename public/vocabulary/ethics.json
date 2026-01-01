@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Ethics",
+        "text_de": "die Ethik",
+        "synonyms": [],
+        "description": "German word for 'Ethics'.",
+        "description_de": "Deutsches Wort für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "die Ethik",
+            "Legal und ethisch sind nicht immer dasselbe.",
+            "Whistleblower schützen das Gemeinwohl."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Morality",
+        "text_de": "die Moral",
+        "synonyms": [],
+        "description": "German word for 'Morality'.",
+        "description_de": "Deutsches Wort für 'Morality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Fairness",
+            "die Moral",
+            "Umweltethik erforscht unsere Beziehung zur Natur.",
+            "Unsere Werte leiten unsere Entscheidungen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The value",
+        "text_de": "der Wert",
+        "synonyms": [],
+        "description": "German word for 'The value'.",
+        "description_de": "Deutsches Wort für 'The value'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "respektieren",
+            "Loyalität bedeutet, zu seinen Freunden zu stehen.",
+            "der Wert",
+            "Denk über die Auswirkungen deiner Worte nach."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The principle",
+        "text_de": "das Prinzip",
+        "synonyms": [],
+        "description": "German word for 'The principle'.",
+        "description_de": "Deutsches Wort für 'The principle'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Wert",
+            "Bescheidenheit ist eine Tugend, die oft vergessen wird.",
+            "das Prinzip",
+            "Vermeiden Sie Interessenkonflikte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The dilemma",
+        "text_de": "das Dilemma",
+        "synonyms": [],
+        "description": "German word for 'The dilemma'.",
+        "description_de": "Deutsches Wort für 'The dilemma'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gerechtigkeit ist ein grundlegendes Menschenrecht.",
+            "das Dilemma",
+            "die Toleranz",
+            "Dankbarkeit ist das Gedächtnis des Herzens."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The responsibility",
+        "text_de": "die Verantwortung",
+        "synonyms": [],
+        "description": "German word for 'The responsibility'.",
+        "description_de": "Deutsches Wort für 'The responsibility'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Verantwortung",
+            "Folge deinem Gewissen.",
+            "Füge anderen keinen Schaden zu.",
+            "Gerechtigkeit ist ein grundlegendes Menschenrecht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The justice",
+        "text_de": "die Gerechtigkeit",
+        "synonyms": [],
+        "description": "German word for 'The justice'.",
+        "description_de": "Deutsches Wort für 'The justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bewahre deine Integrität, auch wenn es schwer ist.",
+            "Vergebung ist ein Weg zum Frieden.",
+            "die Gerechtigkeit",
+            "Menschenrechte müssen überall geschützt werden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The fairness",
+        "text_de": "die Fairness",
+        "synonyms": [],
+        "description": "German word for 'The fairness'.",
+        "description_de": "Deutsches Wort für 'The fairness'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Folge deinem inneren moralischen Kompass.",
+            "Nimm nicht mehr, als du brauchst.",
+            "die Fairness",
+            "Klimagerechtigkeit ist ein ethisches Thema."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The honesty",
+        "text_de": "die Ehrlichkeit",
+        "synonyms": [],
+        "description": "German word for 'The honesty'.",
+        "description_de": "Deutsches Wort für 'The honesty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedlicher Dialog ist besser als Konflikt.",
+            "die Ehrlichkeit",
+            "Gier kann eine Gesellschaft zerstören.",
+            "der Wert"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The integrity",
+        "text_de": "die Integrität",
+        "synonyms": [],
+        "description": "German word for 'The integrity'.",
+        "description_de": "Deutsches Wort für 'The integrity'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Integrität",
+            "Denk über die Auswirkungen deiner Worte nach.",
+            "Ich wünsche Ihnen ein Leben voller guter Entscheidungen!",
+            "Ehrlichkeit ist die beste Politik."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The respect",
+        "text_de": "der Respekt",
+        "synonyms": [],
+        "description": "German word for 'The respect'.",
+        "description_de": "Deutsches Wort für 'The respect'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gewissen",
+            "der Respekt",
+            "Armut ist eine Ungerechtigkeit, die gelöst werden muss.",
+            "Es ist unsere Pflicht, den Bedürftigen zu helfen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tolerance",
+        "text_de": "die Toleranz",
+        "synonyms": [],
+        "description": "German word for 'The tolerance'.",
+        "description_de": "Deutsches Wort für 'The tolerance'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung sollte Ethik beinhalten.",
+            "Respektiere die Würde jeder Person.",
+            "die Toleranz",
+            "Es ist unsere Pflicht, den Bedürftigen zu helfen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The empathy",
+        "text_de": "die Empathie",
+        "synonyms": [],
+        "description": "German word for 'The empathy'.",
+        "description_de": "Deutsches Wort für 'The empathy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+            "Selbstreflexion führt zu moralischem Wachstum.",
+            "die Empathie",
+            "Mut wird benötigt, um für das Richtige einzustehen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The compassion",
+        "text_de": "das Mitgefühl",
+        "synonyms": [],
+        "description": "German word for 'The compassion'.",
+        "description_de": "Deutsches Wort für 'The compassion'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Verantwortung von Unternehmen.",
+            "die Integrität",
+            "die Toleranz",
+            "das Mitgefühl"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The conscience",
+        "text_de": "das Gewissen",
+        "synonyms": [],
+        "description": "German word for 'The conscience'.",
+        "description_de": "Deutsches Wort für 'The conscience'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Menschenrechte",
+            "das Gewissen",
+            "der Wert",
+            "Vermeiden Sie Interessenkonflikte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The duty",
+        "text_de": "die Pflicht",
+        "synonyms": [],
+        "description": "German word for 'The duty'.",
+        "description_de": "Deutsches Wort für 'The duty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitgefühl kann die Welt verändern.",
+            "die Pflicht",
+            "die Ethik",
+            "Zuverlässigkeit ist eine Schlüsseleigenschaft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The virtue",
+        "text_de": "die Tugend",
+        "synonyms": [],
+        "description": "German word for 'The virtue'.",
+        "description_de": "Deutsches Wort für 'The virtue'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tugend",
+            "das Prinzip",
+            "Jede Handlung hat Konsequenzen.",
+            "der Respekt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The human rights",
+        "text_de": "die Menschenrechte",
+        "synonyms": [],
+        "description": "German word for 'The human rights'.",
+        "description_de": "Deutsches Wort für 'The human rights'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Fairness",
+            "die Menschenrechte",
+            "Intergenerationelle Gerechtigkeit ist wichtig.",
+            "Fördere Frieden und Verständnis."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To decide",
+        "text_de": "entscheiden",
+        "synonyms": [],
+        "description": "German word for 'To decide'.",
+        "description_de": "Deutsches Wort für 'To decide'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ehrlichkeit",
+            "entscheiden",
+            "Fairer Handel gewährleistet bessere Bedingungen für Bauern.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To respect",
+        "text_de": "respektieren",
+        "synonyms": [],
+        "description": "German word for 'To respect'.",
+        "description_de": "Deutsches Wort für 'To respect'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "respektieren",
+            "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+            "Zuverlässigkeit ist eine Schlüsseleigenschaft.",
+            "Bewahre deine Integrität, auch wenn es schwer ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethics is the study of right and wrong.",
+        "text_de": "Ethik ist das Studium von Richtig und Falsch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ethik ist das Studium von Richtig und Falsch.",
+            "der Respekt",
+            "der Wert",
+            "Weisheit ist das Ziel der Philosophie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our values guide our decisions.",
+        "text_de": "Unsere Werte leiten unsere Entscheidungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unsere Werte leiten unsere Entscheidungen.",
+            "Ist es ethisch vertretbar, künstliche Intelligenz für den Krieg zu nutzen?",
+            "der Wert",
+            "Medienethik ist lebenswichtig für die Demokratie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have strong moral principles.",
+        "text_de": "Ich habe starke moralische Prinzipien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe starke moralische Prinzipien.",
+            "Whistleblower schützen das Gemeinwohl.",
+            "die Fairness",
+            "der Respekt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A dilemma is a situation with no easy answer.",
+        "text_de": "Ein Dilemma ist eine Situation ohne einfache Antwort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nachhaltigkeit ist eine ethische Lebensweise.",
+            "Ein Dilemma ist eine Situation ohne einfache Antwort.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten.",
+            "respektieren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a responsibility to our planet.",
+        "text_de": "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Folge deinem Gewissen.",
+            "die Fairness",
+            "Gleichheit vor dem Gesetz ist unerlässlich.",
+            "Wir haben eine Verantwortung gegenüber unserem Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Justice is a fundamental human right.",
+        "text_de": "Gerechtigkeit ist ein grundlegendes Menschenrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Loyalität bedeutet, zu seinen Freunden zu stehen.",
+            "Gerechtigkeit ist ein grundlegendes Menschenrecht.",
+            "Gleichheit vor dem Gesetz ist unerlässlich.",
+            "Medienethik ist lebenswichtig für die Demokratie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fairness is important in every game.",
+        "text_de": "Fairness ist in jedem Spiel wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fairness ist in jedem Spiel wichtig.",
+            "Menschenrechte müssen überall geschützt werden.",
+            "Demut ist ein Zeichen von wahrer Größe.",
+            "Die 'goldene Regel' existiert in vielen Kulturen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honesty is the best policy.",
+        "text_de": "Ehrlichkeit ist die beste Politik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Interessenkonflikte.",
+            "Ehrlichkeit ist die beste Politik.",
+            "Gleichheit vor dem Gesetz ist unerlässlich.",
+            "Fairness ist in jedem Spiel wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Maintain your integrity even when it's hard.",
+        "text_de": "Bewahre deine Integrität, auch wenn es schwer ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Intergenerationelle Gerechtigkeit ist wichtig.",
+            "Berufsethik ist im Geschäft wichtig.",
+            "Sei hilfreich und unterstützend.",
+            "Bewahre deine Integrität, auch wenn es schwer ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Show respect to all living beings.",
+        "text_de": "Zeige Respekt gegenüber allen Lebewesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dankbarkeit ist das Gedächtnis des Herzens.",
+            "Ich habe starke moralische Prinzipien.",
+            "das Gewissen",
+            "Zeige Respekt gegenüber allen Lebewesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tolerance is the foundation of peace.",
+        "text_de": "Toleranz ist die Grundlage des Friedens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Toleranz ist die Grundlage des Friedens.",
+            "der Respekt",
+            "Korruption ist eine Verletzung der Ethik.",
+            "Bildung sollte Ethik beinhalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Empathy helps us to understand others.",
+        "text_de": "Empathie hilft uns, andere zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Denk nach, bevor du handelst.",
+            "Schütze die Wahrheit vor Manipulation.",
+            "Nachhaltigkeit ist eine ethische Lebensweise.",
+            "Empathie hilft uns, andere zu verstehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Compassion can change the world.",
+        "text_de": "Mitgefühl kann die Welt verändern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitgefühl kann die Welt verändern.",
+            "das Prinzip",
+            "Herausforderung ungerechter Regeln.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Follow your conscience.",
+        "text_de": "Folge deinem Gewissen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tugend",
+            "Ist es ethisch vertretbar, künstliche Intelligenz für den Krieg zu nutzen?",
+            "Folge deinem Gewissen.",
+            "Weisheit ist das Ziel der Philosophie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It is our duty to help those in need.",
+        "text_de": "Es ist unsere Pflicht, den Bedürftigen zu helfen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei freundlich, denn jeder, dem du begegnest, kämpft einen Kampf.",
+            "Lebe ein Leben mit Sinn und Integrität.",
+            "Ich wünsche Ihnen ein Leben voller guter Entscheidungen!",
+            "Es ist unsere Pflicht, den Bedürftigen zu helfen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Patience is a great virtue.",
+        "text_de": "Geduld ist eine große Tugend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geduld ist eine große Tugend.",
+            "Liebe ist das höchste Prinzip.",
+            "Nimm nicht mehr, als du brauchst.",
+            "Halte deine Versprechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human rights must be protected everywhere.",
+        "text_de": "Menschenrechte müssen überall geschützt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gib deine Fehler zu und lerne aus ihnen.",
+            "Ich wünsche Ihnen ein Leben voller guter Entscheidungen!",
+            "das Prinzip",
+            "Menschenrechte müssen überall geschützt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must decide between good and evil.",
+        "text_de": "Wir müssen uns zwischen Gut und Böse entscheiden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "respektieren",
+            "Universelle moralische Werte verbinden die Menschheit.",
+            "Wir müssen uns zwischen Gut und Böse entscheiden.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the privacy of others.",
+        "text_de": "Respektiere die Privatsphäre anderer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schütze die Wahrheit vor Manipulation.",
+            "Bleib deinen Werten treu.",
+            "Respektiere die Privatsphäre anderer.",
+            "Medienethik ist lebenswichtig für die Demokratie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Professional ethics are important in business.",
+        "text_de": "Berufsethik ist im Geschäft wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Würde jeder Person.",
+            "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+            "Loyalität bedeutet, zu seinen Freunden zu stehen.",
+            "Berufsethik ist im Geschäft wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is it ethical to use artificial intelligence for war?",
+        "text_de": "Ist es ethisch vertretbar, künstliche Intelligenz für den Krieg zu nutzen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist es ethisch vertretbar, künstliche Intelligenz für den Krieg zu nutzen?",
+            "die Menschenrechte",
+            "Zeige Respekt gegenüber allen Lebewesen.",
+            "Ich wünsche Ihnen ein Leben voller guter Entscheidungen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Climate justice is an ethical issue.",
+        "text_de": "Klimagerechtigkeit ist ein ethisches Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klimagerechtigkeit ist ein ethisches Thema.",
+            "Zusammen können wir einen Unterschied machen.",
+            "Sei freundlich, denn jeder, dem du begegnest, kämpft einen Kampf.",
+            "die Fairness"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Equality before the law is essential.",
+        "text_de": "Gleichheit vor dem Gesetz ist unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zusammen können wir einen Unterschied machen.",
+            "das Prinzip",
+            "Gleichheit vor dem Gesetz ist unerlässlich.",
+            "Empathie hilft uns, andere zu verstehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Corruption is a violation of ethics.",
+        "text_de": "Korruption ist eine Verletzung der Ethik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei hilfreich und unterstützend.",
+            "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+            "Korruption ist eine Verletzung der Ethik.",
+            "Denk über die Auswirkungen deiner Worte nach."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transparency builds trust.",
+        "text_de": "Transparenz schafft Vertrauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Transparenz schafft Vertrauen.",
+            "Dankbarkeit ist das Gedächtnis des Herzens.",
+            "Ehrlichkeit ist die beste Politik.",
+            "entscheiden"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be honest with yourself and others.",
+        "text_de": "Sei ehrlich zu dir selbst und zu anderen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gewissen",
+            "Bleib deinen Werten treu.",
+            "Sei ehrlich zu dir selbst und zu anderen.",
+            "Gib deine Fehler zu und lerne aus ihnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Loyalty means standing by your friends.",
+        "text_de": "Loyalität bedeutet, zu seinen Freunden zu stehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Loyalität bedeutet, zu seinen Freunden zu stehen.",
+            "das Mitgefühl",
+            "Vermeiden Sie Interessenkonflikte.",
+            "die Menschenrechte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Forgiveness is a path to peace.",
+        "text_de": "Vergebung ist ein Weg zum Frieden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergebung ist ein Weg zum Frieden.",
+            "das Mitgefühl",
+            "Universelle moralische Werte verbinden die Menschheit.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every action has consequences.",
+        "text_de": "Jede Handlung hat Konsequenzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Interessenkonflikte.",
+            "Denk nach, bevor du handelst.",
+            "Bildung sollte Ethik beinhalten.",
+            "Jede Handlung hat Konsequenzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Think before you act.",
+        "text_de": "Denk nach, bevor du handelst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Teilen ist Kümmern.",
+            "Vielfalt bereichert unsere Kultur.",
+            "Denk nach, bevor du handelst.",
+            "Fördere Frieden und Verständnis."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect the vulnerable members of society.",
+        "text_de": "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+            "Menschenrechte müssen überall geschützt werden.",
+            "Vergebung ist ein Weg zum Frieden.",
+            "Respektiere die Privatsphäre anderer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bioethics deals with medical research.",
+        "text_de": "Bioethik befasst sich mit medizinischer Forschung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Toleranz",
+            "Demut ist ein Zeichen von wahrer Größe.",
+            "Bioethik befasst sich mit medizinischer Forschung.",
+            "Liebe ist das höchste Prinzip."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Animal rights are gaining more attention.",
+        "text_de": "Tierrechte gewinnen mehr Aufmerksamkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ethik ist das Studium von Richtig und Falsch.",
+            "Jede Handlung hat Konsequenzen.",
+            "Tierrechte gewinnen mehr Aufmerksamkeit.",
+            "Umweltethik erforscht unsere Beziehung zur Natur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sustainability is an ethical lifestyle choice.",
+        "text_de": "Nachhaltigkeit ist eine ethische Lebensweise.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Respekt",
+            "Nachhaltigkeit ist eine ethische Lebensweise.",
+            "Sei ehrlich zu dir selbst und zu anderen.",
+            "die Integrität"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fair trade ensures better conditions for farmers.",
+        "text_de": "Fairer Handel gewährleistet bessere Bedingungen für Bauern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fairer Handel gewährleistet bessere Bedingungen für Bauern.",
+            "die Toleranz",
+            "Whistleblower schützen das Gemeinwohl.",
+            "Demut ist ein Zeichen von wahrer Größe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Poverty is an injustice that must be solved.",
+        "text_de": "Armut ist eine Ungerechtigkeit, die gelöst werden muss.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Legal und ethisch sind nicht immer dasselbe.",
+            "Vergebung ist ein Weg zum Frieden.",
+            "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+            "Armut ist eine Ungerechtigkeit, die gelöst werden muss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peaceful dialogue is better than conflict.",
+        "text_de": "Friedlicher Dialog ist besser als Konflikt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vertrauen ist schwer zu gewinnen, aber leicht zu verlieren.",
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "Demut ist ein Zeichen von wahrer Größe.",
+            "Friedlicher Dialog ist besser als Konflikt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Diversity enriches our culture.",
+        "text_de": "Vielfalt bereichert unsere Kultur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Inklusion bedeutet, dass jeder dazu gehört.",
+            "Vielfalt bereichert unsere Kultur.",
+            "Tiefenökologie respektiert alle Lebensformen.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Inclusion means everyone belongs.",
+        "text_de": "Inklusion bedeutet, dass jeder dazu gehört.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Empathie",
+            "Gerechtigkeit ist ein grundlegendes Menschenrecht.",
+            "entscheiden",
+            "Inklusion bedeutet, dass jeder dazu gehört."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom of speech has its limits.",
+        "text_de": "Meinungsfreiheit hat ihre Grenzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "Medienethik ist lebenswichtig für die Demokratie.",
+            "Herausforderung ungerechter Regeln.",
+            "Bewahre deine Integrität, auch wenn es schwer ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the dignity of every person.",
+        "text_de": "Respektiere die Würde jeder Person.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Würde jeder Person.",
+            "Tiefenökologie respektiert alle Lebensformen.",
+            "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+            "entscheiden"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The 'golden rule' exists in many cultures.",
+        "text_de": "Die 'goldene Regel' existiert in vielen Kulturen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die 'goldene Regel' existiert in vielen Kulturen.",
+            "Mitgefühl kann die Welt verändern.",
+            "die Gerechtigkeit",
+            "Bildung sollte Ethik beinhalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do no harm to others.",
+        "text_de": "Füge anderen keinen Schaden zu.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Füge anderen keinen Schaden zu.",
+            "Bewahre deine Integrität, auch wenn es schwer ist.",
+            "Ist es ethisch vertretbar, künstliche Intelligenz für den Krieg zu nutzen?",
+            "Tierrechte gewinnen mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Greed can destroy a society.",
+        "text_de": "Gier kann eine Gesellschaft zerstören.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gier kann eine Gesellschaft zerstören.",
+            "Nimm nicht mehr, als du brauchst.",
+            "Toleranz ist die Grundlage des Friedens.",
+            "Zuverlässigkeit ist eine Schlüsseleigenschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Modesty is a virtue often forgotten.",
+        "text_de": "Bescheidenheit ist eine Tugend, die oft vergessen wird.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Empathie",
+            "Schützt die verletzlichen Mitglieder der Gesellschaft.",
+            "Geduld ist eine große Tugend.",
+            "Bescheidenheit ist eine Tugend, die oft vergessen wird."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Courage is needed to stand up for what's right.",
+        "text_de": "Mut wird benötigt, um für das Richtige einzustehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitgefühl kann die Welt verändern.",
+            "Ein Dilemma ist eine Situation ohne einfache Antwort.",
+            "Mut wird benötigt, um für das Richtige einzustehen.",
+            "Tierrechte gewinnen mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wisdom is the goal of philosophy.",
+        "text_de": "Weisheit ist das Ziel der Philosophie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Inklusion bedeutet, dass jeder dazu gehört.",
+            "Zeige Respekt gegenüber allen Lebewesen.",
+            "Weisheit ist das Ziel der Philosophie.",
+            "der Respekt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be kind, for everyone you meet is fighting a battle.",
+        "text_de": "Sei freundlich, denn jeder, dem du begegnest, kämpft einen Kampf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tiefenökologie respektiert alle Lebensformen.",
+            "Schütze die Wahrheit vor Manipulation.",
+            "Sei freundlich, denn jeder, dem du begegnest, kämpft einen Kampf.",
+            "Tierrechte gewinnen mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gratitude is the memory of the heart.",
+        "text_de": "Dankbarkeit ist das Gedächtnis des Herzens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Universelle moralische Werte verbinden die Menschheit.",
+            "Friedlicher Dialog ist besser als Konflikt.",
+            "Nimm nicht mehr, als du brauchst.",
+            "Dankbarkeit ist das Gedächtnis des Herzens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Love is the highest principle.",
+        "text_de": "Liebe ist das höchste Prinzip.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Dilemma ist eine Situation ohne einfache Antwort.",
+            "die Gerechtigkeit",
+            "Ehrlichkeit ist die beste Politik.",
+            "Liebe ist das höchste Prinzip."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Environmental ethics explores our relation to nature.",
+        "text_de": "Umweltethik erforscht unsere Beziehung zur Natur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib deinen Werten treu.",
+            "Teilen ist Kümmern.",
+            "Bewahre deine Integrität, auch wenn es schwer ist.",
+            "Umweltethik erforscht unsere Beziehung zur Natur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Deep ecology respects all life forms.",
+        "text_de": "Tiefenökologie respektiert alle Lebensformen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tiefenökologie respektiert alle Lebensformen.",
+            "die Ethik",
+            "Legal und ethisch sind nicht immer dasselbe.",
+            "Wir haben eine Verantwortung gegenüber unserem Planeten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Future generations deserve a healthy planet.",
+        "text_de": "Zukünftige Generationen verdienen einen gesunden Planeten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "Bewahre deine Integrität, auch wenn es schwer ist.",
+            "Zukünftige Generationen verdienen einen gesunden Planeten.",
+            "Geduld ist eine große Tugend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Intergenerational justice is important.",
+        "text_de": "Intergenerationelle Gerechtigkeit ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fairness ist in jedem Spiel wichtig.",
+            "die Menschenrechte",
+            "Intergenerationelle Gerechtigkeit ist wichtig.",
+            "die Moral"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't take more than you need.",
+        "text_de": "Nimm nicht mehr, als du brauchst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedlicher Dialog ist besser als Konflikt.",
+            "die Moral",
+            "Nimm nicht mehr, als du brauchst.",
+            "das Gewissen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sharing is caring.",
+        "text_de": "Teilen ist Kümmern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe starke moralische Prinzipien.",
+            "Inklusion bedeutet, dass jeder dazu gehört.",
+            "Teilen ist Kümmern.",
+            "Whistleblower schützen das Gemeinwohl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social responsibility of corporations (CSR).",
+        "text_de": "Soziale Verantwortung von Unternehmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Verantwortung von Unternehmen.",
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "Demut ist ein Zeichen von wahrer Größe.",
+            "Jede Handlung hat Konsequenzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Avoid conflict of interest.",
+        "text_de": "Vermeiden Sie Interessenkonflikte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Transparenz schafft Vertrauen.",
+            "Vermeiden Sie Interessenkonflikte.",
+            "die Verantwortung",
+            "Bewahre deine Integrität, auch wenn es schwer ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Whistleblowers protect the public good.",
+        "text_de": "Whistleblower schützen das Gemeinwohl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Liebe ist das höchste Prinzip.",
+            "Whistleblower schützen das Gemeinwohl.",
+            "der Wert",
+            "Dankbarkeit ist das Gedächtnis des Herzens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Code of conduct defines the rules.",
+        "text_de": "Der Verhaltenskodex definiert die Regeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Pflicht",
+            "Der Verhaltenskodex definiert die Regeln.",
+            "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+            "das Gewissen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Legal and ethical are not always the same.",
+        "text_de": "Legal und ethisch sind nicht immer dasselbe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ehrlichkeit",
+            "Sei ehrlich zu dir selbst und zu anderen.",
+            "Mitgefühl kann die Welt verändern.",
+            "Legal und ethisch sind nicht immer dasselbe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Follow your inner moral compass.",
+        "text_de": "Folge deinem inneren moralischen Kompass.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Liebe ist das höchste Prinzip.",
+            "Folge deinem inneren moralischen Kompass.",
+            "Vertrauen ist schwer zu gewinnen, aber leicht zu verlieren.",
+            "Vermeiden Sie Interessenkonflikte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay true to your values.",
+        "text_de": "Bleib deinen Werten treu.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib deinen Werten treu.",
+            "Respektiere die Würde jeder Person.",
+            "das Gewissen",
+            "Es ist unsere Pflicht, den Bedürftigen zu helfen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Challenge unfair rules.",
+        "text_de": "Herausforderung ungerechter Regeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitgefühl kann die Welt verändern.",
+            "Ethik ist das Studium von Richtig und Falsch.",
+            "Herausforderung ungerechter Regeln.",
+            "Weisheit ist das Ziel der Philosophie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Promote peace and understanding.",
+        "text_de": "Fördere Frieden und Verständnis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Denk über die Auswirkungen deiner Worte nach.",
+            "Vertrauen ist schwer zu gewinnen, aber leicht zu verlieren.",
+            "Fördere Frieden und Verständnis.",
+            "Tierrechte gewinnen mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education should include ethics.",
+        "text_de": "Bildung sollte Ethik beinhalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Teilen ist Kümmern.",
+            "Toleranz ist die Grundlage des Friedens.",
+            "Nachhaltigkeit ist eine ethische Lebensweise.",
+            "Bildung sollte Ethik beinhalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Think about the impact of your words.",
+        "text_de": "Denk über die Auswirkungen deiner Worte nach.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Denk über die Auswirkungen deiner Worte nach.",
+            "Folge deinem Gewissen.",
+            "Sei freundlich, denn jeder, dem du begegnest, kämpft einen Kampf.",
+            "Wir müssen uns zwischen Gut und Böse entscheiden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be helpful and supportive.",
+        "text_de": "Sei hilfreich und unterstützend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Whistleblower schützen das Gemeinwohl.",
+            "Sei hilfreich und unterstützend.",
+            "Ein Dilemma ist eine Situation ohne einfache Antwort.",
+            "Jede Handlung hat Konsequenzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Together we can make a difference.",
+        "text_de": "Zusammen können wir einen Unterschied machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fördere Frieden und Verständnis.",
+            "Friedlicher Dialog ist besser als Konflikt.",
+            "Zusammen können wir einen Unterschied machen.",
+            "Bildung sollte Ethik beinhalten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trust is hard to gain but easy to lose.",
+        "text_de": "Vertrauen ist schwer zu gewinnen, aber leicht zu verlieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben eine Verantwortung gegenüber unserem Planeten.",
+            "Medienethik ist lebenswichtig für die Demokratie.",
+            "Geduld ist eine große Tugend.",
+            "Vertrauen ist schwer zu gewinnen, aber leicht zu verlieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep your promises.",
+        "text_de": "Halte deine Versprechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Würde jeder Person.",
+            "Die 'goldene Regel' existiert in vielen Kulturen.",
+            "die Empathie",
+            "Halte deine Versprechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reliability is a key trait.",
+        "text_de": "Zuverlässigkeit ist eine Schlüsseleigenschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Halte deine Versprechen.",
+            "die Moral",
+            "Zuverlässigkeit ist eine Schlüsseleigenschaft.",
+            "Zusammen können wir einen Unterschied machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Self-reflection leads to moral growth.",
+        "text_de": "Selbstreflexion führt zu moralischem Wachstum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bioethik befasst sich mit medizinischer Forschung.",
+            "Geduld ist eine große Tugend.",
+            "Selbstreflexion führt zu moralischem Wachstum.",
+            "Armut ist eine Ungerechtigkeit, die gelöst werden muss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Admit your mistakes and learn from them.",
+        "text_de": "Gib deine Fehler zu und lerne aus ihnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ethik",
+            "Weisheit ist das Ziel der Philosophie.",
+            "Respektiere die Privatsphäre anderer.",
+            "Gib deine Fehler zu und lerne aus ihnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Humility is a sign of true greatness.",
+        "text_de": "Demut ist ein Zeichen von wahrer Größe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Demut ist ein Zeichen von wahrer Größe.",
+            "Vertrauen ist schwer zu gewinnen, aber leicht zu verlieren.",
+            "Nimm nicht mehr, als du brauchst.",
+            "Schütze die Wahrheit vor Manipulation."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Protect the truth from manipulation.",
+        "text_de": "Schütze die Wahrheit vor Manipulation.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstreflexion führt zu moralischem Wachstum.",
+            "Schütze die Wahrheit vor Manipulation.",
+            "Liebe ist das höchste Prinzip.",
+            "Zeige Respekt gegenüber allen Lebewesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Media ethics are vital for democracy.",
+        "text_de": "Medienethik ist lebenswichtig für die Demokratie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere die Würde jeder Person.",
+            "Medienethik ist lebenswichtig für die Demokratie.",
+            "Respektiere die Privatsphäre anderer.",
+            "Vielfalt bereichert unsere Kultur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Universal moral values connect humanity.",
+        "text_de": "Universelle moralische Werte verbinden die Menschheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "respektieren",
+            "Herausforderung ungerechter Regeln.",
+            "Universelle moralische Werte verbinden die Menschheit.",
+            "Respektiere die Würde jeder Person."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Live a life of purpose and integrity.",
+        "text_de": "Lebe ein Leben mit Sinn und Integrität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ehrlichkeit",
+            "Medienethik ist lebenswichtig für die Demokratie.",
+            "der Respekt",
+            "Lebe ein Leben mit Sinn und Integrität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you a life full of good decisions!",
+        "text_de": "Ich wünsche Ihnen ein Leben voller guter Entscheidungen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Ethics'.",
+        "description_de": "Beispielsatz für 'Ethics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche Ihnen ein Leben voller guter Entscheidungen!",
+            "Bewahre deine Integrität, auch wenn es schwer ist.",
+            "Herausforderung ungerechter Regeln.",
+            "die Pflicht"
+        ]
+    }
+]

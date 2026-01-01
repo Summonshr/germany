@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The politics",
+        "text_de": "die Politik",
+        "synonyms": [],
+        "description": "German word for 'The politics'.",
+        "description_de": "Deutsches Wort für 'The politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Brüssel ist das Herz der europäischen Politik.",
+            "Nimm die Demokratie niemals als selbstverständlich hin.",
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "die Politik"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The government",
+        "text_de": "die Regierung",
+        "synonyms": [],
+        "description": "German word for 'The government'.",
+        "description_de": "Deutsches Wort für 'The government'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Welche politische Partei unterstützen Sie?",
+            "die Regierung",
+            "Ich wünsche mir eine Welt ohne Kriege.",
+            "Steuerzahler wollen sehen, wohin ihr Geld fließt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The parliament",
+        "text_de": "das Parlament",
+        "synonyms": [],
+        "description": "German word for 'The parliament'.",
+        "description_de": "Deutsches Wort für 'The parliament'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Parlament",
+            "der Kanzler",
+            "Hört einander zu und diskutiert respektvoll.",
+            "Deutschland ist eine Bundesrepublik."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The party",
+        "text_de": "die Partei",
+        "synonyms": [],
+        "description": "German word for 'The party'.",
+        "description_de": "Deutsches Wort für 'The party'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unser demokratisches System.",
+            "Niemand steht über dem Gesetz.",
+            "Die Regierung plant neue Reformen.",
+            "die Partei"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The election",
+        "text_de": "die Wahl",
+        "synonyms": [],
+        "description": "German word for 'The election'.",
+        "description_de": "Deutsches Wort für 'The election'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deutschland ist eine Bundesrepublik.",
+            "Ich bin stolz auf unser demokratisches System.",
+            "die Wahl",
+            "Soziale Gerechtigkeit ist ein Grundwert."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The vote",
+        "text_de": "die Stimme",
+        "synonyms": [],
+        "description": "German word for 'The vote'.",
+        "description_de": "Deutsches Wort für 'The vote'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Stimme",
+            "Der Umweltminister ist sehr aktiv.",
+            "das Parlament",
+            "Solidarität ist wichtig in Krisenzeiten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The citizen",
+        "text_de": "der Bürger",
+        "synonyms": [],
+        "description": "German word for 'The citizen'.",
+        "description_de": "Deutsches Wort für 'The citizen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bürger",
+            "Menschenrechte sind universell.",
+            "die Politik",
+            "Politik beeinflusst unser tägliches Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The democracy",
+        "text_de": "die Demokratie",
+        "synonyms": [],
+        "description": "German word for 'The democracy'.",
+        "description_de": "Deutsches Wort für 'The democracy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Korruption ist eine Bedrohung für die Gesellschaft.",
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "die Demokratie",
+            "die Partei"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The law",
+        "text_de": "das Gesetz",
+        "synonyms": [],
+        "description": "German word for 'The law'.",
+        "description_de": "Deutsches Wort für 'The law'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kandidat hat viele Versprechen gemacht.",
+            "Meinungsfreiheit ist ein Grundrecht.",
+            "Wir hoffen auf eine friedliche Zukunft.",
+            "das Gesetz"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The right",
+        "text_de": "das Recht",
+        "synonyms": [],
+        "description": "German word for 'The right'.",
+        "description_de": "Deutsches Wort für 'The right'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Recht",
+            "die Stimme",
+            "Nimm die Demokratie niemals als selbstverständlich hin.",
+            "Integration ist ein langfristiger Prozess."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The state",
+        "text_de": "der Staat",
+        "synonyms": [],
+        "description": "German word for 'The state'.",
+        "description_de": "Deutsches Wort für 'The state'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Staat",
+            "die Wahl",
+            "Politische Diskussionen können hitzig sein.",
+            "Der Präsident hat eine repräsentative Rolle."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The president",
+        "text_de": "der Präsident",
+        "synonyms": [],
+        "description": "German word for 'The president'.",
+        "description_de": "Deutsches Wort für 'The president'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Parlament",
+            "Der Kanzler ist der Regierungschef.",
+            "der Präsident",
+            "Die Zivilgesellschaft ist hier sehr aktiv."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The chancellor",
+        "text_de": "der Kanzler",
+        "synonyms": [],
+        "description": "German word for 'The chancellor'.",
+        "description_de": "Deutsches Wort für 'The chancellor'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist ein Kopf-an-Kopf-Rennen.",
+            "Die Demonstration fand in der Innenstadt statt.",
+            "Der Staat muss seine Bürger schützen.",
+            "der Kanzler"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The minister",
+        "text_de": "der Minister",
+        "synonyms": [],
+        "description": "German word for 'The minister'.",
+        "description_de": "Deutsches Wort für 'The minister'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Politische Diskussionen können hitzig sein.",
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "der Minister",
+            "Jeder Bürger kann etwas bewirken."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The opposition",
+        "text_de": "die Opposition",
+        "synonyms": [],
+        "description": "German word for 'The opposition'.",
+        "description_de": "Deutsches Wort für 'The opposition'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Opposition",
+            "die Wahl",
+            "der Staat",
+            "Der Kandidat hat viele Versprechen gemacht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The coalition",
+        "text_de": "die Koalition",
+        "synonyms": [],
+        "description": "German word for 'The coalition'.",
+        "description_de": "Deutsches Wort für 'The coalition'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diplomatie ist besser als Konflikt.",
+            "die Koalition",
+            "Die Zivilgesellschaft ist hier sehr aktiv.",
+            "Der Kandidat hat viele Versprechen gemacht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The reform",
+        "text_de": "die Reform",
+        "synonyms": [],
+        "description": "German word for 'The reform'.",
+        "description_de": "Deutsches Wort für 'The reform'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Reform",
+            "Nationale Sicherheit hat oberste Priorität.",
+            "Welche politische Partei unterstützen Sie?",
+            "Es ist ein Kopf-an-Kopf-Rennen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The crisis",
+        "text_de": "die Krise",
+        "synonyms": [],
+        "description": "German word for 'The crisis'.",
+        "description_de": "Deutsches Wort für 'The crisis'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Krise",
+            "Die Amtseinführung war sehr formell.",
+            "das Gesetz",
+            "Das Parlament diskutiert heute über den Haushalt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To vote",
+        "text_de": "wählen",
+        "synonyms": [],
+        "description": "German word for 'To vote'.",
+        "description_de": "Deutsches Wort für 'To vote'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Partei",
+            "Der Umweltminister ist sehr aktiv.",
+            "wählen",
+            "Auslandshilfe ist für Entwicklungsländer notwendig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To govern",
+        "text_de": "regieren",
+        "synonyms": [],
+        "description": "German word for 'To govern'.",
+        "description_de": "Deutsches Wort für 'To govern'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "regieren",
+            "Die Botschaft befindet sich in der Hauptstadt.",
+            "Toleranz ist die Basis des Zusammenlebens.",
+            "Es ist ein Kopf-an-Kopf-Rennen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Politics affects our daily lives.",
+        "text_de": "Politik beeinflusst unser tägliches Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedliche Proteste sind Teil der Demokratie.",
+            "Politik beeinflusst unser tägliches Leben.",
+            "Die Regierung gab eine Erklärung ab.",
+            "regieren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The government is planning new reforms.",
+        "text_de": "Die Regierung plant neue Reformen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Regierung plant neue Reformen.",
+            "Ehrliche Politiker sind schwer zu finden.",
+            "Das Parlament diskutiert heute über den Haushalt.",
+            "das Recht"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The parliament discusses the budget today.",
+        "text_de": "Das Parlament diskutiert heute über den Haushalt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Parlament diskutiert heute über den Haushalt.",
+            "die Partei",
+            "Der Präsident hat eine repräsentative Rolle.",
+            "Das Engagement der Jugend in der Politik nimmt zu."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Which political party do you support?",
+        "text_de": "Welche politische Partei unterstützen Sie?",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Umweltpolitik bekommt mehr Aufmerksamkeit.",
+            "Welche politische Partei unterstützen Sie?",
+            "Die Opposition kritisiert den neuen Steuerplan.",
+            "Korruption ist eine Bedrohung für die Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The next election will take place in autumn.",
+        "text_de": "Die nächste Wahl findet im Herbst statt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die nächste Wahl findet im Herbst statt.",
+            "Die Flüchtlingskrise braucht eine globale Lösung.",
+            "Der Sieger erreichte eine absolute Mehrheit.",
+            "Politische Skandale führen oft zu Rücktritten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every vote counts in a democracy.",
+        "text_de": "In einer Demokratie zählt jede Stimme.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Verfassung schützt unsere Freiheiten.",
+            "Politik beeinflusst unser tägliches Leben.",
+            "In einer Demokratie zählt jede Stimme.",
+            "Soziale Gerechtigkeit ist ein Grundwert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Citizens have rights and duties.",
+        "text_de": "Bürger haben Rechte und Pflichten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Vertrauen in die Politik sinkt.",
+            "Die vorläufigen Ergebnisse liegen um 18 Uhr vor.",
+            "Ich verfolge die Politik nicht sehr genau.",
+            "Bürger haben Rechte und Pflichten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Germany is a federal republic.",
+        "text_de": "Deutschland ist eine Bundesrepublik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deutschland ist eine Bundesrepublik.",
+            "Zwei Parteien haben eine Koalition gebildet.",
+            "Lasst uns gemeinsam für eine bessere Zukunft arbeiten.",
+            "Der Bürgermeister hielt eine Rede bei der Eröffnung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The new law will come into force next year.",
+        "text_de": "Das neue Gesetz wird nächstes Jahr in Kraft treten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Regierung plant neue Reformen.",
+            "Das neue Gesetz wird nächstes Jahr in Kraft treten.",
+            "Jeder Bürger kann etwas bewirken.",
+            "Der Umweltminister ist sehr aktiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human rights are universal.",
+        "text_de": "Menschenrechte sind universell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "Der Umweltminister ist sehr aktiv.",
+            "Menschenrechte sind universell.",
+            "der Bürger"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The state must protect its citizens.",
+        "text_de": "Der Staat muss seine Bürger schützen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Herzlichen Glückwunsch an den neu gewählten Präsidenten.",
+            "Der Staat muss seine Bürger schützen.",
+            "Er ist Mitglied im Stadtrat.",
+            "Das Militär dient der Verteidigung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The president has a representative role.",
+        "text_de": "Der Präsident hat eine repräsentative Rolle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Präsident hat eine repräsentative Rolle.",
+            "Ein Kompromiss ist oft notwendig.",
+            "das Recht",
+            "Wir brauchen eine Reform des Bildungssystems."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The chancellor is the head of government.",
+        "text_de": "Der Kanzler ist der Regierungschef.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kanzler ist der Regierungschef.",
+            "Die Regierung plant neue Reformen.",
+            "Ich gehe am Sonntag wählen.",
+            "Das Parlament diskutiert heute über den Haushalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The minister for environment is very active.",
+        "text_de": "Der Umweltminister ist sehr aktiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist ein Kopf-an-Kopf-Rennen.",
+            "Das Vertrauen in die Politik sinkt.",
+            "Der Sozialstaat bietet ein Sicherheitsnetz.",
+            "Der Umweltminister ist sehr aktiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The opposition criticizes the new tax plan.",
+        "text_de": "Die Opposition kritisiert den neuen Steuerplan.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Opposition kritisiert den neuen Steuerplan.",
+            "Friedliche Proteste sind Teil der Demokratie.",
+            "Menschenrechte sind universell.",
+            "Welche politische Partei unterstützen Sie?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Two parties formed a coalition.",
+        "text_de": "Zwei Parteien haben eine Koalition gebildet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zwei Parteien haben eine Koalition gebildet.",
+            "Die nächste Wahl findet im Herbst statt.",
+            "die Politik",
+            "Es ist ein Kopf-an-Kopf-Rennen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need a reform of the education system.",
+        "text_de": "Wir brauchen eine Reform des Bildungssystems.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche mir eine Welt ohne Kriege.",
+            "Wir brauchen eine Reform des Bildungssystems.",
+            "Das neue Gesetz wird nächstes Jahr in Kraft treten.",
+            "Steuerzahler wollen sehen, wohin ihr Geld fließt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The world has to overcome the economic crisis.",
+        "text_de": "Die Welt muss die Wirtschaftskrise überwinden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Integration ist ein langfristiger Prozess.",
+            "Nimm die Demokratie niemals als selbstverständlich hin.",
+            "Die Welt muss die Wirtschaftskrise überwinden.",
+            "Das neue Gesetz wird nächstes Jahr in Kraft treten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to vote on Sunday.",
+        "text_de": "Ich gehe am Sonntag wählen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Präsident",
+            "Ich gehe am Sonntag wählen.",
+            "Die Botschaft befindet sich in der Hauptstadt.",
+            "Ehrliche Politiker sind schwer zu finden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's difficult to govern a large country.",
+        "text_de": "Es ist schwierig, ein großes Land zu regieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Kompromiss ist oft notwendig.",
+            "die Stimme",
+            "Es ist schwierig, ein großes Land zu regieren.",
+            "Die Arbeitslosigkeit sinkt in vielen Regionen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Political stability is important for the economy.",
+        "text_de": "Politische Stabilität ist wichtig für die Wirtschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Politische Stabilität ist wichtig für die Wirtschaft.",
+            "Die Opposition kritisiert den neuen Steuerplan.",
+            "Frauen in der Politik sind immer noch unterrepräsentiert.",
+            "Der Kanzler ist der Regierungschef."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in international relations.",
+        "text_de": "Ich interessiere mich für internationale Beziehungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Partei",
+            "Ich interessiere mich für internationale Beziehungen.",
+            "Die Regierung plant neue Reformen.",
+            "Der Bürgermeister hielt eine Rede bei der Eröffnung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Diplomacy is better than conflict.",
+        "text_de": "Diplomatie ist besser als Konflikt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns gemeinsam für eine bessere Zukunft arbeiten.",
+            "Diplomatie ist besser als Konflikt.",
+            "die Politik",
+            "Meinungsfreiheit ist ein Grundrecht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The embassy is located in the capital.",
+        "text_de": "Die Botschaft befindet sich in der Hauptstadt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das neue Gesetz wird nächstes Jahr in Kraft treten.",
+            "Es ist schwierig, ein großes Land zu regieren.",
+            "Die Botschaft befindet sich in der Hauptstadt.",
+            "die Koalition"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is a member of the city council.",
+        "text_de": "Er ist Mitglied im Stadtrat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist Mitglied im Stadtrat.",
+            "wählen",
+            "Die Opposition kritisiert den neuen Steuerplan.",
+            "Politische Stabilität ist wichtig für die Wirtschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The mayor gave a speech at the opening.",
+        "text_de": "Der Bürgermeister hielt eine Rede bei der Eröffnung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Welche politische Partei unterstützen Sie?",
+            "Der Bürgermeister hielt eine Rede bei der Eröffnung.",
+            "Meinungsfreiheit ist ein Grundrecht.",
+            "Ich interessiere mich für internationale Beziehungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom of speech is a fundamental right.",
+        "text_de": "Meinungsfreiheit ist ein Grundrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wahlbeteiligung war höher als erwartet.",
+            "Nimm die Demokratie niemals als selbstverständlich hin.",
+            "Meinungsfreiheit ist ein Grundrecht.",
+            "Umweltpolitik bekommt mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Press freedom must be protected.",
+        "text_de": "Pressefreiheit muss geschützt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sozialstaat bietet ein Sicherheitsnetz.",
+            "Pressefreiheit muss geschützt werden.",
+            "Diplomatie ist besser als Konflikt.",
+            "Vielfältige Meinungen sind ein Zeichen einer gesunden Demokratie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The constitution is the foundation of the state.",
+        "text_de": "Die Verfassung ist das Fundament des Staates.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Korruption ist eine Bedrohung für die Gesellschaft.",
+            "Pressefreiheit muss geschützt werden.",
+            "Es ist ein Kopf-an-Kopf-Rennen.",
+            "Die Verfassung ist das Fundament des Staates."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Political discussions can be heated.",
+        "text_de": "Politische Diskussionen können hitzig sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sozialstaat bietet ein Sicherheitsnetz.",
+            "Steuerzahler wollen sehen, wohin ihr Geld fließt.",
+            "Politische Diskussionen können hitzig sein.",
+            "Lass uns über die bevorstehenden Wahlen reden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't follow politics very closely.",
+        "text_de": "Ich verfolge die Politik nicht sehr genau.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns gemeinsam für eine bessere Zukunft arbeiten.",
+            "Die Verfassung ist das Fundament des Staates.",
+            "Ich interessiere mich für internationale Beziehungen.",
+            "Ich verfolge die Politik nicht sehr genau."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is your opinion on the new project?",
+        "text_de": "Was ist Ihre Meinung zu dem neuen Projekt?",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die vorläufigen Ergebnisse liegen um 18 Uhr vor.",
+            "Was ist Ihre Meinung zu dem neuen Projekt?",
+            "Integration ist ein langfristiger Prozess.",
+            "Der Kandidat hat viele Versprechen gemacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The demonstration took place in the city center.",
+        "text_de": "Die Demonstration fand in der Innenstadt statt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das neue Gesetz wird nächstes Jahr in Kraft treten.",
+            "Die Demonstration fand in der Innenstadt statt.",
+            "Ich verfolge die Politik nicht sehr genau.",
+            "Die nächste Wahl findet im Herbst statt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peaceful protests are part of democracy.",
+        "text_de": "Friedliche Proteste sind Teil der Demokratie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hört einander zu und diskutiert respektvoll.",
+            "Toleranz ist die Basis des Zusammenlebens.",
+            "Menschenrechte sind universell.",
+            "Friedliche Proteste sind Teil der Demokratie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Taxpayers want to see where their money goes.",
+        "text_de": "Steuerzahler wollen sehen, wohin ihr Geld fließt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Steuerzahler wollen sehen, wohin ihr Geld fließt.",
+            "Pressefreiheit muss geschützt werden.",
+            "Ich wünsche mir eine Welt ohne Kriege.",
+            "Die Wahlbeteiligung war höher als erwartet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Corruption is a threat to society.",
+        "text_de": "Korruption ist eine Bedrohung für die Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Botschaft befindet sich in der Hauptstadt.",
+            "Die Verfassung schützt unsere Freiheiten.",
+            "Korruption ist eine Bedrohung für die Gesellschaft.",
+            "Ehrenamtliche Arbeit wird sehr geschätzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We need more transparency in politics.",
+        "text_de": "Wir brauchen mehr Transparenz in der Politik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedliche Proteste sind Teil der Demokratie.",
+            "Das Militär dient der Verteidigung.",
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "Meinungsfreiheit ist ein Grundrecht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The European Union consists of 27 countries.",
+        "text_de": "Die Europäische Union besteht aus siebenundzwanzig Ländern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Europäische Union besteht aus siebenundzwanzig Ländern.",
+            "Was ist Ihre Meinung zu dem neuen Projekt?",
+            "Brüssel ist das Herz der europäischen Politik.",
+            "Ich bin stolz auf unser demokratisches System."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Brussels is the heart of European politics.",
+        "text_de": "Brüssel ist das Herz der europäischen Politik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Präsident hat eine repräsentative Rolle.",
+            "Das neue Gesetz wird nächstes Jahr in Kraft treten.",
+            "der Bürger",
+            "Brüssel ist das Herz der europäischen Politik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Foreign aid is necessary for developing countries.",
+        "text_de": "Auslandshilfe ist für Entwicklungsländer notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bürgermeister hielt eine Rede bei der Eröffnung.",
+            "Auslandshilfe ist für Entwicklungsländer notwendig.",
+            "Die Opposition kritisiert den neuen Steuerplan.",
+            "Das Vertrauen in die Politik sinkt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The refugee crisis needs a global solution.",
+        "text_de": "Die Flüchtlingskrise braucht eine globale Lösung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Politische Stabilität ist wichtig für die Wirtschaft.",
+            "Das Vertrauen in die Politik sinkt.",
+            "der Staat",
+            "Die Flüchtlingskrise braucht eine globale Lösung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Integration is a long-term process.",
+        "text_de": "Integration ist ein langfristiger Prozess.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zivilgesellschaft ist hier sehr aktiv.",
+            "Integration ist ein langfristiger Prozess.",
+            "Menschenrechte sind universell.",
+            "Das Parlament diskutiert heute über den Haushalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "National security is a top priority.",
+        "text_de": "Nationale Sicherheit hat oberste Priorität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Regierung",
+            "Die Flüchtlingskrise braucht eine globale Lösung.",
+            "Die Demonstration fand in der Innenstadt statt.",
+            "Nationale Sicherheit hat oberste Priorität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The military serves for defense.",
+        "text_de": "Das Militär dient der Verteidigung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Militär dient der Verteidigung.",
+            "die Politik",
+            "Was ist Ihre Meinung zu dem neuen Projekt?",
+            "Solidarität ist wichtig in Krisenzeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We hope for a peaceful future.",
+        "text_de": "Wir hoffen auf eine friedliche Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kanzler",
+            "Wir hoffen auf eine friedliche Zukunft.",
+            "Der Sieger erreichte eine absolute Mehrheit.",
+            "Frauen in der Politik sind immer noch unterrepräsentiert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social justice is a core value.",
+        "text_de": "Soziale Gerechtigkeit ist ein Grundwert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir hoffen auf eine friedliche Zukunft.",
+            "Soziale Gerechtigkeit ist ein Grundwert.",
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "die Politik"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The welfare state provides a safety net.",
+        "text_de": "Der Sozialstaat bietet ein Sicherheitsnetz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Regierung gab eine Erklärung ab.",
+            "Es ist ein Kopf-an-Kopf-Rennen.",
+            "Der Staat muss seine Bürger schützen.",
+            "Der Sozialstaat bietet ein Sicherheitsnetz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Unemployment is falling in many regions.",
+        "text_de": "Die Arbeitslosigkeit sinkt in vielen Regionen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe am Sonntag wählen.",
+            "Diplomatie ist besser als Konflikt.",
+            "Die Arbeitslosigkeit sinkt in vielen Regionen.",
+            "Zwei Parteien haben eine Koalition gebildet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Women in politics are still underrepresented.",
+        "text_de": "Frauen in der Politik sind immer noch unterrepräsentiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin stolz auf unser demokratisches System.",
+            "Herzlichen Glückwunsch an den neu gewählten Präsidenten.",
+            "Die Welt muss die Wirtschaftskrise überwinden.",
+            "Frauen in der Politik sind immer noch unterrepräsentiert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Youth involvement in politics is increasing.",
+        "text_de": "Das Engagement der Jugend in der Politik nimmt zu.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pressefreiheit muss geschützt werden.",
+            "der Bürger",
+            "Das Engagement der Jugend in der Politik nimmt zu.",
+            "Es ist ein Kopf-an-Kopf-Rennen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Environmental policy is getting more attention.",
+        "text_de": "Umweltpolitik bekommt mehr Aufmerksamkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche mir eine Welt ohne Kriege.",
+            "Umweltpolitik bekommt mehr Aufmerksamkeit.",
+            "Was ist Ihre Meinung zu dem neuen Projekt?",
+            "Die Flüchtlingskrise braucht eine globale Lösung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's talk about the upcoming elections.",
+        "text_de": "Lass uns über die bevorstehenden Wahlen reden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen eine Reform des Bildungssystems.",
+            "Gerechtigkeit muss walten.",
+            "das Gesetz",
+            "Lass uns über die bevorstehenden Wahlen reden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The candidate made many promises.",
+        "text_de": "Der Kandidat hat viele Versprechen gemacht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Politik",
+            "Frauen in der Politik sind immer noch unterrepräsentiert.",
+            "wählen",
+            "Der Kandidat hat viele Versprechen gemacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Voter turnout was higher than expected.",
+        "text_de": "Die Wahlbeteiligung war höher als erwartet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist Mitglied im Stadtrat.",
+            "Die Wahlbeteiligung war höher als erwartet.",
+            "Die Regierung gab eine Erklärung ab.",
+            "Integration ist ein langfristiger Prozess."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The preliminary results will be ready at 6 PM.",
+        "text_de": "Die vorläufigen Ergebnisse liegen um 18 Uhr vor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die vorläufigen Ergebnisse liegen um 18 Uhr vor.",
+            "das Gesetz",
+            "Ehrenamtliche Arbeit wird sehr geschätzt.",
+            "Die Amtseinführung war sehr formell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a neck-and-neck race.",
+        "text_de": "Es ist ein Kopf-an-Kopf-Rennen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bürgermeister hielt eine Rede bei der Eröffnung.",
+            "die Regierung",
+            "Ich wünsche mir eine Welt ohne Kriege.",
+            "Es ist ein Kopf-an-Kopf-Rennen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The winner reached an absolute majority.",
+        "text_de": "Der Sieger erreichte eine absolute Mehrheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Kompromiss ist oft notwendig.",
+            "Der Sieger erreichte eine absolute Mehrheit.",
+            "die Regierung",
+            "Das Parlament diskutiert heute über den Haushalt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Congratulations to the newly elected president.",
+        "text_de": "Herzlichen Glückwunsch an den neu gewählten Präsidenten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Herzlichen Glückwunsch an den neu gewählten Präsidenten.",
+            "Ich gehe am Sonntag wählen.",
+            "Wir sollten uns an der Lokalpolitik beteiligen.",
+            "Ehrliche Politiker sind schwer zu finden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The inauguration ceremony was very formal.",
+        "text_de": "Die Amtseinführung war sehr formell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Korruption ist eine Bedrohung für die Gesellschaft.",
+            "Welche politische Partei unterstützen Sie?",
+            "Die Amtseinführung war sehr formell.",
+            "Der Kanzler ist der Regierungschef."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The government issued a statement.",
+        "text_de": "Die Regierung gab eine Erklärung ab.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Regierung gab eine Erklärung ab.",
+            "Herzlichen Glückwunsch an den neu gewählten Präsidenten.",
+            "Vielfältige Meinungen sind ein Zeichen einer gesunden Demokratie.",
+            "Steuerzahler wollen sehen, wohin ihr Geld fließt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Political scandals often lead to resignations.",
+        "text_de": "Politische Skandale führen oft zu Rücktritten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Politische Skandale führen oft zu Rücktritten.",
+            "Politik beeinflusst unser tägliches Leben.",
+            "Vielfältige Meinungen sind ein Zeichen einer gesunden Demokratie.",
+            "Solidarität ist wichtig in Krisenzeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honest politicians are hard to find.",
+        "text_de": "Ehrliche Politiker sind schwer zu finden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Vertrauen in die Politik sinkt.",
+            "Die Europäische Union besteht aus siebenundzwanzig Ländern.",
+            "Ehrliche Politiker sind schwer zu finden.",
+            "Lasst uns gemeinsam für eine bessere Zukunft arbeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trust in politics is declining.",
+        "text_de": "Das Vertrauen in die Politik sinkt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gesetz",
+            "Die Welt muss die Wirtschaftskrise überwinden.",
+            "der Staat",
+            "Das Vertrauen in die Politik sinkt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We should participate in local politics.",
+        "text_de": "Wir sollten uns an der Lokalpolitik beteiligen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "wählen",
+            "Wir sollten uns an der Lokalpolitik beteiligen.",
+            "Wir hoffen auf eine friedliche Zukunft.",
+            "Welche politische Partei unterstützen Sie?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every citizen can make a difference.",
+        "text_de": "Jeder Bürger kann etwas bewirken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir brauchen eine Reform des Bildungssystems.",
+            "Meinungsfreiheit ist ein Grundrecht.",
+            "Die Demonstration fand in der Innenstadt statt.",
+            "Jeder Bürger kann etwas bewirken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Civil society is very active here.",
+        "text_de": "Die Zivilgesellschaft ist hier sehr aktiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Bürger",
+            "Wir brauchen mehr Transparenz in der Politik.",
+            "Die Zivilgesellschaft ist hier sehr aktiv.",
+            "die Wahl"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Volunteer work is highly appreciated.",
+        "text_de": "Ehrenamtliche Arbeit wird sehr geschätzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bürger haben Rechte und Pflichten.",
+            "Hört einander zu und diskutiert respektvoll.",
+            "Ehrenamtliche Arbeit wird sehr geschätzt.",
+            "Auslandshilfe ist für Entwicklungsländer notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's work together for a better future.",
+        "text_de": "Lasst uns gemeinsam für eine bessere Zukunft arbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns gemeinsam für eine bessere Zukunft arbeiten.",
+            "die Reform",
+            "Die nächste Wahl findet im Herbst statt.",
+            "Wir hoffen auf eine friedliche Zukunft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Solidarity is important in times of crisis.",
+        "text_de": "Solidarität ist wichtig in Krisenzeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meinungsfreiheit ist ein Grundrecht.",
+            "die Demokratie",
+            "Solidarität ist wichtig in Krisenzeiten.",
+            "Das Militär dient der Verteidigung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tolerance is the basis for living together.",
+        "text_de": "Toleranz ist die Basis des Zusammenlebens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir hoffen auf eine friedliche Zukunft.",
+            "der Präsident",
+            "Jeder Bürger kann etwas bewirken.",
+            "Toleranz ist die Basis des Zusammenlebens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Diverse opinions are a sign of a healthy democracy.",
+        "text_de": "Vielfältige Meinungen sind ein Zeichen einer gesunden Demokratie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Regierung",
+            "Politische Diskussionen können hitzig sein.",
+            "Ein Kompromiss ist oft notwendig.",
+            "Vielfältige Meinungen sind ein Zeichen einer gesunden Demokratie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Listen to each other and discuss respectfully.",
+        "text_de": "Hört einander zu und diskutiert respektvoll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Partei",
+            "Ich verfolge die Politik nicht sehr genau.",
+            "Hört einander zu und diskutiert respektvoll.",
+            "Der Sozialstaat bietet ein Sicherheitsnetz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Compromise is often necessary.",
+        "text_de": "Ein Kompromiss ist oft notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Toleranz ist die Basis des Zusammenlebens.",
+            "Lass uns über die bevorstehenden Wahlen reden.",
+            "Der Kanzler ist der Regierungschef.",
+            "Ein Kompromiss ist oft notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nobody is above the law.",
+        "text_de": "Niemand steht über dem Gesetz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hört einander zu und diskutiert respektvoll.",
+            "Wir brauchen eine Reform des Bildungssystems.",
+            "Niemand steht über dem Gesetz.",
+            "Ehrliche Politiker sind schwer zu finden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Justice must be served.",
+        "text_de": "Gerechtigkeit muss walten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Verfassung ist das Fundament des Staates.",
+            "Die Demonstration fand in der Innenstadt statt.",
+            "Frauen in der Politik sind immer noch unterrepräsentiert.",
+            "Gerechtigkeit muss walten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The constitution protects our freedoms.",
+        "text_de": "Die Verfassung schützt unsere Freiheiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind universell.",
+            "Die Verfassung schützt unsere Freiheiten.",
+            "Die Opposition kritisiert den neuen Steuerplan.",
+            "der Präsident"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm proud of our democratic system.",
+        "text_de": "Ich bin stolz auf unser demokratisches System.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Bürgermeister hielt eine Rede bei der Eröffnung.",
+            "Der Präsident hat eine repräsentative Rolle.",
+            "die Koalition",
+            "Ich bin stolz auf unser demokratisches System."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Never take democracy for granted.",
+        "text_de": "Nimm die Demokratie niemals als selbstverständlich hin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Politische Skandale führen oft zu Rücktritten.",
+            "Der Kandidat hat viele Versprechen gemacht.",
+            "Nimm die Demokratie niemals als selbstverständlich hin.",
+            "Die Verfassung schützt unsere Freiheiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peace is the most valuable thing we have.",
+        "text_de": "Frieden ist das Wertvollste, was wir haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Politik beeinflusst unser tägliches Leben.",
+            "Frieden ist das Wertvollste, was wir haben.",
+            "der Kanzler",
+            "Steuerzahler wollen sehen, wohin ihr Geld fließt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish for a world without wars.",
+        "text_de": "Ich wünsche mir eine Welt ohne Kriege.",
+        "synonyms": [],
+        "description": "Example sentence for 'Politics'.",
+        "description_de": "Beispielsatz für 'Politics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche mir eine Welt ohne Kriege.",
+            "Deutschland ist eine Bundesrepublik.",
+            "Die Europäische Union besteht aus siebenundzwanzig Ländern.",
+            "der Staat"
+        ]
+    }
+]

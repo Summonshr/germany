@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The history",
+        "text_de": "die Geschichte",
+        "synonyms": [],
+        "description": "German word for 'The history'.",
+        "description_de": "Deutsches Wort für 'The history'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Geschichte",
+            "Wir feiern dieses Jahr das fünfzigste Jubiläum.",
+            "Friedrich der Große war ein preußischer König.",
+            "Das Rad ist eine der größten Erfindungen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The past",
+        "text_de": "die Vergangenheit",
+        "synonyms": [],
+        "description": "German word for 'The past'.",
+        "description_de": "Deutsches Wort für 'The past'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Französische Revolution veränderte Europa.",
+            "Der König lebte in einem wunderschönen Palast.",
+            "Archäologen fanden ein antikes Artefakt.",
+            "die Vergangenheit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The century",
+        "text_de": "das Jahrhundert",
+        "synonyms": [],
+        "description": "German word for 'The century'.",
+        "description_de": "Deutsches Wort für 'The century'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Französische Revolution veränderte Europa.",
+            "Die Seidenstraße verband Ost und West.",
+            "Der König lebte in einem wunderschönen Palast.",
+            "das Jahrhundert"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The era",
+        "text_de": "die Ära",
+        "synonyms": [],
+        "description": "German word for 'The era'.",
+        "description_de": "Deutsches Wort für 'The era'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir leben in einer digitalen Ära.",
+            "die Ära",
+            "Das Mittelalter war eine Zeit der Ritter.",
+            "Der Besuch einer KZ-Gedenkstätte ist bewegend."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The event",
+        "text_de": "das Ereignis",
+        "synonyms": [],
+        "description": "German word for 'The event'.",
+        "description_de": "Deutsches Wort für 'The event'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Historiker müssen mehrere Quellen prüfen.",
+            "Das Dokument beweist die Existenz des Vertrages.",
+            "Die Demokratie wurde in Athen geboren.",
+            "das Ereignis"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The war",
+        "text_de": "der Krieg",
+        "synonyms": [],
+        "description": "German word for 'The war'.",
+        "description_de": "Deutsches Wort für 'The war'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lokale Museen erzählen Geschichten der Stadt.",
+            "Historische Forschung erfordert Geduld.",
+            "der Krieg",
+            "Die Chinesische Mauer ist vom Weltraum aus sichtbar."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The peace",
+        "text_de": "der Frieden",
+        "synonyms": [],
+        "description": "German word for 'The peace'.",
+        "description_de": "Deutsches Wort für 'The peace'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns den Zeitstrahl der Französischen Revolution anschauen.",
+            "Historische Denkmäler stehen unter Denkmalschutz.",
+            "Sie war die letzte Königin ihres Landes.",
+            "der Frieden"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The revolution",
+        "text_de": "die Revolution",
+        "synonyms": [],
+        "description": "German word for 'The revolution'.",
+        "description_de": "Deutsches Wort für 'The revolution'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Genealogie ist das Studium der Familiengeschichte.",
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "die Revolution",
+            "der Zeitstrahl"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The empire",
+        "text_de": "das Kaiserreich",
+        "synonyms": [],
+        "description": "German word for 'The empire'.",
+        "description_de": "Deutsches Wort für 'The empire'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Kaiserreich",
+            "Naturkundemuseen sind faszinierend.",
+            "Frieden ist der wertvollste Zustand.",
+            "Wir leben in einer digitalen Ära."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The king",
+        "text_de": "der König",
+        "synonyms": [],
+        "description": "German word for 'The king'.",
+        "description_de": "Deutsches Wort für 'The king'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere das Erbe früherer Generationen.",
+            "Der Stein von Rosette half, Hieroglyphen zu entziffern.",
+            "der König",
+            "Das alte Ägypten ist berühmt für die Pyramiden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The queen",
+        "text_de": "die Königin",
+        "synonyms": [],
+        "description": "German word for 'The queen'.",
+        "description_de": "Deutsches Wort für 'The queen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt immer mehrere Perspektiven auf die Geschichte.",
+            "Renaissance bedeutet 'Wiedergeburt'.",
+            "Die Demokratie wurde in Athen geboren.",
+            "die Königin"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The castle",
+        "text_de": "die Burg",
+        "synonyms": [],
+        "description": "German word for 'The castle'.",
+        "description_de": "Deutsches Wort für 'The castle'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Frieden ist der wertvollste Zustand.",
+            "die Burg",
+            "Archäologie bietet einen Blick unter die Oberfläche.",
+            "Das zwanzigste Jahrhundert war voller Veränderungen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ruins",
+        "text_de": "die Ruinen",
+        "synonyms": [],
+        "description": "German word for 'The ruins'.",
+        "description_de": "Deutsches Wort für 'The ruins'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ruinen",
+            "Alexandria beherbergte die größte Bibliothek.",
+            "Otto von Bismarck vereinte Deutschland.",
+            "Naturkundemuseen sind faszinierend."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The artifact",
+        "text_de": "das Artefakt",
+        "synonyms": [],
+        "description": "German word for 'The artifact'.",
+        "description_de": "Deutsches Wort für 'The artifact'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geschichte wird von den Siegern geschrieben.",
+            "das Artefakt",
+            "Die Titanic sank 1912.",
+            "Die Erfindung des Buchdrucks war ein Wendepunkt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The source",
+        "text_de": "die Quelle",
+        "synonyms": [],
+        "description": "German word for 'The source'.",
+        "description_de": "Deutsches Wort für 'The source'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Römische Reich war sehr mächtig.",
+            "Das alte Ägypten ist berühmt für die Pyramiden.",
+            "Lass uns den Zeitstrahl der Französischen Revolution anschauen.",
+            "die Quelle"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The document",
+        "text_de": "das Dokument",
+        "synonyms": [],
+        "description": "German word for 'The document'.",
+        "description_de": "Deutsches Wort für 'The document'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Königin",
+            "das Dokument",
+            "Die Demokratie wurde in Athen geboren.",
+            "der König"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The timeline",
+        "text_de": "der Zeitstrahl",
+        "synonyms": [],
+        "description": "German word for 'The timeline'.",
+        "description_de": "Deutsches Wort für 'The timeline'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zeitstrahl",
+            "die Revolution",
+            "die Quelle",
+            "Krieg bringt Leid über die Menschen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The anniversary",
+        "text_de": "das Jubiläum",
+        "synonyms": [],
+        "description": "German word for 'The anniversary'.",
+        "description_de": "Deutsches Wort für 'The anniversary'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaft und Geschichte gehen Hand in Hand.",
+            "die Königin",
+            "das Jubiläum",
+            "der Frieden"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To discover",
+        "text_de": "entdecken",
+        "synonyms": [],
+        "description": "German word for 'To discover'.",
+        "description_de": "Deutsches Wort für 'To discover'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "Der König lebte in einem wunderschönen Palast.",
+            "entdecken",
+            "Kolumbus entdeckte Amerika im Jahr 1492."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To remember",
+        "text_de": "erinnern",
+        "synonyms": [],
+        "description": "German word for 'To remember'.",
+        "description_de": "Deutsches Wort für 'To remember'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Geschichte",
+            "Der Dreißigjährige Krieg verwüstete Deutschland.",
+            "erinnern",
+            "die Königin"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "History helps us understand the present.",
+        "text_de": "Geschichte hilft uns, die Gegenwart zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geschichte hilft uns, die Gegenwart zu verstehen.",
+            "die Revolution",
+            "der Zeitstrahl",
+            "Krieg bringt Leid über die Menschen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The 20th century was full of changes.",
+        "text_de": "Das zwanzigste Jahrhundert war voller Veränderungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wiedervereinigung geschah 1990.",
+            "Das zwanzigste Jahrhundert war voller Veränderungen.",
+            "Kolumbus entdeckte Amerika im Jahr 1492.",
+            "Das Römische Reich war sehr mächtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are living in a digital era.",
+        "text_de": "Wir leben in einer digitalen Ära.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist wichtig, sich an unser Erbe zu erinnern.",
+            "Lerne aus den Fehlern der Vergangenheit.",
+            "Stonehenge ist eine geheimnisvolle prähistorische Stätte.",
+            "Wir leben in einer digitalen Ära."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fall of the Berlin Wall was a historic event.",
+        "text_de": "Der Fall der Berliner Mauer war ein historisches Ereignis.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das antike Troja wurde von Schliemann entdeckt.",
+            "Der Fall der Berliner Mauer war ein historisches Ereignis.",
+            "die Geschichte",
+            "Der Dreißigjährige Krieg verwüstete Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "War brings suffering to people.",
+        "text_de": "Krieg bringt Leid über die Menschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die industrielle Revolution begann in England.",
+            "Krieg bringt Leid über die Menschen.",
+            "Ich interessiere mich für die Kunstgeschichte.",
+            "Pompeji wurde vom Vesuv verschüttet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peace is the most valuable state.",
+        "text_de": "Frieden ist der wertvollste Zustand.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die industrielle Revolution begann in England.",
+            "Es gibt immer mehrere Perspektiven auf die Geschichte.",
+            "Die Wiedervereinigung geschah 1990.",
+            "Frieden ist der wertvollste Zustand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The French Revolution changed Europe.",
+        "text_de": "Die Französische Revolution veränderte Europa.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Frieden",
+            "die Quelle",
+            "Die Französische Revolution veränderte Europa.",
+            "Der Fall der Berliner Mauer war ein historisches Ereignis."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Roman Empire was very powerful.",
+        "text_de": "Das Römische Reich war sehr mächtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "der Frieden",
+            "Das Römische Reich war sehr mächtig.",
+            "Renaissance bedeutet 'Wiedergeburt'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The king lived in a beautiful palace.",
+        "text_de": "Der König lebte in einem wunderschönen Palast.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der König lebte in einem wunderschönen Palast.",
+            "Die Bibliothek hat viele alte Manuskripte.",
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "Otto von Bismarck vereinte Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She was the last queen of her country.",
+        "text_de": "Sie war die letzte Königin ihres Landes.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das alte Ägypten ist berühmt für die Pyramiden.",
+            "Archäologen fanden ein antikes Artefakt.",
+            "Sie war die letzte Königin ihres Landes.",
+            "Stonehenge ist eine geheimnisvolle prähistorische Stätte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Old castles often have many legends.",
+        "text_de": "Alte Burgen haben oft viele Legenden.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pompeji wurde vom Vesuv verschüttet.",
+            "Alte Burgen haben oft viele Legenden.",
+            "Mündliche Überlieferung bewahrt Geschichten durch Sprache.",
+            "Geschichte hilft uns, die Gegenwart zu verstehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ruins of the temple are impressive.",
+        "text_de": "Die Ruinen des Tempels sind beeindruckend.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Archäologie bietet einen Blick unter die Oberfläche.",
+            "Die Ruinen des Tempels sind beeindruckend.",
+            "Mahatma Gandhi führte den friedlichen Widerstand an.",
+            "Marco Polo reiste nach China."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Archaeologists found an ancient artifact.",
+        "text_de": "Archäologen fanden ein antikes Artefakt.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Archäologen fanden ein antikes Artefakt.",
+            "die Geschichte",
+            "Die Entdeckung des Feuers veränderte die menschliche Evolution.",
+            "Archäologie bietet einen Blick unter die Oberfläche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Historians must check several sources.",
+        "text_de": "Historiker müssen mehrere Quellen prüfen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Genealogie ist das Studium der Familiengeschichte.",
+            "Historiker müssen mehrere Quellen prüfen.",
+            "Lerne aus den Fehlern der Vergangenheit.",
+            "Die Erfindung des Buchdrucks war ein Wendepunkt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The document proves the existence of the treaty.",
+        "text_de": "Das Dokument beweist die Existenz des Vertrages.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Dreißigjährige Krieg verwüstete Deutschland.",
+            "das Ereignis",
+            "Das Dokument beweist die Existenz des Vertrages.",
+            "die Geschichte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's look at the timeline of the French Revolution.",
+        "text_de": "Lass uns den Zeitstrahl der Französischen Revolution anschauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Dokument beweist die Existenz des Vertrages.",
+            "Lass uns den Zeitstrahl der Französischen Revolution anschauen.",
+            "Geschichte hilft uns, die Gegenwart zu verstehen.",
+            "das Ereignis"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We celebrate the 50th anniversary this year.",
+        "text_de": "Wir feiern dieses Jahr das fünfzigste Jubiläum.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedrich der Große war ein preußischer König.",
+            "Architektur spiegelt den Zeitgeist wider.",
+            "Ich freue mich darauf, das historische Museum zu besuchen.",
+            "Wir feiern dieses Jahr das fünfzigste Jubiläum."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Columbus discovered America in 1492.",
+        "text_de": "Kolumbus entdeckte Amerika im Jahr 1492.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Renaissance bedeutet 'Wiedergeburt'.",
+            "Kolumbus entdeckte Amerika im Jahr 1492.",
+            "Die Seidenstraße verband Ost und West.",
+            "Naturkundemuseen sind faszinierend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's important to remember our heritage.",
+        "text_de": "Es ist wichtig, sich an unser Erbe zu erinnern.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedrich der Große war ein preußischer König.",
+            "Historiker müssen mehrere Quellen prüfen.",
+            "Der Stein von Rosette half, Hieroglyphen zu entziffern.",
+            "Es ist wichtig, sich an unser Erbe zu erinnern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who was the first president of the USA?",
+        "text_de": "Wer war der erste Präsident der USA?",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir schreiben jeden Tag Geschichte.",
+            "Wer war der erste Präsident der USA?",
+            "Das Römische Reich war sehr mächtig.",
+            "die Quelle"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Middle Ages were a time of knights.",
+        "text_de": "Das Mittelalter war eine Zeit der Ritter.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Artefakt",
+            "Das Mittelalter war eine Zeit der Ritter.",
+            "Archäologen fanden ein antikes Artefakt.",
+            "Das Dokument beweist die Existenz des Vertrages."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ancient Egypt is famous for the pyramids.",
+        "text_de": "Das alte Ägypten ist berühmt für die Pyramiden.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Geschichte",
+            "Stonehenge ist eine geheimnisvolle prähistorische Stätte.",
+            "Das alte Ägypten ist berühmt für die Pyramiden.",
+            "Kolumbus entdeckte Amerika im Jahr 1492."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The industrial revolution started in England.",
+        "text_de": "Die industrielle Revolution begann in England.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Historische Forschung erfordert Geduld.",
+            "Mahatma Gandhi führte den friedlichen Widerstand an.",
+            "das Dokument",
+            "Die industrielle Revolution begann in England."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "World War II ended in 1945.",
+        "text_de": "Der Zweite Weltkrieg endete 1945.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir feiern dieses Jahr das fünfzigste Jubiläum.",
+            "Landwirtschaft ermöglichte es den Menschen, sesshaft zu werden.",
+            "Der Zweite Weltkrieg endete 1945.",
+            "der König"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Cold War lasted for several decades.",
+        "text_de": "Der Kalte Krieg dauerte mehrere Jahrzehnte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Römische Reich war sehr mächtig.",
+            "Der Kalte Krieg dauerte mehrere Jahrzehnte.",
+            "Das antike Troja wurde von Schliemann entdeckt.",
+            "die Geschichte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Renaissance means 'rebirth'.",
+        "text_de": "Renaissance bedeutet 'Wiedergeburt'.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Renaissance bedeutet 'Wiedergeburt'.",
+            "das Kaiserreich",
+            "das Ereignis",
+            "Das Römische Reich war sehr mächtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Leonardo da Vinci was a multi-talented man.",
+        "text_de": "Leonardo da Vinci war ein vielseitig begabter Mann.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stonehenge ist eine geheimnisvolle prähistorische Stätte.",
+            "Geschichte hilft uns, die Gegenwart zu verstehen.",
+            "Leonardo da Vinci war ein vielseitig begabter Mann.",
+            "die Quelle"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The library has many old manuscripts.",
+        "text_de": "Die Bibliothek hat viele alte Manuskripte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einige Briefe von meinem Urgroßvater gefunden.",
+            "Das Mittelalter war eine Zeit der Ritter.",
+            "Die Bibliothek hat viele alte Manuskripte.",
+            "Der Stein von Rosette half, Hieroglyphen zu entziffern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in the history of art.",
+        "text_de": "Ich interessiere mich für die Kunstgeschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "der Zeitstrahl",
+            "Ich interessiere mich für die Kunstgeschichte.",
+            "Niemals vergessen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Local museums tell stories of the town.",
+        "text_de": "Lokale Museen erzählen Geschichten der Stadt.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Archäologie bietet einen Blick unter die Oberfläche.",
+            "Lokale Museen erzählen Geschichten der Stadt.",
+            "Lerne aus den Fehlern der Vergangenheit.",
+            "Mahatma Gandhi führte den friedlichen Widerstand an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Genealogy is the study of family history.",
+        "text_de": "Genealogie ist das Studium der Familiengeschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Krieg bringt Leid über die Menschen.",
+            "das Jahrhundert",
+            "Genealogie ist das Studium der Familiengeschichte.",
+            "Das Dokument beweist die Existenz des Vertrages."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I found some letters from my great-grandfather.",
+        "text_de": "Ich habe einige Briefe von meinem Urgroßvater gefunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einige Briefe von meinem Urgroßvater gefunden.",
+            "die Königin",
+            "entdecken",
+            "Die Französische Revolution veränderte Europa."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Oral history preserves stories through speech.",
+        "text_de": "Mündliche Überlieferung bewahrt Geschichten durch Sprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Historische Denkmäler stehen unter Denkmalschutz.",
+            "Mündliche Überlieferung bewahrt Geschichten durch Sprache.",
+            "das Ereignis",
+            "Alte Burgen haben oft viele Legenden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Traditional festivals have deep historical roots.",
+        "text_de": "Traditionelle Feste haben tiefe historische Wurzeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Martin Luther startete die Reformation.",
+            "das Jahrhundert",
+            "Traditionelle Feste haben tiefe historische Wurzeln.",
+            "Das antike Troja wurde von Schliemann entdeckt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Architecture reflects the spirit of the time.",
+        "text_de": "Architektur spiegelt den Zeitgeist wider.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alexandria beherbergte die größte Bibliothek.",
+            "Architektur spiegelt den Zeitgeist wider.",
+            "Der Fall der Berliner Mauer war ein historisches Ereignis.",
+            "Die Titanic sank 1912."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stonehenge is a mysterious prehistoric site.",
+        "text_de": "Stonehenge ist eine geheimnisvolle prähistorische Stätte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erfindung des Buchdrucks war ein Wendepunkt.",
+            "Stonehenge ist eine geheimnisvolle prähistorische Stätte.",
+            "Die Seidenstraße verband Ost und West.",
+            "Der Kalte Krieg dauerte mehrere Jahrzehnte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The invention of the printing press was a turning point.",
+        "text_de": "Die Erfindung des Buchdrucks war ein Wendepunkt.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Historiker müssen mehrere Quellen prüfen.",
+            "Die Wiedervereinigung geschah 1990.",
+            "Die Erfindung des Buchdrucks war ein Wendepunkt.",
+            "Die Entdeckung des Feuers veränderte die menschliche Evolution."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Martin Luther started the Reformation.",
+        "text_de": "Martin Luther startete die Reformation.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir schreiben jeden Tag Geschichte.",
+            "Wir leben in einer digitalen Ära.",
+            "Lerne aus den Fehlern der Vergangenheit.",
+            "Martin Luther startete die Reformation."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Thirty Years' War ravaged Germany.",
+        "text_de": "Der Dreißigjährige Krieg verwüstete Deutschland.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zweite Weltkrieg endete 1945.",
+            "Das Rad ist eine der größten Erfindungen.",
+            "Der Dreißigjährige Krieg verwüstete Deutschland.",
+            "Der Kalte Krieg dauerte mehrere Jahrzehnte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Frederick the Great was a Prussian king.",
+        "text_de": "Friedrich der Große war ein preußischer König.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedrich der Große war ein preußischer König.",
+            "Ich freue mich darauf, das historische Museum zu besuchen.",
+            "Ich habe einige Briefe von meinem Urgroßvater gefunden.",
+            "Die Erfindung des Buchdrucks war ein Wendepunkt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Otto von Bismarck unified Germany.",
+        "text_de": "Otto von Bismarck vereinte Deutschland.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Revolution",
+            "Otto von Bismarck vereinte Deutschland.",
+            "Niemals vergessen!",
+            "Die Teilung Deutschlands dauerte vierzig Jahre."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Weimar Republic was the first German democracy.",
+        "text_de": "Die Weimarer Republik war die erste deutsche Demokratie.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Rad ist eine der größten Erfindungen.",
+            "Die Weimarer Republik war die erste deutsche Demokratie.",
+            "Die Französische Revolution veränderte Europa.",
+            "Traditionelle Feste haben tiefe historische Wurzeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The division of Germany lasted 40 years.",
+        "text_de": "Die Teilung Deutschlands dauerte vierzig Jahre.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie war die letzte Königin ihres Landes.",
+            "Die Entdeckung des Feuers veränderte die menschliche Evolution.",
+            "Die Teilung Deutschlands dauerte vierzig Jahre.",
+            "Ich interessiere mich für die Kunstgeschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reunification happened in 1990.",
+        "text_de": "Die Wiedervereinigung geschah 1990.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Friedrich der Große war ein preußischer König.",
+            "Otto von Bismarck vereinte Deutschland.",
+            "Die Wiedervereinigung geschah 1990.",
+            "Archäologen fanden ein antikes Artefakt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Historical research requires patience.",
+        "text_de": "Historische Forschung erfordert Geduld.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kalte Krieg dauerte mehrere Jahrzehnte.",
+            "Das alte Ägypten ist berühmt für die Pyramiden.",
+            "Historische Forschung erfordert Geduld.",
+            "Die Ruinen des Tempels sind beeindruckend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm reading a biography of Napoleon.",
+        "text_de": "Ich lese eine Biographie von Napoleon.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Quelle",
+            "die Ruinen",
+            "Die Demokratie wurde in Athen geboren.",
+            "Ich lese eine Biographie von Napoleon."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Museums of natural history are fascinating.",
+        "text_de": "Naturkundemuseen sind faszinierend.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Dokument",
+            "die Quelle",
+            "Naturkundemuseen sind faszinierend.",
+            "Der König lebte in einem wunderschönen Palast."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The discovery of fire changed human evolution.",
+        "text_de": "Die Entdeckung des Feuers veränderte die menschliche Evolution.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Vergangenheit",
+            "Die Entdeckung des Feuers veränderte die menschliche Evolution.",
+            "Wir schreiben jeden Tag Geschichte.",
+            "Marco Polo reiste nach China."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Agriculture allowed humans to settle down.",
+        "text_de": "Landwirtschaft ermöglichte es den Menschen, sesshaft zu werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Traditionelle Feste haben tiefe historische Wurzeln.",
+            "Niemals vergessen!",
+            "Wer war der erste Präsident der USA?",
+            "Landwirtschaft ermöglichte es den Menschen, sesshaft zu werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wheel is one of the greatest inventions.",
+        "text_de": "Das Rad ist eine der größten Erfindungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einige Briefe von meinem Urgroßvater gefunden.",
+            "Das Rad ist eine der größten Erfindungen.",
+            "Traditionelle Feste haben tiefe historische Wurzeln.",
+            "das Jahrhundert"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Greek philosophy still influences us today.",
+        "text_de": "Griechische Philosophie beeinflusst uns heute noch.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das zwanzigste Jahrhundert war voller Veränderungen.",
+            "Die Demokratie wurde in Athen geboren.",
+            "Der Stein von Rosette half, Hieroglyphen zu entziffern.",
+            "Griechische Philosophie beeinflusst uns heute noch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Democracy was born in Athens.",
+        "text_de": "Die Demokratie wurde in Athen geboren.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Historische Denkmäler stehen unter Denkmalschutz.",
+            "Architektur spiegelt den Zeitgeist wider.",
+            "Stonehenge ist eine geheimnisvolle prähistorische Stätte.",
+            "Die Demokratie wurde in Athen geboren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Alexandria was home to the greatest library.",
+        "text_de": "Alexandria beherbergte die größte Bibliothek.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alexandria beherbergte die größte Bibliothek.",
+            "Der Zweite Weltkrieg endete 1945.",
+            "Wissenschaft und Geschichte gehen Hand in Hand.",
+            "die Quelle"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Silk Road connected East and West.",
+        "text_de": "Die Seidenstraße verband Ost und West.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wiedervereinigung geschah 1990.",
+            "die Ruinen",
+            "Die Seidenstraße verband Ost und West.",
+            "Archäologie bietet einen Blick unter die Oberfläche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Marco Polo traveled to China.",
+        "text_de": "Marco Polo reiste nach China.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der König",
+            "Geschichte wird von den Siegern geschrieben.",
+            "Marco Polo reiste nach China.",
+            "entdecken"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Age of Discovery led to global trade.",
+        "text_de": "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ära",
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "Die Französische Revolution veränderte Europa.",
+            "Der Fall der Berliner Mauer war ein historisches Ereignis."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Colonialism had a huge impact on Africa.",
+        "text_de": "Kolonialismus hatte einen riesigen Einfluss auf Afrika.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zeitstrahl",
+            "Archäologen fanden ein antikes Artefakt.",
+            "die Ruinen",
+            "Kolonialismus hatte einen riesigen Einfluss auf Afrika."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Independence movements fought for freedom.",
+        "text_de": "Unabhängigkeitsbewegungen kämpften für die Freiheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alte Burgen haben oft viele Legenden.",
+            "die Ära",
+            "Es ist wichtig, sich an unser Erbe zu erinnern.",
+            "Unabhängigkeitsbewegungen kämpften für die Freiheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mahatma Gandhi lead the peaceful resistance.",
+        "text_de": "Mahatma Gandhi führte den friedlichen Widerstand an.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Niemals vergessen!",
+            "Mahatma Gandhi führte den friedlichen Widerstand an.",
+            "der König",
+            "Marco Polo reiste nach China."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The moon landing in 1969 was a milestone.",
+        "text_de": "Die Mondlandung 1969 war ein Meilenstein.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Königin",
+            "Das Rad ist eine der größten Erfindungen.",
+            "Die Mondlandung 1969 war ein Meilenstein.",
+            "Der Besuch einer KZ-Gedenkstätte ist bewegend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The internet has changed history radically.",
+        "text_de": "Das Internet hat die Geschichte radikal verändert.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Jahrhundert",
+            "Das Internet hat die Geschichte radikal verändert.",
+            "Respektiere das Erbe früherer Generationen.",
+            "Unabhängigkeitsbewegungen kämpften für die Freiheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are making history every day.",
+        "text_de": "Wir schreiben jeden Tag Geschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt immer mehrere Perspektiven auf die Geschichte.",
+            "Die Chinesische Mauer ist vom Weltraum aus sichtbar.",
+            "Traditionelle Feste haben tiefe historische Wurzeln.",
+            "Wir schreiben jeden Tag Geschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn from the mistakes of the past.",
+        "text_de": "Lerne aus den Fehlern der Vergangenheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne aus den Fehlern der Vergangenheit.",
+            "Der König lebte in einem wunderschönen Palast.",
+            "Leonardo da Vinci war ein vielseitig begabter Mann.",
+            "Otto von Bismarck vereinte Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the legacy of previous generations.",
+        "text_de": "Respektiere das Erbe früherer Generationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie war die letzte Königin ihres Landes.",
+            "die Ruinen",
+            "Respektiere das Erbe früherer Generationen.",
+            "Das Mittelalter war eine Zeit der Ritter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Historical monuments are protected by law.",
+        "text_de": "Historische Denkmäler stehen unter Denkmalschutz.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Artefakt",
+            "Wer war der erste Präsident der USA?",
+            "Historische Denkmäler stehen unter Denkmalschutz.",
+            "Das Dokument beweist die Existenz des Vertrages."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Visiting a concentration camp memorial is moving.",
+        "text_de": "Der Besuch einer KZ-Gedenkstätte ist bewegend.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Burg",
+            "Historische Denkmäler stehen unter Denkmalschutz.",
+            "Otto von Bismarck vereinte Deutschland.",
+            "Der Besuch einer KZ-Gedenkstätte ist bewegend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Never forget!",
+        "text_de": "Niemals vergessen!",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Mondlandung 1969 war ein Meilenstein.",
+            "Niemals vergessen!",
+            "Die Demokratie wurde in Athen geboren.",
+            "Das Zeitalter der Entdeckungen führte zum Welthandel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fight for civil rights continues.",
+        "text_de": "Der Kampf für Bürgerrechte geht weiter.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Artefakt",
+            "Das Rad ist eine der größten Erfindungen.",
+            "Der Kampf für Bürgerrechte geht weiter.",
+            "Die Seidenstraße verband Ost und West."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cultural diversity is a historical product.",
+        "text_de": "Kulturelle Vielfalt ist ein historisches Produkt.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kulturelle Vielfalt ist ein historisches Produkt.",
+            "Das Dokument beweist die Existenz des Vertrages.",
+            "Das Internet hat die Geschichte radikal verändert.",
+            "Marco Polo reiste nach China."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "History is written by the victors.",
+        "text_de": "Geschichte wird von den Siegern geschrieben.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geschichte wird von den Siegern geschrieben.",
+            "erinnern",
+            "Die Entdeckung des Feuers veränderte die menschliche Evolution.",
+            "die Geschichte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There are always multiple perspectives on history.",
+        "text_de": "Es gibt immer mehrere Perspektiven auf die Geschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es gibt immer mehrere Perspektiven auf die Geschichte.",
+            "Mündliche Überlieferung bewahrt Geschichten durch Sprache.",
+            "Ich freue mich darauf, das historische Museum zu besuchen.",
+            "Der König lebte in einem wunderschönen Palast."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Archaeology provides a look under the surface.",
+        "text_de": "Archäologie bietet einen Blick unter die Oberfläche.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Archäologie bietet einen Blick unter die Oberfläche.",
+            "Der König lebte in einem wunderschönen Palast.",
+            "Landwirtschaft ermöglichte es den Menschen, sesshaft zu werden.",
+            "Wissenschaft und Geschichte gehen Hand in Hand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Titanic sank in 1912.",
+        "text_de": "Die Titanic sank 1912.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaft und Geschichte gehen Hand in Hand.",
+            "Historische Denkmäler stehen unter Denkmalschutz.",
+            "Ich freue mich darauf, das historische Museum zu besuchen.",
+            "Die Titanic sank 1912."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ancient Troy was discovered by Schliemann.",
+        "text_de": "Das antike Troja wurde von Schliemann entdeckt.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kalte Krieg dauerte mehrere Jahrzehnte.",
+            "Krieg bringt Leid über die Menschen.",
+            "Das antike Troja wurde von Schliemann entdeckt.",
+            "Lass uns den Zeitstrahl der Französischen Revolution anschauen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Rosetta Stone helped decode hieroglyphs.",
+        "text_de": "Der Stein von Rosette half, Hieroglyphen zu entziffern.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Stein von Rosette half, Hieroglyphen zu entziffern.",
+            "Die Französische Revolution veränderte Europa.",
+            "Die Entdeckung des Feuers veränderte die menschliche Evolution.",
+            "Traditionelle Feste haben tiefe historische Wurzeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Pompeii was buried by Mount Vesuvius.",
+        "text_de": "Pompeji wurde vom Vesuv verschüttet.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "Architektur spiegelt den Zeitgeist wider.",
+            "Der Kalte Krieg dauerte mehrere Jahrzehnte.",
+            "Pompeji wurde vom Vesuv verschüttet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Great wall of China is visible from space.",
+        "text_de": "Die Chinesische Mauer ist vom Weltraum aus sichtbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Seidenstraße verband Ost und West.",
+            "Die Chinesische Mauer ist vom Weltraum aus sichtbar.",
+            "Der Stein von Rosette half, Hieroglyphen zu entziffern.",
+            "Die Französische Revolution veränderte Europa."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The history of medicine improved our lifespan.",
+        "text_de": "Die Geschichte der Medizin verbesserte unsere Lebensspanne.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Landwirtschaft ermöglichte es den Menschen, sesshaft zu werden.",
+            "die Revolution",
+            "Das Römische Reich war sehr mächtig.",
+            "Die Geschichte der Medizin verbesserte unsere Lebensspanne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science and history go hand in hand.",
+        "text_de": "Wissenschaft und Geschichte gehen Hand in Hand.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Vergangenheit",
+            "Wissenschaft und Geschichte gehen Hand in Hand.",
+            "Kolonialismus hatte einen riesigen Einfluss auf Afrika.",
+            "das Kaiserreich"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to visiting the historical museum.",
+        "text_de": "Ich freue mich darauf, das historische Museum zu besuchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'History'.",
+        "description_de": "Beispielsatz für 'History'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Zeitalter der Entdeckungen führte zum Welthandel.",
+            "Ich freue mich darauf, das historische Museum zu besuchen.",
+            "die Revolution",
+            "das Dokument"
+        ]
+    }
+]

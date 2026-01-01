@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Water",
+        "text_de": "das Wasser",
+        "synonyms": [],
+        "description": "German word for 'Water'.",
+        "description_de": "Deutsches Wort für 'Water'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Wasser",
+            "Deutschland ist berühmt für seine Wurst.",
+            "Wo sind die Gabeln und Messer?",
+            "Ich hätte gerne ein Glas Wasser, bitte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Bread",
+        "text_de": "das Brot",
+        "synonyms": [],
+        "description": "German word for 'Bread'.",
+        "description_de": "Deutsches Wort für 'Bread'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Brot",
+            "die Nudeln",
+            "Enthält das Gluten?",
+            "Haben Sie eine Kinderkarte?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Coffee",
+        "text_de": "der Kaffee",
+        "synonyms": [],
+        "description": "German word for 'Coffee'.",
+        "description_de": "Deutsches Wort für 'Coffee'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich bitte noch etwas Salz haben?",
+            "Ich muss Lebensmittel einkaufen.",
+            "der Fisch",
+            "der Kaffee"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Tea",
+        "text_de": "der Tee",
+        "synonyms": [],
+        "description": "German word for 'Tea'.",
+        "description_de": "Deutsches Wort für 'Tea'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Enthält das Gluten?",
+            "der Tee",
+            "Haben Sie vegetarische Gerichte?",
+            "Was empfehlen Sie?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Milk",
+        "text_de": "die Milch",
+        "synonyms": [],
+        "description": "German word for 'Milk'.",
+        "description_de": "Deutsches Wort für 'Milk'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe Hunger! Wann ist das Abendessen fertig?",
+            "Ich liebe italienische Nudeln.",
+            "die Milch",
+            "Ich liebe den Duft von frischem Kaffee am Morgen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Juice",
+        "text_de": "der Saft",
+        "synonyms": [],
+        "description": "German word for 'Juice'.",
+        "description_de": "Deutsches Wort für 'Juice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Saft",
+            "Kann ich dazu etwas Eis haben?",
+            "die Butter",
+            "das Ei"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Apple",
+        "text_de": "der Apfel",
+        "synonyms": [],
+        "description": "German word for 'Apple'.",
+        "description_de": "Deutsches Wort für 'Apple'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich bitte noch etwas Salz haben?",
+            "die Milch",
+            "Ist das Leitungswasser trinkbar?",
+            "der Apfel"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Banana",
+        "text_de": "die Banane",
+        "synonyms": [],
+        "description": "German word for 'Banana'.",
+        "description_de": "Deutsches Wort für 'Banana'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stimmt so.",
+            "das Brot",
+            "die Nudeln",
+            "die Banane"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Cheese",
+        "text_de": "der Käse",
+        "synonyms": [],
+        "description": "German word for 'Cheese'.",
+        "description_de": "Deutsches Wort für 'Cheese'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Noch ein Bier, bitte.",
+            "der Käse",
+            "Ich hätte gerne eine Scheibe Käse, bitte.",
+            "Ich esse kein Fleisch."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Ham",
+        "text_de": "der Schinken",
+        "synonyms": [],
+        "description": "German word for 'Ham'.",
+        "description_de": "Deutsches Wort für 'Ham'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Benutzen Sie Butter oder Öl zum Braten?",
+            "Ein Kinderstuhl für das Baby, bitte.",
+            "der Schinken",
+            "Die Erdbeeren haben jetzt Saison."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Egg",
+        "text_de": "das Ei",
+        "synonyms": [],
+        "description": "German word for 'Egg'.",
+        "description_de": "Deutsches Wort für 'Egg'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin satt, danke.",
+            "Ich bezahle für alle.",
+            "das Wasser",
+            "das Ei"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Rice",
+        "text_de": "der Reis",
+        "synonyms": [],
+        "description": "German word for 'Rice'.",
+        "description_de": "Deutsches Wort für 'Rice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Butter",
+            "Ich liebe italienische Nudeln.",
+            "der Reis",
+            "Die Pfeffermühle steht auf der Theke."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Pasta",
+        "text_de": "die Nudeln",
+        "synonyms": [],
+        "description": "German word for 'Pasta'.",
+        "description_de": "Deutsches Wort für 'Pasta'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nudeln",
+            "der Saft",
+            "Diese Suppe ist zu heiß.",
+            "das Obst"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Meat",
+        "text_de": "das Fleisch",
+        "synonyms": [],
+        "description": "German word for 'Meat'.",
+        "description_de": "Deutsches Wort für 'Meat'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Fleisch",
+            "der Reis",
+            "Haben Sie vegetarische Gerichte?",
+            "Warte einen Moment, bis sie abgekühlt ist."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Fish",
+        "text_de": "der Fisch",
+        "synonyms": [],
+        "description": "German word for 'Fish'.",
+        "description_de": "Deutsches Wort für 'Fish'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie vegetarische Gerichte?",
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "Ich hätte gerne eine Flasche Mineralwasser.",
+            "der Fisch"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Vegetables",
+        "text_de": "das Gemüse",
+        "synonyms": [],
+        "description": "German word for 'Vegetables'.",
+        "description_de": "Deutsches Wort für 'Vegetables'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erdbeeren haben jetzt Saison.",
+            "Ich bezahle für alle.",
+            "Ich liebe den Duft von frischem Kaffee am Morgen.",
+            "das Gemüse"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Fruit",
+        "text_de": "das Obst",
+        "synonyms": [],
+        "description": "German word for 'Fruit'.",
+        "description_de": "Deutsches Wort für 'Fruit'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Obst",
+            "Stilles Wasser oder Sprudel?",
+            "Das Essen war ausgezeichnet.",
+            "Ich trinke meinen Kaffee schwarz."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Cake",
+        "text_de": "der Kuchen",
+        "synonyms": [],
+        "description": "German word for 'Cake'.",
+        "description_de": "Deutsches Wort für 'Cake'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "Abendessen ist bei uns um 19 Uhr.",
+            "der Kuchen",
+            "Wir möchten gerne draußen auf der Terrasse sitzen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Soup",
+        "text_de": "die Suppe",
+        "synonyms": [],
+        "description": "German word for 'Soup'.",
+        "description_de": "Deutsches Wort für 'Soup'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Apfel am Tag hält den Doktor fern.",
+            "Ich nehme das Tagesgericht.",
+            "die Suppe",
+            "Kann ich bitte noch etwas Salz haben?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Butter",
+        "text_de": "die Butter",
+        "synonyms": [],
+        "description": "German word for 'Butter'.",
+        "description_de": "Deutsches Wort für 'Butter'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich bitte noch etwas Salz haben?",
+            "Die Kartoffeln müssen zwanzig Minuten kochen.",
+            "die Butter",
+            "Ich hätte gerne ein Glas Wasser, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like a glass of water, please.",
+        "text_de": "Ich hätte gerne ein Glas Wasser, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich hätte gerne ein Glas Wasser, bitte.",
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "Was empfehlen Sie?",
+            "Diese Suppe ist zu heiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you drink your coffee with milk?",
+        "text_de": "Trinken Sie Ihren Kaffee mit Milch?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pfeffermühle steht auf der Theke.",
+            "Ich liebe den Duft von frischem Kaffee am Morgen.",
+            "Trinken Sie Ihren Kaffee mit Milch?",
+            "die Suppe"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer green tea.",
+        "text_de": "Ich bevorzuge grünen Tee.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie vegetarische Gerichte?",
+            "Greif zu!",
+            "Ich bevorzuge grünen Tee.",
+            "Warte einen Moment, bis sie abgekühlt ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This bread is very fresh.",
+        "text_de": "Dieses Brot ist sehr frisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge dunkles Brot.",
+            "das Brot",
+            "Dieses Brot ist sehr frisch.",
+            "Deutschland ist berühmt für seine Wurst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "An apple a day keeps the doctor away.",
+        "text_de": "Ein Apfel am Tag hält den Doktor fern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nudeln",
+            "Ein Apfel am Tag hält den Doktor fern.",
+            "Ich bevorzuge dunkles Brot.",
+            "Diese Suppe ist zu heiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I eat a banana for breakfast every morning.",
+        "text_de": "Ich esse jeden Morgen eine Banane zum Frühstück.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse jeden Morgen eine Banane zum Frühstück.",
+            "Die Kartoffeln müssen zwanzig Minuten kochen.",
+            "Ich bin allergisch gegen Nüsse.",
+            "Ich habe Durst. Haben Sie Saft?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Germany is famous for its sausage.",
+        "text_de": "Deutschland ist berühmt für seine Wurst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Frisch gepresste Limonade ist sehr erfrischend.",
+            "das Obst",
+            "Deutschland ist berühmt für seine Wurst.",
+            "Ein Apfel am Tag hält den Doktor fern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like a slice of cheese, please.",
+        "text_de": "Ich hätte gerne eine Scheibe Käse, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Ei",
+            "Ich hätte gerne eine Scheibe Käse, bitte.",
+            "Extra Käse, bitte.",
+            "die Butter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have any vegetarian dishes?",
+        "text_de": "Haben Sie vegetarische Gerichte?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist die Soße zu salzig?",
+            "Haben Sie vegetarische Gerichte?",
+            "der Kuchen",
+            "Wo sind die Gabeln und Messer?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't eat meat.",
+        "text_de": "Ich esse kein Fleisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse kein Fleisch.",
+            "das Obst",
+            "Gibt es eine Reservierung auf den Namen 'Müller'?",
+            "Dieser Kuchen ist köstlich!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the fish fresh today?",
+        "text_de": "Ist der Fisch heute frisch?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "Stimmt so.",
+            "das Obst",
+            "Ist der Fisch heute frisch?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love Italian pasta.",
+        "text_de": "Ich liebe italienische Nudeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reich mir bitte die Butter.",
+            "Ich mag kein scharfes Essen.",
+            "Ich hätte gerne ein Glas Wasser, bitte.",
+            "Ich liebe italienische Nudeln."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Rice is a basic food in many countries.",
+        "text_de": "Reis ist ein Grundnahrungsmittel in vielen Ländern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schinken",
+            "Reis ist ein Grundnahrungsmittel in vielen Ländern.",
+            "Ich muss Lebensmittel einkaufen.",
+            "Kann ich dazu etwas Eis haben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Would you like some soup for an appetizer?",
+        "text_de": "Möchten Sie eine Suppe als Vorspeise?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dieses Rezept ist sehr einfach nachzukochen.",
+            "Was empfehlen Sie?",
+            "Die Pizza ist sehr knusprig.",
+            "Möchten Sie eine Suppe als Vorspeise?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This cake is delicious!",
+        "text_de": "Dieser Kuchen ist köstlich!",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dieser Kuchen ist köstlich!",
+            "Ich nehme das Tagesgericht.",
+            "Ich bin allergisch gegen Nüsse.",
+            "Orangensaft ist reich an Vitamin C."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to buy some groceries.",
+        "text_de": "Ich muss Lebensmittel einkaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schinken",
+            "Kann ich dazu etwas Eis haben?",
+            "Ich esse kein Fleisch.",
+            "Ich muss Lebensmittel einkaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I find the vegetables?",
+        "text_de": "Wo finde ich das Gemüse?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse kein Fleisch.",
+            "Ich trinke meinen Kaffee schwarz.",
+            "Ich bevorzuge grünen Tee.",
+            "Wo finde ich das Gemüse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fresh fruit is very healthy.",
+        "text_de": "Frisches Obst ist sehr gesund.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Frisches Obst ist sehr gesund.",
+            "Deutschland ist berühmt für seine Wurst.",
+            "der Fisch",
+            "Guten Appetit!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I take my coffee black.",
+        "text_de": "Ich trinke meinen Kaffee schwarz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist das Leitungswasser trinkbar?",
+            "Wir möchten gerne draußen auf der Terrasse sitzen.",
+            "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+            "Ich trinke meinen Kaffee schwarz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sugar or honey for your tea?",
+        "text_de": "Zucker oder Honig für Ihren Tee?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zucker oder Honig für Ihren Tee?",
+            "Ein Kinderstuhl für das Baby, bitte.",
+            "Ich liebe den Duft von frischem Kaffee am Morgen.",
+            "Ich hätte gerne ein Glas Wasser, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm thirsty. Do you have juice?",
+        "text_de": "Ich habe Durst. Haben Sie Saft?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse jeden Morgen eine Banane zum Frühstück.",
+            "Ich habe Durst. Haben Sie Saft?",
+            "Greif zu!",
+            "die Nudeln"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Orange juice is rich in Vitamin C.",
+        "text_de": "Orangensaft ist reich an Vitamin C.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Orangensaft ist reich an Vitamin C.",
+            "Warte einen Moment, bis sie abgekühlt ist.",
+            "das Wasser",
+            "Zucker oder Honig für Ihren Tee?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to order, please.",
+        "text_de": "Ich möchte gerne bestellen, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stimmt so.",
+            "das Fleisch",
+            "Ich möchte gerne bestellen, bitte.",
+            "Haben Sie Vollkornbrötchen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The menu is on the table.",
+        "text_de": "Die Speisekarte liegt auf dem Tisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Speisekarte liegt auf dem Tisch.",
+            "die Milch",
+            "Stimmt so.",
+            "Zucker oder Honig für Ihren Tee?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What do you recommend?",
+        "text_de": "Was empfehlen Sie?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse jeden Morgen eine Banane zum Frühstück.",
+            "Was empfehlen Sie?",
+            "Abendessen ist bei uns um 19 Uhr.",
+            "Wo finde ich das Gemüse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll take the daily special.",
+        "text_de": "Ich nehme das Tagesgericht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nehme das Tagesgericht.",
+            "Trinken Sie Ihren Kaffee mit Milch?",
+            "Ich muss Lebensmittel einkaufen.",
+            "Ist das Leitungswasser trinkbar?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are you ready to order?",
+        "text_de": "Sind Sie bereit zu bestellen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich nehme das Tagesgericht.",
+            "Ich liebe es, für meine Freunde zu kochen.",
+            "Sind Sie bereit zu bestellen?",
+            "die Suppe"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy your meal!",
+        "text_de": "Guten Appetit!",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Guten Appetit!",
+            "Ich hätte gerne eine Scheibe Käse, bitte.",
+            "Ich bin satt, danke.",
+            "das Ei"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The check, please.",
+        "text_de": "Die Rechnung, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich esse kein Fleisch.",
+            "das Obst",
+            "Ich hätte gerne eine Scheibe Käse, bitte.",
+            "Die Rechnung, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep the change.",
+        "text_de": "Stimmt so.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bedienung war sehr schnell und freundlich.",
+            "Stimmt so.",
+            "Ist das Leitungswasser trinkbar?",
+            "Ich helfe dir, den Tisch zu decken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm full, thank you.",
+        "text_de": "Ich bin satt, danke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trinke keinen Alkohol.",
+            "der Tee",
+            "Ich bin satt, danke.",
+            "Die Pizza ist sehr knusprig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The food was excellent.",
+        "text_de": "Das Essen war ausgezeichnet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, für meine Freunde zu kochen.",
+            "Das Essen war ausgezeichnet.",
+            "Wo finde ich das Gemüse?",
+            "das Ei"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the tap water drinkable?",
+        "text_de": "Ist das Leitungswasser trinkbar?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bezahle für alle.",
+            "Ich habe Hunger! Wann ist das Abendessen fertig?",
+            "Ist das Leitungswasser trinkbar?",
+            "Noch ein Bier, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like a bottle of mineral water.",
+        "text_de": "Ich hätte gerne eine Flasche Mineralwasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "Ich hätte gerne eine Flasche Mineralwasser.",
+            "Ich hätte gerne ein Glas Wasser, bitte.",
+            "Ich esse jeden Morgen eine Banane zum Frühstück."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Still or sparkling water?",
+        "text_de": "Stilles Wasser oder Sprudel?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+            "Stilles Wasser oder Sprudel?",
+            "Ich trinke keinen Alkohol.",
+            "Das Essen war ausgezeichnet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't like spicy food.",
+        "text_de": "Ich mag kein scharfes Essen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Rechnung, bitte.",
+            "Abendessen ist bei uns um 19 Uhr.",
+            "Ich mag kein scharfes Essen.",
+            "Ist die Soße zu salzig?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I have some more salt, please?",
+        "text_de": "Kann ich bitte noch etwas Salz haben?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sind Sie bereit zu bestellen?",
+            "Kann ich bitte noch etwas Salz haben?",
+            "Die Bedienung war sehr schnell und freundlich.",
+            "Abendessen ist bei uns um 19 Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The pepper mill is on the counter.",
+        "text_de": "Die Pfeffermühle steht auf der Theke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Essen war ausgezeichnet.",
+            "Haben Sie Vollkornbrötchen?",
+            "Die Pfeffermühle steht auf der Theke.",
+            "Sind Sie bereit zu bestellen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer dark bread.",
+        "text_de": "Ich bevorzuge dunkles Brot.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge dunkles Brot.",
+            "Ich habe Hunger! Wann ist das Abendessen fertig?",
+            "Ist der Fisch heute frisch?",
+            "Ein Apfel am Tag hält den Doktor fern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have whole grain rolls?",
+        "text_de": "Haben Sie Vollkornbrötchen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was empfehlen Sie?",
+            "Haben Sie Vollkornbrötchen?",
+            "Wo finde ich das Gemüse?",
+            "die Suppe"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Breakfast is the most important meal of the day.",
+        "text_de": "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deutschland ist berühmt für seine Wurst.",
+            "Ich bevorzuge dunkles Brot.",
+            "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+            "Ich hätte gerne eine Flasche Mineralwasser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We usually have lunch at 12 PM.",
+        "text_de": "Wir essen normalerweise um 12 Uhr zu Mittag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "Der Wein kommt von einem lokalen Weingut.",
+            "Ich möchte gerne bestellen, bitte.",
+            "Dieser Kuchen ist köstlich!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dinner is at 7 PM in our house.",
+        "text_de": "Abendessen ist bei uns um 19 Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge dunkles Brot.",
+            "Abendessen ist bei uns um 19 Uhr.",
+            "Ich hätte gerne einen Salat ohne Dressing, bitte.",
+            "Wir möchten gerne draußen auf der Terrasse sitzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love cooking for my friends.",
+        "text_de": "Ich liebe es, für meine Freunde zu kochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist der Fisch heute frisch?",
+            "Ein Apfel am Tag hält den Doktor fern.",
+            "Ich liebe es, für meine Freunde zu kochen.",
+            "Dieser Kuchen ist köstlich!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This recipe is very easy to follow.",
+        "text_de": "Dieses Rezept ist sehr einfach nachzukochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sprich nicht mit vollem Mund.",
+            "Dieses Rezept ist sehr einfach nachzukochen.",
+            "Ich lebe vegan.",
+            "Ich esse kein Fleisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you use butter or oil for frying?",
+        "text_de": "Benutzen Sie Butter oder Öl zum Braten?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist das Leitungswasser trinkbar?",
+            "das Wasser",
+            "die Suppe",
+            "Benutzen Sie Butter oder Öl zum Braten?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a sharp knife for the meat.",
+        "text_de": "Ich brauche ein scharfes Messer für das Fleisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss Lebensmittel einkaufen.",
+            "das Brot",
+            "Ich bin allergisch gegen Nüsse.",
+            "Ich brauche ein scharfes Messer für das Fleisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The potatoes need to boil for twenty minutes.",
+        "text_de": "Die Kartoffeln müssen zwanzig Minuten kochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe Durst. Haben Sie Saft?",
+            "Zucker oder Honig für Ihren Tee?",
+            "Die Pfeffermühle steht auf der Theke.",
+            "Die Kartoffeln müssen zwanzig Minuten kochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the sauce too salty?",
+        "text_de": "Ist die Soße zu salzig?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deutschland ist berühmt für seine Wurst.",
+            "Diese Suppe ist zu heiß.",
+            "Ist die Soße zu salzig?",
+            "der Reis"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm allergic to nuts.",
+        "text_de": "Ich bin allergisch gegen Nüsse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Deutschland ist berühmt für seine Wurst.",
+            "Ich bin allergisch gegen Nüsse.",
+            "Dieser Kuchen ist köstlich!",
+            "der Kuchen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Does this contain gluten?",
+        "text_de": "Enthält das Gluten?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was empfehlen Sie?",
+            "die Milch",
+            "Enthält das Gluten?",
+            "Diese Suppe ist zu heiß."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm vegan.",
+        "text_de": "Ich lebe vegan.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Guten Appetit!",
+            "Ich lebe vegan.",
+            "Ich bin allergisch gegen Nüsse.",
+            "Reich mir bitte die Butter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like a salad without dressing, please.",
+        "text_de": "Ich hätte gerne einen Salat ohne Dressing, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe Hunger! Wann ist das Abendessen fertig?",
+            "Ich liebe es, für meine Freunde zu kochen.",
+            "Ich helfe dir, den Tisch zu decken.",
+            "Ich hätte gerne einen Salat ohne Dressing, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The tomatoes are very red and juicy.",
+        "text_de": "Die Tomaten sind sehr rot und saftig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Wein kommt von einem lokalen Weingut.",
+            "Die Tomaten sind sehr rot und saftig.",
+            "Reis ist ein Grundnahrungsmittel in vielen Ländern.",
+            "Ist die Soße zu salzig?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the smell of fresh coffee in the morning.",
+        "text_de": "Ich liebe den Duft von frischem Kaffee am Morgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Duft von frischem Kaffee am Morgen.",
+            "Ich lebe vegan.",
+            "Wo finde ich das Gemüse?",
+            "Deutschland ist berühmt für seine Wurst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "One more beer, please.",
+        "text_de": "Noch ein Bier, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Noch ein Bier, bitte.",
+            "Ich bin allergisch gegen Nüsse.",
+            "Enthält das Gluten?",
+            "Ich helfe dir, den Tisch zu decken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wine is from a local vineyard.",
+        "text_de": "Der Wein kommt von einem lokalen Weingut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich dazu etwas Eis haben?",
+            "Das Frühstück ist die wichtigste Mahlzeit des Tages.",
+            "der Saft",
+            "Der Wein kommt von einem lokalen Weingut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cheers! \/ To your health!",
+        "text_de": "Prost! \/ Zum Wohl!",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trinken Sie Ihren Kaffee mit Milch?",
+            "Prost! \/ Zum Wohl!",
+            "Ich liebe den Duft von frischem Kaffee am Morgen.",
+            "Ich bevorzuge dunkles Brot."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't drink alcohol.",
+        "text_de": "Ich trinke keinen Alkohol.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trinke keinen Alkohol.",
+            "Wo finde ich das Gemüse?",
+            "Ich bezahle für alle.",
+            "Was empfehlen Sie?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freshly squeezed lemonade is very refreshing.",
+        "text_de": "Frisch gepresste Limonade ist sehr erfrischend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie eine Kinderkarte?",
+            "Frisch gepresste Limonade ist sehr erfrischend.",
+            "Ich bevorzuge dunkles Brot.",
+            "Sprich nicht mit vollem Mund."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My favorite dessert is chocolate cake.",
+        "text_de": "Mein Lieblingsnachtisch ist Schokoladenkuchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Kinderstuhl für das Baby, bitte.",
+            "Sprich nicht mit vollem Mund.",
+            "Der Wein kommt von einem lokalen Weingut.",
+            "Mein Lieblingsnachtisch ist Schokoladenkuchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I have some ice cream with that?",
+        "text_de": "Kann ich dazu etwas Eis haben?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reis ist ein Grundnahrungsmittel in vielen Ländern.",
+            "Guten Appetit!",
+            "Stimmt so.",
+            "Kann ich dazu etwas Eis haben?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The strawberries are in season now.",
+        "text_de": "Die Erdbeeren haben jetzt Saison.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe den Duft von frischem Kaffee am Morgen.",
+            "Die Erdbeeren haben jetzt Saison.",
+            "Ich hätte gerne einen Salat ohne Dressing, bitte.",
+            "Prost! \/ Zum Wohl!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the combination of ham and melon.",
+        "text_de": "Ich liebe die Kombination von Schinken und Melone.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich hätte gerne einen Salat ohne Dressing, bitte.",
+            "Ich liebe die Kombination von Schinken und Melone.",
+            "Wir essen normalerweise um 12 Uhr zu Mittag.",
+            "die Banane"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The pizza is very crispy.",
+        "text_de": "Die Pizza ist sehr knusprig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pizza ist sehr knusprig.",
+            "Möchten Sie eine Suppe als Vorspeise?",
+            "Diese Suppe ist zu heiß.",
+            "das Brot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Extra cheese, please.",
+        "text_de": "Extra Käse, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Extra Käse, bitte.",
+            "Ich möchte gerne bestellen, bitte.",
+            "Die Bedienung war sehr schnell und freundlich.",
+            "das Wasser"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm hungry! When is dinner ready?",
+        "text_de": "Ich habe Hunger! Wann ist das Abendessen fertig?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe italienische Nudeln.",
+            "Greif zu!",
+            "Ich habe Hunger! Wann ist das Abendessen fertig?",
+            "der Käse"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll help you set the table.",
+        "text_de": "Ich helfe dir, den Tisch zu decken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Reis",
+            "Ich helfe dir, den Tisch zu decken.",
+            "Der Wein kommt von einem lokalen Weingut.",
+            "Reich mir bitte die Butter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where are the forks and knives?",
+        "text_de": "Wo sind die Gabeln und Messer?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist der Fisch heute frisch?",
+            "Die Tomaten sind sehr rot und saftig.",
+            "der Apfel",
+            "Wo sind die Gabeln und Messer?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't talk with your mouth full.",
+        "text_de": "Sprich nicht mit vollem Mund.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erdbeeren haben jetzt Saison.",
+            "Sprich nicht mit vollem Mund.",
+            "Mein Lieblingsnachtisch ist Schokoladenkuchen.",
+            "Ist der Fisch heute frisch?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please pass me the butter.",
+        "text_de": "Reich mir bitte die Butter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erdbeeren haben jetzt Saison.",
+            "der Fisch",
+            "Reich mir bitte die Butter.",
+            "Wo finde ich das Gemüse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Help yourself!",
+        "text_de": "Greif zu!",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge dunkles Brot.",
+            "Ich bin allergisch gegen Nüsse.",
+            "Ich hätte gerne eine Flasche Mineralwasser.",
+            "Greif zu!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This soup is too hot.",
+        "text_de": "Diese Suppe ist zu heiß.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Fleisch",
+            "Greif zu!",
+            "Diese Suppe ist zu heiß.",
+            "Ich möchte gerne bestellen, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wait a moment until it cools down.",
+        "text_de": "Warte einen Moment, bis sie abgekühlt ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Warte einen Moment, bis sie abgekühlt ist.",
+            "Die Pizza ist sehr knusprig.",
+            "der Tee",
+            "Die Speisekarte liegt auf dem Tisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The service was very fast and friendly.",
+        "text_de": "Die Bedienung war sehr schnell und freundlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich dazu etwas Eis haben?",
+            "der Käse",
+            "Die Bedienung war sehr schnell und freundlich.",
+            "der Kuchen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have a kid's menu?",
+        "text_de": "Haben Sie eine Kinderkarte?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trinke meinen Kaffee schwarz.",
+            "Haben Sie eine Kinderkarte?",
+            "Ich esse jeden Morgen eine Banane zum Frühstück.",
+            "das Obst"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A high chair for the baby, please.",
+        "text_de": "Ein Kinderstuhl für das Baby, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Saft",
+            "Ich hätte gerne eine Flasche Mineralwasser.",
+            "Die Kartoffeln müssen zwanzig Minuten kochen.",
+            "Ein Kinderstuhl für das Baby, bitte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We'd like to sit outside on the terrace.",
+        "text_de": "Wir möchten gerne draußen auf der Terrasse sitzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lebe vegan.",
+            "Wir möchten gerne draußen auf der Terrasse sitzen.",
+            "Kann ich bitte noch etwas Salz haben?",
+            "die Nudeln"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there a reservation under the name 'Müller'?",
+        "text_de": "Gibt es eine Reservierung auf den Namen 'Müller'?",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es eine Reservierung auf den Namen 'Müller'?",
+            "Die Kartoffeln müssen zwanzig Minuten kochen.",
+            "die Suppe",
+            "Die Pfeffermühle steht auf der Theke."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll pay for everyone.",
+        "text_de": "Ich bezahle für alle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Food & Drinks'.",
+        "description_de": "Beispielsatz für 'Food & Drinks'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es eine Reservierung auf den Namen 'Müller'?",
+            "Ich habe Durst. Haben Sie Saft?",
+            "Ich bezahle für alle.",
+            "das Fleisch"
+        ]
+    }
+]

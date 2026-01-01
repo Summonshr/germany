@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "To go shopping",
+        "text_de": "einkaufen gehen",
+        "synonyms": [],
+        "description": "German word for 'To go shopping'.",
+        "description_de": "Deutsches Wort für 'To go shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "einkaufen gehen",
+            "Die Bäckerei um die Ecke hat die besten Brötchen.",
+            "Das Kaufhaus ist heute sehr voll.",
+            "Ist der Käse aus der Region?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The supermarket",
+        "text_de": "der Supermarkt",
+        "synonyms": [],
+        "description": "German word for 'The supermarket'.",
+        "description_de": "Deutsches Wort für 'The supermarket'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Supermarkt",
+            "Sind das Energiesparlampen?",
+            "Haben Sie das in einer größeren Größe?",
+            "Ich bin froh, jetzt zu Hause zu sein."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The shopping cart",
+        "text_de": "der Einkaufswagen",
+        "synonyms": [],
+        "description": "German word for 'The shopping cart'.",
+        "description_de": "Deutsches Wort für 'The shopping cart'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Einkaufswagen",
+            "Die Farbe ist sehr schön.",
+            "Ich brauche eine neue Bratpfanne.",
+            "Wir akzeptieren hier nur Bargeld."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The shopping list",
+        "text_de": "der Einkaufszettel",
+        "synonyms": [],
+        "description": "German word for 'The shopping list'.",
+        "description_de": "Deutsches Wort für 'The shopping list'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche auch noch Käse und Schinken.",
+            "der Einkaufszettel",
+            "Kann ich das zurückgeben, wenn es nicht passt?",
+            "die Kreditkarte"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The customer",
+        "text_de": "der Kunde",
+        "synonyms": [],
+        "description": "German word for 'The customer'.",
+        "description_de": "Deutsches Wort für 'The customer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kunde",
+            "Der Verkäufer war sehr hilfsbereit.",
+            "Ich bin froh, jetzt zu Hause zu sein.",
+            "Kann ich das zurückgeben, wenn es nicht passt?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The seller",
+        "text_de": "der Verkäufer",
+        "synonyms": [],
+        "description": "German word for 'The seller'.",
+        "description_de": "Deutsches Wort für 'The seller'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte bewahren Sie den Bon für Rückgaben auf.",
+            "Ich brauche auch noch Käse und Schinken.",
+            "der Verkäufer",
+            "Ich muss neue Batterien kaufen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The price",
+        "text_de": "der Preis",
+        "synonyms": [],
+        "description": "German word for 'The price'.",
+        "description_de": "Deutsches Wort für 'The price'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Preis",
+            "Der Laden hat eine große Auswahl.",
+            "Ich brauche Medikamente gegen meine Erkältung.",
+            "Kann ich kontaktlos bezahlen?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The offer",
+        "text_de": "das Angebot",
+        "synonyms": [],
+        "description": "German word for 'The offer'.",
+        "description_de": "Deutsches Wort für 'The offer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schaufensterbummel",
+            "das Angebot",
+            "Die Farbe ist sehr schön.",
+            "Der Supermarkt ist bis 20 Uhr geöffnet."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The discount",
+        "text_de": "der Rabatt",
+        "synonyms": [],
+        "description": "German word for 'The discount'.",
+        "description_de": "Deutsches Wort für 'The discount'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Lieferung wird morgen ankommen.",
+            "Ich brauche einen Kassenbon für meinen Einkauf.",
+            "Ich muss neue Batterien kaufen.",
+            "der Rabatt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cash register",
+        "text_de": "die Kasse",
+        "synonyms": [],
+        "description": "German word for 'The cash register'.",
+        "description_de": "Deutsches Wort für 'The cash register'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kasse",
+            "Einkaufen kann sehr anstrengend sein.",
+            "der Einkaufswagen",
+            "kosten"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The receipt",
+        "text_de": "der Kassenbon",
+        "synonyms": [],
+        "description": "German word for 'The receipt'.",
+        "description_de": "Deutsches Wort für 'The receipt'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir akzeptieren hier nur Bargeld.",
+            "Die Lieferung wird morgen ankommen.",
+            "Ich hätte gerne zwei Pfund Kartoffeln, bitte.",
+            "der Kassenbon"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The credit card",
+        "text_de": "die Kreditkarte",
+        "synonyms": [],
+        "description": "German word for 'The credit card'.",
+        "description_de": "Deutsches Wort für 'The credit card'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Verkäufer war sehr hilfsbereit.",
+            "die Kreditkarte",
+            "Ich gehe gerne zum Schaufensterbummel in die Innenstadt.",
+            "Ich hasse es, an der Kasse zu warten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The change",
+        "text_de": "das Kleingeld",
+        "synonyms": [],
+        "description": "German word for 'The change'.",
+        "description_de": "Deutsches Wort für 'The change'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche ein Geschenk für einen Freund.",
+            "Ich nehme sie!",
+            "Ich möchte diese Jacke anprobieren.",
+            "das Kleingeld"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To pay",
+        "text_de": "bezahlen",
+        "synonyms": [],
+        "description": "German word for 'To pay'.",
+        "description_de": "Deutsches Wort für 'To pay'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine neue Bratpfanne.",
+            "bezahlen",
+            "Bitte bewahren Sie den Bon für Rückgaben auf.",
+            "Ich habe heute zu viel Geld ausgegeben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To cost",
+        "text_de": "kosten",
+        "synonyms": [],
+        "description": "German word for 'To cost'.",
+        "description_de": "Deutsches Wort für 'To cost'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Schuhe sind sehr bequem zum Laufen.",
+            "die Kasse",
+            "der Einkaufswagen",
+            "kosten"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The department store",
+        "text_de": "das Kaufhaus",
+        "synonyms": [],
+        "description": "German word for 'The department store'.",
+        "description_de": "Deutsches Wort für 'The department store'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge Bio-Produkte.",
+            "Der Blumenladen hat wunderschöne Rosen.",
+            "das Kaufhaus",
+            "Der Laden schließt für immer."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The specialty store",
+        "text_de": "das Fachgeschäft",
+        "synonyms": [],
+        "description": "German word for 'The specialty store'.",
+        "description_de": "Deutsches Wort für 'The specialty store'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kunde",
+            "Ich bevorzuge Bio-Produkte.",
+            "Ich mag die Atmosphäre auf dem Markt.",
+            "das Fachgeschäft"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The window shopping",
+        "text_de": "der Schaufensterbummel",
+        "synonyms": [],
+        "description": "German word for 'The window shopping'.",
+        "description_de": "Deutsches Wort für 'The window shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Farbe ist sehr schön.",
+            "der Schaufensterbummel",
+            "An der Kasse ist eine lange Schlange.",
+            "Wo finde ich die Milch?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The size",
+        "text_de": "die Größe",
+        "synonyms": [],
+        "description": "German word for 'The size'.",
+        "description_de": "Deutsches Wort für 'The size'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Laden schließt für immer.",
+            "Wo ist der nächste Supermarkt?",
+            "die Größe",
+            "Ich hätte gerne zwei Pfund Kartoffeln, bitte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The clothes",
+        "text_de": "die Kleidung",
+        "synonyms": [],
+        "description": "German word for 'The clothes'.",
+        "description_de": "Deutsches Wort für 'The clothes'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche frisches Obst und Gemüse.",
+            "Der Blumenladen hat wunderschöne Rosen.",
+            "der Schaufensterbummel",
+            "die Kleidung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to go shopping today.",
+        "text_de": "Ich muss heute einkaufen gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss heute einkaufen gehen.",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Der Wochenmarkt ist jeden Freitag.",
+            "die Kreditkarte"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the nearest supermarket?",
+        "text_de": "Wo ist der nächste Supermarkt?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist der nächste Supermarkt?",
+            "Der Baumarkt ist ziemlich weit weg.",
+            "Ich brauche auch noch Käse und Schinken.",
+            "die Größe"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I forgot my shopping list at home.",
+        "text_de": "Ich habe meinen Einkaufszettel zu Hause vergessen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe heute zu viel Geld ausgegeben.",
+            "Ich habe meinen Einkaufszettel zu Hause vergessen.",
+            "Ich schaue nur, danke.",
+            "Einkaufen kann sehr anstrengend sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have a shopping cart for me?",
+        "text_de": "Haben Sie einen Einkaufswagen für mich?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie sind aus echtem Leder.",
+            "die Kasse",
+            "Haben Sie einen Einkaufswagen für mich?",
+            "Dieses Hemd ist im Ausverkauf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The supermarket is open until 8 PM.",
+        "text_de": "Der Supermarkt ist bis 20 Uhr geöffnet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Supermarkt ist bis 20 Uhr geöffnet.",
+            "Wie viel kosten die Äpfel?",
+            "Wo ist die Umkleidekabine?",
+            "Diese Pfanne ist beschichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for fresh fruit and vegetables.",
+        "text_de": "Ich suche frisches Obst und Gemüse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist der nächste Supermarkt?",
+            "Ich suche frisches Obst und Gemüse.",
+            "Wo ist die Umkleidekabine?",
+            "Der Schlussverkauf beginnt nächste Woche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How much do the apples cost?",
+        "text_de": "Wie viel kosten die Äpfel?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo sind die Haushaltswaren?",
+            "Ich muss ein Paket bei der Post abholen.",
+            "das Kleingeld",
+            "Wie viel kosten die Äpfel?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "That's a very good price.",
+        "text_de": "Das ist ein sehr guter Preis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist ein echtes Schnäppchen!",
+            "Diese Schuhe sind sehr bequem zum Laufen.",
+            "Das ist ein sehr guter Preis.",
+            "Der Schlussverkauf beginnt nächste Woche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is this offer still valid?",
+        "text_de": "Ist dieses Angebot noch gültig?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich kontaktlos bezahlen?",
+            "Dieses Brot ist sehr frisch und lecker.",
+            "Ist dieses Angebot noch gültig?",
+            "Ich brauche Werkzeuge für den Garten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like two pounds of potatoes, please.",
+        "text_de": "Ich hätte gerne zwei Pfund Kartoffeln, bitte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles muss raus!",
+            "Das ist ein sehr guter Preis.",
+            "Ich hätte gerne zwei Pfund Kartoffeln, bitte.",
+            "das Kleingeld"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I find the milk?",
+        "text_de": "Wo finde ich die Milch?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sind das Energiesparlampen?",
+            "Ich hätte gerne zwei Pfund Kartoffeln, bitte.",
+            "der Supermarkt",
+            "Wo finde ich die Milch?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The milk is in the third aisle.",
+        "text_de": "Die Milch ist im dritten Gang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Lieferung wird morgen ankommen.",
+            "das Kleingeld",
+            "Haben Sie einen Einkaufswagen für mich?",
+            "Die Milch ist im dritten Gang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have whole grain bread?",
+        "text_de": "Haben Sie Vollkornbrot?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss ein Paket bei der Post abholen.",
+            "Sie sind aus echtem Leder.",
+            "Haben Sie Vollkornbrot?",
+            "Stimmt so."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This bread is very fresh and delicious.",
+        "text_de": "Dieses Brot ist sehr frisch und lecker.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss jetzt etwas Geld sparen.",
+            "Dieses Brot ist sehr frisch und lecker.",
+            "Alles ist um fünfzig Prozent reduziert.",
+            "Ich gehe zum Metzger für frisches Fleisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I also need some cheese and ham.",
+        "text_de": "Ich brauche auch noch Käse und Schinken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Online-Shopping ist sehr bequem.",
+            "Ich gehe gerne zum Schaufensterbummel in die Innenstadt.",
+            "Die Preise sind etwas höher, aber die Qualität ist besser.",
+            "Ich brauche auch noch Käse und Schinken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the cheese from the region?",
+        "text_de": "Ist der Käse aus der Region?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Baumarkt ist ziemlich weit weg.",
+            "Ist der Käse aus der Region?",
+            "der Supermarkt",
+            "Haben Sie Vollkornbrot?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer organic products.",
+        "text_de": "Ich bevorzuge Bio-Produkte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "An der Kasse ist eine lange Schlange.",
+            "Ich brauche Medikamente gegen meine Erkältung.",
+            "Ich bevorzuge Bio-Produkte.",
+            "Der Blumenladen hat wunderschöne Rosen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the frozen food section?",
+        "text_de": "Wo ist die Tiefkühl-Abteilung?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kreditkarte",
+            "Ich brauche Werkzeuge für den Garten.",
+            "Wo ist die Tiefkühl-Abteilung?",
+            "Wir akzeptieren hier nur Bargeld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need some frozen peas.",
+        "text_de": "Ich brauche Tiefkühlerbsen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche Tiefkühlerbsen.",
+            "die Kreditkarte",
+            "Wo ist die Tiefkühl-Abteilung?",
+            "Der Verkäufer war sehr hilfsbereit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I pay with credit card?",
+        "text_de": "Kann ich mit Kreditkarte bezahlen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich mit Kreditkarte bezahlen?",
+            "die Kleidung",
+            "das Angebot",
+            "Ich mag die Atmosphäre auf dem Markt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We only accept cash here.",
+        "text_de": "Wir akzeptieren hier nur Bargeld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Pfanne ist beschichtet.",
+            "Ich brauche auch noch Käse und Schinken.",
+            "Ist der Käse aus der Region?",
+            "Wir akzeptieren hier nur Bargeld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wait, I have enough change.",
+        "text_de": "Warten Sie, ich habe genug Kleingeld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Warten Sie, ich habe genug Kleingeld.",
+            "Ich habe heute zu viel Geld ausgegeben.",
+            "Ich hätte gerne zwei Pfund Kartoffeln, bitte.",
+            "Diese Schuhe sind sehr bequem zum Laufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please keep the change.",
+        "text_de": "Stimmt so.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kreditkarte",
+            "Ich möchte diese Jacke anprobieren.",
+            "der Kassenbon",
+            "Stimmt so."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a receipt for my purchase.",
+        "text_de": "Ich brauche einen Kassenbon für meinen Einkauf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche einen Kassenbon für meinen Einkauf.",
+            "Alles muss raus!",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Wo ist die nächste Buchhandlung?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I return this if it doesn't fit?",
+        "text_de": "Kann ich das zurückgeben, wenn es nicht passt?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kann ich das zurückgeben, wenn es nicht passt?",
+            "Ist dieses Angebot noch gültig?",
+            "Die Bäckerei um die Ecke hat die besten Brötchen.",
+            "Der Laden schließt für immer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please keep the receipt for returns.",
+        "text_de": "Bitte bewahren Sie den Bon für Rückgaben auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte bewahren Sie den Bon für Rückgaben auf.",
+            "Ich nehme sie!",
+            "der Kassenbon",
+            "der Schaufensterbummel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the changing room?",
+        "text_de": "Wo ist die Umkleidekabine?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "bezahlen",
+            "die Kreditkarte",
+            "Wo ist die Umkleidekabine?",
+            "Wo finde ich die Milch?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'd like to try on this jacket.",
+        "text_de": "Ich möchte diese Jacke anprobieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss ein Paket bei der Post abholen.",
+            "Die Lieferung wird morgen ankommen.",
+            "Ich möchte diese Jacke anprobieren.",
+            "Ich habe meinen Einkaufszettel zu Hause vergessen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have this in a larger size?",
+        "text_de": "Haben Sie das in einer größeren Größe?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles muss raus!",
+            "Haben Sie das in einer größeren Größe?",
+            "Der Schlussverkauf beginnt nächste Woche.",
+            "das Angebot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This size fits me perfectly.",
+        "text_de": "Diese Größe passt mir perfekt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kleidung",
+            "Kann ich kontaktlos bezahlen?",
+            "Diese Größe passt mir perfekt.",
+            "der Kunde"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The color is very nice.",
+        "text_de": "Die Farbe ist sehr schön.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo finde ich die Milch?",
+            "Ich brauche auch noch Glühbirnen.",
+            "Die Farbe ist sehr schön.",
+            "Das ist ein sehr guter Preis."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This shirt is on sale.",
+        "text_de": "Dieses Hemd ist im Ausverkauf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie das in einer größeren Größe?",
+            "der Kassenbon",
+            "Ist der Käse aus der Region?",
+            "Dieses Hemd ist im Ausverkauf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You get a 20 percent discount today.",
+        "text_de": "Sie erhalten heute zwanzig Prozent Rabatt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Größe passt mir perfekt.",
+            "Wie viel kosten die Äpfel?",
+            "Sind das Energiesparlampen?",
+            "Sie erhalten heute zwanzig Prozent Rabatt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "That's a real bargain!",
+        "text_de": "Das ist ein echtes Schnäppchen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das ist ein echtes Schnäppchen!",
+            "Die Apotheke ist während der Mittagszeit geöffnet.",
+            "der Einkaufszettel",
+            "Haben Sie das in einer größeren Größe?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm just looking, thank you.",
+        "text_de": "Ich schaue nur, danke.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Einkaufswagen",
+            "das Angebot",
+            "Ich schaue nur, danke.",
+            "Sind das Energiesparlampen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The salesperson was very helpful.",
+        "text_de": "Der Verkäufer war sehr hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist die nächste Buchhandlung?",
+            "Wir akzeptieren hier nur Bargeld.",
+            "Der Verkäufer war sehr hilfsbereit.",
+            "Können Sie das als Geschenk einpacken?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The department store is very crowded today.",
+        "text_de": "Das Kaufhaus ist heute sehr voll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Pfanne ist beschichtet.",
+            "Kann ich kontaktlos bezahlen?",
+            "Ist dieses Angebot noch gültig?",
+            "Das Kaufhaus ist heute sehr voll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is a long queue at the cash register.",
+        "text_de": "An der Kasse ist eine lange Schlange.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "An der Kasse ist eine lange Schlange.",
+            "Ich brauche Tiefkühlerbsen.",
+            "das Kaufhaus",
+            "Ich brauche auch noch Glühbirnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hate waiting at the checkout.",
+        "text_de": "Ich hasse es, an der Kasse zu warten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie erhalten heute zwanzig Prozent Rabatt.",
+            "der Einkaufszettel",
+            "Ich hasse es, an der Kasse zu warten.",
+            "Wo finde ich die Milch?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The store has a wide selection.",
+        "text_de": "Der Laden hat eine große Auswahl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diese Schuhe sind sehr bequem zum Laufen.",
+            "Ich brauche ein neues Paar Schuhe.",
+            "der Schaufensterbummel",
+            "Der Laden hat eine große Auswahl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to go window shopping in the city center.",
+        "text_de": "Ich gehe gerne zum Schaufensterbummel in die Innenstadt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Vollkornbrot?",
+            "der Preis",
+            "Das Kaufhaus ist heute sehr voll.",
+            "Ich gehe gerne zum Schaufensterbummel in die Innenstadt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Shopping online is very convenient.",
+        "text_de": "Online-Shopping ist sehr bequem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe gerne zum Schaufensterbummel in die Innenstadt.",
+            "Online-Shopping ist sehr bequem.",
+            "der Verkäufer",
+            "der Supermarkt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I ordered a new laptop yesterday.",
+        "text_de": "Ich habe gestern einen neuen Laptop bestellt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin froh, jetzt zu Hause zu sein.",
+            "Wo ist die Tiefkühl-Abteilung?",
+            "Die Preise sind etwas höher, aber die Qualität ist besser.",
+            "Ich habe gestern einen neuen Laptop bestellt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The delivery will arrive tomorrow.",
+        "text_de": "Die Lieferung wird morgen ankommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie erhalten heute zwanzig Prozent Rabatt.",
+            "Die Lieferung wird morgen ankommen.",
+            "Wo ist die Umkleidekabine?",
+            "Können Sie das als Geschenk einpacken?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to pick up a package at the post office.",
+        "text_de": "Ich muss ein Paket bei der Post abholen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte diese Jacke anprobieren.",
+            "Wo ist der nächste Supermarkt?",
+            "Ich muss ein Paket bei der Post abholen.",
+            "die Kleidung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bakery around the corner has the best rolls.",
+        "text_de": "Die Bäckerei um die Ecke hat die besten Brötchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bäckerei um die Ecke hat die besten Brötchen.",
+            "Die Apotheke ist während der Mittagszeit geöffnet.",
+            "Haben Sie das in einer größeren Größe?",
+            "Ich warte auf die Rabatte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go to the butcher for fresh meat.",
+        "text_de": "Ich gehe zum Metzger für frisches Fleisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Preis",
+            "Ich gehe zum Metzger für frisches Fleisch.",
+            "Der Blumenladen hat wunderschöne Rosen.",
+            "Ich brauche auch noch Glühbirnen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The pharmacy is open during lunchtime.",
+        "text_de": "Die Apotheke ist während der Mittagszeit geöffnet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Apotheke ist während der Mittagszeit geöffnet.",
+            "Haben Sie das in einer größeren Größe?",
+            "der Kassenbon",
+            "Ist dieses Angebot noch gültig?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need some medicine for my cold.",
+        "text_de": "Ich brauche Medikamente gegen meine Erkältung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche Medikamente gegen meine Erkältung.",
+            "Haben Sie Vollkornbrot?",
+            "Sie sind aus echtem Leder.",
+            "Der Supermarkt ist bis 20 Uhr geöffnet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the nearest bookstore?",
+        "text_de": "Wo ist die nächste Buchhandlung?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist die nächste Buchhandlung?",
+            "Haben Sie das in einer größeren Größe?",
+            "Ich brauche ein neues Paar Schuhe.",
+            "das Angebot"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a gift for a friend.",
+        "text_de": "Ich suche ein Geschenk für einen Freund.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kreditkarte",
+            "Ich bin froh, jetzt zu Hause zu sein.",
+            "Ich suche ein Geschenk für einen Freund.",
+            "Dieses Brot ist sehr frisch und lecker."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The florist has beautiful roses.",
+        "text_de": "Der Blumenladen hat wunderschöne Rosen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Blumenladen hat wunderschöne Rosen.",
+            "Der Laden schließt für immer.",
+            "Ich brauche ein neues Paar Schuhe.",
+            "Diese Schuhe sind sehr bequem zum Laufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you wrap this as a gift?",
+        "text_de": "Können Sie das als Geschenk einpacken?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir akzeptieren hier nur Bargeld.",
+            "Können Sie das als Geschenk einpacken?",
+            "das Fachgeschäft",
+            "Ich gehe zum Metzger für frisches Fleisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Weekly Market is every Friday.",
+        "text_de": "Der Wochenmarkt ist jeden Freitag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Wochenmarkt ist jeden Freitag.",
+            "Das ist ein sehr guter Preis.",
+            "der Preis",
+            "der Rabatt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like the atmosphere at the market.",
+        "text_de": "Ich mag die Atmosphäre auf dem Markt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie Vollkornbrot?",
+            "Online-Shopping ist sehr bequem.",
+            "der Schaufensterbummel",
+            "Ich mag die Atmosphäre auf dem Markt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The prices are slightly higher but the quality is better.",
+        "text_de": "Die Preise sind etwas höher, aber die Qualität ist besser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie einen Einkaufswagen für mich?",
+            "Die Milch ist im dritten Gang.",
+            "Einkaufen kann sehr anstrengend sein.",
+            "Die Preise sind etwas höher, aber die Qualität ist besser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new pair of shoes.",
+        "text_de": "Ich brauche ein neues Paar Schuhe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche ein neues Paar Schuhe.",
+            "Ich brauche Tiefkühlerbsen.",
+            "Der Verkäufer war sehr hilfsbereit.",
+            "Ich brauche eine neue Bratpfanne."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "These shoes are very comfortable for walking.",
+        "text_de": "Diese Schuhe sind sehr bequem zum Laufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe gestern einen neuen Laptop bestellt.",
+            "Ich bin froh, jetzt zu Hause zu sein.",
+            "Die Bäckerei um die Ecke hat die besten Brötchen.",
+            "Diese Schuhe sind sehr bequem zum Laufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "They are made of real leather.",
+        "text_de": "Sie sind aus echtem Leder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie sind aus echtem Leder.",
+            "Ich brauche einen Kassenbon für meinen Einkauf.",
+            "die Kasse",
+            "Wir akzeptieren hier nur Bargeld."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sole is non-slip.",
+        "text_de": "Die Sohle ist rutschfest.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kasse",
+            "Der Baumarkt ist ziemlich weit weg.",
+            "Die Sohle ist rutschfest.",
+            "Ich habe gestern einen neuen Laptop bestellt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll take them!",
+        "text_de": "Ich nehme sie!",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie einen Einkaufswagen für mich?",
+            "der Rabatt",
+            "Kann ich mit Kreditkarte bezahlen?",
+            "Ich nehme sie!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I pay contactless?",
+        "text_de": "Kann ich kontaktlos bezahlen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Schlussverkauf beginnt nächste Woche.",
+            "der Supermarkt",
+            "Kann ich kontaktlos bezahlen?",
+            "Haben Sie einen Einkaufswagen für mich?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The battery of my scale is empty.",
+        "text_de": "Die Batterie meiner Waage ist leer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Batterie meiner Waage ist leer.",
+            "der Einkaufswagen",
+            "Ich muss jetzt etwas Geld sparen.",
+            "Alles muss raus!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to buy new batteries.",
+        "text_de": "Ich muss neue Batterien kaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss neue Batterien kaufen.",
+            "Die Apotheke ist während der Mittagszeit geöffnet.",
+            "Haben Sie Vollkornbrot?",
+            "Ich schaue nur, danke."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where are the household goods?",
+        "text_de": "Wo sind die Haushaltswaren?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo sind die Haushaltswaren?",
+            "Haben Sie Vollkornbrot?",
+            "Der Wochenmarkt ist jeden Freitag.",
+            "der Kassenbon"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new frying pan.",
+        "text_de": "Ich brauche eine neue Bratpfanne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine neue Bratpfanne.",
+            "kosten",
+            "Die Lieferung wird morgen ankommen.",
+            "Ich habe gestern einen neuen Laptop bestellt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "This pan is non-stick.",
+        "text_de": "Diese Pfanne ist beschichtet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zum Metzger für frisches Fleisch.",
+            "Der Wochenmarkt ist jeden Freitag.",
+            "Ich muss jetzt etwas Geld sparen.",
+            "Diese Pfanne ist beschichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I also need some light bulbs.",
+        "text_de": "Ich brauche auch noch Glühbirnen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche auch noch Glühbirnen.",
+            "die Kreditkarte",
+            "Ich suche frisches Obst und Gemüse.",
+            "Der Laden schließt für immer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are these energy-saving lamps?",
+        "text_de": "Sind das Energiesparlampen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe gerne zum Schaufensterbummel in die Innenstadt.",
+            "Ich habe heute zu viel Geld ausgegeben.",
+            "Sind das Energiesparlampen?",
+            "Die Apotheke ist während der Mittagszeit geöffnet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hardware store is quite far away.",
+        "text_de": "Der Baumarkt ist ziemlich weit weg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Baumarkt ist ziemlich weit weg.",
+            "Das ist ein echtes Schnäppchen!",
+            "der Schaufensterbummel",
+            "Ich habe gestern einen neuen Laptop bestellt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need some tools for the garden.",
+        "text_de": "Ich brauche Werkzeuge für den Garten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kunde",
+            "Ich brauche Werkzeuge für den Garten.",
+            "Einkaufen kann sehr anstrengend sein.",
+            "Wo ist die nächste Buchhandlung?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sales are starting next week.",
+        "text_de": "Der Schlussverkauf beginnt nächste Woche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Farbe ist sehr schön.",
+            "Der Schlussverkauf beginnt nächste Woche.",
+            "Ich muss jetzt etwas Geld sparen.",
+            "Haben Sie einen Einkaufswagen für mich?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm waiting for the discounts.",
+        "text_de": "Ich warte auf die Rabatte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich warte auf die Rabatte.",
+            "Ich hätte gerne zwei Pfund Kartoffeln, bitte.",
+            "Bitte bewahren Sie den Bon für Rückgaben auf.",
+            "Ich muss ein Paket bei der Post abholen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything is 50 percent off.",
+        "text_de": "Alles ist um fünfzig Prozent reduziert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles ist um fünfzig Prozent reduziert.",
+            "die Kleidung",
+            "Die Lieferung wird morgen ankommen.",
+            "Diese Größe passt mir perfekt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The shop is closing forever.",
+        "text_de": "Der Laden schließt für immer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Laden schließt für immer.",
+            "Wir akzeptieren hier nur Bargeld.",
+            "Kann ich das zurückgeben, wenn es nicht passt?",
+            "Der Wochenmarkt ist jeden Freitag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything must go!",
+        "text_de": "Alles muss raus!",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss heute einkaufen gehen.",
+            "Alles ist um fünfzig Prozent reduziert.",
+            "Alles muss raus!",
+            "der Kassenbon"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I spent too much money today.",
+        "text_de": "Ich habe heute zu viel Geld ausgegeben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte diese Jacke anprobieren.",
+            "die Kreditkarte",
+            "Die Bäckerei um die Ecke hat die besten Brötchen.",
+            "Ich habe heute zu viel Geld ausgegeben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to save some money now.",
+        "text_de": "Ich muss jetzt etwas Geld sparen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles ist um fünfzig Prozent reduziert.",
+            "Wo ist die Tiefkühl-Abteilung?",
+            "Ich muss jetzt etwas Geld sparen.",
+            "Diese Pfanne ist beschichtet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Shopping can be very exhausting.",
+        "text_de": "Einkaufen kann sehr anstrengend sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einkaufen kann sehr anstrengend sein.",
+            "Die Lieferung wird morgen ankommen.",
+            "Kann ich das zurückgeben, wenn es nicht passt?",
+            "Ich nehme sie!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm glad to be home now.",
+        "text_de": "Ich bin froh, jetzt zu Hause zu sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Shopping'.",
+        "description_de": "Beispielsatz für 'Shopping'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin froh, jetzt zu Hause zu sein.",
+            "Das ist ein echtes Schnäppchen!",
+            "Haben Sie das in einer größeren Größe?",
+            "Ich brauche Tiefkühlerbsen."
+        ]
+    }
+]

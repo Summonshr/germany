@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The culture",
+        "text_de": "die Kultur",
+        "synonyms": [],
+        "description": "German word for 'The culture'.",
+        "description_de": "Deutsches Wort für 'The culture'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kultur",
+            "Literatur kann dich in eine andere Welt versetzen.",
+            "Das Fest endete mit einem Feuerwerk.",
+            "Skulpturen bestehen oft aus Stein oder Metall."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The art",
+        "text_de": "die Kunst",
+        "synonyms": [],
+        "description": "German word for 'The art'.",
+        "description_de": "Deutsches Wort für 'The art'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Glasbläserei ist ein faszinierendes Handwerk.",
+            "die Kunst",
+            "Zu Feiertagen werden traditionelle Kostüme getragen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The artist",
+        "text_de": "der Künstler",
+        "synonyms": [],
+        "description": "German word for 'The artist'.",
+        "description_de": "Deutsches Wort für 'The artist'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Künstler",
+            "Jede Region hat ihre eigenen Traditionen.",
+            "besuchen",
+            "Das Naturkundemuseum ist toll für Kinder."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The museum",
+        "text_de": "das Museum",
+        "synonyms": [],
+        "description": "German word for 'The museum'.",
+        "description_de": "Deutsches Wort für 'The museum'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "Lokale Legenden sind Teil unserer Identität.",
+            "Ich besuche am Wochenende gerne Kunstmuseen.",
+            "das Museum"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The gallery",
+        "text_de": "die Galerie",
+        "synonyms": [],
+        "description": "German word for 'The gallery'.",
+        "description_de": "Deutsches Wort für 'The gallery'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Galerie",
+            "Jede Region hat ihre eigenen Traditionen.",
+            "Live-Musik ist besser als Aufnahmen.",
+            "Die Galerie zeigt zeitgenössische Kunst."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The exhibition",
+        "text_de": "die Ausstellung",
+        "synonyms": [],
+        "description": "German word for 'The exhibition'.",
+        "description_de": "Deutsches Wort für 'The exhibition'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kultur bereichert unser Leben.",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "die Ausstellung",
+            "Ich freue mich auf das nächste Filmfestival."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The painting",
+        "text_de": "das Gemälde",
+        "synonyms": [],
+        "description": "German word for 'The painting'.",
+        "description_de": "Deutsches Wort für 'The painting'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Stadt ist berühmt für ihr Musikfestival.",
+            "Literatur kann dich in eine andere Welt versetzen.",
+            "das Gemälde",
+            "Der Künstler erklärte sein Werk in einem Vortrag."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The sculpture",
+        "text_de": "die Skulptur",
+        "synonyms": [],
+        "description": "German word for 'The sculpture'.",
+        "description_de": "Deutsches Wort für 'The sculpture'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "besuchen",
+            "Ich habe während meiner Reise nach Berlin eine Galerie besucht.",
+            "Das Konzert war komplett ausverkauft.",
+            "die Skulptur"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The music",
+        "text_de": "die Musik",
+        "synonyms": [],
+        "description": "German word for 'The music'.",
+        "description_de": "Deutsches Wort für 'The music'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Musik",
+            "Ich besuche am Wochenende gerne Kunstmuseen.",
+            "Ich habe eine Kopie des Ausstellungskatalogs gekauft.",
+            "Der Eintrittspreis beträgt zehn Euro."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The literature",
+        "text_de": "die Literatur",
+        "synonyms": [],
+        "description": "German word for 'The literature'.",
+        "description_de": "Deutsches Wort für 'The literature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Galerie zeigt zeitgenössische Kunst.",
+            "die Literatur",
+            "das Theater",
+            "die Galerie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The theater",
+        "text_de": "das Theater",
+        "synonyms": [],
+        "description": "German word for 'The theater'.",
+        "description_de": "Deutsches Wort für 'The theater'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Feste bringen Menschen zusammen.",
+            "Ich liebe es, Ballettvorführungen zu sehen.",
+            "das Theater",
+            "Ich bin ein großer Jazz-Fan."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cinema",
+        "text_de": "das Kino",
+        "synonyms": [],
+        "description": "German word for 'The cinema'.",
+        "description_de": "Deutsches Wort für 'The cinema'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Kino",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "Kunst ist eine universelle Sprache.",
+            "Ich male gerne mit Aquarellfarben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The tradition",
+        "text_de": "die Tradition",
+        "synonyms": [],
+        "description": "German word for 'The tradition'.",
+        "description_de": "Deutsches Wort für 'The tradition'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Galerie zeigt zeitgenössische Kunst.",
+            "die Tradition",
+            "Kunst fordert unsere Wahrnehmung heraus.",
+            "Kino ist eine beliebte Form der Unterhaltung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The custom",
+        "text_de": "der Brauch",
+        "synonyms": [],
+        "description": "German word for 'The custom'.",
+        "description_de": "Deutsches Wort für 'The custom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für antike Zivilisationen.",
+            "der Brauch",
+            "Glasbläserei ist ein faszinierendes Handwerk.",
+            "Kunstunterricht beginnt in der Grundschule."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The heritage",
+        "text_de": "das Erbe",
+        "synonyms": [],
+        "description": "German word for 'The heritage'.",
+        "description_de": "Deutsches Wort für 'The heritage'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunstunterricht beginnt in der Grundschule.",
+            "das Erbe",
+            "Jeder hat eine kreative Ader.",
+            "Das Naturkundemuseum ist toll für Kinder."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The festival",
+        "text_de": "das Fest",
+        "synonyms": [],
+        "description": "German word for 'The festival'.",
+        "description_de": "Deutsches Wort für 'The festival'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Fest",
+            "Die Bibliothek hat seltene Manuskripte.",
+            "Feste bringen Menschen zusammen.",
+            "Literatur kann dich in eine andere Welt versetzen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The performance",
+        "text_de": "die Aufführung",
+        "synonyms": [],
+        "description": "German word for 'The performance'.",
+        "description_de": "Deutsches Wort für 'The performance'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Museum hat eine große Sammlung von Artefakten.",
+            "die Aufführung",
+            "Vielfalt ist eine Stärke unserer Gesellschaft.",
+            "Die Bibliothek hat seltene Manuskripte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To create",
+        "text_de": "erschaffen",
+        "synonyms": [],
+        "description": "German word for 'To create'.",
+        "description_de": "Deutsches Wort für 'To create'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Bibliothek hat seltene Manuskripte.",
+            "Die Geschichte der Stadt ist sehr interessant.",
+            "erschaffen",
+            "Fotografie ist eine moderne Kunstform."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To paint",
+        "text_de": "malen",
+        "synonyms": [],
+        "description": "German word for 'To paint'.",
+        "description_de": "Deutsches Wort für 'To paint'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "malen",
+            "Folklore erzählt Geschichten aus der Vergangenheit.",
+            "Schattentheater nutzt Puppen und Licht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To visit",
+        "text_de": "besuchen",
+        "synonyms": [],
+        "description": "German word for 'To visit'.",
+        "description_de": "Deutsches Wort für 'To visit'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder hat eine kreative Ader.",
+            "Die Aufführung beginnt um zwanzig Uhr.",
+            "Das Gemälde stammt aus dem neunzehnten Jahrhundert.",
+            "besuchen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Culture enriches our lives.",
+        "text_de": "Kultur bereichert unser Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Handwerk wird für seine Qualität geschätzt.",
+            "Das Museum hat eine große Sammlung von Artefakten.",
+            "das Theater",
+            "Kultur bereichert unser Leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is a very famous artist in Germany.",
+        "text_de": "Er ist ein sehr berühmter Künstler in Deutschland.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Goethe ist ein berühmter deutscher Schriftsteller.",
+            "Fotografie ist eine moderne Kunstform.",
+            "Er ist ein sehr berühmter Künstler in Deutschland.",
+            "Ich interessiere mich für antike Zivilisationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like visiting art museums on weekends.",
+        "text_de": "Ich besuche am Wochenende gerne Kunstmuseen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gedichte lesen ist sehr beruhigend.",
+            "Ich besuche am Wochenende gerne Kunstmuseen.",
+            "Von der UNESCO geschützte Sehenswürdigkeiten sind weltweit berühmt.",
+            "Wer ist dein Lieblingsautor?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The gallery displays contemporary art.",
+        "text_de": "Die Galerie zeigt zeitgenössische Kunst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kultur bereichert unser Leben.",
+            "Führungen werden jede Stunde angeboten.",
+            "Die Galerie zeigt zeitgenössische Kunst.",
+            "Fotografie ist eine moderne Kunstform."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Did you see the new exhibition at the museum?",
+        "text_de": "Hast du die neue Ausstellung im Museum gesehen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin ein großer Jazz-Fan.",
+            "malen",
+            "Hast du die neue Ausstellung im Museum gesehen?",
+            "Sie erschafft wunderschönen Schmuck von Hand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The painting is from the 19th century.",
+        "text_de": "Das Gemälde stammt aus dem neunzehnten Jahrhundert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "Das Gemälde stammt aus dem neunzehnten Jahrhundert.",
+            "Lokale Legenden sind Teil unserer Identität.",
+            "Skulpturen bestehen oft aus Stein oder Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sculptures are often made of stone or metal.",
+        "text_de": "Skulpturen bestehen oft aus Stein oder Metall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mode ist ein Spiegelbild der Kultur.",
+            "malen",
+            "die Skulptur",
+            "Skulpturen bestehen oft aus Stein oder Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Classical music is very popular in Germany.",
+        "text_de": "Klassische Musik ist in Deutschland sehr beliebt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Archäologie hilft uns, die Vergangenheit zu entdecken.",
+            "das Gemälde",
+            "Klassische Musik ist in Deutschland sehr beliebt.",
+            "Zu Feiertagen werden traditionelle Kostüme getragen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Great literature broadens the mind.",
+        "text_de": "Großartige Literatur erweitert den Horizont.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für antike Zivilisationen.",
+            "Großartige Literatur erweitert den Horizont.",
+            "Moderne Kunst kann schwer zu verstehen sein.",
+            "Hast du die neue Ausstellung im Museum gesehen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's go to the theater tonight.",
+        "text_de": "Lass uns heute Abend ins Theater gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Erbe",
+            "Lass uns heute Abend ins Theater gehen.",
+            "Designer erschaffen funktionale und schöne Objekte.",
+            "Beethoven komponierte viele berühmte Sinfonien."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cinema is a popular form of entertainment.",
+        "text_de": "Kino ist eine beliebte Form der Unterhaltung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kino ist eine beliebte Form der Unterhaltung.",
+            "das Erbe",
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Schattentheater nutzt Puppen und Licht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Each region has its own traditions.",
+        "text_de": "Jede Region hat ihre eigenen Traditionen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jede Region hat ihre eigenen Traditionen.",
+            "Kultureller Austausch führt zu besserem Verständnis.",
+            "das Theater",
+            "Traditionelle Tänze werden über Generationen weitergegeben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are the local customs here?",
+        "text_de": "Was sind die lokalen Bräuche hier?",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was sind die lokalen Bräuche hier?",
+            "der Brauch",
+            "Folklore erzählt Geschichten aus der Vergangenheit.",
+            "Moderne Kunst kann schwer zu verstehen sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cultural heritage must be preserved.",
+        "text_de": "Das kulturelle Erbe muss bewahrt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns heute Abend ins Theater gehen.",
+            "Das kulturelle Erbe muss bewahrt werden.",
+            "Die Atmosphäre beim Karneval war toll.",
+            "das Gemälde"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The city is famous for its music festival.",
+        "text_de": "Die Stadt ist berühmt für ihr Musikfestival.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist ein sehr berühmter Künstler in Deutschland.",
+            "Archäologie hilft uns, die Vergangenheit zu entdecken.",
+            "der Künstler",
+            "Die Stadt ist berühmt für ihr Musikfestival."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The performance starts at eight PM.",
+        "text_de": "Die Aufführung beginnt um zwanzig Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Graffiti ist umstritten, aber oft kreativ.",
+            "Das Gemälde stammt aus dem neunzehnten Jahrhundert.",
+            "Die Aufführung beginnt um zwanzig Uhr.",
+            "die Kultur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature can be a source of inspiration for art.",
+        "text_de": "Die Natur kann eine Quelle der Inspiration für die Kunst sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "Die Natur kann eine Quelle der Inspiration für die Kunst sein.",
+            "Kreativität ist der Motor der Innovation.",
+            "Er ist ein sehr berühmter Künstler in Deutschland."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She creates beautiful jewelry by hand.",
+        "text_de": "Sie erschafft wunderschönen Schmuck von Hand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie erschafft wunderschönen Schmuck von Hand.",
+            "das Theater",
+            "Der Töpfer arbeitet mit Ton auf einer Scheibe.",
+            "Handwerk wird für seine Qualität geschätzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like to paint with watercolors.",
+        "text_de": "Ich male gerne mit Aquarellfarben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er ist ein sehr berühmter Künstler in Deutschland.",
+            "Ich male gerne mit Aquarellfarben.",
+            "das Museum",
+            "Moderne Kunst kann schwer zu verstehen sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I visited a gallery during my trip to Berlin.",
+        "text_de": "Ich habe während meiner Reise nach Berlin eine Galerie besucht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Atmosphäre beim Karneval war toll.",
+            "Literatur kann dich in eine andere Welt versetzen.",
+            "die Musik",
+            "Ich habe während meiner Reise nach Berlin eine Galerie besucht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Modern art can be difficult to understand.",
+        "text_de": "Moderne Kunst kann schwer zu verstehen sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielfalt ist eine Stärke unserer Gesellschaft.",
+            "Kunst fordert unsere Wahrnehmung heraus.",
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Moderne Kunst kann schwer zu verstehen sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Abstract paintings often use bright colors.",
+        "text_de": " Abstrakte Gemälde verwenden oft leuchtende Farben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            " Abstrakte Gemälde verwenden oft leuchtende Farben.",
+            "erschaffen",
+            "Ich habe während meiner Reise nach Berlin eine Galerie besucht.",
+            "Gedichte lesen ist sehr beruhigend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The museum has a large collection of artifacts.",
+        "text_de": "Das Museum hat eine große Sammlung von Artefakten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder hat eine kreative Ader.",
+            "Kultur bereichert unser Leben.",
+            "Wer ist dein Lieblingsautor?",
+            "Das Museum hat eine große Sammlung von Artefakten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The entry fee is ten euros.",
+        "text_de": "Der Eintrittspreis beträgt zehn Euro.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klavierunterricht erfordert viel Übung.",
+            "Der Eintrittspreis beträgt zehn Euro.",
+            "erschaffen",
+            "Kunstunterricht beginnt in der Grundschule."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Guided tours are available every hour.",
+        "text_de": "Führungen werden jede Stunde angeboten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schattentheater nutzt Puppen und Licht.",
+            "Führungen werden jede Stunde angeboten.",
+            "Das Konzert war komplett ausverkauft.",
+            "Lass uns heute Abend ins Theater gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't touch the artworks, please.",
+        "text_de": "Bitte berühren Sie die Kunstwerke nicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Theater",
+            "Bitte berühren Sie die Kunstwerke nicht.",
+            "Ich interessiere mich für antike Zivilisationen.",
+            "Vielfalt ist eine Stärke unserer Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Opera is a combination of music and drama.",
+        "text_de": "Oper ist eine Kombination aus Musik und Drama.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Hab keine Angst davor, dich durch Kunst auszudrücken.",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "Oper ist eine Kombination aus Musik und Drama."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love watching ballet performances.",
+        "text_de": "Ich liebe es, Ballettvorführungen zu sehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, Ballettvorführungen zu sehen.",
+            "Feste bringen Menschen zusammen.",
+            "Ich habe während meiner Reise nach Berlin eine Galerie besucht.",
+            "Die Atmosphäre beim Karneval war toll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The architecture of this building is unique.",
+        "text_de": "Die Architektur dieses Gebäudes ist einzigartig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schattentheater nutzt Puppen und Licht.",
+            "Kreativität ist der Motor der Innovation.",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "Die Architektur dieses Gebäudes ist einzigartig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Photography is a modern form of art.",
+        "text_de": "Fotografie ist eine moderne Kunstform.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer ist dein Lieblingsautor?",
+            "Designer erschaffen funktionale und schöne Objekte.",
+            "Die Natur kann eine Quelle der Inspiration für die Kunst sein.",
+            "Fotografie ist eine moderne Kunstform."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought a copy of the exhibition catalog.",
+        "text_de": "Ich habe eine Kopie des Ausstellungskatalogs gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lokale Legenden sind Teil unserer Identität.",
+            "Das kulturelle Erbe muss bewahrt werden.",
+            "die Literatur",
+            "Ich habe eine Kopie des Ausstellungskatalogs gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The artist explained his work in a lecture.",
+        "text_de": "Der Künstler erklärte sein Werk in einem Vortrag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Folklore erzählt Geschichten aus der Vergangenheit.",
+            "Der Künstler erklärte sein Werk in einem Vortrag.",
+            "Live-Musik ist besser als Aufnahmen.",
+            "Das kulturelle Erbe muss bewahrt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Folklore tells stories of the past.",
+        "text_de": "Folklore erzählt Geschichten aus der Vergangenheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf das nächste Filmfestival.",
+            "Folklore erzählt Geschichten aus der Vergangenheit.",
+            "Moderne Kunst kann schwer zu verstehen sein.",
+            "Ich interessiere mich für antike Zivilisationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Local legends are part of our identity.",
+        "text_de": "Lokale Legenden sind Teil unserer Identität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "malen",
+            "Die Geschichte der Stadt ist sehr interessant.",
+            "Lokale Legenden sind Teil unserer Identität.",
+            "die Kultur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Festivals bring people together.",
+        "text_de": "Feste bringen Menschen zusammen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ausstellung",
+            "Kino ist eine beliebte Form der Unterhaltung.",
+            "Die Geschichte der Stadt ist sehr interessant.",
+            "Feste bringen Menschen zusammen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The atmosphere at the carnival was great.",
+        "text_de": "Die Atmosphäre beim Karneval war toll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moderne Kunst kann schwer zu verstehen sein.",
+            "Das kulturelle Erbe muss bewahrt werden.",
+            "Skulpturen bestehen oft aus Stein oder Metall.",
+            "Die Atmosphäre beim Karneval war toll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Traditional costumes are worn on holidays.",
+        "text_de": "Zu Feiertagen werden traditionelle Kostüme getragen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moderne Kunst kann schwer zu verstehen sein.",
+            "Zu Feiertagen werden traditionelle Kostüme getragen.",
+            "Sie erschafft wunderschönen Schmuck von Hand.",
+            "Holzschnitzerei hat hier eine lange Tradition."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The history of the city is very interesting.",
+        "text_de": "Die Geschichte der Stadt ist sehr interessant.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Geschichte der Stadt ist sehr interessant.",
+            "Designer erschaffen funktionale und schöne Objekte.",
+            "Die Aufführung beginnt um zwanzig Uhr.",
+            "malen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "UNESCO protected sights are worldwide famous.",
+        "text_de": "Von der UNESCO geschützte Sehenswürdigkeiten sind weltweit berühmt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Literatur kann dich in eine andere Welt versetzen.",
+            "Tanzen ist gut für Körper und Seele.",
+            "Mode ist ein Spiegelbild der Kultur.",
+            "Von der UNESCO geschützte Sehenswürdigkeiten sind weltweit berühmt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cultural exchange leads to better understanding.",
+        "text_de": "Kultureller Austausch führt zu besserem Verständnis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, Ballettvorführungen zu sehen.",
+            "Schattentheater nutzt Puppen und Licht.",
+            "Kultureller Austausch führt zu besserem Verständnis.",
+            "Archäologie hilft uns, die Vergangenheit zu entdecken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Diversity is a strength of our society.",
+        "text_de": "Vielfalt ist eine Stärke unserer Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glasbläserei ist ein faszinierendes Handwerk.",
+            "Vielfalt ist eine Stärke unserer Gesellschaft.",
+            "Die Geige hat einen sehr ergreifenden Klang.",
+            "Sie erschafft wunderschönen Schmuck von Hand."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in ancient civilizations.",
+        "text_de": "Ich interessiere mich für antike Zivilisationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Live-Musik ist besser als Aufnahmen.",
+            "Ich interessiere mich für antike Zivilisationen.",
+            "der Brauch"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Archaeology helps us discover the past.",
+        "text_de": "Archäologie hilft uns, die Vergangenheit zu entdecken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, Ballettvorführungen zu sehen.",
+            "Archäologie hilft uns, die Vergangenheit zu entdecken.",
+            "Sie erschafft wunderschönen Schmuck von Hand.",
+            "Oper ist eine Kombination aus Musik und Drama."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The library has rare manuscripts.",
+        "text_de": "Die Bibliothek hat seltene Manuskripte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Geschichte der Stadt ist sehr interessant.",
+            "Die Bibliothek hat seltene Manuskripte.",
+            "Kunst ist eine universelle Sprache.",
+            "Die Natur kann eine Quelle der Inspiration für die Kunst sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reading poetry is very calming.",
+        "text_de": "Gedichte lesen ist sehr beruhigend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Stadt ist berühmt für ihr Musikfestival.",
+            "Zu Feiertagen werden traditionelle Kostüme getragen.",
+            "Gedichte lesen ist sehr beruhigend.",
+            "Ich liebe den Geruch von altem Papier im Archiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who is your favorite author?",
+        "text_de": "Wer ist dein Lieblingsautor?",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tradition",
+            "Lass uns heute Abend ins Theater gehen.",
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Wer ist dein Lieblingsautor?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Goethe is a famous German writer.",
+        "text_de": "Goethe ist ein berühmter deutscher Schriftsteller.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für antike Zivilisationen.",
+            "Der Künstler erklärte sein Werk in einem Vortrag.",
+            "Goethe ist ein berühmter deutscher Schriftsteller.",
+            "Ich liebe es, Ballettvorführungen zu sehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Beethoven composed many famous symphonies.",
+        "text_de": "Beethoven komponierte viele berühmte Sinfonien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Beethoven komponierte viele berühmte Sinfonien.",
+            "Erkunde weiter die Künste!",
+            "Ich male gerne mit Aquarellfarben.",
+            "Schattentheater nutzt Puppen und Licht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The violin has a very soul-stirring sound.",
+        "text_de": "Die Geige hat einen sehr ergreifenden Klang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Von der UNESCO geschützte Sehenswürdigkeiten sind weltweit berühmt.",
+            "die Kultur",
+            "Die Geige hat einen sehr ergreifenden Klang.",
+            "die Ausstellung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Piano lessons require a lot of practice.",
+        "text_de": "Klavierunterricht erfordert viel Übung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klavierunterricht erfordert viel Übung.",
+            "Jeder hat eine kreative Ader.",
+            "Das kulturelle Erbe muss bewahrt werden.",
+            "Das Fest endete mit einem Feuerwerk."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Street art can brighten up the city.",
+        "text_de": "Street Art kann die Stadt verschönern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kino ist eine beliebte Form der Unterhaltung.",
+            "Beethoven komponierte viele berühmte Sinfonien.",
+            "Wer ist dein Lieblingsautor?",
+            "Street Art kann die Stadt verschönern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Graffiti is controversial but often creative.",
+        "text_de": "Graffiti ist umstritten, aber oft kreativ.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kino ist eine beliebte Form der Unterhaltung.",
+            "die Musik",
+            "Graffiti ist umstritten, aber oft kreativ.",
+            "Die Geschichte der Stadt ist sehr interessant."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Designers create functional and beautiful objects.",
+        "text_de": "Designer erschaffen funktionale und schöne Objekte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "erschaffen",
+            "Archäologie hilft uns, die Vergangenheit zu entdecken.",
+            "Das Naturkundemuseum ist toll für Kinder.",
+            "Designer erschaffen funktionale und schöne Objekte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fashion is a reflection of culture.",
+        "text_de": "Mode ist ein Spiegelbild der Kultur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte berühren Sie die Kunstwerke nicht.",
+            "Klassische Musik ist in Deutschland sehr beliebt.",
+            "Mode ist ein Spiegelbild der Kultur.",
+            "Toleranz ist die Basis des interkulturellen Dialogs."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Handicrafts are valued for their quality.",
+        "text_de": "Handwerk wird für seine Qualität geschätzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Museum hat eine große Sammlung von Artefakten.",
+            "Handwerk wird für seine Qualität geschätzt.",
+            "Ich habe während meiner Reise nach Berlin eine Galerie besucht.",
+            "Mode ist ein Spiegelbild der Kultur."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The potter works with clay on a wheel.",
+        "text_de": "Der Töpfer arbeitet mit Ton auf einer Scheibe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder hat eine kreative Ader.",
+            "das Gemälde",
+            "Die Stadt ist berühmt für ihr Musikfestival.",
+            "Der Töpfer arbeitet mit Ton auf einer Scheibe."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Glassblowing is a fascinating craft.",
+        "text_de": "Glasbläserei ist ein faszinierendes Handwerk.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ausstellung",
+            "Ich male gerne mit Aquarellfarben.",
+            "Street Art kann die Stadt verschönern.",
+            "Glasbläserei ist ein faszinierendes Handwerk."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wood carving has a long tradition here.",
+        "text_de": "Holzschnitzerei hat hier eine lange Tradition.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für antike Zivilisationen.",
+            "Das Fest endete mit einem Feuerwerk.",
+            "Holzschnitzerei hat hier eine lange Tradition.",
+            "Kultureller Austausch führt zu besserem Verständnis."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Shadow theater uses puppets and light.",
+        "text_de": "Schattentheater nutzt Puppen und Licht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Skulpturen bestehen oft aus Stein oder Metall.",
+            "Schattentheater nutzt Puppen und Licht.",
+            "die Tradition",
+            "Ich interessiere mich für antike Zivilisationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The festival ended with fireworks.",
+        "text_de": "Das Fest endete mit einem Feuerwerk.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Fest endete mit einem Feuerwerk.",
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "Beethoven komponierte viele berühmte Sinfonien.",
+            "Jeder hat eine kreative Ader."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm a big fan of jazz music.",
+        "text_de": "Ich bin ein großer Jazz-Fan.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin ein großer Jazz-Fan.",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "Folklore erzählt Geschichten aus der Vergangenheit.",
+            "Wer ist dein Lieblingsautor?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The concert was completely sold out.",
+        "text_de": "Das Konzert war komplett ausverkauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Konzert war komplett ausverkauft.",
+            "der Brauch",
+            "Wer ist dein Lieblingsautor?",
+            "Folklore erzählt Geschichten aus der Vergangenheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Live music is better than recordings.",
+        "text_de": "Live-Musik ist besser als Aufnahmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "erschaffen",
+            "Von der UNESCO geschützte Sehenswürdigkeiten sind weltweit berühmt.",
+            "Ich male gerne mit Aquarellfarben.",
+            "Live-Musik ist besser als Aufnahmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dancing is good for the body and soul.",
+        "text_de": "Tanzen ist gut für Körper und Seele.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe während meiner Reise nach Berlin eine Galerie besucht.",
+            "Tanzen ist gut für Körper und Seele.",
+            "Ich liebe es, Ballettvorführungen zu sehen.",
+            "die Galerie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Traditional dances are passed down through generations.",
+        "text_de": "Traditionelle Tänze werden über Generationen weitergegeben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für antike Zivilisationen.",
+            "die Galerie",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "Hast du die neue Ausstellung im Museum gesehen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect foreign cultures and their habits.",
+        "text_de": "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Galerie",
+            "Das Naturkundemuseum ist toll für Kinder.",
+            "Respektiere fremde Kulturen und ihre Gewohnheiten.",
+            "Klassische Musik ist in Deutschland sehr beliebt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tolerance is the basis of intercultural dialogue.",
+        "text_de": "Toleranz ist die Basis des interkulturellen Dialogs.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Toleranz ist die Basis des interkulturellen Dialogs.",
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "Er ist ein sehr berühmter Künstler in Deutschland.",
+            "Die Atmosphäre beim Karneval war toll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education in arts starts in primary school.",
+        "text_de": "Kunstunterricht beginnt in der Grundschule.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Live-Musik ist besser als Aufnahmen.",
+            "die Kunst",
+            "Kunstunterricht beginnt in der Grundschule.",
+            "Wissenschaft und Kunst stehen sich näher, als wir denken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everyone has a creative side.",
+        "text_de": "Jeder hat eine kreative Ader.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunstunterricht beginnt in der Grundschule.",
+            "Jeder hat eine kreative Ader.",
+            "Die Galerie zeigt zeitgenössische Kunst.",
+            "Oper ist eine Kombination aus Musik und Drama."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't be afraid to express yourself through art.",
+        "text_de": "Hab keine Angst davor, dich durch Kunst auszudrücken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hab keine Angst davor, dich durch Kunst auszudrücken.",
+            "Glasbläserei ist ein faszinierendes Handwerk.",
+            "Kunstunterricht beginnt in der Grundschule.",
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Art challenges our perception.",
+        "text_de": "Kunst fordert unsere Wahrnehmung heraus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Street Art kann die Stadt verschönern.",
+            "Kunstunterricht beginnt in der Grundschule.",
+            "Kunst fordert unsere Wahrnehmung heraus.",
+            "Ich interessiere mich für antike Zivilisationen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Literature can transport you to another world.",
+        "text_de": "Literatur kann dich in eine andere Welt versetzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mode ist ein Spiegelbild der Kultur.",
+            "das Erbe",
+            "Literatur kann dich in eine andere Welt versetzen.",
+            "die Tradition"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the smell of old paper in the archive.",
+        "text_de": "Ich liebe den Geruch von altem Papier im Archiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie erschafft wunderschönen Schmuck von Hand.",
+            "Ich liebe den Geruch von altem Papier im Archiv.",
+            "Traditionelle Tänze werden über Generationen weitergegeben.",
+            "das Museum"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Museum of natural history is great for kids.",
+        "text_de": "Das Naturkundemuseum ist toll für Kinder.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunst fordert unsere Wahrnehmung heraus.",
+            "Hast du die neue Ausstellung im Museum gesehen?",
+            "Das Naturkundemuseum ist toll für Kinder.",
+            "Goethe ist ein berühmter deutscher Schriftsteller."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science and art are closer than we think.",
+        "text_de": "Wissenschaft und Kunst stehen sich näher, als wir denken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns heute Abend ins Theater gehen.",
+            "Ich interessiere mich für antike Zivilisationen.",
+            "Klavierunterricht erfordert viel Übung.",
+            "Wissenschaft und Kunst stehen sich näher, als wir denken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Art is a universal language.",
+        "text_de": "Kunst ist eine universelle Sprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Ausstellung",
+            "Kunst ist eine universelle Sprache.",
+            "Das Fest endete mit einem Feuerwerk.",
+            "die Literatur"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to the next film festival.",
+        "text_de": "Ich freue mich auf das nächste Filmfestival.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Geige hat einen sehr ergreifenden Klang.",
+            "Ich freue mich auf das nächste Filmfestival.",
+            "Feste bringen Menschen zusammen.",
+            "Moderne Kunst kann schwer zu verstehen sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The director received an award for his life's work.",
+        "text_de": "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Regisseur erhielt einen Preis für sein Lebenswerk.",
+            "Beethoven komponierte viele berühmte Sinfonien.",
+            "Hab keine Angst davor, dich durch Kunst auszudrücken.",
+            "Wissenschaft und Kunst stehen sich näher, als wir denken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Creativity is the engine of innovation.",
+        "text_de": "Kreativität ist der Motor der Innovation.",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, Ballettvorführungen zu sehen.",
+            "der Künstler",
+            "Kreativität ist der Motor der Innovation.",
+            "Die Architektur dieses Gebäudes ist einzigartig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep exploring the arts!",
+        "text_de": "Erkunde weiter die Künste!",
+        "synonyms": [],
+        "description": "Example sentence for 'Culture & Arts'.",
+        "description_de": "Beispielsatz für 'Culture & Arts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kreativität ist der Motor der Innovation.",
+            "Mode ist ein Spiegelbild der Kultur.",
+            "Erkunde weiter die Künste!",
+            "Ich habe eine Kopie des Ausstellungskatalogs gekauft."
+        ]
+    }
+]

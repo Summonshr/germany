@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The health",
+        "text_de": "die Gesundheit",
+        "synonyms": [],
+        "description": "German word for 'The health'.",
+        "description_de": "Deutsches Wort für 'The health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Fieber",
+            "die Gesundheit",
+            "Mein Bruder liegt im Krankenhaus.",
+            "Nehmen Sie diese Tablette zweimal täglich."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The doctor",
+        "text_de": "der Arzt",
+        "synonyms": [],
+        "description": "German word for 'The doctor'.",
+        "description_de": "Deutsches Wort für 'The doctor'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Grippeschutzimpfung schon bekommen.",
+            "Ich fühle mich gestresst bei der Arbeit.",
+            "der Arzt",
+            "Waschen Sie Ihre Hände vor dem Essen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hospital",
+        "text_de": "das Krankenhaus",
+        "synonyms": [],
+        "description": "German word for 'The hospital'.",
+        "description_de": "Deutsches Wort für 'The hospital'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er hatte gestern eine Operation.",
+            "Ich habe Einschlafstörungen.",
+            "das Krankenhaus",
+            "der Termin"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The pharmacy",
+        "text_de": "die Apotheke",
+        "synonyms": [],
+        "description": "German word for 'The pharmacy'.",
+        "description_de": "Deutsches Wort für 'The pharmacy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Sonnenbrand auf den Schultern.",
+            "Ich fühle mich jetzt viel besser.",
+            "Sind Sie gegen Tetanus geimpft?",
+            "die Apotheke"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The medicine",
+        "text_de": "die Medizin",
+        "synonyms": [],
+        "description": "German word for 'The medicine'.",
+        "description_de": "Deutsches Wort für 'The medicine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Gehör hat sich verschlechtert.",
+            "die Medizin",
+            "Sie haben leichtes Fieber.",
+            "Die Grippe ist ansteckend."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The pain",
+        "text_de": "der Schmerz",
+        "synonyms": [],
+        "description": "German word for 'The pain'.",
+        "description_de": "Deutsches Wort für 'The pain'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Krankenhaus ist in der Nähe der Innenstadt.",
+            "atmen",
+            "Der Arzt hat meine Ohren untersucht.",
+            "der Schmerz"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The fever",
+        "text_de": "das Fieber",
+        "synonyms": [],
+        "description": "German word for 'The fever'.",
+        "description_de": "Deutsches Wort für 'The fever'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Kontakt mit anderen Menschen.",
+            "Sie sollten mehr Gemüse essen.",
+            "Der Arzt hat mich gründlich untersucht.",
+            "das Fieber"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cough",
+        "text_de": "der Husten",
+        "synonyms": [],
+        "description": "German word for 'The cough'.",
+        "description_de": "Deutsches Wort für 'The cough'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Frische Luft ist gut für die Lungen.",
+            "der Husten",
+            "Meditation hilft mir beim Entspannen.",
+            "Ich fühle mich jetzt viel besser."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cold",
+        "text_de": "die Erkältung",
+        "synonyms": [],
+        "description": "German word for 'The cold'.",
+        "description_de": "Deutsches Wort für 'The cold'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe starke Kopfschmerzen.",
+            "das Rezept",
+            "Sind Sie gegen Tetanus geimpft?",
+            "die Erkältung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The headache",
+        "text_de": "die Kopfschmerzen",
+        "synonyms": [],
+        "description": "German word for 'The headache'.",
+        "description_de": "Deutsches Wort für 'The headache'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Bruder liegt im Krankenhaus.",
+            "Meiden Sie fettige Speisen.",
+            "die Bauchschmerzen",
+            "die Kopfschmerzen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The stomachache",
+        "text_de": "die Bauchschmerzen",
+        "synonyms": [],
+        "description": "German word for 'The stomachache'.",
+        "description_de": "Deutsches Wort für 'The stomachache'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Waschen Sie Ihre Hände vor dem Essen.",
+            "Ich habe einen Sonnenbrand auf den Schultern.",
+            "die Bauchschmerzen",
+            "Ich brauche eine Vorsorgeuntersuchung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The prescription",
+        "text_de": "das Rezept",
+        "synonyms": [],
+        "description": "German word for 'The prescription'.",
+        "description_de": "Deutsches Wort für 'The prescription'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Rezept",
+            "Ich hoffe, es ist nicht gebrochen.",
+            "Waschen Sie Ihre Hände vor dem Essen.",
+            "Ich fühle mich heute nicht gut."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The appointment",
+        "text_de": "der Termin",
+        "synonyms": [],
+        "description": "German word for 'The appointment'.",
+        "description_de": "Deutsches Wort für 'The appointment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gesundheit",
+            "krank",
+            "Ich habe Einschlafstörungen.",
+            "der Termin"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The insurance",
+        "text_de": "die Versicherung",
+        "synonyms": [],
+        "description": "German word for 'The insurance'.",
+        "description_de": "Deutsches Wort für 'The insurance'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hat das Medikament Nebenwirkungen?",
+            "Ihr Cholesterinspiegel ist etwas hoch.",
+            "die Versicherung",
+            "Gute Besserung!"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The vaccine",
+        "text_de": "die Impfung",
+        "synonyms": [],
+        "description": "German word for 'The vaccine'.",
+        "description_de": "Deutsches Wort für 'The vaccine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine Vorsorgeuntersuchung.",
+            "die Impfung",
+            "Ich habe Einschlafstörungen.",
+            "Ich bin allergisch gegen Penicillin."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To breathe",
+        "text_de": "atmen",
+        "synonyms": [],
+        "description": "German word for 'To breathe'.",
+        "description_de": "Deutsches Wort für 'To breathe'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die psychische Gesundheit ist auch wichtig.",
+            "Ich gehe zum Optiker.",
+            "atmen",
+            "der Arzt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To examine",
+        "text_de": "untersuchen",
+        "synonyms": [],
+        "description": "German word for 'To examine'.",
+        "description_de": "Deutsches Wort für 'To examine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte abnehmen.",
+            "untersuchen",
+            "Der Zahnarzt hat ein Loch gefüllt.",
+            "Vermeiden Sie Kontakt mit anderen Menschen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To heal",
+        "text_de": "heilen",
+        "synonyms": [],
+        "description": "German word for 'To heal'.",
+        "description_de": "Deutsches Wort für 'To heal'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Arzt wird Sie jetzt empfangen.",
+            "Die Operation ist gut verlaufen.",
+            "Meditation hilft mir beim Entspannen.",
+            "heilen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Healthy",
+        "text_de": "gesund",
+        "synonyms": [],
+        "description": "German word for 'Healthy'.",
+        "description_de": "Deutsches Wort für 'Healthy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "gesund",
+            "Legen Sie Ihr Bein hoch.",
+            "die Versicherung",
+            "Ich fühle mich heute nicht gut."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Sick",
+        "text_de": "krank",
+        "synonyms": [],
+        "description": "German word for 'Sick'.",
+        "description_de": "Deutsches Wort für 'Sick'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "krank",
+            "Was sind Ihre Symptome?",
+            "Das Krankenhaus ist in der Nähe der Innenstadt.",
+            "Ihr Cholesterinspiegel ist etwas hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't feel well today.",
+        "text_de": "Ich fühle mich heute nicht gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich heute nicht gut.",
+            "krank",
+            "Ich habe starke Kopfschmerzen.",
+            "Gute Besserung!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I should go to the doctor.",
+        "text_de": "Ich sollte zum Arzt gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist das Wasser hier trinkbar?",
+            "der Termin",
+            "gesund",
+            "Ich sollte zum Arzt gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have an appointment?",
+        "text_de": "Haben Sie einen Termin?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe starke Kopfschmerzen.",
+            "Ich versuche, gesund zu leben.",
+            "Haben Sie einen Termin?",
+            "Ich habe Halsschmerzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The doctor will see you now.",
+        "text_de": "Der Arzt wird Sie jetzt empfangen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe Halsschmerzen.",
+            "Meiden Sie fettige Speisen.",
+            "Der Arzt wird Sie jetzt empfangen.",
+            "Sie sollten eine Pause machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are your symptoms?",
+        "text_de": "Was sind Ihre Symptome?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Husten",
+            "Ich habe seit drei Tagen Husten.",
+            "Was sind Ihre Symptome?",
+            "Ich sollte zum Arzt gehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a severe headache.",
+        "text_de": "Ich habe starke Kopfschmerzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Nase läuft.",
+            "Sie sollten einen Physiotherapeuten aufsuchen.",
+            "Ich habe starke Kopfschmerzen.",
+            "Sie können die Medizin in der Apotheke holen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My throat hurts when I swallow.",
+        "text_de": "Mein Hals tut weh beim Schlucken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Hals tut weh beim Schlucken.",
+            "der Arzt",
+            "Mein Bruder liegt im Krankenhaus.",
+            "das Rezept"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I've had a cough for three days.",
+        "text_de": "Ich habe seit drei Tagen Husten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Waschen Sie Ihre Hände vor dem Essen.",
+            "Hier ist ein Rezept für Sie.",
+            "Ich habe seit drei Tagen Husten.",
+            "Mein Bruder liegt im Krankenhaus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The doctor examined me thoroughly.",
+        "text_de": "Der Arzt hat mich gründlich untersucht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Benutzen Sie etwas Aloe-Vera-Gel.",
+            "atmen",
+            "Der Arzt hat mich gründlich untersucht.",
+            "die Bauchschmerzen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You have a slight fever.",
+        "text_de": "Sie haben leichtes Fieber.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Waschen Sie Ihre Hände vor dem Essen.",
+            "Sie haben leichtes Fieber.",
+            "Ich fühle mich jetzt viel besser.",
+            "Meine Sicht ist verschwommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Drink plenty of water and rest.",
+        "text_de": "Trinken Sie viel Wasser und ruhen Sie sich aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trinken Sie viel Wasser und ruhen Sie sich aus.",
+            "die Medizin",
+            "die Impfung",
+            "Haben Sie einen Termin?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Here is a prescription for you.",
+        "text_de": "Hier ist ein Rezept für Sie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Impfpass ist auf dem neuesten Stand.",
+            "Ich habe starke Kopfschmerzen.",
+            "Ich brauche einen Termin beim Zahnarzt.",
+            "Hier ist ein Rezept für Sie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You can get the medicine at the pharmacy.",
+        "text_de": "Sie können die Medizin in der Apotheke holen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kopfschmerzen",
+            "Sie können die Medizin in der Apotheke holen.",
+            "Ich glaube, ich habe die Grippe.",
+            "Ich brauche Taschentücher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Take this pill twice a day.",
+        "text_de": "Nehmen Sie diese Tablette zweimal täglich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nehmen Sie diese Tablette zweimal täglich.",
+            "Ich sollte zum Arzt gehen.",
+            "die Apotheke",
+            "Ich habe starke Kopfschmerzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Does the medication have side effects?",
+        "text_de": "Hat das Medikament Nebenwirkungen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hat das Medikament Nebenwirkungen?",
+            "Sie haben leichtes Fieber.",
+            "Legen Sie Ihr Bein hoch.",
+            "Die psychische Gesundheit ist auch wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm allergic to penicillin.",
+        "text_de": "Ich bin allergisch gegen Penicillin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich gestresst bei der Arbeit.",
+            "Ich bin allergisch gegen Penicillin.",
+            "Frische Luft ist gut für die Lungen.",
+            "Das Krankenhaus ist in der Nähe der Innenstadt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have health insurance?",
+        "text_de": "Sind Sie krankenversichert?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hygiene ist sehr wichtig.",
+            "Sind Sie krankenversichert?",
+            "der Schmerz",
+            "Ich brauche eine neue Brille."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I forgot my insurance card.",
+        "text_de": "Ich habe meine Versicherungskarte vergessen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Versicherungskarte vergessen.",
+            "Meine Sicht ist verschwommen.",
+            "Meiden Sie fettige Speisen.",
+            "die Gesundheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How much is the copayment?",
+        "text_de": "Wie hoch ist die Zuzahlung?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meditation hilft mir beim Entspannen.",
+            "Meine Nase läuft.",
+            "Ihr Cholesterinspiegel ist etwas hoch.",
+            "Wie hoch ist die Zuzahlung?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The hospital is near the city center.",
+        "text_de": "Das Krankenhaus ist in der Nähe der Innenstadt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe zum Optiker.",
+            "Ich habe Zahnschmerzen.",
+            "Das Röntgenbild zeigte keinen Bruch.",
+            "Das Krankenhaus ist in der Nähe der Innenstadt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My brother is in the hospital.",
+        "text_de": "Mein Bruder liegt im Krankenhaus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hier ist ein Rezept für Sie.",
+            "Mein Bruder liegt im Krankenhaus.",
+            "die Kopfschmerzen",
+            "der Termin"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He had an operation yesterday.",
+        "text_de": "Er hatte gestern eine Operation.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Sonnenbrand auf den Schultern.",
+            "Es ist geschwollen und tut weh.",
+            "Er hatte gestern eine Operation.",
+            "Mein Rücken tut weh vom langen Sitzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The surgery went well.",
+        "text_de": "Die Operation ist gut verlaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie sollten mehr Gemüse essen.",
+            "Sie können die Medizin in der Apotheke holen.",
+            "Die Operation ist gut verlaufen.",
+            "Legen Sie Ihr Bein hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you a speedy recovery.",
+        "text_de": "Ich wünsche Ihnen eine schnelle Genesung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "heilen",
+            "Ich gehe jeden Morgen spazieren.",
+            "Sonnencreme schützt die Haut.",
+            "Ich wünsche Ihnen eine schnelle Genesung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Get well soon!",
+        "text_de": "Gute Besserung!",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie sollten im Bett bleiben.",
+            "die Apotheke",
+            "Mein Bruder liegt im Krankenhaus.",
+            "Gute Besserung!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Smoking is bad for your health.",
+        "text_de": "Rauchen ist schlecht für die Gesundheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Rauchen ist schlecht für die Gesundheit.",
+            "der Husten",
+            "Meditation hilft mir beim Entspannen.",
+            "Hier ist ein Rezept für Sie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You should eat more vegetables.",
+        "text_de": "Sie sollten mehr Gemüse essen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "gesund",
+            "Sie sollten mehr Gemüse essen.",
+            "Ich gehe jeden Morgen spazieren.",
+            "Sie sollten eine Pause machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Exercise is important for the heart.",
+        "text_de": "Sport ist wichtig für das Herz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Apotheke",
+            "Sport ist wichtig für das Herz.",
+            "atmen",
+            "Der Arzt hat Blut abgenommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I try to live a healthy lifestyle.",
+        "text_de": "Ich versuche, gesund zu leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich versuche, gesund zu leben.",
+            "das Rezept",
+            "Ich brauche eine neue Brille.",
+            "die Erkältung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you do any sports?",
+        "text_de": "Treiben Sie Sport?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Arzt",
+            "Treiben Sie Sport?",
+            "heilen",
+            "Legen Sie Ihr Bein hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go for a walk every morning.",
+        "text_de": "Ich gehe jeden Morgen spazieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Waschen Sie Ihre Hände vor dem Essen.",
+            "die Erkältung",
+            "Ich brauche einen Verband.",
+            "Ich gehe jeden Morgen spazieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fresh air is good for the lungs.",
+        "text_de": "Frische Luft ist gut für die Lungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Impfpass ist auf dem neuesten Stand.",
+            "Frische Luft ist gut für die Lungen.",
+            "Trinken Sie viel Wasser und ruhen Sie sich aus.",
+            "Hier ist ein Rezept für Sie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a check-up.",
+        "text_de": "Ich brauche eine Vorsorgeuntersuchung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe seit drei Tagen Husten.",
+            "Ich brauche eine Vorsorgeuntersuchung.",
+            "die Medizin",
+            "Ich gehe jeden Morgen spazieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My back hurts from sitting too long.",
+        "text_de": "Mein Rücken tut weh vom langen Sitzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Treiben Sie Sport?",
+            "der Termin",
+            "Ihr Cholesterinspiegel ist etwas hoch.",
+            "Mein Rücken tut weh vom langen Sitzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You should see a physiotherapist.",
+        "text_de": "Sie sollten einen Physiotherapeuten aufsuchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "gesund",
+            "der Schmerz",
+            "Sie sollten einen Physiotherapeuten aufsuchen.",
+            "Es ist geschwollen und tut weh."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a toothache.",
+        "text_de": "Ich habe Zahnschmerzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zahnarzt hat ein Loch gefüllt.",
+            "Ich habe Zahnschmerzen.",
+            "Ich gehe jeden Morgen spazieren.",
+            "der Husten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need an appointment with the dentist.",
+        "text_de": "Ich brauche einen Termin beim Zahnarzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche einen Termin beim Zahnarzt.",
+            "Die Operation ist gut verlaufen.",
+            "Sie haben leichtes Fieber.",
+            "Mein Hals tut weh beim Schlucken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The dentist filled a cavity.",
+        "text_de": "Der Zahnarzt hat ein Loch gefüllt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Benutzen Sie etwas Aloe-Vera-Gel.",
+            "Ich habe meine Grippeschutzimpfung schon bekommen.",
+            "Haben Sie einen Termin?",
+            "Der Zahnarzt hat ein Loch gefüllt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The injection numbed my jaw.",
+        "text_de": "Die Spritze hat meinen Kiefer betäubt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Kopfschmerzen",
+            "Die Spritze hat meinen Kiefer betäubt.",
+            "Frische Luft ist gut für die Lungen.",
+            "Schlafen Sie gut?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel much better now.",
+        "text_de": "Ich fühle mich jetzt viel besser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich jetzt viel besser.",
+            "Hygiene ist sehr wichtig.",
+            "Ich habe meine Versicherungskarte vergessen.",
+            "Sonnencreme schützt die Haut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the water drinkable here?",
+        "text_de": "Ist das Wasser hier trinkbar?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "atmen",
+            "die Versicherung",
+            "Ich gehe zum Optiker.",
+            "Ist das Wasser hier trinkbar?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wash your hands before eating.",
+        "text_de": "Waschen Sie Ihre Hände vor dem Essen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Frische Luft ist gut für die Lungen.",
+            "Ich habe Zahnschmerzen.",
+            "die Medizin",
+            "Waschen Sie Ihre Hände vor dem Essen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hygiene is very important.",
+        "text_de": "Hygiene ist sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Kontakt mit anderen Menschen.",
+            "Ich bin umgeknickt.",
+            "Hygiene ist sehr wichtig.",
+            "Versuchen Sie, Kräutertee zu trinken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a sore throat.",
+        "text_de": "Ich habe Halsschmerzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie sollten einen Physiotherapeuten aufsuchen.",
+            "Das Röntgenbild zeigte keinen Bruch.",
+            "Ich versuche, gesund zu leben.",
+            "Ich habe Halsschmerzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My nose is running.",
+        "text_de": "Meine Nase läuft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Nase läuft.",
+            "Die Operation ist gut verlaufen.",
+            "die Medizin",
+            "Ich gehe jeden Morgen spazieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need some tissues.",
+        "text_de": "Ich brauche Taschentücher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was sind Ihre Symptome?",
+            "Ich brauche Taschentücher.",
+            "Meine Sicht ist verschwommen.",
+            "Das Krankenhaus ist in der Nähe der Innenstadt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I think I have the flu.",
+        "text_de": "Ich glaube, ich habe die Grippe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich glaube, ich habe die Grippe.",
+            "Sie haben leichtes Fieber.",
+            "Ich fühle mich jetzt viel besser.",
+            "Meine Sicht ist verschwommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You should stay in bed.",
+        "text_de": "Sie sollten im Bett bleiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meditation hilft mir beim Entspannen.",
+            "Wie hoch ist die Zuzahlung?",
+            "Ich möchte abnehmen.",
+            "Sie sollten im Bett bleiben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Avoid contact with other people.",
+        "text_de": "Vermeiden Sie Kontakt mit anderen Menschen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schmerz",
+            "Ich hoffe, es ist nicht gebrochen.",
+            "Ich habe Zahnschmerzen.",
+            "Vermeiden Sie Kontakt mit anderen Menschen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The flu is contagious.",
+        "text_de": "Die Grippe ist ansteckend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Rezept",
+            "Ich mache eine Diät.",
+            "Die Grippe ist ansteckend.",
+            "Versuchen Sie, Kräutertee zu trinken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I already had my flu shot.",
+        "text_de": "Ich habe meine Grippeschutzimpfung schon bekommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meine Grippeschutzimpfung schon bekommen.",
+            "Sie sollten einen Physiotherapeuten aufsuchen.",
+            "Mein Impfpass ist auf dem neuesten Stand.",
+            "gesund"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are you vaccinated against tetanus?",
+        "text_de": "Sind Sie gegen Tetanus geimpft?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeiden Sie Kontakt mit anderen Menschen.",
+            "die Versicherung",
+            "Sind Sie gegen Tetanus geimpft?",
+            "Ich brauche eine neue Brille."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My vaccination card is up to date.",
+        "text_de": "Mein Impfpass ist auf dem neuesten Stand.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mein Impfpass ist auf dem neuesten Stand.",
+            "Der Arzt hat meine Ohren untersucht.",
+            "Ich habe Zahnschmerzen.",
+            "Benutzen Sie etwas Aloe-Vera-Gel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The doctor took some blood.",
+        "text_de": "Der Arzt hat Blut abgenommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meditation hilft mir beim Entspannen.",
+            "Hat das Medikament Nebenwirkungen?",
+            "Der Arzt hat Blut abgenommen.",
+            "Mein Rücken tut weh vom langen Sitzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The laboratory results will be ready tomorrow.",
+        "text_de": "Die Laborwerte sind morgen fertig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich hoffe, es ist nicht gebrochen.",
+            "Sie können die Medizin in der Apotheke holen.",
+            "Mein Impfpass ist auf dem neuesten Stand.",
+            "Die Laborwerte sind morgen fertig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Your cholesterol is a bit high.",
+        "text_de": "Ihr Cholesterinspiegel ist etwas hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nehmen Sie diese Tablette zweimal täglich.",
+            "Ich habe meine Versicherungskarte vergessen.",
+            "Trinken Sie viel Wasser und ruhen Sie sich aus.",
+            "Ihr Cholesterinspiegel ist etwas hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Avoid fatty foods.",
+        "text_de": "Meiden Sie fettige Speisen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hier ist ein Rezept für Sie.",
+            "Meiden Sie fettige Speisen.",
+            "Ich fühle mich gestresst bei der Arbeit.",
+            "Das Röntgenbild zeigte keinen Bruch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to lose weight.",
+        "text_de": "Ich möchte abnehmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte abnehmen.",
+            "Meine Nase läuft.",
+            "Ich hoffe, es ist nicht gebrochen.",
+            "Der Arzt hat Blut abgenommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm on a diet.",
+        "text_de": "Ich mache eine Diät.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich mache eine Diät.",
+            "Ich fühle mich jetzt viel besser.",
+            "Ich glaube, ich habe die Grippe.",
+            "die Versicherung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mental health is also important.",
+        "text_de": "Die psychische Gesundheit ist auch wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Arzt hat mich gründlich untersucht.",
+            "Die psychische Gesundheit ist auch wichtig.",
+            "Hygiene ist sehr wichtig.",
+            "Meiden Sie fettige Speisen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel stressed at work.",
+        "text_de": "Ich fühle mich gestresst bei der Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich heute nicht gut.",
+            "Ich fühle mich gestresst bei der Arbeit.",
+            "Die Laborwerte sind morgen fertig.",
+            "untersuchen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You should take a break.",
+        "text_de": "Sie sollten eine Pause machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie sollten eine Pause machen.",
+            "Ich habe Einschlafstörungen.",
+            "Ich brauche eine neue Brille.",
+            "die Kopfschmerzen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Meditation helps me relax.",
+        "text_de": "Meditation hilft mir beim Entspannen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meditation hilft mir beim Entspannen.",
+            "Gute Besserung!",
+            "Der Arzt wird Sie jetzt empfangen.",
+            "Ich bin allergisch gegen Penicillin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you sleep well?",
+        "text_de": "Schlafen Sie gut?",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Rauchen ist schlecht für die Gesundheit.",
+            "Sie sollten einen Physiotherapeuten aufsuchen.",
+            "Ich habe seit drei Tagen Husten.",
+            "Schlafen Sie gut?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have trouble falling asleep.",
+        "text_de": "Ich habe Einschlafstörungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Zahnarzt hat ein Loch gefüllt.",
+            "der Termin",
+            "Ich habe Einschlafstörungen.",
+            "Sind Sie gegen Tetanus geimpft?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Try drinking herbal tea.",
+        "text_de": "Versuchen Sie, Kräutertee zu trinken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was sind Ihre Symptome?",
+            "Trinken Sie viel Wasser und ruhen Sie sich aus.",
+            "Versuchen Sie, Kräutertee zu trinken.",
+            "Sie sollten eine Pause machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My vision is blurry.",
+        "text_de": "Meine Sicht ist verschwommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Arzt hat mich gründlich untersucht.",
+            "Meine Sicht ist verschwommen.",
+            "krank",
+            "untersuchen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need new glasses.",
+        "text_de": "Ich brauche eine neue Brille.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche eine neue Brille.",
+            "Legen Sie Ihr Bein hoch.",
+            "der Termin",
+            "Ich habe starke Kopfschmerzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to the optician.",
+        "text_de": "Ich gehe zum Optiker.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte abnehmen.",
+            "Ich gehe zum Optiker.",
+            "der Schmerz",
+            "Schlafen Sie gut?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My hearing has worsened.",
+        "text_de": "Mein Gehör hat sich verschlechtert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nehmen Sie diese Tablette zweimal täglich.",
+            "Ich fühle mich jetzt viel besser.",
+            "die Impfung",
+            "Mein Gehör hat sich verschlechtert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The doctor checked my ears.",
+        "text_de": "Der Arzt hat meine Ohren untersucht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich glaube, ich habe die Grippe.",
+            "Ich habe Zahnschmerzen.",
+            "Der Arzt hat meine Ohren untersucht.",
+            "die Kopfschmerzen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sunscreen protects the skin.",
+        "text_de": "Sonnencreme schützt die Haut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Laborwerte sind morgen fertig.",
+            "Sport ist wichtig für das Herz.",
+            "Sonnencreme schützt die Haut.",
+            "Ich möchte abnehmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a sunburn on my shoulders.",
+        "text_de": "Ich habe einen Sonnenbrand auf den Schultern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Sonnenbrand auf den Schultern.",
+            "Hat das Medikament Nebenwirkungen?",
+            "Sie sollten eine Pause machen.",
+            "Es ist geschwollen und tut weh."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Use some aloe vera gel.",
+        "text_de": "Benutzen Sie etwas Aloe-Vera-Gel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist geschwollen und tut weh.",
+            "Benutzen Sie etwas Aloe-Vera-Gel.",
+            "die Gesundheit",
+            "Ich brauche einen Termin beim Zahnarzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I twisted my ankle.",
+        "text_de": "Ich bin umgeknickt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Laborwerte sind morgen fertig.",
+            "Der Zahnarzt hat ein Loch gefüllt.",
+            "das Krankenhaus",
+            "Ich bin umgeknickt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's swollen and hurts.",
+        "text_de": "Es ist geschwollen und tut weh.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Husten",
+            "die Kopfschmerzen",
+            "die Erkältung",
+            "Es ist geschwollen und tut weh."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a bandage.",
+        "text_de": "Ich brauche einen Verband.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Versicherung",
+            "der Schmerz",
+            "Ich brauche einen Verband.",
+            "Frische Luft ist gut für die Lungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep your leg elevated.",
+        "text_de": "Legen Sie Ihr Bein hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Legen Sie Ihr Bein hoch.",
+            "Ich habe starke Kopfschmerzen.",
+            "Hat das Medikament Nebenwirkungen?",
+            "Ich brauche eine neue Brille."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hope it's not broken.",
+        "text_de": "Ich hoffe, es ist nicht gebrochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Rezept",
+            "Ich hoffe, es ist nicht gebrochen.",
+            "Meine Sicht ist verschwommen.",
+            "Mein Rücken tut weh vom langen Sitzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The X-ray showed no fracture.",
+        "text_de": "Das Röntgenbild zeigte keinen Bruch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Health'.",
+        "description_de": "Beispielsatz für 'Health'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gesundheit",
+            "Das Röntgenbild zeigte keinen Bruch.",
+            "Er hatte gestern eine Operation.",
+            "Gute Besserung!"
+        ]
+    }
+]

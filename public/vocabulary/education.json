@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The education",
+        "text_de": "die Bildung",
+        "synonyms": [],
+        "description": "German word for 'The education'.",
+        "description_de": "Deutsches Wort für 'The education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bildung",
+            "Ich besuche einen Abendkurs für Spanisch.",
+            "Die Tinte ist leer.",
+            "Die Prüfung war einfacher, als ich erwartet hatte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The school",
+        "text_de": "die Schule",
+        "synonyms": [],
+        "description": "German word for 'The school'.",
+        "description_de": "Deutsches Wort für 'The school'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "einen Abschluss machen",
+            "Melden Sie sich, wenn Sie eine Frage haben.",
+            "Hab keine Angst davor, Fehler zu machen.",
+            "die Schule"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The university",
+        "text_de": "die Universität",
+        "synonyms": [],
+        "description": "German word for 'The university'.",
+        "description_de": "Deutsches Wort für 'The university'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Universität",
+            "der Professor",
+            "Ich möchte Grundschullehrer werden.",
+            "Die Prüfung war einfacher, als ich erwartet hatte."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The student",
+        "text_de": "der Schüler",
+        "synonyms": [],
+        "description": "German word for 'The student'.",
+        "description_de": "Deutsches Wort für 'The student'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Professor ist ein Experte auf seinem Gebiet.",
+            "das Wissen",
+            "der Schüler",
+            "Was ist dein Lieblingsfach in der Schule?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The teacher",
+        "text_de": "der Lehrer",
+        "synonyms": [],
+        "description": "German word for 'The teacher'.",
+        "description_de": "Deutsches Wort für 'The teacher'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Abschlussnoten werden morgen online stehen.",
+            "Das Semester endet im Februar.",
+            "Der Professor ist ein Experte auf seinem Gebiet.",
+            "der Lehrer"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The professor",
+        "text_de": "der Professor",
+        "synonyms": [],
+        "description": "German word for 'The professor'.",
+        "description_de": "Deutsches Wort für 'The professor'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfolg erfordert harte Arbeit und Disziplin.",
+            "der Professor",
+            "Ich möchte mein Wissen in Deutsch verbessern.",
+            "der Unterricht"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The lesson",
+        "text_de": "der Unterricht",
+        "synonyms": [],
+        "description": "German word for 'The lesson'.",
+        "description_de": "Deutsches Wort für 'The lesson'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe meinen Radiergummi verloren.",
+            "der Unterricht",
+            "die Note",
+            "Bildung ist der Schlüssel zum Erfolg."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The subject",
+        "text_de": "das Fach",
+        "synonyms": [],
+        "description": "German word for 'The subject'.",
+        "description_de": "Deutsches Wort für 'The subject'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Belegst du Online-Kurse?",
+            "das Wissen",
+            "der Lehrer",
+            "das Fach"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The exam",
+        "text_de": "die Prüfung",
+        "synonyms": [],
+        "description": "German word for 'The exam'.",
+        "description_de": "Deutsches Wort für 'The exam'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe letztes Jahr meinen Schulabschluss gemacht.",
+            "Prüfen Sie immer mehrere Quellen.",
+            "Ich möchte Grundschullehrer werden.",
+            "die Prüfung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The grade",
+        "text_de": "die Note",
+        "synonyms": [],
+        "description": "German word for 'The grade'.",
+        "description_de": "Deutsches Wort für 'The grade'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein Stipendium für mein Studium.",
+            "die Note",
+            "die Bildung",
+            "Respektiere deine Lehrer und Mitschüler."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The study",
+        "text_de": "das Studium",
+        "synonyms": [],
+        "description": "German word for 'The study'.",
+        "description_de": "Deutsches Wort für 'The study'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunst und Musik sind auch wichtig.",
+            "Der Hörsaal ist voller Studenten.",
+            "das Studium",
+            "Der Universitätscampus ist sehr modern."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The degree",
+        "text_de": "der Abschluss",
+        "synonyms": [],
+        "description": "German word for 'The degree'.",
+        "description_de": "Deutsches Wort für 'The degree'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Schulhof ist in der Pause sehr laut.",
+            "Ich muss für meine Matheprüfung lernen.",
+            "der Abschluss",
+            "Der Lehrer erklärt die Grammatik deutlich."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The course",
+        "text_de": "der Kurs",
+        "synonyms": [],
+        "description": "German word for 'The course'.",
+        "description_de": "Deutsches Wort für 'The course'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nächste Woche machen wir einen Schulausflug.",
+            "der Kurs",
+            "Wo finde ich Informationen über den Kurs?",
+            "der Lehrer"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The homework",
+        "text_de": "die Hausaufgaben",
+        "synonyms": [],
+        "description": "German word for 'The homework'.",
+        "description_de": "Deutsches Wort für 'The homework'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lernen",
+            "die Hausaufgaben",
+            "das Wissen",
+            "Seid leise, während andere sprechen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The library",
+        "text_de": "die Bibliothek",
+        "synonyms": [],
+        "description": "German word for 'The library'.",
+        "description_de": "Deutsches Wort für 'The library'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Schüler",
+            "die Bibliothek",
+            "das Studium",
+            "Ich habe ein Stipendium für mein Studium."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The knowledge",
+        "text_de": "das Wissen",
+        "synonyms": [],
+        "description": "German word for 'The knowledge'.",
+        "description_de": "Deutsches Wort für 'The knowledge'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Prüfung war einfacher, als ich erwartet hatte.",
+            "Sie studiert Medizin an der Universität.",
+            "das Wissen",
+            "Spitze deinen Bleistift vor dem Unterricht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To learn",
+        "text_de": "lernen",
+        "synonyms": [],
+        "description": "German word for 'To learn'.",
+        "description_de": "Deutsches Wort für 'To learn'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Abschlussnoten werden morgen online stehen.",
+            "Kunst und Musik sind auch wichtig.",
+            "lernen",
+            "das Wissen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To study",
+        "text_de": "studieren",
+        "synonyms": [],
+        "description": "German word for 'To study'.",
+        "description_de": "Deutsches Wort für 'To study'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Abschlussnoten werden morgen online stehen.",
+            "studieren",
+            "Ich freue mich auf den Abschluss.",
+            "Der Unterricht beginnt um acht Uhr morgens."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To teach",
+        "text_de": "unterrichten",
+        "synonyms": [],
+        "description": "German word for 'To teach'.",
+        "description_de": "Deutsches Wort für 'To teach'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung sollte für jeden kostenlos sein.",
+            "Kunst und Musik sind auch wichtig.",
+            "Nächste Woche machen wir einen Schulausflug.",
+            "unterrichten"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To graduate",
+        "text_de": "einen Abschluss machen",
+        "synonyms": [],
+        "description": "German word for 'To graduate'.",
+        "description_de": "Deutsches Wort für 'To graduate'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kritisches Denken ist unerlässlich.",
+            "unterrichten",
+            "einen Abschluss machen",
+            "Ich wünsche dir viel Glück bei deinen Prüfungen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education is the key to success.",
+        "text_de": "Bildung ist der Schlüssel zum Erfolg.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lernen",
+            "Bildung ist der Schlüssel zum Erfolg.",
+            "Lerngruppen können sehr hilfreich sein.",
+            "Ich habe meinen Radiergummi verloren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I go to school from Monday to Friday.",
+        "text_de": "Ich gehe von Montag bis Freitag zur Schule.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss für meine Matheprüfung lernen.",
+            "Erfolg erfordert harte Arbeit und Disziplin.",
+            "Ich gehe von Montag bis Freitag zur Schule.",
+            "Ich besuche einen Abendkurs für Spanisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She is studying medicine at the university.",
+        "text_de": "Sie studiert Medizin an der Universität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Spitze deinen Bleistift vor dem Unterricht.",
+            "Sie studiert Medizin an der Universität.",
+            "die Schule",
+            "Kritisches Denken ist unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The teacher explains the grammar clearly.",
+        "text_de": "Der Lehrer erklärt die Grammatik deutlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffnet eure Bücher auf Seite fünfzig.",
+            "Der Lehrer erklärt die Grammatik deutlich.",
+            "die Universität",
+            "Ich möchte mein Wissen in Deutsch verbessern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What is your favorite subject at school?",
+        "text_de": "Was ist dein Lieblingsfach in der Schule?",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was ist dein Lieblingsfach in der Schule?",
+            "Ich brauche ein neues Wörterbuch für Englisch.",
+            "Sie ist eine sehr fleißige Schülerin.",
+            "die Bibliothek"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have to study for my math exam.",
+        "text_de": "Ich muss für meine Matheprüfung lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss für meine Matheprüfung lernen.",
+            "Ich freue mich auf den Abschluss.",
+            "Sie ist eine sehr fleißige Schülerin.",
+            "Kritisches Denken ist unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He got a very good grade on the test.",
+        "text_de": "Er hat eine sehr gute Note im Test bekommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er hat eine sehr gute Note im Test bekommen.",
+            "Lass uns zum Mittagessen in die Mensa gehen.",
+            "einen Abschluss machen",
+            "Ich habe viele Bücher in meinem Zimmer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Homework is sometimes very difficult.",
+        "text_de": "Hausaufgaben sind manchmal sehr schwierig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir besprechen heute ein neues Thema.",
+            "Hausaufgaben sind manchmal sehr schwierig.",
+            "Kunst und Musik sind auch wichtig.",
+            "Plagiat ist ein schweres Vergehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The library is a quiet place for studying.",
+        "text_de": "Die Bibliothek ist ein ruhiger Ort zum Lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Prüfen Sie immer mehrere Quellen.",
+            "Die Bibliothek ist ein ruhiger Ort zum Lernen.",
+            "Respektiere deine Lehrer und Mitschüler.",
+            "das Fach"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to improve my knowledge of German.",
+        "text_de": "Ich möchte mein Wissen in Deutsch verbessern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Hörsaal ist voller Studenten.",
+            "die Hausaufgaben",
+            "Ich habe die Frist für den Aufsatz verpasst.",
+            "Ich möchte mein Wissen in Deutsch verbessern."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Teaching is a very demanding profession.",
+        "text_de": "Lehrer zu sein ist ein sehr anspruchsvoller Beruf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kannst du mir bei diesem Problem helfen?",
+            "Ich bin fertig mit meinen Hausaufgaben.",
+            "Studienkredite können eine Belastung sein.",
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I graduated from high school last year.",
+        "text_de": "Ich habe letztes Jahr meinen Schulabschluss gemacht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe letztes Jahr meinen Schulabschluss gemacht.",
+            "die Bildung",
+            "Ich freue mich auf den Abschluss.",
+            "Der Hörsaal ist voller Studenten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are you taking any online courses?",
+        "text_de": "Belegst du Online-Kurse?",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe letztes Jahr meinen Schulabschluss gemacht.",
+            "Lerngruppen können sehr hilfreich sein.",
+            "Bildung sollte für jeden kostenlos sein.",
+            "Belegst du Online-Kurse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lesson starts at eight AM.",
+        "text_de": "Der Unterricht beginnt um acht Uhr morgens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bildung beginnt zu Hause.",
+            "Der Unterricht beginnt um acht Uhr morgens.",
+            "Sie studiert Medizin an der Universität.",
+            "die Prüfung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are discussing a new topic today.",
+        "text_de": "Wir besprechen heute ein neues Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe letztes Jahr meinen Schulabschluss gemacht.",
+            "Hab keine Angst davor, Fehler zu machen.",
+            "Ich bin fertig mit meinen Hausaufgaben.",
+            "Wir besprechen heute ein neues Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new dictionary for English.",
+        "text_de": "Ich brauche ein neues Wörterbuch für Englisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seid leise, während andere sprechen.",
+            "Ich brauche ein neues Wörterbuch für Englisch.",
+            "Die Abschlussnoten werden morgen online stehen.",
+            "der Lehrer"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Study groups can be very helpful.",
+        "text_de": "Lerngruppen können sehr hilfreich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was ist dein Lieblingsfach in der Schule?",
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf.",
+            "Lerngruppen können sehr hilfreich sein.",
+            "Wer möchte als Nächstes lesen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The university campus is very modern.",
+        "text_de": "Der Universitätscampus ist sehr modern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Universitätscampus ist sehr modern.",
+            "Ich besuche einen Abendkurs für Spanisch.",
+            "Packe jeden Abend deinen Rucksack.",
+            "Die Prüfung war einfacher, als ich erwartet hatte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is working on his doctoral thesis.",
+        "text_de": "Er arbeitet an seiner Doktorarbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Plagiat ist ein schweres Vergehen.",
+            "Ich liebe es, etwas über andere Kulturen zu lernen.",
+            "Ich benutze eine App, um Vokabeln zu lernen.",
+            "Er arbeitet an seiner Doktorarbeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education should be free for everyone.",
+        "text_de": "Bildung sollte für jeden kostenlos sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf.",
+            "Sie studiert Medizin an der Universität.",
+            "einen Abschluss machen",
+            "Bildung sollte für jeden kostenlos sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I learn something new every day.",
+        "text_de": "Ich lerne jeden Tag etwas Neues.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nächste Woche machen wir einen Schulausflug.",
+            "Sie ist eine sehr fleißige Schülerin.",
+            "unterrichten",
+            "Ich lerne jeden Tag etwas Neues."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Practice makes perfect.",
+        "text_de": "Übung macht den Meister.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe viele Bücher in meinem Zimmer.",
+            "Der Lehrer erklärt die Grammatik deutlich.",
+            "Übung macht den Meister.",
+            "Ich lerne jeden Tag etwas Neues."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "She is a very diligent student.",
+        "text_de": "Sie ist eine sehr fleißige Schülerin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Schule beginnt pünktlich um 8:00 Uhr.",
+            "Ich besuche einen Abendkurs für Spanisch.",
+            "Sie ist eine sehr fleißige Schülerin.",
+            "Das Internet ist eine großartige Informationsquelle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The professor is an expert in his field.",
+        "text_de": "Der Professor ist ein Experte auf seinem Gebiet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Museumsbesuch war lehrreich.",
+            "Ich suche einen Nachhilfelehrer für Physik.",
+            "Das Semester endet im Februar.",
+            "Der Professor ist ein Experte auf seinem Gebiet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a lot of books in my room.",
+        "text_de": "Ich habe viele Bücher in meinem Zimmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er arbeitet an seiner Doktorarbeit.",
+            "Ich habe viele Bücher in meinem Zimmer.",
+            "Bildung ist der Schlüssel zum Erfolg.",
+            "das Wissen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where can I find information about the course?",
+        "text_de": "Wo finde ich Informationen über den Kurs?",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo finde ich Informationen über den Kurs?",
+            "Der Professor ist ein Experte auf seinem Gebiet.",
+            "Hab keine Angst davor, Fehler zu machen.",
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The semester ends in February.",
+        "text_de": "Das Semester endet im Februar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Semester endet im Februar.",
+            "Was ist dein Lieblingsfach in der Schule?",
+            "Er arbeitet an seiner Doktorarbeit.",
+            "Öffnet eure Bücher auf Seite fünfzig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a tutor for physics.",
+        "text_de": "Ich suche einen Nachhilfelehrer für Physik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen Nachhilfelehrer für Physik.",
+            "Ich habe die Frist für den Aufsatz verpasst.",
+            "Der Professor ist ein Experte auf seinem Gebiet.",
+            "Belegst du Online-Kurse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Vocational training takes three years.",
+        "text_de": "Die Berufsausbildung dauert drei Jahre.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfolg erfordert harte Arbeit und Disziplin.",
+            "Respektiere deine Lehrer und Mitschüler.",
+            "Der Professor ist ein Experte auf seinem Gebiet.",
+            "Die Berufsausbildung dauert drei Jahre."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to study abroad for a semester.",
+        "text_de": "Ich möchte ein Semester im Ausland studieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Kurs",
+            "Ich möchte ein Semester im Ausland studieren.",
+            "Seid leise, während andere sprechen.",
+            "Wo finde ich Informationen über den Kurs?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learning a language requires patience.",
+        "text_de": "Eine Sprache zu lernen erfordert Geduld.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Lehrer",
+            "Kannst du mir bei diesem Problem helfen?",
+            "Eine Sprache zu lernen erfordert Geduld.",
+            "Ich habe die Frist für den Aufsatz verpasst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I use an app to learn vocabulary.",
+        "text_de": "Ich benutze eine App, um Vokabeln zu lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe letztes Jahr meinen Schulabschluss gemacht.",
+            "Kritisches Denken ist unerlässlich.",
+            "Ich benutze eine App, um Vokabeln zu lernen.",
+            "die Bildung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The exam was easier than I expected.",
+        "text_de": "Die Prüfung war einfacher, als ich erwartet hatte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Abschluss",
+            "Die Prüfung war einfacher, als ich erwartet hatte.",
+            "Ich mache mir Notizen während der Vorlesung.",
+            "Die Bibliothek ist ein ruhiger Ort zum Lernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't forget to sign the application.",
+        "text_de": "Vergessen Sie nicht, den Antrag zu unterschreiben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe viel aus diesem Projekt gelernt.",
+            "Vergessen Sie nicht, den Antrag zu unterschreiben.",
+            "Packe jeden Abend deinen Rucksack.",
+            "Ich interessiere mich für Naturwissenschaften."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education starts at home.",
+        "text_de": "Bildung beginnt zu Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Tinte ist leer.",
+            "Ich lerne jeden Tag etwas Neues.",
+            "Bildung beginnt zu Hause.",
+            "Die Schule beginnt pünktlich um 8:00 Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Schools need better equipment.",
+        "text_de": "Schulen brauchen eine bessere Ausstattung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffnet eure Bücher auf Seite fünfzig.",
+            "Ich möchte ein Semester im Ausland studieren.",
+            "Schulen brauchen eine bessere Ausstattung.",
+            "Das Zertifikat ist weltweit gültig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I take notes during the lecture.",
+        "text_de": "Ich mache mir Notizen während der Vorlesung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er hat eine sehr gute Note im Test bekommen.",
+            "Die Tinte ist leer.",
+            "Ich mache mir Notizen während der Vorlesung.",
+            "Erfolg erfordert harte Arbeit und Disziplin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The auditorium is full of students.",
+        "text_de": "Der Hörsaal ist voller Studenten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Hörsaal ist voller Studenten.",
+            "das Wissen",
+            "Hausaufgaben sind manchmal sehr schwierig.",
+            "Erfolg erfordert harte Arbeit und Disziplin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I missed the deadline for the essay.",
+        "text_de": "Ich habe die Frist für den Aufsatz verpasst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunst und Musik sind auch wichtig.",
+            "Ich habe ein Stipendium für mein Studium.",
+            "Ich habe die Frist für den Aufsatz verpasst.",
+            "Was ist dein Lieblingsfach in der Schule?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Plagiarism is a serious offense.",
+        "text_de": "Plagiat ist ein schweres Vergehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns zum Mittagessen in die Mensa gehen.",
+            "die Bildung",
+            "Plagiat ist ein schweres Vergehen.",
+            "Die Abschlussnoten werden morgen online stehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Critical thinking is essential.",
+        "text_de": "Kritisches Denken ist unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe die Frist für den Aufsatz verpasst.",
+            "Die Prüfung war einfacher, als ich erwartet hatte.",
+            "unterrichten",
+            "Kritisches Denken ist unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The curriculum is very broad.",
+        "text_de": "Der Lehrplan ist sehr breit gefächert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kindergarten ist in der Nähe unseres Hauses.",
+            "Die Tafel ist voller Formeln.",
+            "Der Lehrplan ist sehr breit gefächert.",
+            "Ich habe viel aus diesem Projekt gelernt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in natural sciences.",
+        "text_de": "Ich interessiere mich für Naturwissenschaften.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für Naturwissenschaften.",
+            "Eine Sprache zu lernen erfordert Geduld.",
+            "Ich gehe von Montag bis Freitag zur Schule.",
+            "Die Bibliothek ist ein ruhiger Ort zum Lernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Arts and music are also important.",
+        "text_de": "Kunst und Musik sind auch wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf.",
+            "Kunst und Musik sind auch wichtig.",
+            "Spitze deinen Bleistift vor dem Unterricht.",
+            "Der Lehrplan ist sehr breit gefächert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The school yard is very noisy during break.",
+        "text_de": "Der Schulhof ist in der Pause sehr laut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer möchte als Nächstes lesen?",
+            "Ich interessiere mich für Naturwissenschaften.",
+            "Kannst du mir bei diesem Problem helfen?",
+            "Der Schulhof ist in der Pause sehr laut."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a scholarship for my studies.",
+        "text_de": "Ich habe ein Stipendium für mein Studium.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein Stipendium für mein Studium.",
+            "das Studium",
+            "Kann ich mir bitte einen Stift leihen?",
+            "Wir besprechen heute ein neues Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Student loans can be a burden.",
+        "text_de": "Studienkredite können eine Belastung sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was ist dein Lieblingsfach in der Schule?",
+            "Studienkredite können eine Belastung sein.",
+            "Ich möchte ein Semester im Ausland studieren.",
+            "Ich habe meinen Radiergummi verloren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm done with my homework.",
+        "text_de": "Ich bin fertig mit meinen Hausaufgaben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Professor",
+            "das Fach",
+            "Ich bin fertig mit meinen Hausaufgaben.",
+            "Plagiat ist ein schweres Vergehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can you help me with this problem?",
+        "text_de": "Kannst du mir bei diesem Problem helfen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Lehrer",
+            "Ich habe meinen Radiergummi verloren.",
+            "Kannst du mir bei diesem Problem helfen?",
+            "das Fach"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's go to the cafeteria for lunch.",
+        "text_de": "Lass uns zum Mittagessen in die Mensa gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Prüfung",
+            "Lass uns zum Mittagessen in die Mensa gehen.",
+            "der Professor",
+            "Der Lehrer erklärt die Grammatik deutlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking forward to graduation.",
+        "text_de": "Ich freue mich auf den Abschluss.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was ist dein Lieblingsfach in der Schule?",
+            "Die Tinte ist leer.",
+            "Ich freue mich auf den Abschluss.",
+            "Der Museumsbesuch war lehrreich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life is a journey of learning.",
+        "text_de": "Das Leben ist eine Reise des Lernens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es, etwas über andere Kulturen zu lernen.",
+            "Melden Sie sich, wenn Sie eine Frage haben.",
+            "Sie studiert Medizin an der Universität.",
+            "Das Leben ist eine Reise des Lernens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to become a primary school teacher.",
+        "text_de": "Ich möchte Grundschullehrer werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte Grundschullehrer werden.",
+            "Hab keine Angst davor, Fehler zu machen.",
+            "Respektiere deine Lehrer und Mitschüler.",
+            "Erfolg erfordert harte Arbeit und Disziplin."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The preschool is near our house.",
+        "text_de": "Der Kindergarten ist in der Nähe unseres Hauses.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich möchte mein Wissen in Deutsch verbessern.",
+            "Studienkredite können eine Belastung sein.",
+            "Ich benutze eine App, um Vokabeln zu lernen.",
+            "Der Kindergarten ist in der Nähe unseres Hauses."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Adult education is becoming more important.",
+        "text_de": "Erwachsenenbildung wird immer wichtiger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erwachsenenbildung wird immer wichtiger.",
+            "Kunst und Musik sind auch wichtig.",
+            "der Unterricht",
+            "Ich brauche ein neues Wörterbuch für Englisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I attend an evening class for Spanish.",
+        "text_de": "Ich besuche einen Abendkurs für Spanisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich gehe von Montag bis Freitag zur Schule.",
+            "Ich bin fertig mit meinen Hausaufgaben.",
+            "Ich besuche einen Abendkurs für Spanisch.",
+            "Ich habe viele Bücher in meinem Zimmer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The certificate is valid worldwide.",
+        "text_de": "Das Zertifikat ist weltweit gültig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Zertifikat ist weltweit gültig.",
+            "einen Abschluss machen",
+            "Belegst du Online-Kurse?",
+            "Die Abschlussnoten werden morgen online stehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I learned a lot from this project.",
+        "text_de": "Ich habe viel aus diesem Projekt gelernt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Tafel ist voller Formeln.",
+            "Bildung beginnt zu Hause.",
+            "Ich habe viel aus diesem Projekt gelernt.",
+            "die Note"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't be afraid of making mistakes.",
+        "text_de": "Hab keine Angst davor, Fehler zu machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich freue mich auf den Abschluss.",
+            "Der Professor ist ein Experte auf seinem Gebiet.",
+            "Hab keine Angst davor, Fehler zu machen.",
+            "die Schule"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Success requires hard work and discipline.",
+        "text_de": "Erfolg erfordert harte Arbeit und Disziplin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunst und Musik sind auch wichtig.",
+            "Erfolg erfordert harte Arbeit und Disziplin.",
+            "Ich möchte ein Semester im Ausland studieren.",
+            "Ich freue mich auf den Abschluss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The blackboard is full of formulas.",
+        "text_de": "Die Tafel ist voller Formeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Tafel ist voller Formeln.",
+            "das Wissen",
+            "Ich möchte ein Semester im Ausland studieren.",
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open your books to page fifty.",
+        "text_de": "Öffnet eure Bücher auf Seite fünfzig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Bildung",
+            "Öffnet eure Bücher auf Seite fünfzig.",
+            "Erfolg erfordert harte Arbeit und Disziplin.",
+            "Ich muss für meine Matheprüfung lernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who wants to read next?",
+        "text_de": "Wer möchte als Nächstes lesen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wer möchte als Nächstes lesen?",
+            "Ich interessiere mich für Naturwissenschaften.",
+            "Vergessen Sie nicht, den Antrag zu unterschreiben.",
+            "Ich möchte ein Semester im Ausland studieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Raise your hand if you have a question.",
+        "text_de": "Melden Sie sich, wenn Sie eine Frage haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunst und Musik sind auch wichtig.",
+            "Das Semester endet im Februar.",
+            "Hausaufgaben sind manchmal sehr schwierig.",
+            "Melden Sie sich, wenn Sie eine Frage haben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be quiet while others are talking.",
+        "text_de": "Seid leise, während andere sprechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Schulhof ist in der Pause sehr laut.",
+            "Ich wünsche dir viel Glück bei deinen Prüfungen!",
+            "Seid leise, während andere sprechen.",
+            "Belegst du Online-Kurse?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect your teachers and classmates.",
+        "text_de": "Respektiere deine Lehrer und Mitschüler.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche einen Nachhilfelehrer für Physik.",
+            "Belegst du Online-Kurse?",
+            "Das Leben ist eine Reise des Lernens.",
+            "Respektiere deine Lehrer und Mitschüler."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The school starts at 8:00 sharp.",
+        "text_de": "Die Schule beginnt pünktlich um 8:00 Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Schule beginnt pünktlich um 8:00 Uhr.",
+            "Ich mache mir Notizen während der Vorlesung.",
+            "Das Semester endet im Februar.",
+            "Kunst und Musik sind auch wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Pack your backpack every evening.",
+        "text_de": "Packe jeden Abend deinen Rucksack.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffnet eure Bücher auf Seite fünfzig.",
+            "Seid leise, während andere sprechen.",
+            "Das Leben ist eine Reise des Lernens.",
+            "Packe jeden Abend deinen Rucksack."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I lost my eraser.",
+        "text_de": "Ich habe meinen Radiergummi verloren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf.",
+            "Bildung beginnt zu Hause.",
+            "Ich brauche ein neues Wörterbuch für Englisch.",
+            "Ich habe meinen Radiergummi verloren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Can I borrow a pen, please?",
+        "text_de": "Kann ich mir bitte einen Stift leihen?",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erfolg erfordert harte Arbeit und Disziplin.",
+            "die Bildung",
+            "Prüfen Sie immer mehrere Quellen.",
+            "Kann ich mir bitte einen Stift leihen?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ink is empty.",
+        "text_de": "Die Tinte ist leer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Tinte ist leer.",
+            "Er arbeitet an seiner Doktorarbeit.",
+            "Der Lehrplan ist sehr breit gefächert.",
+            "Übung macht den Meister."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sharp your pencil before the lesson.",
+        "text_de": "Spitze deinen Bleistift vor dem Unterricht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hab keine Angst davor, Fehler zu machen.",
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf.",
+            "Der Museumsbesuch war lehrreich.",
+            "Spitze deinen Bleistift vor dem Unterricht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are going on a school trip next week.",
+        "text_de": "Nächste Woche machen wir einen Schulausflug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Plagiat ist ein schweres Vergehen.",
+            "Ich freue mich auf den Abschluss.",
+            "Ich habe meinen Radiergummi verloren.",
+            "Nächste Woche machen wir einen Schulausflug."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The museum visit was educational.",
+        "text_de": "Der Museumsbesuch war lehrreich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Museumsbesuch war lehrreich.",
+            "Eine Sprache zu lernen erfordert Geduld.",
+            "Ich möchte Grundschullehrer werden.",
+            "Ich habe letztes Jahr meinen Schulabschluss gemacht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love learning about different cultures.",
+        "text_de": "Ich liebe es, etwas über andere Kulturen zu lernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Hörsaal ist voller Studenten.",
+            "unterrichten",
+            "Ich liebe es, etwas über andere Kulturen zu lernen.",
+            "Ich wünsche dir viel Glück bei deinen Prüfungen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education is a lifelong process.",
+        "text_de": "Bildung ist ein lebenslanger Prozess.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Studienkredite können eine Belastung sein.",
+            "der Schüler",
+            "Bildung ist ein lebenslanger Prozess.",
+            "Lehrer zu sein ist ein sehr anspruchsvoller Beruf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The internet is a great source of information.",
+        "text_de": "Das Internet ist eine großartige Informationsquelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "lernen",
+            "Das Internet ist eine großartige Informationsquelle.",
+            "Bildung ist ein lebenslanger Prozess.",
+            "Plagiat ist ein schweres Vergehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Always check several sources.",
+        "text_de": "Prüfen Sie immer mehrere Quellen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Studium",
+            "Prüfen Sie immer mehrere Quellen.",
+            "Hausaufgaben sind manchmal sehr schwierig.",
+            "Ich liebe es, etwas über andere Kulturen zu lernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The final grades will be online tomorrow.",
+        "text_de": "Die Abschlussnoten werden morgen online stehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe viel aus diesem Projekt gelernt.",
+            "Ich bin fertig mit meinen Hausaufgaben.",
+            "Das Zertifikat ist weltweit gültig.",
+            "Die Abschlussnoten werden morgen online stehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you good luck in your exams!",
+        "text_de": "Ich wünsche dir viel Glück bei deinen Prüfungen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Education'.",
+        "description_de": "Beispielsatz für 'Education'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche dir viel Glück bei deinen Prüfungen!",
+            "Der Lehrplan ist sehr breit gefächert.",
+            "Kritisches Denken ist unerlässlich.",
+            "Ich suche einen Nachhilfelehrer für Physik."
+        ]
+    }
+]

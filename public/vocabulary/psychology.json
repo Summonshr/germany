@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Psychology",
+        "text_de": "die Psychologie",
+        "synonyms": [],
+        "description": "German word for 'Psychology'.",
+        "description_de": "Deutsches Wort für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Psychologie",
+            "die Psyche",
+            "Es braucht Zeit, um eine neue Gewohnheit aufzubauen.",
+            "die Gewohnheit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The mind",
+        "text_de": "der Geist",
+        "synonyms": [],
+        "description": "German word for 'The mind'.",
+        "description_de": "Deutsches Wort für 'The mind'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glaube an die Kraft deines Geistes.",
+            "der Geist",
+            "die Persönlichkeit",
+            "Ich fühle mich heute sehr ruhig und entspannt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The soul",
+        "text_de": "die Seele",
+        "synonyms": [],
+        "description": "German word for 'The soul'.",
+        "description_de": "Deutsches Wort für 'The soul'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Stress",
+            "Hab den Mut, die Dinge zu ändern, die du kannst.",
+            "Psychoanalyse erforscht die Vergangenheit.",
+            "die Seele"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The behavior",
+        "text_de": "das Verhalten",
+        "synonyms": [],
+        "description": "German word for 'The behavior'.",
+        "description_de": "Deutsches Wort für 'The behavior'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Gedanke",
+            "das Verhalten",
+            "Jeder hat ein einzigartiges psychologisches Profil.",
+            "Tests können helfen, Stärken und Schwächen zu identifizieren."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The emotion",
+        "text_de": "das Gefühl",
+        "synonyms": [],
+        "description": "German word for 'The emotion'.",
+        "description_de": "Deutsches Wort für 'The emotion'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unterdrücke deine Gefühle nicht.",
+            "das Gefühl",
+            "Psychologie ist das Studium des menschlichen Geistes.",
+            "Empathie ist die Fähigkeit, andere zu verstehen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The thought",
+        "text_de": "der Gedanke",
+        "synonyms": [],
+        "description": "German word for 'The thought'.",
+        "description_de": "Deutsches Wort für 'The thought'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "fühlen",
+            "Ich bin fasziniert von der Verhaltenswissenschaft.",
+            "Endorphine sind natürliche Schmerzmittel.",
+            "der Gedanke"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The memory",
+        "text_de": "das Gedächtnis",
+        "synonyms": [],
+        "description": "German word for 'The memory'.",
+        "description_de": "Deutsches Wort für 'The memory'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Positives Denken kann deine Stimmung verbessern.",
+            "Wie hat er auf die Nachrichten reagiert?",
+            "das Gedächtnis",
+            "Die 'Kampf-oder-Flucht'-Reaktion."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The personality",
+        "text_de": "die Persönlichkeit",
+        "synonyms": [],
+        "description": "German word for 'The personality'.",
+        "description_de": "Deutsches Wort für 'The personality'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gefühle gehören zu jedem menschlichen Leben.",
+            "das Trauma",
+            "die Gewohnheit",
+            "die Persönlichkeit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The motivation",
+        "text_de": "die Motivation",
+        "synonyms": [],
+        "description": "German word for 'The motivation'.",
+        "description_de": "Deutsches Wort für 'The motivation'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Resilienz ist die Kraft, sich wieder aufzurappeln.",
+            "Die 'Kampf-oder-Flucht'-Reaktion.",
+            "der Geist",
+            "die Motivation"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The perception",
+        "text_de": "die Wahrnehmung",
+        "synonyms": [],
+        "description": "German word for 'The perception'.",
+        "description_de": "Deutsches Wort für 'The perception'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das menschliche Gehirn ist das komplexeste Organ.",
+            "Respektiere die Gefühle anderer.",
+            "Einsamkeit kann zu Depressionen führen.",
+            "die Wahrnehmung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The consciousness",
+        "text_de": "das Bewusstsein",
+        "synonyms": [],
+        "description": "German word for 'The consciousness'.",
+        "description_de": "Deutsches Wort für 'The consciousness'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Sozialpsychologie untersucht Gruppenverhalten.",
+            "Der Lernprozess hört niemals auf.",
+            "das Bewusstsein",
+            "Empathie ist die Fähigkeit, andere zu verstehen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The unconscious",
+        "text_de": "das Unbewusste",
+        "synonyms": [],
+        "description": "German word for 'The unconscious'.",
+        "description_de": "Deutsches Wort für 'The unconscious'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Endorphine sind natürliche Schmerzmittel.",
+            "das Unbewusste",
+            "das Gedächtnis",
+            "Burnout ist eine ernsthafte Erkrankung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The stress",
+        "text_de": "der Stress",
+        "synonyms": [],
+        "description": "German word for 'The stress'.",
+        "description_de": "Deutsches Wort für 'The stress'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Stress",
+            "Archetypen sind universelle Symbole.",
+            "Unser Verhalten wird von unserer Umgebung beeinflusst.",
+            "Ich habe ein gutes Gedächtnis für Namen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The therapy",
+        "text_de": "die Therapie",
+        "synonyms": [],
+        "description": "German word for 'The therapy'.",
+        "description_de": "Deutsches Wort für 'The therapy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vertrauen ist die Basis einer Therapie.",
+            "Ich fühle mich heute sehr ruhig und entspannt.",
+            "Vergebung ist für dich selbst, nicht für andere.",
+            "die Therapie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The trauma",
+        "text_de": "das Trauma",
+        "synonyms": [],
+        "description": "German word for 'The trauma'.",
+        "description_de": "Deutsches Wort für 'The trauma'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schlaf ist essenziell für die kognitive Funktion.",
+            "Ein gesundes Selbstwertgefühl ist wichtig.",
+            "das Trauma",
+            "Liste drei Dinge auf, für die du heute dankbar bist."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The habit",
+        "text_de": "die Gewohnheit",
+        "synonyms": [],
+        "description": "German word for 'The habit'.",
+        "description_de": "Deutsches Wort für 'The habit'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gewohnheit",
+            "Anlage gegen Umwelt ist eine klassische Debatte.",
+            "Heile von innen.",
+            "das Gedächtnis"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The instinct",
+        "text_de": "der Instinkt",
+        "synonyms": [],
+        "description": "German word for 'The instinct'.",
+        "description_de": "Deutsches Wort für 'The instinct'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin fasziniert von der Verhaltenswissenschaft.",
+            "Die 'Kampf-oder-Flucht'-Reaktion.",
+            "reagieren",
+            "der Instinkt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The psyche",
+        "text_de": "die Psyche",
+        "synonyms": [],
+        "description": "German word for 'The psyche'.",
+        "description_de": "Deutsches Wort für 'The psyche'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstbewusstsein ist eine wichtige Fähigkeit.",
+            "die Therapie",
+            "die Psyche",
+            "Operante Konditionierung nutzt Belohnungen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To feel",
+        "text_de": "fühlen",
+        "synonyms": [],
+        "description": "German word for 'To feel'.",
+        "description_de": "Deutsches Wort für 'To feel'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glaube an die Kraft deines Geistes.",
+            "die Psyche",
+            "Die 'Kampf-oder-Flucht'-Reaktion.",
+            "fühlen"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To react",
+        "text_de": "reagieren",
+        "synonyms": [],
+        "description": "German word for 'To react'.",
+        "description_de": "Deutsches Wort für 'To react'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Instinkte helfen Tieren beim Überleben.",
+            "Positives Denken kann deine Stimmung verbessern.",
+            "Körpersprache sagt viel über eine Person aus.",
+            "reagieren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Psychology is the study of the human mind.",
+        "text_de": "Psychologie ist das Studium des menschlichen Geistes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Endorphine sind natürliche Schmerzmittel.",
+            "Achtsamkeit bedeutet, im Moment zu leben.",
+            "Ich bin fasziniert von der Verhaltenswissenschaft.",
+            "Psychologie ist das Studium des menschlichen Geistes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our behavior is influenced by our surroundings.",
+        "text_de": "Unser Verhalten wird von unserer Umgebung beeinflusst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Optimismus kann gelernt werden.",
+            "Unser Verhalten wird von unserer Umgebung beeinflusst.",
+            "Kümmere dich um deine Psyche genauso wie um deinen Körper.",
+            "Das Gehirn braucht Ruhe, um Erinnerungen zu verarbeiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Emotions are part of every human life.",
+        "text_de": "Gefühle gehören zu jedem menschlichen Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die kognitive Psychologie erforscht Denkprozesse.",
+            "Gefühle gehören zu jedem menschlichen Leben.",
+            "Das Ich und das Über-Ich.",
+            "das Verhalten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Positive thinking can improve your mood.",
+        "text_de": "Positives Denken kann deine Stimmung verbessern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich heute sehr ruhig und entspannt.",
+            "Positives Denken kann deine Stimmung verbessern.",
+            "Das Unbewusste verarbeitet viele Informationen.",
+            "Archetypen sind universelle Symbole."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He has a very strong personality.",
+        "text_de": "Er hat eine sehr starke Persönlichkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Motivation ist der Schlüssel zum Erreichen deiner Ziele.",
+            "Gefühle gehören zu jedem menschlichen Leben.",
+            "Das Ich und das Über-Ich.",
+            "Er hat eine sehr starke Persönlichkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a good memory for names.",
+        "text_de": "Ich habe ein gutes Gedächtnis für Namen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vermeide toxische Beziehungen.",
+            "Ich habe ein gutes Gedächtnis für Namen.",
+            "Anlage gegen Umwelt ist eine klassische Debatte.",
+            "die Psyche"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Motivation is key to achieving your goals.",
+        "text_de": "Motivation ist der Schlüssel zum Erreichen deiner Ziele.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bilaterale Stimulation wird bei EMDR verwendet.",
+            "das Gedächtnis",
+            "Motivation ist der Schlüssel zum Erreichen deiner Ziele.",
+            "Kindheitserfahrungen prägen das Erwachsenenleben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our perception of reality can be biased.",
+        "text_de": "Unsere Wahrnehmung der Realität kann voreingenommen sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Gewohnheit",
+            "Instinkte helfen Tieren beim Überleben.",
+            "Akzeptiere die Dinge, die du nicht ändern kannst.",
+            "Unsere Wahrnehmung der Realität kann voreingenommen sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Self-consciousness is an important skill.",
+        "text_de": "Selbstbewusstsein ist eine wichtige Fähigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstbewusstsein ist eine wichtige Fähigkeit.",
+            "Akzeptiere die Dinge, die du nicht ändern kannst.",
+            "Ich habe ein gutes Gedächtnis für Namen.",
+            "Die klassische Konditionierung wurde von Pawlow entdeckt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The unconscious mind processes a lot of information.",
+        "text_de": "Das Unbewusste verarbeitet viele Informationen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Instinkte helfen Tieren beim Überleben.",
+            "Perfektionismus ist ein zweischneidiges Schwert.",
+            "Das Unbewusste verarbeitet viele Informationen.",
+            "Serotonin beeinflusst Stimmung und Schlaf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stress can have a negative impact on health.",
+        "text_de": "Stress kann negative Auswirkungen auf die Gesundheit haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Trauma",
+            "Der Placebo-Effekt ist faszinierend.",
+            "das Verhalten",
+            "Stress kann negative Auswirkungen auf die Gesundheit haben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Therapy can help to overcome mental issues.",
+        "text_de": "Therapie kann helfen, psychische Probleme zu überwinden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Träume spiegeln oft unsere täglichen Sorgen wider.",
+            "Die kognitive Psychologie erforscht Denkprozesse.",
+            "Therapie kann helfen, psychische Probleme zu überwinden.",
+            "reagieren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Old traumas can resurface in difficult times.",
+        "text_de": "Alte Traumen können in schwierigen Zeiten wieder auftauchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Motivation ist der Schlüssel zum Erreichen deiner Ziele.",
+            "Die klassische Konditionierung wurde von Pawlow entdeckt.",
+            "Ein gesundes Selbstwertgefühl ist wichtig.",
+            "Alte Traumen können in schwierigen Zeiten wieder auftauchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It takes time to build a new habit.",
+        "text_de": "Es braucht Zeit, um eine neue Gewohnheit aufzubauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unser Verhalten wird von unserer Umgebung beeinflusst.",
+            "Es braucht Zeit, um eine neue Gewohnheit aufzubauen.",
+            "der Stress",
+            "fühlen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Instincts help animals to survive.",
+        "text_de": "Instinkte helfen Tieren beim Überleben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Instinkte helfen Tieren beim Überleben.",
+            "Selbstbewusstsein ist eine wichtige Fähigkeit.",
+            "Unterdrücke deine Gefühle nicht.",
+            "Gefühle gehören zu jedem menschlichen Leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Take care of your psyche as much as your body.",
+        "text_de": "Kümmere dich um deine Psyche genauso wie um deinen Körper.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Geist",
+            "die Persönlichkeit",
+            "die Wahrnehmung",
+            "Kümmere dich um deine Psyche genauso wie um deinen Körper."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel very calm and relaxed today.",
+        "text_de": "Ich fühle mich heute sehr ruhig und entspannt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vertrauen ist die Basis einer Therapie.",
+            "Ich fühle mich heute sehr ruhig und entspannt.",
+            "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit.",
+            "das Gefühl"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How did he react to the news?",
+        "text_de": "Wie hat er auf die Nachrichten reagiert?",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit.",
+            "Wie hat er auf die Nachrichten reagiert?",
+            "Ich fühle mich heute sehr ruhig und entspannt.",
+            "Endorphine sind natürliche Schmerzmittel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cognitive psychology explores thinking processes.",
+        "text_de": "Die kognitive Psychologie erforscht Denkprozesse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gefühle gehören zu jedem menschlichen Leben.",
+            "Psychologie ist das Studium des menschlichen Geistes.",
+            "das Unbewusste",
+            "Die kognitive Psychologie erforscht Denkprozesse."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social psychology studies group behavior.",
+        "text_de": "Die Sozialpsychologie untersucht Gruppenverhalten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stress kann negative Auswirkungen auf die Gesundheit haben.",
+            "Die Sozialpsychologie untersucht Gruppenverhalten.",
+            "Vertrauen ist die Basis einer Therapie.",
+            "Glaube an die Kraft deines Geistes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Empathy is the ability to understand others.",
+        "text_de": "Empathie ist die Fähigkeit, andere zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Psyche",
+            "Empathie ist die Fähigkeit, andere zu verstehen.",
+            "Soziale Unterstützung ist ein Schutzfaktor.",
+            "die Psychologie"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A healthy self-esteem is important.",
+        "text_de": "Ein gesundes Selbstwertgefühl ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Intelligente Menschen sind nicht immer erfolgreich.",
+            "Operante Konditionierung nutzt Belohnungen.",
+            "Die klassische Konditionierung wurde von Pawlow entdeckt.",
+            "Ein gesundes Selbstwertgefühl ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Phobias are irrational fears.",
+        "text_de": "Phobien sind irrationale Ängste.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Achtsamkeit bedeutet, im Moment zu leben.",
+            "Phobien sind irrationale Ängste.",
+            "Respektiere die Gefühle anderer.",
+            "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Anxiety can be a heavy burden.",
+        "text_de": "Angstzustände können eine schwere Belastung sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Angstzustände können eine schwere Belastung sein.",
+            "Motivation ist der Schlüssel zum Erreichen deiner Ziele.",
+            "Liste drei Dinge auf, für die du heute dankbar bist.",
+            "Psychologie ist das Studium des menschlichen Geistes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The placebo effect is fascinating.",
+        "text_de": "Der Placebo-Effekt ist faszinierend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergebung ist für dich selbst, nicht für andere.",
+            "Der Placebo-Effekt ist faszinierend.",
+            "Respektiere die Gefühle anderer.",
+            "die Psyche"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Body language says a lot about a person.",
+        "text_de": "Körpersprache sagt viel über eine Person aus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Verhalten",
+            "das Unbewusste",
+            "die Therapie",
+            "Körpersprache sagt viel über eine Person aus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Subliminal messages can influence choices.",
+        "text_de": "Unterschwellige Botschaften können Entscheidungen beeinflussen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kognitive Verhaltenstherapie (KVT).",
+            "Gefühle gehören zu jedem menschlichen Leben.",
+            "Hab den Mut, die Dinge zu ändern, die du kannst.",
+            "Unterschwellige Botschaften können Entscheidungen beeinflussen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dreams often reflect our daily worries.",
+        "text_de": "Träume spiegeln oft unsere täglichen Sorgen wider.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unterdrücke deine Gefühle nicht.",
+            "Kognitive Verhaltenstherapie (KVT).",
+            "die Therapie",
+            "Träume spiegeln oft unsere täglichen Sorgen wider."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Archetypes are universal symbols.",
+        "text_de": "Archetypen sind universelle Symbole.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Psychologie ist das Studium des menschlichen Geistes.",
+            "Unterschwellige Botschaften können Entscheidungen beeinflussen.",
+            "Lerne, ohne Schuldgefühle 'Nein' zu sagen.",
+            "Archetypen sind universelle Symbole."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ego and the superego.",
+        "text_de": "Das Ich und das Über-Ich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Lernprozess hört niemals auf.",
+            "der Gedanke",
+            "die Psychologie",
+            "Das Ich und das Über-Ich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Self-help books are very popular.",
+        "text_de": "Selbsthilfebücher sind sehr beliebt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gehirn braucht Ruhe, um Erinnerungen zu verarbeiten.",
+            "Jeder hat ein einzigartiges psychologisches Profil.",
+            "Der Lernprozess hört niemals auf.",
+            "Selbsthilfebücher sind sehr beliebt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mindfulness means living in the moment.",
+        "text_de": "Achtsamkeit bedeutet, im Moment zu leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie hat er auf die Nachrichten reagiert?",
+            "Soziale Unterstützung ist ein Schutzfaktor.",
+            "Der Lernprozess hört niemals auf.",
+            "Achtsamkeit bedeutet, im Moment zu leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Meditation reduces heart rate and stress.",
+        "text_de": "Meditation senkt die Herzfrequenz und Stress.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergebung ist für dich selbst, nicht für andere.",
+            "Psychologie ist das Studium des menschlichen Geistes.",
+            "Jeder hat ein einzigartiges psychologisches Profil.",
+            "Meditation senkt die Herzfrequenz und Stress."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Burnout is a serious condition.",
+        "text_de": "Burnout ist eine ernsthafte Erkrankung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Burnout ist eine ernsthafte Erkrankung.",
+            "Phobien sind irrationale Ängste.",
+            "Heile von innen.",
+            "Ich fühle mich heute sehr ruhig und entspannt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work-life balance is a psychological necessity.",
+        "text_de": "Work-Life-Balance ist eine psychologische Notwendigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es braucht Zeit, um eine neue Gewohnheit aufzubauen.",
+            "Work-Life-Balance ist eine psychologische Notwendigkeit.",
+            "Phobien sind irrationale Ängste.",
+            "Therapie kann helfen, psychische Probleme zu überwinden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Childhood experiences shape the adult life.",
+        "text_de": "Kindheitserfahrungen prägen das Erwachsenenleben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Persönlichkeit",
+            "Ich fühle mich heute sehr ruhig und entspannt.",
+            "Stress kann negative Auswirkungen auf die Gesundheit haben.",
+            "Kindheitserfahrungen prägen das Erwachsenenleben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The learning process never stops.",
+        "text_de": "Der Lernprozess hört niemals auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Motivation ist der Schlüssel zum Erreichen deiner Ziele.",
+            "die Persönlichkeit",
+            "das Gefühl",
+            "Der Lernprozess hört niemals auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Classical conditioning was discovered by Pavlov.",
+        "text_de": "Die klassische Konditionierung wurde von Pawlow entdeckt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unsere Wahrnehmung der Realität kann voreingenommen sein.",
+            "Phobien sind irrationale Ängste.",
+            "Die klassische Konditionierung wurde von Pawlow entdeckt.",
+            "Der Placebo-Effekt ist faszinierend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Operant conditioning uses rewards.",
+        "text_de": "Operante Konditionierung nutzt Belohnungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder hat ein einzigartiges psychologisches Profil.",
+            "fühlen",
+            "Operante Konditionierung nutzt Belohnungen.",
+            "Anlage gegen Umwelt ist eine klassische Debatte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Intelligent people aren't always successful.",
+        "text_de": "Intelligente Menschen sind nicht immer erfolgreich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Intelligente Menschen sind nicht immer erfolgreich.",
+            "Meditation senkt die Herzfrequenz und Stress.",
+            "Alte Traumen können in schwierigen Zeiten wieder auftauchen.",
+            "Tests können helfen, Stärken und Schwächen zu identifizieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Emotional intelligence (EQ) is gaining more attention.",
+        "text_de": "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit.",
+            "Glaube an die Kraft deines Geistes.",
+            "Unterschwellige Botschaften können Entscheidungen beeinflussen.",
+            "Körpersprache sagt viel über eine Person aus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": " Resilience is the power to bounce back.",
+        "text_de": "Resilienz ist die Kraft, sich wieder aufzurappeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Resilienz ist die Kraft, sich wieder aufzurappeln.",
+            "Kindheitserfahrungen prägen das Erwachsenenleben.",
+            "Wie hat er auf die Nachrichten reagiert?",
+            "Selbstreflexion führt zu Wachstum."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Loneliness can lead to depression.",
+        "text_de": "Einsamkeit kann zu Depressionen führen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergebung ist für dich selbst, nicht für andere.",
+            "Serotonin beeinflusst Stimmung und Schlaf.",
+            "Resilienz ist die Kraft, sich wieder aufzurappeln.",
+            "Einsamkeit kann zu Depressionen führen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social support is a protective factor.",
+        "text_de": "Soziale Unterstützung ist ein Schutzfaktor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Soziale Unterstützung ist ein Schutzfaktor.",
+            "Meditation senkt die Herzfrequenz und Stress.",
+            "Achtsamkeit bedeutet, im Moment zu leben.",
+            "Archetypen sind universelle Symbole."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sleep is essential for cognitive function.",
+        "text_de": "Schlaf ist essenziell für die kognitive Funktion.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstreflexion führt zu Wachstum.",
+            "Perfektionismus ist ein zweischneidiges Schwert.",
+            "Psychologie ist das Studium des menschlichen Geistes.",
+            "Schlaf ist essenziell für die kognitive Funktion."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The brain needs rest to process memories.",
+        "text_de": "Das Gehirn braucht Ruhe, um Erinnerungen zu verarbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie hat er auf die Nachrichten reagiert?",
+            "Meditation senkt die Herzfrequenz und Stress.",
+            "Das Gehirn braucht Ruhe, um Erinnerungen zu verarbeiten.",
+            "die Persönlichkeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Curiosity is the engine of learning.",
+        "text_de": "Neugier ist der Motor des Lernens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstbewusstsein ist eine wichtige Fähigkeit.",
+            "Neugier ist der Motor des Lernens.",
+            "Unterschwellige Botschaften können Entscheidungen beeinflussen.",
+            "Archetypen sind universelle Symbole."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't suppress your feelings.",
+        "text_de": "Unterdrücke deine Gefühle nicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Verhalten",
+            "Körpersprache sagt viel über eine Person aus.",
+            "Unterdrücke deine Gefühle nicht.",
+            "Die kognitive Psychologie erforscht Denkprozesse."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Talking about problems helps.",
+        "text_de": "Über Probleme zu reden hilft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Psychologie ist das Studium des menschlichen Geistes.",
+            "Über Probleme zu reden hilft.",
+            "Selbstreflexion führt zu Wachstum.",
+            "Er hat eine sehr starke Persönlichkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trust is the basis of therapy.",
+        "text_de": "Vertrauen ist die Basis einer Therapie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Archetypen sind universelle Symbole.",
+            "Das Ich und das Über-Ich.",
+            "Vertrauen ist die Basis einer Therapie.",
+            "die Gewohnheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The human brain is the most complex organ.",
+        "text_de": "Das menschliche Gehirn ist das komplexeste Organ.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe ein gutes Gedächtnis für Namen.",
+            "Das menschliche Gehirn ist das komplexeste Organ.",
+            "Tests können helfen, Stärken und Schwächen zu identifizieren.",
+            "Das Ich und das Über-Ich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Neurotransmitters send signals in the brain.",
+        "text_de": "Neurotransmitter senden Signale im Gehirn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kümmere dich um deine Psyche genauso wie um deinen Körper.",
+            "Stress kann negative Auswirkungen auf die Gesundheit haben.",
+            "Tests können helfen, Stärken und Schwächen zu identifizieren.",
+            "Neurotransmitter senden Signale im Gehirn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dopamine is associated with reward.",
+        "text_de": "Dopamin wird mit Belohnung assoziiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dopamin wird mit Belohnung assoziiert.",
+            "Ich fühle mich heute sehr ruhig und entspannt.",
+            "Gefühle gehören zu jedem menschlichen Leben.",
+            "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Serotonin influences mood and sleep.",
+        "text_de": "Serotonin beeinflusst Stimmung und Schlaf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Serotonin beeinflusst Stimmung und Schlaf.",
+            "Die 'Kampf-oder-Flucht'-Reaktion.",
+            "Anlage gegen Umwelt ist eine klassische Debatte.",
+            "Vertrauen ist die Basis einer Therapie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Endorphins are natural pain killers.",
+        "text_de": "Endorphine sind natürliche Schmerzmittel.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Psychoanalyse erforscht die Vergangenheit.",
+            "Das Unbewusste verarbeitet viele Informationen.",
+            "Neugier ist der Motor des Lernens.",
+            "Endorphine sind natürliche Schmerzmittel."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The 'fight or flight' response.",
+        "text_de": "Die 'Kampf-oder-Flucht'-Reaktion.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die 'Kampf-oder-Flucht'-Reaktion.",
+            "die Motivation",
+            "Psychoanalyse erforscht die Vergangenheit.",
+            "Serotonin beeinflusst Stimmung und Schlaf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Bilateral stimulation is used in EMDR.",
+        "text_de": "Bilaterale Stimulation wird bei EMDR verwendet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bilaterale Stimulation wird bei EMDR verwendet.",
+            "Dankbarkeitstagebücher verbessern das Wohlbefinden.",
+            "Die kognitive Psychologie erforscht Denkprozesse.",
+            "Work-Life-Balance ist eine psychologische Notwendigkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cognitive behavioral therapy (CBT).",
+        "text_de": "Kognitive Verhaltenstherapie (KVT).",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kognitive Verhaltenstherapie (KVT).",
+            "Neurotransmitter senden Signale im Gehirn.",
+            "Instinkte helfen Tieren beim Überleben.",
+            "das Trauma"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Psychoanalysis explores the past.",
+        "text_de": "Psychoanalyse erforscht die Vergangenheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er hat eine sehr starke Persönlichkeit.",
+            "Kindheitserfahrungen prägen das Erwachsenenleben.",
+            "Dopamin wird mit Belohnung assoziiert.",
+            "Psychoanalyse erforscht die Vergangenheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Self-reflection leads to growth.",
+        "text_de": "Selbstreflexion führt zu Wachstum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstreflexion führt zu Wachstum.",
+            "Hab den Mut, die Dinge zu ändern, die du kannst.",
+            "Körpersprache sagt viel über eine Person aus.",
+            "Ein gesundes Selbstwertgefühl ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Identify your triggers.",
+        "text_de": "Identifiziere deine Auslöser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Motivation",
+            "Identifiziere deine Auslöser.",
+            "Achtsamkeit bedeutet, im Moment zu leben.",
+            "Vergebung ist für dich selbst, nicht für andere."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn to say 'no' without guilt.",
+        "text_de": "Lerne, ohne Schuldgefühle 'Nein' zu sagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne, ohne Schuldgefühle 'Nein' zu sagen.",
+            "Die kognitive Psychologie erforscht Denkprozesse.",
+            "Unterdrücke deine Gefühle nicht.",
+            "Neugier ist der Motor des Lernens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Boundaries protect your energy.",
+        "text_de": "Grenzen schützen deine Energie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Phobien sind irrationale Ängste.",
+            "Grenzen schützen deine Energie.",
+            "Archetypen sind universelle Symbole.",
+            "Intelligente Menschen sind nicht immer erfolgreich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the feelings of others.",
+        "text_de": "Respektiere die Gefühle anderer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder hat ein einzigartiges psychologisches Profil.",
+            "Über Probleme zu reden hilft.",
+            "Respektiere die Gefühle anderer.",
+            "Die klassische Konditionierung wurde von Pawlow entdeckt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Avoid toxic relationships.",
+        "text_de": "Vermeide toxische Beziehungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Identifiziere deine Auslöser.",
+            "Empathie ist die Fähigkeit, andere zu verstehen.",
+            "Träume spiegeln oft unsere täglichen Sorgen wider.",
+            "Vermeide toxische Beziehungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Heal from within.",
+        "text_de": "Heile von innen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kognitive Verhaltenstherapie (KVT).",
+            "Heile von innen.",
+            "die Wahrnehmung",
+            "das Verhalten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Optimism can be learned.",
+        "text_de": "Optimismus kann gelernt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einsamkeit kann zu Depressionen führen.",
+            "Die 'Kampf-oder-Flucht'-Reaktion.",
+            "Optimismus kann gelernt werden.",
+            "Emotionale Intelligenz gewinnt mehr Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gratitude journals improve well-being.",
+        "text_de": "Dankbarkeitstagebücher verbessern das Wohlbefinden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Stress",
+            "Ein gesundes Selbstwertgefühl ist wichtig.",
+            "Unterdrücke deine Gefühle nicht.",
+            "Dankbarkeitstagebücher verbessern das Wohlbefinden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "List three things you are grateful for today.",
+        "text_de": "Liste drei Dinge auf, für die du heute dankbar bist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin fasziniert von der Verhaltenswissenschaft.",
+            "Liste drei Dinge auf, für die du heute dankbar bist.",
+            "Neurotransmitter senden Signale im Gehirn.",
+            "Soziale Unterstützung ist ein Schutzfaktor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Perfectionism is a double-edged sword.",
+        "text_de": "Perfektionismus ist ein zweischneidiges Schwert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Intelligente Menschen sind nicht immer erfolgreich.",
+            "Perfektionismus ist ein zweischneidiges Schwert.",
+            "Ich bin fasziniert von der Verhaltenswissenschaft.",
+            "Liste drei Dinge auf, für die du heute dankbar bist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Forgiveness is for yourself, not for others.",
+        "text_de": "Vergebung ist für dich selbst, nicht für andere.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vertrauen ist die Basis einer Therapie.",
+            "Vergebung ist für dich selbst, nicht für andere.",
+            "Unterschwellige Botschaften können Entscheidungen beeinflussen.",
+            "Akzeptiere die Dinge, die du nicht ändern kannst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Accept the things you cannot change.",
+        "text_de": "Akzeptiere die Dinge, die du nicht ändern kannst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Tests können helfen, Stärken und Schwächen zu identifizieren.",
+            "Akzeptiere die Dinge, die du nicht ändern kannst.",
+            "Vermeide toxische Beziehungen.",
+            "Gefühle gehören zu jedem menschlichen Leben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Have the courage to change the things you can.",
+        "text_de": "Hab den Mut, die Dinge zu ändern, die du kannst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hab den Mut, die Dinge zu ändern, die du kannst.",
+            "das Trauma",
+            "fühlen",
+            "die Seele"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wisdom is knowing the difference.",
+        "text_de": "Weisheit bedeutet, den Unterschied zu kennen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weisheit bedeutet, den Unterschied zu kennen.",
+            "Er hat eine sehr starke Persönlichkeit.",
+            "Intelligente Menschen sind nicht immer erfolgreich.",
+            "Motivation ist der Schlüssel zum Erreichen deiner Ziele."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everyone has a unique psychological profile.",
+        "text_de": "Jeder hat ein einzigartiges psychologisches Profil.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stress kann negative Auswirkungen auf die Gesundheit haben.",
+            "Liste drei Dinge auf, für die du heute dankbar bist.",
+            "Kümmere dich um deine Psyche genauso wie um deinen Körper.",
+            "Jeder hat ein einzigartiges psychologisches Profil."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tests can help to identify strengths and weaknesses.",
+        "text_de": "Tests können helfen, Stärken und Schwächen zu identifizieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Selbstreflexion führt zu Wachstum.",
+            "Tests können helfen, Stärken und Schwächen zu identifizieren.",
+            "Ich habe ein gutes Gedächtnis für Namen.",
+            "Stress kann negative Auswirkungen auf die Gesundheit haben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm fascinated by behavioral science.",
+        "text_de": "Ich bin fasziniert von der Verhaltenswissenschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Persönlichkeit",
+            "Grenzen schützen deine Energie.",
+            "Resilienz ist die Kraft, sich wieder aufzurappeln.",
+            "Ich bin fasziniert von der Verhaltenswissenschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature vs. nurture is a classic debate.",
+        "text_de": "Anlage gegen Umwelt ist eine klassische Debatte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Positives Denken kann deine Stimmung verbessern.",
+            "Es braucht Zeit, um eine neue Gewohnheit aufzubauen.",
+            "Wie hat er auf die Nachrichten reagiert?",
+            "Anlage gegen Umwelt ist eine klassische Debatte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Psychology improves our understanding of ourselves.",
+        "text_de": "Psychologie verbessert unser Verständnis von uns selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie hat er auf die Nachrichten reagiert?",
+            "Einsamkeit kann zu Depressionen führen.",
+            "Das Gehirn braucht Ruhe, um Erinnerungen zu verarbeiten.",
+            "Psychologie verbessert unser Verständnis von uns selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Believe in the power of your mind.",
+        "text_de": "Glaube an die Kraft deines Geistes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Psychology'.",
+        "description_de": "Beispielsatz für 'Psychology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Neugier ist der Motor des Lernens.",
+            "Der Lernprozess hört niemals auf.",
+            "Optimismus kann gelernt werden.",
+            "Glaube an die Kraft deines Geistes."
+        ]
+    }
+]

@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "Freedom",
+        "text_de": "die Freiheit",
+        "synonyms": [],
+        "description": "German word for 'Freedom'.",
+        "description_de": "Deutsches Wort für 'Freedom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freundschaft ist wertvoll.",
+            "Liebe ist ein starkes Gefühl.",
+            "die Freiheit",
+            "Bewege dich regelmäßig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Justice",
+        "text_de": "die Gerechtigkeit",
+        "synonyms": [],
+        "description": "German word for 'Justice'.",
+        "description_de": "Deutsches Wort für 'Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Träume können wahr werden.",
+            "Freundlichkeit kostet nichts.",
+            "Lerne eine neue Sprache.",
+            "die Gerechtigkeit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Happiness",
+        "text_de": "das Glück",
+        "synonyms": [],
+        "description": "German word for 'Happiness'.",
+        "description_de": "Deutsches Wort für 'Happiness'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Glück",
+            "Alles wird gut.",
+            "die Veränderung",
+            "Vertraue dem Prozess."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Peace",
+        "text_de": "der Frieden",
+        "synonyms": [],
+        "description": "German word for 'Peace'.",
+        "description_de": "Deutsches Wort für 'Peace'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Frieden",
+            "die Weisheit",
+            "Bleib bescheiden.",
+            "Dankbarkeit ist wichtig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Love",
+        "text_de": "die Liebe",
+        "synonyms": [],
+        "description": "German word for 'Love'.",
+        "description_de": "Deutsches Wort für 'Love'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hör auf dein Herz.",
+            "die Liebe",
+            "Sei lieb zu Tieren.",
+            "Die Natur ist ruhig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Time",
+        "text_de": "die Zeit",
+        "synonyms": [],
+        "description": "German word for 'Time'.",
+        "description_de": "Deutsches Wort für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Helft einander.",
+            "die Zeit",
+            "Sei stolz auf deine Fortschritte.",
+            "Das Leben ist ein Geschenk."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Truth",
+        "text_de": "die Wahrheit",
+        "synonyms": [],
+        "description": "German word for 'Truth'.",
+        "description_de": "Deutsches Wort für 'Truth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Liebe",
+            "Sei kreativ.",
+            "Sei du selbst.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Knowledge",
+        "text_de": "das Wissen",
+        "synonyms": [],
+        "description": "German word for 'Knowledge'.",
+        "description_de": "Deutsches Wort für 'Knowledge'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Wissen",
+            "Geduld ist eine Tugend.",
+            "Alles wird gut.",
+            "Dankbarkeit ist wichtig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Hope",
+        "text_de": "die Hoffnung",
+        "synonyms": [],
+        "description": "German word for 'Hope'.",
+        "description_de": "Deutsches Wort für 'Hope'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schönheit",
+            "Respektiere andere.",
+            "die Hoffnung",
+            "Freundlichkeit kostet nichts."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Life",
+        "text_de": "das Leben",
+        "synonyms": [],
+        "description": "German word for 'Life'.",
+        "description_de": "Deutsches Wort für 'Life'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Leben",
+            "Einfache Dinge zählen.",
+            "Frieden beginnt mit einem Lächeln.",
+            "Finde deinen Zweck."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Success",
+        "text_de": "der Erfolg",
+        "synonyms": [],
+        "description": "German word for 'Success'.",
+        "description_de": "Deutsches Wort für 'Success'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Mut",
+            "Alles ist miteinander verbunden.",
+            "der Erfolg",
+            "Bleib neugierig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Dream",
+        "text_de": "der Traum",
+        "synonyms": [],
+        "description": "German word for 'Dream'.",
+        "description_de": "Deutsches Wort für 'Dream'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Traum",
+            "Verbreite überall Liebe.",
+            "die Weisheit",
+            "Denk positiv."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Fear",
+        "text_de": "die Angst",
+        "synonyms": [],
+        "description": "German word for 'Fear'.",
+        "description_de": "Deutsches Wort für 'Fear'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Reise oft.",
+            "Ehrlichkeit ist die beste Politik.",
+            "die Angst",
+            "Musik ist für die Seele."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Brave",
+        "text_de": "der Mut",
+        "synonyms": [],
+        "description": "German word for 'Brave'.",
+        "description_de": "Deutsches Wort für 'Brave'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weisheit kommt mit dem Alter.",
+            "die Weisheit",
+            "der Mut",
+            "Zusammen sind wir stark."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Friendship",
+        "text_de": "die Freundschaft",
+        "synonyms": [],
+        "description": "German word for 'Friendship'.",
+        "description_de": "Deutsches Wort für 'Friendship'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir hoffen auf Weltfrieden.",
+            "die Freundschaft",
+            "Konzentriere dich auf die Gegenwart.",
+            "Verliere nicht die Hoffnung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Beauty",
+        "text_de": "die Schönheit",
+        "synonyms": [],
+        "description": "German word for 'Beauty'.",
+        "description_de": "Deutsches Wort für 'Beauty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schönheit",
+            "Triff gute Entscheidungen.",
+            "Sag die Wahrheit.",
+            "Wir hoffen auf Weltfrieden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Change",
+        "text_de": "die Veränderung",
+        "synonyms": [],
+        "description": "German word for 'Change'.",
+        "description_de": "Deutsches Wort für 'Change'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Leben",
+            "Freiheit ist sehr wichtig.",
+            "die Veränderung",
+            "die Schönheit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Responsibility",
+        "text_de": "die Verantwortung",
+        "synonyms": [],
+        "description": "German word for 'Responsibility'.",
+        "description_de": "Deutsches Wort für 'Responsibility'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Veränderung",
+            "Teile deine Freude.",
+            "Weisheit kommt mit dem Alter.",
+            "die Verantwortung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Wisdom",
+        "text_de": "die Weisheit",
+        "synonyms": [],
+        "description": "German word for 'Wisdom'.",
+        "description_de": "Deutsches Wort für 'Wisdom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Weisheit",
+            "Verliere nicht die Hoffnung.",
+            "Freiheit ist sehr wichtig.",
+            "die Geduld"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Patience",
+        "text_de": "die Geduld",
+        "synonyms": [],
+        "description": "German word for 'Patience'.",
+        "description_de": "Deutsches Wort für 'Patience'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Glück",
+            "die Geduld",
+            "Helft einander.",
+            "Folge deinen Träumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom is very important.",
+        "text_de": "Freiheit ist sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Teile deine Freude.",
+            "Freiheit ist sehr wichtig.",
+            "Fordere dich selbst heraus.",
+            "Bewege dich regelmäßig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We all want justice.",
+        "text_de": "Wir alle wollen Gerechtigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Helft einander.",
+            "Wir alle wollen Gerechtigkeit.",
+            "Iss gesundes Essen.",
+            "Folge deinen Träumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Happiness is a choice.",
+        "text_de": "Glück ist eine Entscheidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verbreite überall Liebe.",
+            "Iss gesundes Essen.",
+            "Glück ist eine Entscheidung.",
+            "Sei mutig und stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We hope for world peace.",
+        "text_de": "Wir hoffen auf Weltfrieden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei lieb zu Tieren.",
+            "Wir hoffen auf Weltfrieden.",
+            "die Veränderung",
+            "Weisheit kommt mit dem Alter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Love is a powerful feeling.",
+        "text_de": "Liebe ist ein starkes Gefühl.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Verantwortung",
+            "Lerne eine neue Sprache.",
+            "Die Natur ist ruhig.",
+            "Liebe ist ein starkes Gefühl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time flies when you have fun.",
+        "text_de": "Die Zeit vergeht wie im Flug, wenn man Spaß hat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder Tag ist ein neuer Anfang.",
+            "Die Zeit vergeht wie im Flug, wenn man Spaß hat.",
+            "Bleib neugierig.",
+            "Arbeite hart, feiere hart."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tell the truth.",
+        "text_de": "Sag die Wahrheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Weisheit",
+            "Es kostet Mut, seine Meinung zu sagen.",
+            "Wir alle wollen Gerechtigkeit.",
+            "Sag die Wahrheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is power.",
+        "text_de": "Wissen ist Macht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen ist Macht.",
+            "Sei mutig und stark.",
+            "Freundschaft ist wertvoll.",
+            "Liebe ist ein starkes Gefühl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't lose hope.",
+        "text_de": "Verliere nicht die Hoffnung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verliere nicht die Hoffnung.",
+            "Sei stolz auf deine Fortschritte.",
+            "der Frieden",
+            "die Zeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life is a gift.",
+        "text_de": "Das Leben ist ein Geschenk.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne eine neue Sprache.",
+            "Das Leben ist ein Geschenk.",
+            "Glaube an dich selbst.",
+            "Fordere dich selbst heraus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Success takes hard work.",
+        "text_de": "Erfolg erfordert harte Arbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trink Wasser.",
+            "Lass dich nicht von der Angst stoppen.",
+            "Erfolg erfordert harte Arbeit.",
+            "die Verantwortung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Follow your dreams.",
+        "text_de": "Folge deinen Träumen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass dich nicht von der Angst stoppen.",
+            "Weisheit kommt mit dem Alter.",
+            "Folge deinen Träumen.",
+            "Die Natur ist ruhig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't let fear stop you.",
+        "text_de": "Lass dich nicht von der Angst stoppen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Iss gesundes Essen.",
+            "Lass dich nicht von der Angst stoppen.",
+            "der Erfolg",
+            "Es kostet Mut, seine Meinung zu sagen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It takes courage to speak up.",
+        "text_de": "Es kostet Mut, seine Meinung zu sagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne eine neue Sprache.",
+            "die Wahrheit",
+            "Es kostet Mut, seine Meinung zu sagen.",
+            "Wissen ist Macht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Friendship is precious.",
+        "text_de": "Freundschaft ist wertvoll.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freundschaft ist wertvoll.",
+            "das Glück",
+            "Bleib aktiv.",
+            "Alles ist miteinander verbunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Beauty is everywhere.",
+        "text_de": "Schönheit ist überall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fordere dich selbst heraus.",
+            "die Wahrheit",
+            "Jeder Tag ist ein neuer Anfang.",
+            "Schönheit ist überall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Change is possible.",
+        "text_de": "Veränderung ist möglich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dankbarkeit ist wichtig.",
+            "Veränderung ist möglich.",
+            "Glaube an dich selbst.",
+            "Sag die Wahrheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Take responsibility for your actions.",
+        "text_de": "Übernimm Verantwortung für dein Handeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir alle wollen Gerechtigkeit.",
+            "Alles wird gut.",
+            "Übernimm Verantwortung für dein Handeln.",
+            "Gib nicht auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wisdom comes with age.",
+        "text_de": "Weisheit kommt mit dem Alter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weisheit kommt mit dem Alter.",
+            "Erkunde die Welt.",
+            "Stell dir die Möglichkeiten vor.",
+            "Sei mutig und stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Patience is a virtue.",
+        "text_de": "Geduld ist eine Tugend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geduld ist eine Tugend.",
+            "Wir alle wollen Gerechtigkeit.",
+            "Folge deinen Träumen.",
+            "die Weisheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Kindness costs nothing.",
+        "text_de": "Freundlichkeit kostet nichts.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Iss gesundes Essen.",
+            "Gib dein Bestes.",
+            "Sei geduldig mit dir selbst.",
+            "Freundlichkeit kostet nichts."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect others.",
+        "text_de": "Respektiere andere.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass dich nicht von der Angst stoppen.",
+            "das Leben",
+            "Die Natur ist ruhig.",
+            "Respektiere andere."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honesty is the best policy.",
+        "text_de": "Ehrlichkeit ist die beste Politik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Mut",
+            "Ehrlichkeit ist die beste Politik.",
+            "Genieße die kleinen Dinge.",
+            "Liebe dich zuerst selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Believe in yourself.",
+        "text_de": "Glaube an dich selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kunst ist Ausdruck.",
+            "Geduld ist eine Tugend.",
+            "Glaube an dich selbst.",
+            "Jeder Tag ist ein neuer Anfang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every day is a new beginning.",
+        "text_de": "Jeder Tag ist ein neuer Anfang.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glaube an dich selbst.",
+            "Jeder Tag ist ein neuer Anfang.",
+            "Es kostet Mut, seine Meinung zu sagen.",
+            "Wir hoffen auf Weltfrieden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything is connected.",
+        "text_de": "Alles ist miteinander verbunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Denk positiv.",
+            "Alles ist miteinander verbunden.",
+            "Sei geduldig mit dir selbst.",
+            "Weisheit kommt mit dem Alter."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Think positive.",
+        "text_de": "Denk positiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schönheit",
+            "Denk positiv.",
+            "Stell dir die Möglichkeiten vor.",
+            "Arbeite hart, feiere hart."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn from the past.",
+        "text_de": "Lerne aus der Vergangenheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen ist Macht.",
+            "die Wahrheit",
+            "Weisheit kommt mit dem Alter.",
+            "Lerne aus der Vergangenheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Focus on the present.",
+        "text_de": "Konzentriere dich auf die Gegenwart.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Konzentriere dich auf die Gegenwart.",
+            "die Gerechtigkeit",
+            "Sei stolz auf deine Fortschritte.",
+            "Mach weiter!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Build a better future.",
+        "text_de": "Baue eine bessere Zukunft auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder Tag ist ein neuer Anfang.",
+            "das Leben",
+            "Ehrlichkeit ist die beste Politik.",
+            "Baue eine bessere Zukunft auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dreams can come true.",
+        "text_de": "Träume können wahr werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder Tag ist ein neuer Anfang.",
+            "Träume können wahr werden.",
+            "Helft einander.",
+            "die Freiheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay curious.",
+        "text_de": "Bleib neugierig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne aus der Vergangenheit.",
+            "Bleib neugierig.",
+            "Glück ist eine Entscheidung.",
+            "Trink Wasser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be brave and strong.",
+        "text_de": "Sei mutig und stark.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei mutig und stark.",
+            "Frieden beginnt mit einem Lächeln.",
+            "Lerne eine neue Sprache.",
+            "Glaube an dich selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Love yourself first.",
+        "text_de": "Liebe dich zuerst selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weisheit kommt mit dem Alter.",
+            "Liebe dich zuerst selbst.",
+            "Vielfalt ist schön.",
+            "Die Natur ist ruhig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gratitude is important.",
+        "text_de": "Dankbarkeit ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Weisheit",
+            "Dankbarkeit ist wichtig.",
+            "Vielfalt ist schön.",
+            "Zusammen sind wir stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Find your purpose.",
+        "text_de": "Finde deinen Zweck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Finde deinen Zweck.",
+            "Glaube an dich selbst.",
+            "Schönheit ist überall.",
+            "die Verantwortung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't give up.",
+        "text_de": "Gib nicht auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einfache Dinge zählen.",
+            "Gib nicht auf.",
+            "Triff gute Entscheidungen.",
+            "Dankbarkeit ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Try your best.",
+        "text_de": "Gib dein Bestes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Musik ist für die Seele.",
+            "Gib dein Bestes.",
+            "Bleib bescheiden.",
+            "Reise oft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Help each other.",
+        "text_de": "Helft einander.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Wissen",
+            "Baue eine bessere Zukunft auf.",
+            "Helft einander.",
+            "Sei stolz auf deine Fortschritte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Together we are strong.",
+        "text_de": "Zusammen sind wir stark.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vielfalt ist schön.",
+            "Das Leben ist schön.",
+            "Zusammen sind wir stark.",
+            "Stell dir die Möglichkeiten vor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Simple things matter.",
+        "text_de": "Einfache Dinge zählen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einfache Dinge zählen.",
+            "die Schönheit",
+            "Es kostet Mut, seine Meinung zu sagen.",
+            "Liebe dich zuerst selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Life is beautiful.",
+        "text_de": "Das Leben ist schön.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Leben ist schön.",
+            "Alles ist miteinander verbunden.",
+            "Geduld ist eine Tugend.",
+            "Hör auf dein Herz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Enjoy the little things.",
+        "text_de": "Genieße die kleinen Dinge.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Helft einander.",
+            "Genieße die kleinen Dinge.",
+            "Schlaf gut.",
+            "Vergib und vergiss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nature is calm.",
+        "text_de": "Die Natur ist ruhig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Natur ist ruhig.",
+            "die Angst",
+            "Verliere nicht die Hoffnung.",
+            "das Glück"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep learning.",
+        "text_de": "Lerne weiter.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freiheit ist sehr wichtig.",
+            "Lerne weiter.",
+            "Vielfalt ist schön.",
+            "die Geduld"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay humble.",
+        "text_de": "Bleib bescheiden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Wissen",
+            "Hör auf dein Herz.",
+            "Bleib bescheiden.",
+            "die Veränderung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Forgive and forget.",
+        "text_de": "Vergib und vergiss.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vergib und vergiss.",
+            "Konzentriere dich auf die Gegenwart.",
+            "der Frieden",
+            "Einfache Dinge zählen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be kind to animals.",
+        "text_de": "Sei lieb zu Tieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei lieb zu Tieren.",
+            "die Wahrheit",
+            "Gesundheit ist Reichtum.",
+            "der Frieden"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Share your joy.",
+        "text_de": "Teile deine Freude.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trink Wasser.",
+            "Sei geduldig mit dir selbst.",
+            "Teile deine Freude.",
+            "Geduld ist eine Tugend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Listen to your heart.",
+        "text_de": "Hör auf dein Herz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Triff gute Entscheidungen.",
+            "Gib nicht auf.",
+            "Hör auf dein Herz.",
+            "Sei mutig und stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trust the process.",
+        "text_de": "Vertraue dem Prozess.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Folge deinen Träumen.",
+            "Liebe dich zuerst selbst.",
+            "Freiheit ist sehr wichtig.",
+            "Vertraue dem Prozess."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be patient with yourself.",
+        "text_de": "Sei geduldig mit dir selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei geduldig mit dir selbst.",
+            "Vergib und vergiss.",
+            "Schlaf gut.",
+            "Arbeite hart, feiere hart."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Make good choices.",
+        "text_de": "Triff gute Entscheidungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Triff gute Entscheidungen.",
+            "Sei mutig und stark.",
+            "Trink Wasser.",
+            "Veränderung ist möglich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Explore the world.",
+        "text_de": "Erkunde die Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles wird gut.",
+            "Lerne aus der Vergangenheit.",
+            "Erkunde die Welt.",
+            "Tu, was du liebst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Diversity is beautiful.",
+        "text_de": "Vielfalt ist schön.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dankbarkeit ist wichtig.",
+            "Vielfalt ist schön.",
+            "Wissen erweitert den Geist.",
+            "Sei mutig und stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be yourself.",
+        "text_de": "Sei du selbst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schönheit",
+            "Sei du selbst.",
+            "die Freundschaft",
+            "Wissen ist Macht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everything will be okay.",
+        "text_de": "Alles wird gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alles wird gut.",
+            "Bleib aktiv.",
+            "Lass dich nicht von der Angst stoppen.",
+            "Gib dein Bestes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peace starts with a smile.",
+        "text_de": "Frieden beginnt mit einem Lächeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verliere nicht die Hoffnung.",
+            "Frieden beginnt mit einem Lächeln.",
+            "Ehrlichkeit ist die beste Politik.",
+            "die Schönheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Spread love everywhere.",
+        "text_de": "Verbreite überall Liebe.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verbreite überall Liebe.",
+            "Bleib bescheiden.",
+            "Wir hoffen auf Weltfrieden.",
+            "Es kostet Mut, seine Meinung zu sagen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge expands the mind.",
+        "text_de": "Wissen erweitert den Geist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wahrheit",
+            "Das Leben ist ein Geschenk.",
+            "Bleib neugierig.",
+            "Wissen erweitert den Geist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Read more books.",
+        "text_de": "Lies mehr Bücher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen erweitert den Geist.",
+            "Lies mehr Bücher.",
+            "Die Natur ist ruhig.",
+            "Bleib bescheiden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Music is for the soul.",
+        "text_de": "Musik ist für die Seele.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Glaube an dich selbst.",
+            "Veränderung ist möglich.",
+            "Helft einander.",
+            "Musik ist für die Seele."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Art is expression.",
+        "text_de": "Kunst ist Ausdruck.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissen erweitert den Geist.",
+            "Sei du selbst.",
+            "Kunst ist Ausdruck.",
+            "Atme tief durch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be creative.",
+        "text_de": "Sei kreativ.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Schönheit",
+            "Sei kreativ.",
+            "Schlaf gut.",
+            "Konzentriere dich auf die Gegenwart."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Imagine the possibilities.",
+        "text_de": "Stell dir die Möglichkeiten vor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stell dir die Möglichkeiten vor.",
+            "Geduld ist eine Tugend.",
+            "Fordere dich selbst heraus.",
+            "Finde neue Freunde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do what you love.",
+        "text_de": "Tu, was du liebst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Atme tief durch.",
+            "Tu, was du liebst.",
+            "die Angst",
+            "die Freiheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Work hard, play hard.",
+        "text_de": "Arbeite hart, feiere hart.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Arbeite hart, feiere hart.",
+            "Liebe dich zuerst selbst.",
+            "Finde deinen Zweck.",
+            "Vergib und vergiss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Health is wealth.",
+        "text_de": "Gesundheit ist Reichtum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trink Wasser.",
+            "Wissen erweitert den Geist.",
+            "Geduld ist eine Tugend.",
+            "Gesundheit ist Reichtum."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Exercise regularly.",
+        "text_de": "Bewege dich regelmäßig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bewege dich regelmäßig.",
+            "Schönheit ist überall.",
+            "Wissen erweitert den Geist.",
+            "Zusammen sind wir stark."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Eat healthy food.",
+        "text_de": "Iss gesundes Essen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei mutig und stark.",
+            "Bleib aktiv.",
+            "Liebe dich zuerst selbst.",
+            "Iss gesundes Essen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Drink water.",
+        "text_de": "Trink Wasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Helft einander.",
+            "Trink Wasser.",
+            "der Erfolg",
+            "Verliere nicht die Hoffnung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sleep well.",
+        "text_de": "Schlaf gut.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schlaf gut.",
+            "Bewege dich regelmäßig.",
+            "Finde deinen Zweck.",
+            "die Angst"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Breath deeply.",
+        "text_de": "Atme tief durch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mach weiter!",
+            "Atme tief durch.",
+            "Jeder Tag ist ein neuer Anfang.",
+            "die Veränderung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay active.",
+        "text_de": "Bleib aktiv.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne eine neue Sprache.",
+            "Bewege dich regelmäßig.",
+            "Frieden beginnt mit einem Lächeln.",
+            "Bleib aktiv."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Make new friends.",
+        "text_de": "Finde neue Freunde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sag die Wahrheit.",
+            "Finde neue Freunde.",
+            "die Liebe",
+            "die Freundschaft"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Travel often.",
+        "text_de": "Reise oft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Frieden",
+            "Dankbarkeit ist wichtig.",
+            "Bleib bescheiden.",
+            "Reise oft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Learn a new language.",
+        "text_de": "Lerne eine neue Sprache.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Baue eine bessere Zukunft auf.",
+            "Lerne eine neue Sprache.",
+            "Liebe dich zuerst selbst.",
+            "Jeder Tag ist ein neuer Anfang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Challenge yourself.",
+        "text_de": "Fordere dich selbst heraus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Veränderung",
+            "Schönheit ist überall.",
+            "Musik ist für die Seele.",
+            "Fordere dich selbst heraus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be proud of your progress.",
+        "text_de": "Sei stolz auf deine Fortschritte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sei stolz auf deine Fortschritte.",
+            "Kunst ist Ausdruck.",
+            "Glück ist eine Entscheidung.",
+            "Liebe dich zuerst selbst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Keep going!",
+        "text_de": "Mach weiter!",
+        "synonyms": [],
+        "description": "Example sentence for 'Abstract Concepts'.",
+        "description_de": "Beispielsatz für 'Abstract Concepts'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lerne aus der Vergangenheit.",
+            "Fordere dich selbst heraus.",
+            "Wir hoffen auf Weltfrieden.",
+            "Mach weiter!"
+        ]
+    }
+]

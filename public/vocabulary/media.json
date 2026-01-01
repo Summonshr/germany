@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The media",
+        "text_de": "die Medien",
+        "synonyms": [],
+        "description": "German word for 'The media'.",
+        "description_de": "Deutsches Wort für 'The media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Digitalradio bietet eine bessere Tonqualität.",
+            "die Medien",
+            "Boulevardzeitungen konzentrieren sich oft auf Skandale.",
+            "Untertitel sind hilfreich beim Sprachenlernen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The newspaper",
+        "text_de": "die Zeitung",
+        "synonyms": [],
+        "description": "German word for 'The newspaper'.",
+        "description_de": "Deutsches Wort für 'The newspaper'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medienethik sollte von jedem respektiert werden.",
+            "Investigative Journalismus deckt die Wahrheit auf.",
+            "veröffentlichen",
+            "die Zeitung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The magazine",
+        "text_de": "die Zeitschrift",
+        "synonyms": [],
+        "description": "German word for 'The magazine'.",
+        "description_de": "Deutsches Wort für 'The magazine'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hilfreiche Kommentare machen Diskussionen besser.",
+            "Untertitel sind hilfreich beim Sprachenlernen.",
+            "Vorsicht vor Falschmeldungen im Internet.",
+            "die Zeitschrift"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The news",
+        "text_de": "die Nachrichten",
+        "synonyms": [],
+        "description": "German word for 'The news'.",
+        "description_de": "Deutsches Wort für 'The news'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen.",
+            "die Nachrichten",
+            "Medien spielen eine entscheidende Rolle in der Gesellschaft.",
+            "Welche Sendung gefällt Ihnen am besten?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The television",
+        "text_de": "das Fernsehen",
+        "synonyms": [],
+        "description": "German word for 'The television'.",
+        "description_de": "Deutsches Wort für 'The television'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Fernsehen",
+            "der Artikel",
+            "der Reporter",
+            "Das Internet ist für viele die Hauptinformationsquelle."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The radio",
+        "text_de": "das Radio",
+        "synonyms": [],
+        "description": "German word for 'The radio'.",
+        "description_de": "Deutsches Wort für 'The radio'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie irgendwelche Zeitschriften abonniert?",
+            "das Radio",
+            "Prüfen Sie die Fakten, bevor Sie einen Beitrag teilen.",
+            "Die Schlagzeile erregte meine Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The internet",
+        "text_de": "das Internet",
+        "synonyms": [],
+        "description": "German word for 'The internet'.",
+        "description_de": "Deutsches Wort für 'The internet'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Internet",
+            "die Sendung",
+            "Die Medienberichterstattung über das Ereignis war riesig.",
+            "Die Live-Übertragung wurde durch einen technischen Fehler unterbrochen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The social media",
+        "text_de": "die sozialen Medien",
+        "synonyms": [],
+        "description": "German word for 'The social media'.",
+        "description_de": "Deutsches Wort für 'The social media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die sozialen Medien",
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Ich habe einen Artikel über den Klimawandel gelesen.",
+            "Privatsphäre-Einstellungen sind wichtig auf sozialen Plattformen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The journalist",
+        "text_de": "der Journalist",
+        "synonyms": [],
+        "description": "German word for 'The journalist'.",
+        "description_de": "Deutsches Wort für 'The journalist'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Influencer haben einen großen Einfluss auf Teenager.",
+            "der Journalist",
+            "die Werbung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The reporter",
+        "text_de": "der Reporter",
+        "synonyms": [],
+        "description": "German word for 'The reporter'.",
+        "description_de": "Deutsches Wort für 'The reporter'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Reporter",
+            "Wer ist der Moderator der Late-Night-Show?",
+            "veröffentlichen",
+            "Öffentliche Bibliotheken bieten auch E-Books an."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The interview",
+        "text_de": "das Interview",
+        "synonyms": [],
+        "description": "German word for 'The interview'.",
+        "description_de": "Deutsches Wort für 'The interview'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Spezialeffekte waren erstaunlich.",
+            "Das Internet ist für viele die Hauptinformationsquelle.",
+            "das Interview",
+            "Wissen ist nur einen Klick entfernt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The article",
+        "text_de": "der Artikel",
+        "synonyms": [],
+        "description": "German word for 'The article'.",
+        "description_de": "Deutsches Wort für 'The article'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Artikel",
+            "Ich höre mir auf dem Weg zur Arbeit Podcasts an.",
+            "Ich lese gerne Filmkritiken.",
+            "Der Reporter führte eine Reihe von Interviews."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The advertisement",
+        "text_de": "die Werbung",
+        "synonyms": [],
+        "description": "German word for 'The advertisement'.",
+        "description_de": "Deutsches Wort für 'The advertisement'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Journalisten haben eine Verantwortung, objektiv zu sein.",
+            "Der Pressekodex definiert die Regeln für Journalisten.",
+            "das Fernsehen",
+            "die Werbung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The information",
+        "text_de": "die Information",
+        "synonyms": [],
+        "description": "German word for 'The information'.",
+        "description_de": "Deutsches Wort für 'The information'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sportkommentator war sehr enthusiastisch.",
+            "Öffentliche Bibliotheken bieten auch E-Books an.",
+            "die Information",
+            "Bildung über Medien ist eine große Chance."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The fake news",
+        "text_de": "die Falschmeldungen",
+        "synonyms": [],
+        "description": "German word for 'The fake news'.",
+        "description_de": "Deutsches Wort für 'The fake news'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Falschmeldungen",
+            "Der Reporter berichtet live vom Schauplatz.",
+            "Medientechnik entwickelt sich rasant.",
+            "Vorsicht vor Falschmeldungen im Internet."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The censorship",
+        "text_de": "die Zensur",
+        "synonyms": [],
+        "description": "German word for 'The censorship'.",
+        "description_de": "Deutsches Wort für 'The censorship'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Journalist",
+            "die Zensur",
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Ich habe einen Artikel über den Klimawandel gelesen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The audience",
+        "text_de": "das Publikum",
+        "synonyms": [],
+        "description": "German word for 'The audience'.",
+        "description_de": "Deutsches Wort für 'The audience'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Publikum",
+            "Die Dokumentation war sehr lehrreich.",
+            "Lasst uns Medien für eine positive Veränderung nutzen.",
+            "Die Schlagzeile erregte meine Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The broadcast",
+        "text_de": "die Sendung",
+        "synonyms": [],
+        "description": "German word for 'The broadcast'.",
+        "description_de": "Deutsches Wort für 'The broadcast'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Buch wird nächsten Monat veröffentlicht.",
+            "Journalismus ist die vierte Gewalt im Staat.",
+            "Ich habe einen Artikel über den Klimawandel gelesen.",
+            "die Sendung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To inform",
+        "text_de": "informieren",
+        "synonyms": [],
+        "description": "German word for 'To inform'.",
+        "description_de": "Deutsches Wort für 'To inform'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gutenbergs Buchdruck veränderte die Welt.",
+            "informieren",
+            "die Zeitung",
+            "Die Preisverleihung wird live übertragen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To publish",
+        "text_de": "veröffentlichen",
+        "synonyms": [],
+        "description": "German word for 'To publish'.",
+        "description_de": "Deutsches Wort für 'To publish'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Reporter berichtet live vom Schauplatz.",
+            "die Sendung",
+            "Heute kann jeder ein Content Creator sein.",
+            "veröffentlichen"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Media play a crucial role in society.",
+        "text_de": "Medien spielen eine entscheidende Rolle in der Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Internet",
+            "die Zeitung",
+            "Ich schaue mir Dokumentationen im Fernsehen an.",
+            "Medien spielen eine entscheidende Rolle in der Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I read the newspaper every morning.",
+        "text_de": "Ich lese jeden Morgen die Zeitung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese jeden Morgen die Zeitung.",
+            "Die Schlagzeile erregte meine Aufmerksamkeit.",
+            "Ich benutze einen Werbeblocker in meinem Browser.",
+            "Virale Videos verbreiten sich sehr schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you subscribe to any magazines?",
+        "text_de": "Haben Sie irgendwelche Zeitschriften abonniert?",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie irgendwelche Zeitschriften abonniert?",
+            "Die Regierung informierte die Öffentlichkeit über die neuen Regeln.",
+            "Wissen ist nur einen Klick entfernt.",
+            "Der Chefredakteur prüfte die Titelgeschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The news starts at eight PM.",
+        "text_de": "Die Nachrichten beginnen um zwanzig Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Nachrichten beginnen um zwanzig Uhr.",
+            "Medientechnik entwickelt sich rasant.",
+            "Ich liebe es immer noch, Papierbücher zu lesen.",
+            "Der Chefredakteur prüfte die Titelgeschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I watch documentaries on television.",
+        "text_de": "Ich schaue mir Dokumentationen im Fernsehen an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Radio",
+            "Ich schaue mir Dokumentationen im Fernsehen an.",
+            "Eilmeldung: Ein großer Sturm zieht auf.",
+            "Die Nachrichten beginnen um zwanzig Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Listening to the radio while driving is common.",
+        "text_de": "Beim Autofahren Radio zu hören ist üblich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Pressekonferenz war sehr überfüllt.",
+            "Investigative Journalismus deckt die Wahrheit auf.",
+            "Beim Autofahren Radio zu hören ist üblich.",
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The internet is the main source of information for many.",
+        "text_de": "Das Internet ist für viele die Hauptinformationsquelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge Filme mit einer tiefen Handlung.",
+            "die Zensur",
+            "das Fernsehen",
+            "Das Internet ist für viele die Hauptinformationsquelle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Social media can be addictive.",
+        "text_de": "Soziale Medien können süchtig machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zuverlässige Quellen sind sehr wichtig.",
+            "Soziale Medien können süchtig machen.",
+            "Ich habe einen Artikel über den Klimawandel gelesen.",
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Journalists have a responsibility to be objective.",
+        "text_de": "Journalisten haben eine Verantwortung, objektiv zu sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Journalisten haben eine Verantwortung, objektiv zu sein.",
+            "Journalismus ist die vierte Gewalt im Staat.",
+            "Der Fernsehsender hat ein breites Spektrum an Programmen.",
+            "Die Medienberichterstattung über das Ereignis war riesig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The reporter is reporting live from the scene.",
+        "text_de": "Der Reporter berichtet live vom Schauplatz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Reporter berichtet live vom Schauplatz.",
+            "der Journalist",
+            "Medien spielen eine entscheidende Rolle in der Gesellschaft.",
+            "Ich interessiere mich für die Mediengeschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He gave an interesting interview on the talk show.",
+        "text_de": "Er gab ein interessantes Interview in der Talkshow.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Untertitel sind hilfreich beim Sprachenlernen.",
+            "Die Frist für den Artikel ist heute Abend.",
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "Er gab ein interessantes Interview in der Talkshow."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I read an article about climate change.",
+        "text_de": "Ich habe einen Artikel über den Klimawandel gelesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medien spielen eine entscheidende Rolle in der Gesellschaft.",
+            "der Reporter",
+            "Eilmeldung: Ein großer Sturm zieht auf.",
+            "Ich habe einen Artikel über den Klimawandel gelesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There are too many advertisements on TV.",
+        "text_de": "Es gibt zu viel Werbung im Fernsehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass uns heute Abend einen Film schauen.",
+            "Welche Sendung gefällt Ihnen am besten?",
+            "Es gibt zu viel Werbung im Fernsehen.",
+            "Ich beziehe meine Nachrichten aus mehreren Quellen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's difficult to filter useful information.",
+        "text_de": "Es ist schwierig, nützliche Informationen zu filtern.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist schwierig, nützliche Informationen zu filtern.",
+            "Das Buch wird nächsten Monat veröffentlicht.",
+            "Lasst uns Medien für eine positive Veränderung nutzen.",
+            "informieren"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Beware of fake news on the internet.",
+        "text_de": "Vorsicht vor Falschmeldungen im Internet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "informieren",
+            "Ich bevorzuge Filme mit einer tiefen Handlung.",
+            "Wissen ist nur einen Klick entfernt.",
+            "Vorsicht vor Falschmeldungen im Internet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Censorship is a violation of press freedom.",
+        "text_de": "Zensur ist eine Verletzung der Pressefreiheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zensur ist eine Verletzung der Pressefreiheit.",
+            "Ich schaue mir Dokumentationen im Fernsehen an.",
+            "das Interview",
+            "das Publikum"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The audience applauded at the end of the show.",
+        "text_de": "Das Publikum applaudierte am Ende der Show.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Influencer haben einen großen Einfluss auf Teenager.",
+            "die Medien",
+            "Untertitel sind hilfreich beim Sprachenlernen.",
+            "Das Publikum applaudierte am Ende der Show."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Which broadcast do you like best?",
+        "text_de": "Welche Sendung gefällt Ihnen am besten?",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich interessiere mich für die Mediengeschichte.",
+            "die Zeitschrift",
+            "Zensur ist eine Verletzung der Pressefreiheit.",
+            "Welche Sendung gefällt Ihnen am besten?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The government informed the public about the new rules.",
+        "text_de": "Die Regierung informierte die Öffentlichkeit über die neuen Regeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die sozialen Medien",
+            "Beim Autofahren Radio zu hören ist üblich.",
+            "Die Regierung informierte die Öffentlichkeit über die neuen Regeln.",
+            "Die Schlagzeile erregte meine Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The book will be published next month.",
+        "text_de": "Das Buch wird nächsten Monat veröffentlicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie irgendwelche Zeitschriften abonniert?",
+            "Die Live-Übertragung wurde durch einen technischen Fehler unterbrochen.",
+            "Influencer haben einen großen Einfluss auf Teenager.",
+            "Das Buch wird nächsten Monat veröffentlicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Media literacy is an important skill.",
+        "text_de": "Medienkompetenz ist eine wichtige Fähigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schaue mir Dokumentationen im Fernsehen an.",
+            "Abonnements können monatlich gekündigt werden.",
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "Hochgeschwindigkeitsinternet ist für Streaming notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I get my news from several sources.",
+        "text_de": "Ich beziehe meine Nachrichten aus mehreren Quellen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Welche Sendung gefällt Ihnen am besten?",
+            "Das Buch wird nächsten Monat veröffentlicht.",
+            "Ich beziehe meine Nachrichten aus mehreren Quellen.",
+            "Journalismus ist die vierte Gewalt im Staat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The press conference was very crowded.",
+        "text_de": "Die Pressekonferenz war sehr überfüllt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hilfreiche Kommentare machen Diskussionen besser.",
+            "Das Layout der Zeitschrift ist sehr professionell.",
+            "Seien Sie sich der digitalen Kluft bewusst.",
+            "Die Pressekonferenz war sehr überfüllt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The tabloid papers often focus on scandals.",
+        "text_de": "Boulevardzeitungen konzentrieren sich oft auf Skandale.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Layout der Zeitschrift ist sehr professionell.",
+            "Der Reporter führte eine Reihe von Interviews.",
+            "Boulevardzeitungen konzentrieren sich oft auf Skandale.",
+            "das Radio"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Investigative journalism uncovers the truth.",
+        "text_de": "Investigative Journalismus deckt die Wahrheit auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "Investigative Journalismus deckt die Wahrheit auf.",
+            "Heute kann jeder ein Content Creator sein.",
+            "Ich lese gerne Filmkritiken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The editor-in-chief checked the lead story.",
+        "text_de": "Der Chefredakteur prüfte die Titelgeschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich höre mir auf dem Weg zur Arbeit Podcasts an.",
+            "Der Chefredakteur prüfte die Titelgeschichte.",
+            "Investigative Journalismus deckt die Wahrheit auf.",
+            "die Zeitung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The deadline for the article is tonight.",
+        "text_de": "Die Frist für den Artikel ist heute Abend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Frist für den Artikel ist heute Abend.",
+            "die Falschmeldungen",
+            "Privatsphäre-Einstellungen sind wichtig auf sozialen Plattformen.",
+            "Synchronisation ist im deutschen Kino üblich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom of information is essential for democracy.",
+        "text_de": "Informationsfreiheit ist für die Demokratie unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist schwierig, nützliche Informationen zu filtern.",
+            "Medienethik sollte von jedem respektiert werden.",
+            "Politische Voreingenommenheit der Medien kann Wähler beeinflussen.",
+            "Informationsfreiheit ist für die Demokratie unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I use an ad-blocker on my browser.",
+        "text_de": "Ich benutze einen Werbeblocker in meinem Browser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich benutze einen Werbeblocker in meinem Browser.",
+            "Ich suche die Wettervorhersage.",
+            "Synchronisation ist im deutschen Kino üblich.",
+            "Gutenbergs Buchdruck veränderte die Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Streaming services are replacing traditional TV.",
+        "text_de": "Streaming-Dienste ersetzen das herkömmliche Fernsehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Internet",
+            "Streaming-Dienste ersetzen das herkömmliche Fernsehen.",
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Untertitel sind hilfreich beim Sprachenlernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I listen to podcasts during my commute.",
+        "text_de": "Ich höre mir auf dem Weg zur Arbeit Podcasts an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "die Sendung",
+            "der Reporter",
+            "Ich höre mir auf dem Weg zur Arbeit Podcasts an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Viral videos spread very quickly.",
+        "text_de": "Virale Videos verbreiten sich sehr schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er gab ein interessantes Interview in der Talkshow.",
+            "Die Medienberichterstattung über das Ereignis war riesig.",
+            "Virale Videos verbreiten sich sehr schnell.",
+            "Investigative Journalismus deckt die Wahrheit auf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Influencers have a big impact on teenagers.",
+        "text_de": "Influencer haben einen großen Einfluss auf Teenager.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Artikel über den Klimawandel gelesen.",
+            "Die Dokumentation war sehr lehrreich.",
+            "Investigative Journalismus deckt die Wahrheit auf.",
+            "Influencer haben einen großen Einfluss auf Teenager."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Privacy settings are important on social platforms.",
+        "text_de": "Privatsphäre-Einstellungen sind wichtig auf sozialen Plattformen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Layout der Zeitschrift ist sehr professionell.",
+            "Die Preisverleihung wird live übertragen.",
+            "Privatsphäre-Einstellungen sind wichtig auf sozialen Plattformen.",
+            "Die Medienberichterstattung über das Ereignis war riesig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't share personal data with strangers.",
+        "text_de": "Teilen Sie keine persönlichen Daten mit Fremden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seien Sie sich der digitalen Kluft bewusst.",
+            "Politische Voreingenommenheit der Medien kann Wähler beeinflussen.",
+            "Teilen Sie keine persönlichen Daten mit Fremden.",
+            "Der Fernsehsender hat ein breites Spektrum an Programmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cyberbullying is a serious problem.",
+        "text_de": "Cybermobbing ist ein ernstes Problem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Influencer haben einen großen Einfluss auf Teenager.",
+            "Die Preisverleihung wird live übertragen.",
+            "Informationsfreiheit ist für die Demokratie unerlässlich.",
+            "Cybermobbing ist ein ernstes Problem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Helpful comments make discussions better.",
+        "text_de": "Hilfreiche Kommentare machen Diskussionen besser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hilfreiche Kommentare machen Diskussionen besser.",
+            "Journalisten haben eine Verantwortung, objektiv zu sein.",
+            "die Werbung",
+            "der Journalist"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Check the facts before you share a post.",
+        "text_de": "Prüfen Sie die Fakten, bevor Sie einen Beitrag teilen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Investigative Journalismus deckt die Wahrheit auf.",
+            "Prüfen Sie die Fakten, bevor Sie einen Beitrag teilen.",
+            "Abonnements können monatlich gekündigt werden.",
+            "Seien Sie sich der digitalen Kluft bewusst."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The TV channel has a wide range of programs.",
+        "text_de": "Der Fernsehsender hat ein breites Spektrum an Programmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hilfreiche Kommentare machen Diskussionen besser.",
+            "Die Pressekonferenz war sehr überfüllt.",
+            "das Interview",
+            "Der Fernsehsender hat ein breites Spektrum an Programmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Subtitles are helpful for learning a language.",
+        "text_de": "Untertitel sind hilfreich beim Sprachenlernen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sendung",
+            "Welche Sendung gefällt Ihnen am besten?",
+            "Untertitel sind hilfreich beim Sprachenlernen.",
+            "Lasst uns Medien für eine positive Veränderung nutzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Dubbing is common in German cinema.",
+        "text_de": "Synchronisation ist im deutschen Kino üblich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Untertitel sind hilfreich beim Sprachenlernen.",
+            "Synchronisation ist im deutschen Kino üblich.",
+            "Abonnements können monatlich gekündigt werden.",
+            "Die Schlagzeile erregte meine Aufmerksamkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The live broadcast was interrupted by a technical error.",
+        "text_de": "Die Live-Übertragung wurde durch einen technischen Fehler unterbrochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich höre mir auf dem Weg zur Arbeit Podcasts an.",
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen.",
+            "Die Live-Übertragung wurde durch einen technischen Fehler unterbrochen.",
+            "Streaming-Dienste ersetzen das herkömmliche Fernsehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Who is the host of the late-night show?",
+        "text_de": "Wer ist der Moderator der Late-Night-Show?",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gutenbergs Buchdruck veränderte die Welt.",
+            "Es gibt zu viel Werbung im Fernsehen.",
+            "Wer ist der Moderator der Late-Night-Show?",
+            "Die Dokumentation war sehr lehrreich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The documentary was very educational.",
+        "text_de": "Die Dokumentation war sehr lehrreich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gutenbergs Buchdruck veränderte die Welt.",
+            "Die Dokumentation war sehr lehrreich.",
+            "Zuverlässige Quellen sind sehr wichtig.",
+            "Hilfreiche Kommentare machen Diskussionen besser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sports commentator was very enthusiastic.",
+        "text_de": "Der Sportkommentator war sehr enthusiastisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sportkommentator war sehr enthusiastisch.",
+            "Untertitel sind hilfreich beim Sprachenlernen.",
+            "die Sendung",
+            "Die Spezialeffekte waren erstaunlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Breaking news: a big storm is coming.",
+        "text_de": "Eilmeldung: Ein großer Sturm zieht auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Journalisten haben eine Verantwortung, objektiv zu sein.",
+            "Eilmeldung: Ein großer Sturm zieht auf.",
+            "Beim Autofahren Radio zu hören ist üblich.",
+            "Der Soundtrack ist online verfügbar."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The headline caught my attention.",
+        "text_de": "Die Schlagzeile erregte meine Aufmerksamkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Informationsfreiheit ist für die Demokratie unerlässlich.",
+            "Politische Voreingenommenheit der Medien kann Wähler beeinflussen.",
+            "Die Schlagzeile erregte meine Aufmerksamkeit.",
+            "Ich interessiere mich für die Mediengeschichte."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for the weather forecast.",
+        "text_de": "Ich suche die Wettervorhersage.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Starte einen Blog, um deine Gedanken zu teilen.",
+            "Ich suche die Wettervorhersage.",
+            "Der Pressekodex definiert die Regeln für Journalisten.",
+            "Synchronisation ist im deutschen Kino üblich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The layout of the magazine is very professional.",
+        "text_de": "Das Layout der Zeitschrift ist sehr professionell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Nachrichtenagentur liefert Berichte weltweit.",
+            "Das Layout der Zeitschrift ist sehr professionell.",
+            "Der Soundtrack ist online verfügbar.",
+            "Medientechnik entwickelt sich rasant."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Subscriptions can be cancelled monthly.",
+        "text_de": "Abonnements können monatlich gekündigt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich beziehe meine Nachrichten aus mehreren Quellen.",
+            "Abonnements können monatlich gekündigt werden.",
+            "Zuverlässige Quellen sind sehr wichtig.",
+            "Medientechnik entwickelt sich rasant."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The media coverage of the event was huge.",
+        "text_de": "Die Medienberichterstattung über das Ereignis war riesig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Interview",
+            "Die Medienberichterstattung über das Ereignis war riesig.",
+            "Die Preisverleihung wird live übertragen.",
+            "Politische Voreingenommenheit der Medien kann Wähler beeinflussen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Opinion pieces display the author's point of view.",
+        "text_de": "Meinungsbeiträge zeigen den Standpunkt des Autors.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Zensur",
+            "Ich habe einen Artikel über den Klimawandel gelesen.",
+            "Meinungsbeiträge zeigen den Standpunkt des Autors.",
+            "Untertitel sind hilfreich beim Sprachenlernen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's watch a movie tonight.",
+        "text_de": "Lass uns heute Abend einen Film schauen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Medienberichterstattung über das Ereignis war riesig.",
+            "Lass uns heute Abend einen Film schauen.",
+            "Abonnements können monatlich gekündigt werden.",
+            "Der Reporter führte eine Reihe von Interviews."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The special effects were amazing.",
+        "text_de": "Die Spezialeffekte waren erstaunlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Buch wird nächsten Monat veröffentlicht.",
+            "Die Spezialeffekte waren erstaunlich.",
+            "Die Medienberichterstattung über das Ereignis war riesig.",
+            "Hilfreiche Kommentare machen Diskussionen besser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I prefer movies with a deep plot.",
+        "text_de": "Ich bevorzuge Filme mit einer tiefen Handlung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bevorzuge Filme mit einer tiefen Handlung.",
+            "Heute kann jeder ein Content Creator sein.",
+            "Privatsphäre-Einstellungen sind wichtig auf sozialen Plattformen.",
+            "Der Reporter führte eine Reihe von Interviews."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The soundtrack is available online.",
+        "text_de": "Der Soundtrack ist online verfügbar.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Information",
+            "Das Buch wird nächsten Monat veröffentlicht.",
+            "Der Soundtrack ist online verfügbar.",
+            "Ich liebe es immer noch, Papierbücher zu lesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I enjoy reading film reviews.",
+        "text_de": "Ich lese gerne Filmkritiken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Live-Übertragung wurde durch einen technischen Fehler unterbrochen.",
+            "Virale Videos verbreiten sich sehr schnell.",
+            "Die Preisverleihung wird live übertragen.",
+            "Ich lese gerne Filmkritiken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The award ceremony will be broadcasted live.",
+        "text_de": "Die Preisverleihung wird live übertragen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Preisverleihung wird live übertragen.",
+            "Die Spezialeffekte waren erstaunlich.",
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen.",
+            "Ich benutze einen Werbeblocker in meinem Browser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Media technology is evolving rapidly.",
+        "text_de": "Medientechnik entwickelt sich rasant.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Virale Videos verbreiten sich sehr schnell.",
+            "Ich liebe es immer noch, Papierbücher zu lesen.",
+            "Medientechnik entwickelt sich rasant.",
+            "Ich habe einen Artikel über den Klimawandel gelesen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "High-speed internet is necessary for streaming.",
+        "text_de": "Hochgeschwindigkeitsinternet ist für Streaming notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen.",
+            "die Zeitung",
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Hochgeschwindigkeitsinternet ist für Streaming notwendig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Digital radio offers better sound quality.",
+        "text_de": "Digitalradio bietet eine bessere Tonqualität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Artikel über den Klimawandel gelesen.",
+            "Medientechnik entwickelt sich rasant.",
+            "Ich bevorzuge Filme mit einer tiefen Handlung.",
+            "Digitalradio bietet eine bessere Tonqualität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I still love reading paper books.",
+        "text_de": "Ich liebe es immer noch, Papierbücher zu lesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich liebe es immer noch, Papierbücher zu lesen.",
+            "informieren",
+            "Ich suche die Wettervorhersage.",
+            "Ich höre mir auf dem Weg zur Arbeit Podcasts an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Public libraries also offer e-books.",
+        "text_de": "Öffentliche Bibliotheken bieten auch E-Books an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nachrichten",
+            "veröffentlichen",
+            "Die Live-Übertragung wurde durch einen technischen Fehler unterbrochen.",
+            "Öffentliche Bibliotheken bieten auch E-Books an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay critical of what you read in the media.",
+        "text_de": "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Reporter berichtet live vom Schauplatz.",
+            "Der Chefredakteur prüfte die Titelgeschichte.",
+            "Bleiben Sie kritisch gegenüber dem, was Sie in den Medien lesen.",
+            "Zensur ist eine Verletzung der Pressefreiheit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Reliable sources are very important.",
+        "text_de": "Zuverlässige Quellen sind sehr wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese gerne Filmkritiken.",
+            "Die Nachrichten beginnen um zwanzig Uhr.",
+            "die Information",
+            "Zuverlässige Quellen sind sehr wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Journalism is the fourth power in a state.",
+        "text_de": "Journalismus ist die vierte Gewalt im Staat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Reporter berichtet live vom Schauplatz.",
+            "Journalismus ist die vierte Gewalt im Staat.",
+            "Wer ist der Moderator der Late-Night-Show?",
+            "Vorsicht vor Falschmeldungen im Internet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The reporter conducted a series of interviews.",
+        "text_de": "Der Reporter führte eine Reihe von Interviews.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Reporter führte eine Reihe von Interviews.",
+            "Die Dokumentation war sehr lehrreich.",
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Medienethik sollte von jedem respektiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The news agency provides reports worldwide.",
+        "text_de": "Die Nachrichtenagentur liefert Berichte weltweit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Nachrichtenagentur liefert Berichte weltweit.",
+            "Zuverlässige Quellen sind sehr wichtig.",
+            "Medientechnik entwickelt sich rasant.",
+            "Vorsicht vor Falschmeldungen im Internet."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Political media bias can influence voters.",
+        "text_de": "Politische Voreingenommenheit der Medien kann Wähler beeinflussen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Journalist",
+            "Journalisten haben eine Verantwortung, objektiv zu sein.",
+            "Ich schaue mir Dokumentationen im Fernsehen an.",
+            "Politische Voreingenommenheit der Medien kann Wähler beeinflussen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Media ethics should be respected by everyone.",
+        "text_de": "Medienethik sollte von jedem respektiert werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Medienethik sollte von jedem respektiert werden.",
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "Seien Sie sich der digitalen Kluft bewusst.",
+            "Der Pressekodex definiert die Regeln für Journalisten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The press code defines the rules for journalists.",
+        "text_de": "Der Pressekodex definiert die Regeln für Journalisten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Werbung",
+            "Medienethik sollte von jedem respektiert werden.",
+            "Er gab ein interessantes Interview in der Talkshow.",
+            "Der Pressekodex definiert die Regeln für Journalisten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm interested in the history of media.",
+        "text_de": "Ich interessiere mich für die Mediengeschichte.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Nachrichtenagentur liefert Berichte weltweit.",
+            "Starte einen Blog, um deine Gedanken zu teilen.",
+            "Ich interessiere mich für die Mediengeschichte.",
+            "Medienethik sollte von jedem respektiert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gutenberg's printing press changed the world.",
+        "text_de": "Gutenbergs Buchdruck veränderte die Welt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gutenbergs Buchdruck veränderte die Welt.",
+            "Die Medienberichterstattung über das Ereignis war riesig.",
+            "veröffentlichen",
+            "Influencer haben einen großen Einfluss auf Teenager."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Today, everyone can be a content creator.",
+        "text_de": "Heute kann jeder ein Content Creator sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich lese gerne Filmkritiken.",
+            "Heute kann jeder ein Content Creator sein.",
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "Barrierefreiheit in den Medien wird besser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Start a blog to share your thoughts.",
+        "text_de": "Starte einen Blog, um deine Gedanken zu teilen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Nachrichten",
+            "Starte einen Blog, um deine Gedanken zu teilen.",
+            "Medientechnik entwickelt sich rasant.",
+            "Hilfreiche Kommentare machen Diskussionen besser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be aware of the digital divide.",
+        "text_de": "Seien Sie sich der digitalen Kluft bewusst.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sportkommentator war sehr enthusiastisch.",
+            "die Nachrichten",
+            "Seien Sie sich der digitalen Kluft bewusst.",
+            "Journalisten haben eine Verantwortung, objektiv zu sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Accessibility in media is getting better.",
+        "text_de": "Barrierefreiheit in den Medien wird besser.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Barrierefreiheit in den Medien wird besser.",
+            "das Interview",
+            "die Zeitung",
+            "das Publikum"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Education via media is a great opportunity.",
+        "text_de": "Bildung über Medien ist eine große Chance.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Haben Sie irgendwelche Zeitschriften abonniert?",
+            "Starte einen Blog, um deine Gedanken zu teilen.",
+            "die Zeitschrift",
+            "Bildung über Medien ist eine große Chance."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's use media for a positive change.",
+        "text_de": "Lasst uns Medien für eine positive Veränderung nutzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns Medien für eine positive Veränderung nutzen.",
+            "Medienkompetenz ist eine wichtige Fähigkeit.",
+            "Wissen ist nur einen Klick entfernt.",
+            "Gutenbergs Buchdruck veränderte die Welt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is only one click away.",
+        "text_de": "Wissen ist nur einen Klick entfernt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Media'.",
+        "description_de": "Beispielsatz für 'Media'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Spezialeffekte waren erstaunlich.",
+            "Haben Sie irgendwelche Zeitschriften abonniert?",
+            "Ich suche die Wettervorhersage.",
+            "Wissen ist nur einen Klick entfernt."
+        ]
+    }
+]

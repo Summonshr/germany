@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The science",
+        "text_de": "die Wissenschaft",
+        "synonyms": [],
+        "description": "German word for 'The science'.",
+        "description_de": "Deutsches Wort für 'The science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wissenschaft",
+            "Wissenschaft ist das Streben nach Wissen.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "In der Chemie geht es um die Zusammensetzung von Materie."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The research",
+        "text_de": "die Forschung",
+        "synonyms": [],
+        "description": "German word for 'The research'.",
+        "description_de": "Deutsches Wort für 'The research'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Forschung",
+            "der Planet",
+            "Photosynthese ist die Art, wie Pflanzen Nahrung produzieren.",
+            "Mathematik ist die Sprache der Wissenschaft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The scientist",
+        "text_de": "der Wissenschaftler",
+        "synonyms": [],
+        "description": "German word for 'The scientist'.",
+        "description_de": "Deutsches Wort für 'The scientist'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir führen ein Experiment im Labor durch.",
+            "der Wissenschaftler",
+            "Schwerkraft hält uns auf dem Boden.",
+            "Die Entdeckung des Penizillins rettete viele Leben."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The experiment",
+        "text_de": "das Experiment",
+        "synonyms": [],
+        "description": "German word for 'The experiment'.",
+        "description_de": "Deutsches Wort für 'The experiment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Alternative Energien werden billiger.",
+            "DNA trägt die genetische Information.",
+            "das Experiment",
+            "Wissenschaft braucht Neugier und Ausdauer."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The theory",
+        "text_de": "die Theorie",
+        "synonyms": [],
+        "description": "German word for 'The theory'.",
+        "description_de": "Deutsches Wort für 'The theory'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Theorie",
+            "Milliarden von Sternen leuchten in der Galaxie.",
+            "Satelliten umkreisen die Erde.",
+            "Die Erfindung des Rades war ein Meilenstein."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The discovery",
+        "text_de": "die Entdeckung",
+        "synonyms": [],
+        "description": "German word for 'The discovery'.",
+        "description_de": "Deutsches Wort für 'The discovery'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Theorie",
+            "das Molekül",
+            "Ich möchte Astrophysiker werden.",
+            "die Entdeckung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The invention",
+        "text_de": "die Erfindung",
+        "synonyms": [],
+        "description": "German word for 'The invention'.",
+        "description_de": "Deutsches Wort für 'The invention'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Erfindung",
+            "Biologie ist das Studium lebender Organismen.",
+            "Satelliten umkreisen die Erde.",
+            "die Forschung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The laboratory",
+        "text_de": "das Labor",
+        "synonyms": [],
+        "description": "German word for 'The laboratory'.",
+        "description_de": "Deutsches Wort für 'The laboratory'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Radioaktivität kann gefährlich, aber auch nützlich sein.",
+            "das Molekül",
+            "das Labor",
+            "Wasserstoff ist das leichteste Element."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The chemistry",
+        "text_de": "die Chemie",
+        "synonyms": [],
+        "description": "German word for 'The chemistry'.",
+        "description_de": "Deutsches Wort für 'The chemistry'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Welt ist voller Wunder, die es zu entdecken gilt.",
+            "Ich arbeite an meiner Doktorarbeit.",
+            "Robotik ist ein Bereich schneller Innovation.",
+            "die Chemie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The physics",
+        "text_de": "die Physik",
+        "synonyms": [],
+        "description": "German word for 'The physics'.",
+        "description_de": "Deutsches Wort für 'The physics'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weltraumforschung enthüllt die Geheimnisse des Universums.",
+            "die Physik",
+            "die Energie",
+            "Die Lichtgeschwindigkeit ist eine fundamentale Konstante."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The biology",
+        "text_de": "die Biologie",
+        "synonyms": [],
+        "description": "German word for 'The biology'.",
+        "description_de": "Deutsches Wort für 'The biology'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Erfindung",
+            "Nanotechnologie arbeitet mit winzigen Strukturen.",
+            "die Natur",
+            "die Biologie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The energy",
+        "text_de": "die Energie",
+        "synonyms": [],
+        "description": "German word for 'The energy'.",
+        "description_de": "Deutsches Wort für 'The energy'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!",
+            "Gentechnik hat viele Anwendungen.",
+            "die Energie",
+            "die Chemie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The nature",
+        "text_de": "die Natur",
+        "synonyms": [],
+        "description": "German word for 'The nature'.",
+        "description_de": "Deutsches Wort für 'The nature'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eisen wird im Bauwesen verwendet.",
+            "die Natur",
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen.",
+            "Schwerkraft hält uns auf dem Boden."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The space",
+        "text_de": "der Weltraum",
+        "synonyms": [],
+        "description": "German word for 'The space'.",
+        "description_de": "Deutsches Wort für 'The space'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an meiner Doktorarbeit.",
+            "die Biologie",
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!",
+            "der Weltraum"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The star",
+        "text_de": "der Stern",
+        "synonyms": [],
+        "description": "German word for 'The star'.",
+        "description_de": "Deutsches Wort für 'The star'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Welt ist voller Wunder, die es zu entdecken gilt.",
+            "der Stern",
+            "Das Periodensystem listet alle Elemente auf.",
+            "Beobachtung ist der erste Schritt in der Wissenschaft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The planet",
+        "text_de": "der Planet",
+        "synonyms": [],
+        "description": "German word for 'The planet'.",
+        "description_de": "Deutsches Wort für 'The planet'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Physik erforscht die Gesetze der Natur.",
+            "der Wissenschaftler",
+            "beobachten",
+            "der Planet"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The cell",
+        "text_de": "die Zelle",
+        "synonyms": [],
+        "description": "German word for 'The cell'.",
+        "description_de": "Deutsches Wort für 'The cell'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Biologie ist das Studium lebender Organismen.",
+            "Wissenschaft ist das Streben nach Wissen.",
+            "die Zelle",
+            "Die Universität hat ein modernes Labor."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The molecule",
+        "text_de": "das Molekül",
+        "synonyms": [],
+        "description": "German word for 'The molecule'.",
+        "description_de": "Deutsches Wort für 'The molecule'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Open Science fördert Transparenz.",
+            "die Entdeckung",
+            "das Molekül",
+            "Impfstoffe verhindern gefährliche Krankheiten."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The atom",
+        "text_de": "das Atom",
+        "synonyms": [],
+        "description": "German word for 'The atom'.",
+        "description_de": "Deutsches Wort für 'The atom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Atom",
+            "Sauerstoff ist notwendig zum Atmen.",
+            "die Forschung",
+            "Evolution erklärt die Vielfalt des Lebens."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To observe",
+        "text_de": "beobachten",
+        "synonyms": [],
+        "description": "German word for 'To observe'.",
+        "description_de": "Deutsches Wort für 'To observe'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Mikroskop ermöglicht es uns, winzige Dinge zu sehen.",
+            "beobachten",
+            "Wissenschaft verbessert unsere Lebensqualität.",
+            "das Labor"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science is the pursuit of knowledge.",
+        "text_de": "Wissenschaft ist das Streben nach Wissen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ergebnisse waren statistisch signifikant.",
+            "Wissenschaft ist das Streben nach Wissen.",
+            "der Stern",
+            "Tierversuche sind umstritten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Modern research is often international.",
+        "text_de": "Moderne Forschung ist oft international.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moderne Forschung ist oft international.",
+            "Biologie ist das Studium lebender Organismen.",
+            "die Entdeckung",
+            "Logik ist das Werkzeug des Verstandes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He is a world-renowned scientist.",
+        "text_de": "Er ist ein weltberühmter Wissenschaftler.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Umwelt muss geschützt werden.",
+            "Er ist ein weltberühmter Wissenschaftler.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Tierversuche sind umstritten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are conducting an experiment in the lab.",
+        "text_de": "Wir führen ein Experiment im Labor durch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir führen ein Experiment im Labor durch.",
+            "Evolution erklärt die Vielfalt des Lebens.",
+            "Die Urknalltheorie beschreibt den Ursprung des Universums.",
+            "Impfstoffe verhindern gefährliche Krankheiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Einstein's theory of relativity changed physics.",
+        "text_de": "Einsteins Relativitätstheorie veränderte die Physik.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einsteins Relativitätstheorie veränderte die Physik.",
+            "die Zelle",
+            "Wir müssen nach nachhaltigen Lösungen suchen.",
+            "Jedes Lebewesen besteht aus Zellen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The discovery of penicillin saved many lives.",
+        "text_de": "Die Entdeckung des Penizillins rettete viele Leben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Radioaktivität kann gefährlich, aber auch nützlich sein.",
+            "Eisen wird im Bauwesen verwendet.",
+            "Evolution erklärt die Vielfalt des Lebens."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The invention of the wheel was a milestone.",
+        "text_de": "Die Erfindung des Rades war ein Meilenstein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Stern",
+            "Satelliten umkreisen die Erde.",
+            "die Biologie",
+            "Die Erfindung des Rades war ein Meilenstein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Chemistry is about the composition of matter.",
+        "text_de": "In der Chemie geht es um die Zusammensetzung von Materie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Open Science fördert Transparenz.",
+            "der Wissenschaftler",
+            "Neurowissenschaft erforscht das Nervensystem.",
+            "In der Chemie geht es um die Zusammensetzung von Materie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Physics explores the laws of nature.",
+        "text_de": "Die Physik erforscht die Gesetze der Natur.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Atom",
+            "Mathematik ist die Sprache der Wissenschaft.",
+            "Die Physik erforscht die Gesetze der Natur.",
+            "Alternative Energien werden billiger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Biology is the study of living organisms.",
+        "text_de": "Biologie ist das Studium lebender Organismen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weltraumforschung enthüllt die Geheimnisse des Universums.",
+            "Biologie ist das Studium lebender Organismen.",
+            "Die Erfindung des Rades war ein Meilenstein.",
+            "Datenanalyse gehört zu jeder Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Renewable energy is vital for the future.",
+        "text_de": "Erneuerbare Energie ist lebenswichtig für die Zukunft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Erneuerbare Energie ist lebenswichtig für die Zukunft.",
+            "Kernkraft erzeugt viel Energie.",
+            "Die Erde ist der dritte Planet von der Sonne.",
+            "Wir müssen nach nachhaltigen Lösungen suchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Observation is the first step in science.",
+        "text_de": "Beobachtung ist der erste Schritt in der Wissenschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Strahlenschutz ist unerlässlich.",
+            "Er ist ein weltberühmter Wissenschaftler.",
+            "Beobachtung ist der erste Schritt in der Wissenschaft.",
+            "Open Science fördert Transparenz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Space exploration reveals the secrets of the universe.",
+        "text_de": "Weltraumforschung enthüllt die Geheimnisse des Universums.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Weltraumforschung enthüllt die Geheimnisse des Universums.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Kohlenstoff ist die Basis alles bekannten Lebens.",
+            "Ich bin fasziniert vom menschlichen Gehirn."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Billions of stars shine in the galaxy.",
+        "text_de": "Milliarden von Sternen leuchten in der Galaxie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Planet",
+            "Milliarden von Sternen leuchten in der Galaxie.",
+            "Die Umwelt muss geschützt werden.",
+            "Moleküle bestehen aus Atomen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Earth is the third planet from the sun.",
+        "text_de": "Die Erde ist der dritte Planet von der Sonne.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moderne Forschung ist oft international.",
+            "Die Erfindung des Rades war ein Meilenstein.",
+            "Die Erde ist der dritte Planet von der Sonne.",
+            "Ich arbeite an meiner Doktorarbeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every living being consists of cells.",
+        "text_de": "Jedes Lebewesen besteht aus Zellen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Schwerkraft hält uns auf dem Boden.",
+            "Die wissenschaftliche Methode gewährleistet zuverlässige Ergebnisse.",
+            "Jedes Lebewesen besteht aus Zellen.",
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Molecules are made of atoms.",
+        "text_de": "Moleküle bestehen aus Atomen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Biologie",
+            "Moleküle bestehen aus Atomen.",
+            "Nanotechnologie arbeitet mit winzigen Strukturen.",
+            "die Physik"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "An atom has a nucleus and electrons.",
+        "text_de": "Ein Atom hat einen Kern und Elektronen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eisen wird im Bauwesen verwendet.",
+            "Ein Atom hat einen Kern und Elektronen.",
+            "Ich arbeite an meiner Doktorarbeit.",
+            "Die Universität hat ein modernes Labor."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science needs curiosity and persistence.",
+        "text_de": "Wissenschaft braucht Neugier und Ausdauer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz ahmt menschliches Denken nach.",
+            "Einsteins Relativitätstheorie veränderte die Physik.",
+            "Wissenschaft braucht Neugier und Ausdauer.",
+            "Kreativität wird auch in der Forschung benötigt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We must look for sustainable solutions.",
+        "text_de": "Wir müssen nach nachhaltigen Lösungen suchen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gentechnik hat viele Anwendungen.",
+            "Wir müssen nach nachhaltigen Lösungen suchen.",
+            "das Atom",
+            "Eine Hypothese muss getestet werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The scientific method ensures reliable results.",
+        "text_de": "Die wissenschaftliche Methode gewährleistet zuverlässige Ergebnisse.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Neurowissenschaft erforscht das Nervensystem.",
+            "Die wissenschaftliche Methode gewährleistet zuverlässige Ergebnisse.",
+            "Kreativität wird auch in der Forschung benötigt.",
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Peer review is important for quality control.",
+        "text_de": "Peer-Review ist wichtig für die Qualitätskontrolle.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Satelliten umkreisen die Erde.",
+            "Die Universität hat ein modernes Labor.",
+            "Das Periodensystem listet alle Elemente auf.",
+            "Peer-Review ist wichtig für die Qualitätskontrolle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm reading a scientific journal.",
+        "text_de": "Ich lese eine wissenschaftliche Fachzeitschrift.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kernkraft erzeugt viel Energie.",
+            "die Erfindung",
+            "das Labor",
+            "Ich lese eine wissenschaftliche Fachzeitschrift."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The climate is changing rapidly.",
+        "text_de": "Das Klima verändert sich schnell.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Peer-Review ist wichtig für die Qualitätskontrolle.",
+            "Die Ergebnisse waren statistisch signifikant.",
+            "Er ist ein weltberühmter Wissenschaftler.",
+            "Das Klima verändert sich schnell."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gravity keeps us on the ground.",
+        "text_de": "Schwerkraft hält uns auf dem Boden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sauerstoff ist notwendig zum Atmen.",
+            "die Wissenschaft",
+            "Ich schaue mir gerne Wissenschaftsdokumentationen an.",
+            "Schwerkraft hält uns auf dem Boden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The speed of light is a fundamental constant.",
+        "text_de": "Die Lichtgeschwindigkeit ist eine fundamentale Konstante.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kohlenstoff ist die Basis alles bekannten Lebens.",
+            "Die Lichtgeschwindigkeit ist eine fundamentale Konstante.",
+            "Die Universität hat ein modernes Labor.",
+            "Astronomie ist das Studium der Himmelskörper."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Water boils at 100 degrees Celsius.",
+        "text_de": "Wasser kocht bei hundert Grad Celsius.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Mikroskop ermöglicht es uns, winzige Dinge zu sehen.",
+            "Wasser kocht bei hundert Grad Celsius.",
+            "Die wissenschaftliche Methode gewährleistet zuverlässige Ergebnisse.",
+            "die Entdeckung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Photosynthesis is how plants produce food.",
+        "text_de": "Photosynthese ist die Art, wie Pflanzen Nahrung produzieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jedes Lebewesen besteht aus Zellen.",
+            "Strahlenschutz ist unerlässlich.",
+            "Erneuerbare Energie ist lebenswichtig für die Zukunft.",
+            "Photosynthese ist die Art, wie Pflanzen Nahrung produzieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Evolution explains the diversity of life.",
+        "text_de": "Evolution erklärt die Vielfalt des Lebens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ökologie ist das Studium von Ökosystemen.",
+            "Evolution erklärt die Vielfalt des Lebens.",
+            "Das Mikroskop ermöglicht es uns, winzige Dinge zu sehen.",
+            "Ich schaue mir gerne Wissenschaftsdokumentationen an."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "DNA carries the genetic information.",
+        "text_de": "DNA trägt die genetische Information.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!",
+            "DNA trägt die genetische Information.",
+            "Wissen ist die beste Investition.",
+            "Schwerkraft hält uns auf dem Boden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Antibiotics fight bacterial infections.",
+        "text_de": "Antibiotika bekämpfen bakterielle Infektionen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Antibiotika bekämpfen bakterielle Infektionen.",
+            "Satelliten umkreisen die Erde.",
+            "die Physik",
+            "die Forschung"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Vaccines prevent dangerous diseases.",
+        "text_de": "Impfstoffe verhindern gefährliche Krankheiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Energie",
+            "Kernkraft erzeugt viel Energie.",
+            "Wasser kocht bei hundert Grad Celsius.",
+            "Impfstoffe verhindern gefährliche Krankheiten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Astronomy is the study of celestial bodies.",
+        "text_de": "Astronomie ist das Studium der Himmelskörper.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen.",
+            "Astronomie ist das Studium der Himmelskörper.",
+            "Eine Hypothese muss getestet werden.",
+            "Schwarze Löcher sind mysteriöse Objekte im Weltraum."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Black holes are mysterious objects in space.",
+        "text_de": "Schwarze Löcher sind mysteriöse Objekte im Weltraum.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wasser kocht bei hundert Grad Celsius.",
+            "Schwarze Löcher sind mysteriöse Objekte im Weltraum.",
+            "der Stern",
+            "Hör niemals auf, Fragen zu stellen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The Big Bang theory describes the origin of the universe.",
+        "text_de": "Die Urknalltheorie beschreibt den Ursprung des Universums.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eisen wird im Bauwesen verwendet.",
+            "Antibiotika bekämpfen bakterielle Infektionen.",
+            "Die Urknalltheorie beschreibt den Ursprung des Universums.",
+            "Die Lichtgeschwindigkeit ist eine fundamentale Konstante."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Satellites orbit the earth.",
+        "text_de": "Satelliten umkreisen die Erde.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "die Erfindung",
+            "das Experiment",
+            "Satelliten umkreisen die Erde."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Robotics is a field of rapid innovation.",
+        "text_de": "Robotik ist ein Bereich schneller Innovation.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gold ist ein sehr stabiles Metall.",
+            "Robotik ist ein Bereich schneller Innovation.",
+            "Alternative Energien werden billiger.",
+            "Moderne Forschung ist oft international."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Artificial intelligence mimics human thinking.",
+        "text_de": "Künstliche Intelligenz ahmt menschliches Denken nach.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz ahmt menschliches Denken nach.",
+            "Die Urknalltheorie beschreibt den Ursprung des Universums.",
+            "Wir müssen nach nachhaltigen Lösungen suchen.",
+            "Wasserstoff ist das leichteste Element."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nanotechnology works with tiny structures.",
+        "text_de": "Nanotechnologie arbeitet mit winzigen Strukturen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Strahlenschutz ist unerlässlich.",
+            "Satelliten umkreisen die Erde.",
+            "der Planet",
+            "Nanotechnologie arbeitet mit winzigen Strukturen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Quantum mechanics is very complex.",
+        "text_de": "Quantenmechanik ist sehr komplex.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mathematik ist die Sprache der Wissenschaft.",
+            "Die Physik erforscht die Gesetze der Natur.",
+            "Ich schaue mir gerne Wissenschaftsdokumentationen an.",
+            "Quantenmechanik ist sehr komplex."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like watching science documentaries.",
+        "text_de": "Ich schaue mir gerne Wissenschaftsdokumentationen an.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Satelliten umkreisen die Erde.",
+            "Ich schaue mir gerne Wissenschaftsdokumentationen an.",
+            "die Erfindung",
+            "Tierversuche sind umstritten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The periodic table lists all elements.",
+        "text_de": "Das Periodensystem listet alle Elemente auf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gold ist ein sehr stabiles Metall.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Das Periodensystem listet alle Elemente auf.",
+            "Wissenschaft verbessert unsere Lebensqualität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Carbon is the basis of all known life.",
+        "text_de": "Kohlenstoff ist die Basis alles bekannten Lebens.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moderne Forschung ist oft international.",
+            "Kohlenstoff ist die Basis alles bekannten Lebens.",
+            "Tierversuche sind umstritten.",
+            "Die Urknalltheorie beschreibt den Ursprung des Universums."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Oxygen is necessary for breathing.",
+        "text_de": "Sauerstoff ist notwendig zum Atmen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich arbeite an meiner Doktorarbeit.",
+            "Wasser kocht bei hundert Grad Celsius.",
+            "die Natur",
+            "Sauerstoff ist notwendig zum Atmen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hydrogen is the lightest element.",
+        "text_de": "Wasserstoff ist das leichteste Element.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Welt ist voller Wunder, die es zu entdecken gilt.",
+            "Wasserstoff ist das leichteste Element.",
+            "beobachten",
+            "Astronomie ist das Studium der Himmelskörper."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Iron is used in construction.",
+        "text_de": "Eisen wird im Bauwesen verwendet.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kernkraft erzeugt viel Energie.",
+            "Eisen wird im Bauwesen verwendet.",
+            "die Forschung",
+            "Alternative Energien werden billiger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Gold is a very stable metal.",
+        "text_de": "Gold ist ein sehr stabiles Metall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Peer-Review ist wichtig für die Qualitätskontrolle.",
+            "Hör niemals auf, Fragen zu stellen.",
+            "die Erfindung",
+            "Gold ist ein sehr stabiles Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Radioactivity can be dangerous but also useful.",
+        "text_de": "Radioaktivität kann gefährlich, aber auch nützlich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Hypothese muss getestet werden.",
+            "Die Urknalltheorie beschreibt den Ursprung des Universums.",
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!",
+            "Radioaktivität kann gefährlich, aber auch nützlich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nuclear power generates a lot of energy.",
+        "text_de": "Kernkraft erzeugt viel Energie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wasserstoff ist das leichteste Element.",
+            "Ökologie ist das Studium von Ökosystemen.",
+            "Kernkraft erzeugt viel Energie.",
+            "Wasser kocht bei hundert Grad Celsius."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Radiation protection is essential.",
+        "text_de": "Strahlenschutz ist unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einsteins Relativitätstheorie veränderte die Physik.",
+            "Strahlenschutz ist unerlässlich.",
+            "Evolution erklärt die Vielfalt des Lebens.",
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The microscope allows us to see tiny things.",
+        "text_de": "Das Mikroskop ermöglicht es uns, winzige Dinge zu sehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen.",
+            "die Erfindung",
+            "Das Mikroskop ermöglicht es uns, winzige Dinge zu sehen.",
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The telescope reveals distant galaxies.",
+        "text_de": "Das Teleskop enthüllt ferne Galaxien.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Wissenschaftler",
+            "Biologie ist das Studium lebender Organismen.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Das Teleskop enthüllt ferne Galaxien."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Data analysis is part of every research.",
+        "text_de": "Datenanalyse gehört zu jeder Forschung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Entdeckung",
+            "Tierversuche sind umstritten.",
+            "Robotik ist ein Bereich schneller Innovation.",
+            "Datenanalyse gehört zu jeder Forschung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A hypothesis must be tested.",
+        "text_de": "Eine Hypothese muss getestet werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Eine Hypothese muss getestet werden.",
+            "Ich arbeite an meiner Doktorarbeit.",
+            "Neurowissenschaft erforscht das Nervensystem.",
+            "das Atom"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The results were statistically significant.",
+        "text_de": "Die Ergebnisse waren statistisch signifikant.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ethik in der Wissenschaft ist ein aktuelles Thema.",
+            "Gold ist ein sehr stabiles Metall.",
+            "die Chemie",
+            "Die Ergebnisse waren statistisch signifikant."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mathematics is the language of science.",
+        "text_de": "Mathematik ist die Sprache der Wissenschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Milliarden von Sternen leuchten in der Galaxie.",
+            "Mathematik ist die Sprache der Wissenschaft.",
+            "Die Ergebnisse waren statistisch signifikant.",
+            "das Labor"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Logic is the tool of the mind.",
+        "text_de": "Logik ist das Werkzeug des Verstandes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die wissenschaftliche Methode gewährleistet zuverlässige Ergebnisse.",
+            "Logik ist das Werkzeug des Verstandes.",
+            "Evolution erklärt die Vielfalt des Lebens.",
+            "In der Chemie geht es um die Zusammensetzung von Materie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Creativity is also needed in research.",
+        "text_de": "Kreativität wird auch in der Forschung benötigt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich schaue mir gerne Wissenschaftsdokumentationen an.",
+            "Peer-Review ist wichtig für die Qualitätskontrolle.",
+            "Moderne Forschung ist oft international.",
+            "Kreativität wird auch in der Forschung benötigt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Interdisciplinary work leads to new insights.",
+        "text_de": "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Logik ist das Werkzeug des Verstandes.",
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen.",
+            "Die Universität hat ein modernes Labor.",
+            "Moleküle bestehen aus Atomen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ethics in science is a hot topic.",
+        "text_de": "Ethik in der Wissenschaft ist ein aktuelles Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jedes Lebewesen besteht aus Zellen.",
+            "Ethik in der Wissenschaft ist ein aktuelles Thema.",
+            "Hör niemals auf, Fragen zu stellen.",
+            "Beobachtung ist der erste Schritt in der Wissenschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Animal testing is controversial.",
+        "text_de": "Tierversuche sind umstritten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Milliarden von Sternen leuchten in der Galaxie.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Beobachtung ist der erste Schritt in der Wissenschaft.",
+            "Tierversuche sind umstritten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human cloning is prohibited.",
+        "text_de": "Klonen von Menschen ist verboten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kernkraft erzeugt viel Energie.",
+            "Er ist ein weltberühmter Wissenschaftler.",
+            "Klonen von Menschen ist verboten.",
+            "der Weltraum"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Genetic engineering has many applications.",
+        "text_de": "Gentechnik hat viele Anwendungen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gentechnik hat viele Anwendungen.",
+            "Evolution erklärt die Vielfalt des Lebens.",
+            "Stipendien unterstützen junge Forscher.",
+            "Logik ist das Werkzeug des Verstandes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm fascinated by the human brain.",
+        "text_de": "Ich bin fasziniert vom menschlichen Gehirn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin fasziniert vom menschlichen Gehirn.",
+            "Ein Atom hat einen Kern und Elektronen.",
+            "Schwarze Löcher sind mysteriöse Objekte im Weltraum.",
+            "DNA trägt die genetische Information."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Neuroscience explores the nervous system.",
+        "text_de": "Neurowissenschaft erforscht das Nervensystem.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Experiment",
+            "Neurowissenschaft erforscht das Nervensystem.",
+            "Wasser kocht bei hundert Grad Celsius.",
+            "beobachten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The environment must be protected.",
+        "text_de": "Die Umwelt muss geschützt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Moderne Forschung ist oft international.",
+            "Die Lichtgeschwindigkeit ist eine fundamentale Konstante.",
+            "Das Teleskop enthüllt ferne Galaxien.",
+            "Die Umwelt muss geschützt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ecology is the study of ecosystems.",
+        "text_de": "Ökologie ist das Studium von Ökosystemen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Energie",
+            "Klimamodelle sagen zukünftige Veränderungen voraus.",
+            "Ökologie ist das Studium von Ökosystemen.",
+            "Gold ist ein sehr stabiles Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Alternative energies are getting cheaper.",
+        "text_de": "Alternative Energien werden billiger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Datenanalyse gehört zu jeder Forschung.",
+            "Kernkraft erzeugt viel Energie.",
+            "Milliarden von Sternen leuchten in der Galaxie.",
+            "Alternative Energien werden billiger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Climate models predict future changes.",
+        "text_de": "Klimamodelle sagen zukünftige Veränderungen voraus.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Klima verändert sich schnell.",
+            "Photosynthese ist die Art, wie Pflanzen Nahrung produzieren.",
+            "Die Entdeckung des Penizillins rettete viele Leben.",
+            "Klimamodelle sagen zukünftige Veränderungen voraus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science should be accessible to everyone.",
+        "text_de": "Wissenschaft sollte für jeden zugänglich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Erfindung des Rades war ein Meilenstein.",
+            "Biologie ist das Studium lebender Organismen.",
+            "Wissenschaft sollte für jeden zugänglich sein.",
+            "beobachten"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open science promotes transparency.",
+        "text_de": "Open Science fördert Transparenz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Stipendien unterstützen junge Forscher.",
+            "Open Science fördert Transparenz.",
+            "Datenanalyse gehört zu jeder Forschung.",
+            "Wir müssen nach nachhaltigen Lösungen suchen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to become an astrophysicist.",
+        "text_de": "Ich möchte Astrophysiker werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "DNA trägt die genetische Information.",
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen.",
+            "Er ist ein weltberühmter Wissenschaftler.",
+            "Ich möchte Astrophysiker werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The university has a modern laboratory.",
+        "text_de": "Die Universität hat ein modernes Labor.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die wissenschaftliche Methode gewährleistet zuverlässige Ergebnisse.",
+            "Moleküle bestehen aus Atomen.",
+            "Die Universität hat ein modernes Labor.",
+            "der Planet"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Scholarships support young researchers.",
+        "text_de": "Stipendien unterstützen junge Forscher.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wissenschaft ist das Streben nach Wissen.",
+            "Ethik in der Wissenschaft ist ein aktuelles Thema.",
+            "die Entdeckung",
+            "Stipendien unterstützen junge Forscher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm working on my PhD thesis.",
+        "text_de": "Ich arbeite an meiner Doktorarbeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Ergebnisse waren statistisch signifikant.",
+            "Ich arbeite an meiner Doktorarbeit.",
+            "Eine Hypothese muss getestet werden.",
+            "Interdisziplinäres Arbeiten führt zu neuen Erkenntnissen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Knowledge is the best investment.",
+        "text_de": "Wissen ist die beste Investition.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Logik ist das Werkzeug des Verstandes.",
+            "Wissen ist die beste Investition.",
+            "Biologie ist das Studium lebender Organismen.",
+            "Gentechnik hat viele Anwendungen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Never stop asking questions.",
+        "text_de": "Hör niemals auf, Fragen zu stellen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hör niemals auf, Fragen zu stellen.",
+            "Das Teleskop enthüllt ferne Galaxien.",
+            "Wissenschaft verbessert unsere Lebensqualität.",
+            "Neurowissenschaft erforscht das Nervensystem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The world is full of wonders to discover.",
+        "text_de": "Die Welt ist voller Wunder, die es zu entdecken gilt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Künstliche Intelligenz ahmt menschliches Denken nach.",
+            "Gentechnik hat viele Anwendungen.",
+            "Die Welt ist voller Wunder, die es zu entdecken gilt.",
+            "Einsteins Relativitätstheorie veränderte die Physik."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Science improves our quality of life.",
+        "text_de": "Wissenschaft verbessert unsere Lebensqualität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Klimamodelle sagen zukünftige Veränderungen voraus.",
+            "Alternative Energien werden billiger.",
+            "Ich lese eine wissenschaftliche Fachzeitschrift.",
+            "Wissenschaft verbessert unsere Lebensqualität."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I wish you success in your research!",
+        "text_de": "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!",
+        "synonyms": [],
+        "description": "Example sentence for 'Science'.",
+        "description_de": "Beispielsatz für 'Science'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Wissenschaftler",
+            "Evolution erklärt die Vielfalt des Lebens.",
+            "Ich wünsche Ihnen Erfolg bei Ihrer Forschung!",
+            "Wasserstoff ist das leichteste Element."
+        ]
+    }
+]

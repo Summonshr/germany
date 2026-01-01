@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The house",
+        "text_de": "das Haus",
+        "synonyms": [],
+        "description": "German word for 'The house'.",
+        "description_de": "Deutsches Wort für 'The house'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Haus",
+            "der Keller",
+            "Wir haben eine Spülmaschine und eine Mikrowelle.",
+            "Ich brauche eine Lampe für meinen Schreibtisch."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The apartment",
+        "text_de": "die Wohnung",
+        "synonyms": [],
+        "description": "German word for 'The apartment'.",
+        "description_de": "Deutsches Wort für 'The apartment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wände sind hellblau gestrichen.",
+            "Das Dach muss repariert werden.",
+            "das Haus",
+            "die Wohnung"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The room",
+        "text_de": "das Zimmer",
+        "synonyms": [],
+        "description": "German word for 'The room'.",
+        "description_de": "Deutsches Wort für 'The room'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Zimmer",
+            "die Treppe",
+            "Die Wohnung hat viel natürliches Licht.",
+            "Fühl dich wie zu Hause."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The kitchen",
+        "text_de": "die Küche",
+        "synonyms": [],
+        "description": "German word for 'The kitchen'.",
+        "description_de": "Deutsches Wort für 'The kitchen'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Spiegel ist beschlagen.",
+            "die Küche",
+            "Ich muss einen Frühjahrsputz machen.",
+            "der Balkon"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bathroom",
+        "text_de": "das Badezimmer",
+        "synonyms": [],
+        "description": "German word for 'The bathroom'.",
+        "description_de": "Deutsches Wort für 'The bathroom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich dekoriere mein Zimmer neu.",
+            "das Badezimmer",
+            "Meine Wohnung ist sehr gemütlich.",
+            "die Decke"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The living room",
+        "text_de": "das Wohnzimmer",
+        "synonyms": [],
+        "description": "German word for 'The living room'.",
+        "description_de": "Deutsches Wort für 'The living room'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Wohnzimmer",
+            "Ich gehe jetzt nach Hause.",
+            "das Badezimmer",
+            "Ich habe neue Vorhänge gekauft."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The bedroom",
+        "text_de": "das Schlafzimmer",
+        "synonyms": [],
+        "description": "German word for 'The bedroom'.",
+        "description_de": "Deutsches Wort für 'The bedroom'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Schlafzimmer",
+            "die Tür",
+            "die Miete",
+            "Die Beleuchtung schafft eine gemütliche Atmosphäre."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The floor",
+        "text_de": "der Boden",
+        "synonyms": [],
+        "description": "German word for 'The floor'.",
+        "description_de": "Deutsches Wort für 'The floor'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wohnzimmer ist sehr geräumig.",
+            "der Boden",
+            "Ich muss das Badezimmer putzen.",
+            "Das Badezimmer hat eine Badewanne und eine Dusche."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The wall",
+        "text_de": "die Wand",
+        "synonyms": [],
+        "description": "German word for 'The wall'.",
+        "description_de": "Deutsches Wort für 'The wall'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Garten",
+            "Wo ist der Lichtschalter?",
+            "Die Stühle sind aus Metall.",
+            "die Wand"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The ceiling",
+        "text_de": "die Decke",
+        "synonyms": [],
+        "description": "German word for 'The ceiling'.",
+        "description_de": "Deutsches Wort für 'The ceiling'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wände sind hellblau gestrichen.",
+            "Ich muss die Kaution bezahlen.",
+            "Die Miete ist in dieser Stadt ziemlich hoch.",
+            "die Decke"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The window",
+        "text_de": "das Fenster",
+        "synonyms": [],
+        "description": "German word for 'The window'.",
+        "description_de": "Deutsches Wort für 'The window'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe neue Vorhänge gekauft.",
+            "das Fenster",
+            "Ich brauche ein neues Kissen und eine Decke.",
+            "Wir haben einen Kamin im Wohnzimmer."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The door",
+        "text_de": "die Tür",
+        "synonyms": [],
+        "description": "German word for 'The door'.",
+        "description_de": "Deutsches Wort für 'The door'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Tür",
+            "Das Stadtleben ist sehr hektisch.",
+            "Ich sitze im Sommer gerne auf dem Balkon.",
+            "Der Umzug war sehr anstrengend."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The roof",
+        "text_de": "das Dach",
+        "synonyms": [],
+        "description": "German word for 'The roof'.",
+        "description_de": "Deutsches Wort für 'The roof'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist sehr warm im Haus.",
+            "Ich dekoriere mein Zimmer neu.",
+            "das Dach",
+            "die Decke"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The garden",
+        "text_de": "der Garten",
+        "synonyms": [],
+        "description": "German word for 'The garden'.",
+        "description_de": "Deutsches Wort für 'The garden'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Garten",
+            "das Badezimmer",
+            "Gibt es einen Park in der Nähe?",
+            "Ich muss einen Frühjahrsputz machen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The balcony",
+        "text_de": "der Balkon",
+        "synonyms": [],
+        "description": "German word for 'The balcony'.",
+        "description_de": "Deutsches Wort für 'The balcony'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mir gefällt die Dekoration in deinem Haus.",
+            "der Balkon",
+            "Ich liebe die Ruhe auf dem Land.",
+            "Die Klimaanlage ist im Sommer toll."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The basement",
+        "text_de": "der Keller",
+        "synonyms": [],
+        "description": "German word for 'The basement'.",
+        "description_de": "Deutsches Wort für 'The basement'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Wand",
+            "das Haus",
+            "Die Klimaanlage ist im Sommer toll.",
+            "der Keller"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The stairs",
+        "text_de": "die Treppe",
+        "synonyms": [],
+        "description": "German word for 'The stairs'.",
+        "description_de": "Deutsches Wort für 'The stairs'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Umzug war sehr anstrengend.",
+            "Das Dach muss repariert werden.",
+            "Es klingelt an der Tür.",
+            "die Treppe"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The furniture",
+        "text_de": "die Möbel",
+        "synonyms": [],
+        "description": "German word for 'The furniture'.",
+        "description_de": "Deutsches Wort für 'The furniture'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+            "Ich brauche eine Lampe für meinen Schreibtisch.",
+            "die Möbel",
+            "Ich suche eine neue Bleibe."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The rent",
+        "text_de": "die Miete",
+        "synonyms": [],
+        "description": "German word for 'The rent'.",
+        "description_de": "Deutsches Wort für 'The rent'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Bett ist sehr bequem.",
+            "die Miete",
+            "Die Nachbarschaft ist sehr sicher.",
+            "die Tür"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The neighbor",
+        "text_de": "der Nachbar",
+        "synonyms": [],
+        "description": "German word for 'The neighbor'.",
+        "description_de": "Deutsches Wort für 'The neighbor'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Badezimmer hat eine Badewanne und eine Dusche.",
+            "der Nachbar",
+            "das Schlafzimmer",
+            "Es gibt kein warmes Wasser."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I live in a small house.",
+        "text_de": "Ich wohne in einem kleinen Haus.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wohnung hat viel natürliches Licht.",
+            "Ich habe einen Mietvertrag.",
+            "Ich wohne in einem kleinen Haus.",
+            "der Keller"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My apartment is on the third floor.",
+        "text_de": "Meine Wohnung liegt im dritten Stock.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Meine Wohnung liegt im dritten Stock.",
+            "Das Dach muss repariert werden.",
+            "Die Klimaanlage ist im Sommer toll.",
+            "Der Briefkasten befindet sich am Eingang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The living room is very spacious.",
+        "text_de": "Das Wohnzimmer ist sehr geräumig.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wohnzimmer ist sehr geräumig.",
+            "Es ist sehr warm im Haus.",
+            "das Dach",
+            "die Tür"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are cooking in the kitchen.",
+        "text_de": "Wir kochen in der Küche.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+            "Die Wohnung hat viel natürliches Licht.",
+            "Wir kochen in der Küche.",
+            "Das Dach muss repariert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to clean the bathroom.",
+        "text_de": "Ich muss das Badezimmer putzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wohnung hat viel natürliches Licht.",
+            "das Haus",
+            "Ich fühle mich hier sehr wohl.",
+            "Ich muss das Badezimmer putzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My bedroom has a big window.",
+        "text_de": "Mein Schlafzimmer hat ein großes Fenster.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Miete ist in dieser Stadt ziemlich hoch.",
+            "Mein Schlafzimmer hat ein großes Fenster.",
+            "Die Nachbarschaft ist sehr sicher.",
+            "Der Briefkasten befindet sich am Eingang."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The walls are painted light blue.",
+        "text_de": "Die Wände sind hellblau gestrichen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Miete ist in dieser Stadt ziemlich hoch.",
+            "Die Wände sind hellblau gestrichen.",
+            "Es klingelt an der Tür.",
+            "Der Boden ist aus echtem Holz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please close the door.",
+        "text_de": "Bitte schließ die Tür.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Fühl dich wie zu Hause.",
+            "Der Kleiderschrank ist voll mit Kleidung.",
+            "Bitte schließ die Tür.",
+            "Wir haben einen kleinen Garten mit Blumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a small garden with flowers.",
+        "text_de": "Wir haben einen kleinen Garten mit Blumen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss die Kaution bezahlen.",
+            "Wir haben einen kleinen Garten mit Blumen.",
+            "die Küche",
+            "Das Dach muss repariert werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like sitting on the balcony in summer.",
+        "text_de": "Ich sitze im Sommer gerne auf dem Balkon.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich brauche ein neues Kissen und eine Decke.",
+            "Das Stadtleben ist sehr hektisch.",
+            "Ich spüle das Geschirr mit der Hand.",
+            "Ich sitze im Sommer gerne auf dem Balkon."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The basement is very dark and cold.",
+        "text_de": "Der Keller ist sehr dunkel und kalt.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Keller ist sehr dunkel und kalt.",
+            "Ist die Wohnung möbliert?",
+            "Willkommen in meinem Zuhause!",
+            "Die Aussicht aus dem Fenster ist fantastisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Be careful on the stairs!",
+        "text_de": "Pass auf der Treppe auf!",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Pass auf der Treppe auf!",
+            "Wir kochen in der Küche.",
+            "Ich muss den Müll rausbringen.",
+            "Willkommen in meinem Zuhause!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The roof needs to be repaired.",
+        "text_de": "Das Dach muss repariert werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Schlafzimmer",
+            "Das Dach muss repariert werden.",
+            "Ich brauche eine Lampe für meinen Schreibtisch.",
+            "Wir haben einen kleinen Garten mit Blumen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We bought new furniture for the office.",
+        "text_de": "Wir haben neue Möbel für das Büro gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Garten",
+            "die Küche",
+            "Das Bücherregal ist voll mit Romanen.",
+            "Wir haben neue Möbel für das Büro gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The rent is quite high in this city.",
+        "text_de": "Die Miete ist in dieser Stadt ziemlich hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Beleuchtung schafft eine gemütliche Atmosphäre.",
+            "Ich gehe jetzt nach Hause.",
+            "Die Nebenkosten sind inbegriffen.",
+            "Die Miete ist in dieser Stadt ziemlich hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Our neighbors are very quiet and friendly.",
+        "text_de": "Unsere Nachbarn sind sehr ruhig und freundlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben einen kleinen Garten mit Blumen.",
+            "Der Boden ist aus echtem Holz.",
+            "die Küche",
+            "Unsere Nachbarn sind sehr ruhig und freundlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a new place to stay.",
+        "text_de": "Ich suche eine neue Bleibe.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben einen großen Esstisch.",
+            "Ich suche eine neue Bleibe.",
+            "Die Küche ist komplett ausgestattet.",
+            "Ich muss ein Bild an die Wand hängen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The house has a garage for two cars.",
+        "text_de": "Das Haus hat eine Garage für zwei Autos.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Keller ist sehr dunkel und kalt.",
+            "Die Heizung funktioniert nicht.",
+            "Willkommen in meinem Zuhause!",
+            "Das Haus hat eine Garage für zwei Autos."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is the apartment furnished?",
+        "text_de": "Ist die Wohnung möbliert?",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist die Wohnung möbliert?",
+            "Das Bücherregal ist voll mit Romanen.",
+            "Es klingelt an der Tür.",
+            "die Möbel"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The move was very exhausting.",
+        "text_de": "Der Umzug war sehr anstrengend.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Nachbar",
+            "Der Umzug war sehr anstrengend.",
+            "Der Briefkasten befindet sich am Eingang.",
+            "Der Mülleimer steht dort drüben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to hang up a picture on the wall.",
+        "text_de": "Ich muss ein Bild an die Wand hängen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir planen eine Einweihungsfeier.",
+            "Ich muss ein Bild an die Wand hängen.",
+            "Wir haben neue Möbel für das Büro gekauft.",
+            "Der Vermieter ist sehr hilfsbereit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The ceiling is very high.",
+        "text_de": "Die Decke ist sehr hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Decke ist sehr hoch.",
+            "Wir planen eine Einweihungsfeier.",
+            "Ich muss ein Bild an die Wand hängen.",
+            "Wo ist der Lichtschalter?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The floor is made of real wood.",
+        "text_de": "Der Boden ist aus echtem Holz.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffne das Fenster, um frische Luft hereinzulassen.",
+            "Das Sofa ist sehr weich.",
+            "Ich sitze im Sommer gerne auf dem Balkon.",
+            "Der Boden ist aus echtem Holz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to vacuum the carpet.",
+        "text_de": "Ich muss den Teppich saugen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Haus",
+            "Das Dach muss repariert werden.",
+            "Ich dekoriere mein Zimmer neu.",
+            "Ich muss den Teppich saugen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Where is the light switch?",
+        "text_de": "Wo ist der Lichtschalter?",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wo ist der Lichtschalter?",
+            "Wir haben einen kleinen Garten mit Blumen.",
+            "Ich wohne in einem kleinen Haus.",
+            "Ist die Wohnung möbliert?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The heating is not working.",
+        "text_de": "Die Heizung funktioniert nicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss den Teppich saugen.",
+            "Die Heizung funktioniert nicht.",
+            "Es gibt kein warmes Wasser.",
+            "der Nachbar"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's very warm in the house.",
+        "text_de": "Es ist sehr warm im Haus.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es einen Park in der Nähe?",
+            "Es gibt kein warmes Wasser.",
+            "Es ist sehr warm im Haus.",
+            "Die Miete ist in dieser Stadt ziemlich hoch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Open the window to let fresh air in.",
+        "text_de": "Öffne das Fenster, um frische Luft hereinzulassen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gibt es einen Park in der Nähe?",
+            "Ich muss einen Frühjahrsputz machen.",
+            "Ich wohne in einem kleinen Haus.",
+            "Öffne das Fenster, um frische Luft hereinzulassen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The doorbell is ringing.",
+        "text_de": "Es klingelt an der Tür.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Garten",
+            "die Miete",
+            "Es klingelt an der Tür.",
+            "Wir haben neue Möbel für das Büro gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a key for the front door.",
+        "text_de": "Ich habe einen Schlüssel für die Haustür.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Keller ist sehr dunkel und kalt.",
+            "Die Aussicht aus dem Fenster ist fantastisch.",
+            "der Balkon",
+            "Ich habe einen Schlüssel für die Haustür."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The kitchen is fully equipped.",
+        "text_de": "Die Küche ist komplett ausgestattet.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Boden ist aus echtem Holz.",
+            "Die Küche ist komplett ausgestattet.",
+            "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+            "Die Wohnung hat viel natürliches Licht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a dishwasher and a microwave.",
+        "text_de": "Wir haben eine Spülmaschine und eine Mikrowelle.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben eine Spülmaschine und eine Mikrowelle.",
+            "Die Wohnung hat viel natürliches Licht.",
+            "der Keller",
+            "Das Bett ist sehr bequem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The fridge is empty, I need to go shopping.",
+        "text_de": "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Decke ist sehr hoch.",
+            "Ich habe einen Mietvertrag.",
+            "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+            "Wir haben eine Spülmaschine und eine Mikrowelle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm washing the dishes by hand.",
+        "text_de": "Ich spüle das Geschirr mit der Hand.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich spüle das Geschirr mit der Hand.",
+            "Der Umzug war sehr anstrengend.",
+            "der Boden",
+            "Ich habe einen Schlüssel für die Haustür."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The trash can is over there.",
+        "text_de": "Der Mülleimer steht dort drüben.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Mülleimer steht dort drüben.",
+            "Die Aussicht aus dem Fenster ist fantastisch.",
+            "Wir kochen in der Küche.",
+            "Wir haben einen Kamin im Wohnzimmer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to take out the trash.",
+        "text_de": "Ich muss den Müll rausbringen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss den Müll rausbringen.",
+            "Ich habe neue Vorhänge gekauft.",
+            "Bitte schließ die Tür.",
+            "das Schlafzimmer"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bathroom has a bathtub and a shower.",
+        "text_de": "Das Badezimmer hat eine Badewanne und eine Dusche.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Trautes Heim, Glück allein.",
+            "das Zimmer",
+            "Wir haben eine Spülmaschine und eine Mikrowelle.",
+            "Das Badezimmer hat eine Badewanne und eine Dusche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is no hot water.",
+        "text_de": "Es gibt kein warmes Wasser.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich sitze im Sommer gerne auf dem Balkon.",
+            "Ich fühle mich hier sehr wohl.",
+            "Es gibt kein warmes Wasser.",
+            "Ich muss den Rasen mähen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The mirror is fogged up.",
+        "text_de": "Der Spiegel ist beschlagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Balkon",
+            "Der Spiegel ist beschlagen.",
+            "Das Sofa ist sehr weich.",
+            "Die Stühle sind aus Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a clean towel.",
+        "text_de": "Ich brauche ein sauberes Handtuch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wohnung hat viel natürliches Licht.",
+            "Die Nachbarschaft ist sehr sicher.",
+            "Ich brauche ein sauberes Handtuch.",
+            "Wir haben einen Kamin im Wohnzimmer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bed is very comfortable.",
+        "text_de": "Das Bett ist sehr bequem.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wohnung hat viel natürliches Licht.",
+            "Der Kleiderschrank ist voll mit Kleidung.",
+            "Wir haben einen großen Esstisch.",
+            "Das Bett ist sehr bequem."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a new pillow and a blanket.",
+        "text_de": "Ich brauche ein neues Kissen und eine Decke.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Dach muss repariert werden.",
+            "Ich brauche ein neues Kissen und eine Decke.",
+            "Es liegt viel Staub auf den Regalen.",
+            "das Dach"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The wardrobe is full of clothes.",
+        "text_de": "Der Kleiderschrank ist voll mit Kleidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich wohne in einem kleinen Haus.",
+            "Der Kleiderschrank ist voll mit Kleidung.",
+            "Wir haben einen kleinen Garten mit Blumen.",
+            "Ich muss das Badezimmer putzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a desk in my room.",
+        "text_de": "Ich habe einen Schreibtisch in meinem Zimmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Mülleimer steht dort drüben.",
+            "die Tür",
+            "Ich habe einen Schreibtisch in meinem Zimmer.",
+            "Trautes Heim, Glück allein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bookshelf is full of novels.",
+        "text_de": "Das Bücherregal ist voll mit Romanen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Bücherregal ist voll mit Romanen.",
+            "Die Klimaanlage ist im Sommer toll.",
+            "der Boden",
+            "Wir haben neue Möbel für das Büro gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I like the decoration in your house.",
+        "text_de": "Mir gefällt die Dekoration in deinem Haus.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ist die Wohnung möbliert?",
+            "Mir gefällt die Dekoration in deinem Haus.",
+            "Wir haben einen großen Esstisch.",
+            "Kommst du nächsten Samstag zu meiner Party?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lighting creates a cozy atmosphere.",
+        "text_de": "Die Beleuchtung schafft eine gemütliche Atmosphäre.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Beleuchtung schafft eine gemütliche Atmosphäre.",
+            "die Miete",
+            "Ich muss den Müll rausbringen.",
+            "Ich suche einen Mitbewohner."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a fireplace in the living room.",
+        "text_de": "Wir haben einen Kamin im Wohnzimmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Aussicht aus dem Fenster ist fantastisch.",
+            "Wir haben einen Kamin im Wohnzimmer.",
+            "Das Stadtleben ist sehr hektisch.",
+            "Die Wohnung hat viel natürliches Licht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The house is very well insulated.",
+        "text_de": "Das Haus ist sehr gut isoliert.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffne das Fenster, um frische Luft hereinzulassen.",
+            "die Tür",
+            "Ich dekoriere mein Zimmer neu.",
+            "Das Haus ist sehr gut isoliert."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm looking for a roommate.",
+        "text_de": "Ich suche einen Mitbewohner.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich hier sehr wohl.",
+            "Ich suche einen Mitbewohner.",
+            "Mir gefällt die Dekoration in deinem Haus.",
+            "Der Mülleimer steht dort drüben."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Welcome to my home!",
+        "text_de": "Willkommen in meinem Zuhause!",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kleiderschrank ist voll mit Kleidung.",
+            "das Wohnzimmer",
+            "Ich muss die Kaution bezahlen.",
+            "Willkommen in meinem Zuhause!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Make yourself at home.",
+        "text_de": "Fühl dich wie zu Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Küche ist komplett ausgestattet.",
+            "Fühl dich wie zu Hause.",
+            "Ich habe einen Schlüssel für die Haustür.",
+            "Das Sofa ist sehr weich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The view from the window is amazing.",
+        "text_de": "Die Aussicht aus dem Fenster ist fantastisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Nachbar",
+            "Die Aussicht aus dem Fenster ist fantastisch.",
+            "Mir gefällt die Dekoration in deinem Haus.",
+            "Meine Wohnung liegt im dritten Stock."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I love the quietness of the countryside.",
+        "text_de": "Ich liebe die Ruhe auf dem Land.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Wohnzimmer ist sehr geräumig.",
+            "Die Küche ist komplett ausgestattet.",
+            "Ich liebe die Ruhe auf dem Land.",
+            "Der Kleiderschrank ist voll mit Kleidung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The city life is very busy.",
+        "text_de": "Das Stadtleben ist sehr hektisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben eine Spülmaschine und eine Mikrowelle.",
+            "Die Wände sind hellblau gestrichen.",
+            "Das Stadtleben ist sehr hektisch.",
+            "Meine Wohnung liegt im dritten Stock."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We are planning a housewarming party.",
+        "text_de": "Wir planen eine Einweihungsfeier.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir planen eine Einweihungsfeier.",
+            "Ich muss das Badezimmer putzen.",
+            "Willkommen in meinem Zuhause!",
+            "Ich brauche eine Lampe für meinen Schreibtisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Are you coming to my party next Saturday?",
+        "text_de": "Kommst du nächsten Samstag zu meiner Party?",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Stadtleben ist sehr hektisch.",
+            "Das Bücherregal ist voll mit Romanen.",
+            "Kommst du nächsten Samstag zu meiner Party?",
+            "Wir haben eine Spülmaschine und eine Mikrowelle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to mow the lawn.",
+        "text_de": "Ich muss den Rasen mähen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Vermieter ist sehr hilfsbereit.",
+            "Ich muss den Rasen mähen.",
+            "Wir haben eine Spülmaschine und eine Mikrowelle.",
+            "Das Bücherregal ist voll mit Romanen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The mailbox is at the entrance.",
+        "text_de": "Der Briefkasten befindet sich am Eingang.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Briefkasten befindet sich am Eingang.",
+            "Der Keller ist sehr dunkel und kalt.",
+            "Die Wände sind hellblau gestrichen.",
+            "Die Stühle sind aus Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "There is a lot of dust on the shelves.",
+        "text_de": "Es liegt viel Staub auf den Regalen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es liegt viel Staub auf den Regalen.",
+            "Fühl dich wie zu Hause.",
+            "die Decke",
+            "Ich muss das Badezimmer putzen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to do some spring cleaning.",
+        "text_de": "Ich muss einen Frühjahrsputz machen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+            "Ich muss einen Frühjahrsputz machen.",
+            "Die Stühle sind aus Metall.",
+            "die Decke"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The apartment has a lot of natural light.",
+        "text_de": "Die Wohnung hat viel natürliches Licht.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wohnung hat viel natürliches Licht.",
+            "Ich gehe jetzt nach Hause.",
+            "Die Nebenkosten sind inbegriffen.",
+            "Der Umzug war sehr anstrengend."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The neighborhood is very safe.",
+        "text_de": "Die Nachbarschaft ist sehr sicher.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Balkon",
+            "das Haus",
+            "Ich suche eine neue Bleibe.",
+            "Die Nachbarschaft ist sehr sicher."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Is there a park nearby?",
+        "text_de": "Gibt es einen Park in der Nähe?",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Decke ist sehr hoch.",
+            "Gibt es einen Park in der Nähe?",
+            "Der Vermieter ist sehr hilfsbereit.",
+            "Das Sofa ist sehr weich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The bus stop is just around the corner.",
+        "text_de": "Die Bushaltestelle ist gleich um die Ecke.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Beleuchtung schafft eine gemütliche Atmosphäre.",
+            "Öffne das Fenster, um frische Luft hereinzulassen.",
+            "Der Briefkasten befindet sich am Eingang.",
+            "Die Bushaltestelle ist gleich um die Ecke."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a rental agreement.",
+        "text_de": "Ich habe einen Mietvertrag.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe einen Mietvertrag.",
+            "Die Stühle sind aus Metall.",
+            "Ich liebe die Ruhe auf dem Land.",
+            "Wir haben einen Kamin im Wohnzimmer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The utility costs are included.",
+        "text_de": "Die Nebenkosten sind inbegriffen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Kühlschrank ist leer, ich muss einkaufen gehen.",
+            "Die Nebenkosten sind inbegriffen.",
+            "das Schlafzimmer",
+            "Ich fühle mich hier sehr wohl."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to pay the deposit.",
+        "text_de": "Ich muss die Kaution bezahlen.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss die Kaution bezahlen.",
+            "der Boden",
+            "Das Stadtleben ist sehr hektisch.",
+            "Es ist sehr warm im Haus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The landlord is very helpful.",
+        "text_de": "Der Vermieter ist sehr hilfsbereit.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Vermieter ist sehr hilfsbereit.",
+            "Ich sitze im Sommer gerne auf dem Balkon.",
+            "Das Dach muss repariert werden.",
+            "Unsere Nachbarn sind sehr ruhig und freundlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm redecorating my room.",
+        "text_de": "Ich dekoriere mein Zimmer neu.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Badezimmer",
+            "Mein Schlafzimmer hat ein großes Fenster.",
+            "Ich dekoriere mein Zimmer neu.",
+            "Wir haben eine Spülmaschine und eine Mikrowelle."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I bought new curtains.",
+        "text_de": "Ich habe neue Vorhänge gekauft.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Miete",
+            "Ich habe neue Vorhänge gekauft.",
+            "Die Küche ist komplett ausgestattet.",
+            "Ich wohne in einem kleinen Haus."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The sofa is very soft.",
+        "text_de": "Das Sofa ist sehr weich.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Sofa ist sehr weich.",
+            "Meine Wohnung ist sehr gemütlich.",
+            "Die Aussicht aus dem Fenster ist fantastisch.",
+            "das Zimmer"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have a big dining table.",
+        "text_de": "Wir haben einen großen Esstisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wir haben einen großen Esstisch.",
+            "Es liegt viel Staub auf den Regalen.",
+            "das Haus",
+            "Ich muss einen Frühjahrsputz machen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The chairs are made of metal.",
+        "text_de": "Die Stühle sind aus Metall.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Beleuchtung schafft eine gemütliche Atmosphäre.",
+            "die Möbel",
+            "Meine Wohnung liegt im dritten Stock.",
+            "Die Stühle sind aus Metall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need a lamp for my desk.",
+        "text_de": "Ich brauche eine Lampe für meinen Schreibtisch.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich fühle mich hier sehr wohl.",
+            "Es gibt kein warmes Wasser.",
+            "Der Vermieter ist sehr hilfsbereit.",
+            "Ich brauche eine Lampe für meinen Schreibtisch."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The air conditioning is great in summer.",
+        "text_de": "Die Klimaanlage ist im Sommer toll.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich muss einen Frühjahrsputz machen.",
+            "das Badezimmer",
+            "Der Umzug war sehr anstrengend.",
+            "Die Klimaanlage ist im Sommer toll."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "My apartment is very cozy.",
+        "text_de": "Meine Wohnung ist sehr gemütlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Briefkasten befindet sich am Eingang.",
+            "Meine Wohnung ist sehr gemütlich.",
+            "Die Aussicht aus dem Fenster ist fantastisch.",
+            "Pass auf der Treppe auf!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I feel very comfortable here.",
+        "text_de": "Ich fühle mich hier sehr wohl.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist sehr warm im Haus.",
+            "Ich fühle mich hier sehr wohl.",
+            "Das Sofa ist sehr weich.",
+            "Wir haben neue Möbel für das Büro gekauft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Home sweet home.",
+        "text_de": "Trautes Heim, Glück allein.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich suche eine neue Bleibe.",
+            "Trautes Heim, Glück allein.",
+            "die Küche",
+            "Öffne das Fenster, um frische Luft hereinzulassen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going home now.",
+        "text_de": "Ich gehe jetzt nach Hause.",
+        "synonyms": [],
+        "description": "Example sentence for 'House & Home'.",
+        "description_de": "Beispielsatz für 'House & Home'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Stadtleben ist sehr hektisch.",
+            "Ich gehe jetzt nach Hause.",
+            "Ich suche eine neue Bleibe.",
+            "Das Badezimmer hat eine Badewanne und eine Dusche."
+        ]
+    }
+]

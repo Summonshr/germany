@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The law",
+        "text_de": "das Gesetz",
+        "synonyms": [],
+        "description": "German word for 'The law'.",
+        "description_de": "Deutsches Wort für 'The law'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gesetz",
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung.",
+            "Korruption ist eine Bedrohung für den Rechtsstaat.",
+            "Unkenntnis des Gesetzes schützt vor Strafe nicht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The justice",
+        "text_de": "die Gerechtigkeit",
+        "synonyms": [],
+        "description": "German word for 'The justice'.",
+        "description_de": "Deutsches Wort für 'The justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geistiges Eigentum ist durch das Urheberrecht geschützt.",
+            "die Gerechtigkeit",
+            "Ich werde das Unternehmen auf Schadensersatz verklagen.",
+            "Datenschutz ist ein sehr sensibles Thema."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The court",
+        "text_de": "das Gericht",
+        "synonyms": [],
+        "description": "German word for 'The court'.",
+        "description_de": "Deutsches Wort für 'The court'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung.",
+            "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen.",
+            "das Gericht",
+            "Unkenntnis des Gesetzes schützt vor Strafe nicht."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The judge",
+        "text_de": "der Richter",
+        "synonyms": [],
+        "description": "German word for 'The judge'.",
+        "description_de": "Deutsches Wort für 'The judge'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Richter",
+            "Unschuldig, bis die Schuld bewiesen ist.",
+            "Jeder muss das Gesetz befolgen.",
+            "Der Fall wird morgen vor Gericht verhandelt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The lawyer",
+        "text_de": "der Anwalt",
+        "synonyms": [],
+        "description": "German word for 'The lawyer'.",
+        "description_de": "Deutsches Wort für 'The lawyer'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Anwalt",
+            "Die Verfassung ist das höchste Gesetz des Landes.",
+            "Der Richter traf eine faire Entscheidung.",
+            "Öffentliche Sicherheit hat oberste Priorität."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The client",
+        "text_de": "der Mandant",
+        "synonyms": [],
+        "description": "German word for 'The client'.",
+        "description_de": "Deutsches Wort für 'The client'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Fall wird morgen vor Gericht verhandelt.",
+            "die Strafe",
+            "der Mandant",
+            "Der Polizist fragte nach meinem Ausweis."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The case",
+        "text_de": "der Fall",
+        "synonyms": [],
+        "description": "German word for 'The case'.",
+        "description_de": "Deutsches Wort für 'The case'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gefängnissystem muss mehr Fokus auf Resozialisierung legen.",
+            "Das Bußgeld war sehr hoch.",
+            "Lasst uns gemeinsam für eine sicherere Welt arbeiten.",
+            "der Fall"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The trial",
+        "text_de": "der Prozess",
+        "synonyms": [],
+        "description": "German word for 'The trial'.",
+        "description_de": "Deutsches Wort für 'The trial'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Prozess",
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "die Gerechtigkeit",
+            "der Mandant"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The verdict",
+        "text_de": "das Urteil",
+        "synonyms": [],
+        "description": "German word for 'The verdict'.",
+        "description_de": "Deutsches Wort für 'The verdict'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gefängnis",
+            "das Urteil",
+            "die Gerechtigkeit",
+            "Kriegsverbrechen werden vor dem Internationalen Gerichtshof verhandelt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The crime",
+        "text_de": "das Verbrechen",
+        "synonyms": [],
+        "description": "German word for 'The crime'.",
+        "description_de": "Deutsches Wort für 'The crime'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist ein sehr komplizierter Rechtsfall.",
+            "das Verbrechen",
+            "Privatsphäre ist ein grundlegendes Menschenrecht.",
+            "Ich habe eine Rechtsschutzversicherung."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The criminal",
+        "text_de": "der Verbrecher",
+        "synonyms": [],
+        "description": "German word for 'The criminal'.",
+        "description_de": "Deutsches Wort für 'The criminal'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Tatort wurden Fingerabdrücke gefunden.",
+            "das Gericht",
+            "der Mandant",
+            "der Verbrecher"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The police",
+        "text_de": "die Polizei",
+        "synonyms": [],
+        "description": "German word for 'The police'.",
+        "description_de": "Deutsches Wort für 'The police'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib ruhig und rufe die Behörden.",
+            "die Polizei",
+            "Der Richter traf eine faire Entscheidung.",
+            "Menschenrechte sind gesetzlich geschützt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The witness",
+        "text_de": "der Zeuge",
+        "synonyms": [],
+        "description": "German word for 'The witness'.",
+        "description_de": "Deutsches Wort für 'The witness'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zeuge",
+            "Privatsphäre ist ein grundlegendes Menschenrecht.",
+            "Rechtsterminologie ist oft schwer zu verstehen.",
+            "Öffentliche Sicherheit hat oberste Priorität."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The evidence",
+        "text_de": "der Beweis",
+        "synonyms": [],
+        "description": "German word for 'The evidence'.",
+        "description_de": "Deutsches Wort für 'The evidence'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Mandant",
+            "der Beweis",
+            "Das Gefängnissystem muss mehr Fokus auf Resozialisierung legen.",
+            "das Recht"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The truth",
+        "text_de": "die Wahrheit",
+        "synonyms": [],
+        "description": "German word for 'The truth'.",
+        "description_de": "Deutsches Wort für 'The truth'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bürger haben sowohl Rechte als auch Pflichten.",
+            "die Wahrheit",
+            "Der Vertrag ist rechtsverbindlich.",
+            "das Gericht"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The prison",
+        "text_de": "das Gefängnis",
+        "synonyms": [],
+        "description": "German word for 'The prison'.",
+        "description_de": "Deutsches Wort für 'The prison'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gefängnis",
+            "Der Vertrag ist rechtsverbindlich.",
+            "Verleumdung kann zu einer Klage führen.",
+            "Geistiges Eigentum ist durch das Urheberrecht geschützt."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The punishment",
+        "text_de": "die Strafe",
+        "synonyms": [],
+        "description": "German word for 'The punishment'.",
+        "description_de": "Deutsches Wort für 'The punishment'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Strafe",
+            "die Wahrheit",
+            "Unkenntnis des Gesetzes schützt vor Strafe nicht.",
+            "Der Polizist fragte nach meinem Ausweis."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The right",
+        "text_de": "das Recht",
+        "synonyms": [],
+        "description": "German word for 'The right'.",
+        "description_de": "Deutsches Wort für 'The right'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Beweis",
+            "das Recht",
+            "Die Kriminalitätsrate in unserer Stadt sinkt.",
+            "Vertrauen in die Polizei ist wichtig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The duty",
+        "text_de": "die Pflicht",
+        "synonyms": [],
+        "description": "German word for 'The duty'.",
+        "description_de": "Deutsches Wort für 'The duty'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Pflicht",
+            "Wir haben Videobeweise für den Vorfall.",
+            "das Recht",
+            "der Fall"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "To sue",
+        "text_de": "verklagen",
+        "synonyms": [],
+        "description": "German word for 'To sue'.",
+        "description_de": "Deutsches Wort für 'To sue'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich hoffe auf eine Welt ohne Verbrechen.",
+            "Die Strafe muss zum Verbrechen passen.",
+            "verklagen",
+            "Vertrauen in die Polizei ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Everyone must obey the law.",
+        "text_de": "Jeder muss das Gesetz befolgen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Zeuge",
+            "Die Wahrheit gewinnt am Ende immer.",
+            "Jeder muss das Gesetz befolgen.",
+            "Gleichheit vor dem Gesetz ist unerlässlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Justice is a fundamental value of our society.",
+        "text_de": "Gerechtigkeit ist ein Grundwert unserer Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gerechtigkeit ist ein Grundwert unserer Gesellschaft.",
+            "Das oberste Gericht traf eine bahnbrechende Entscheidung.",
+            "Verleumdung kann zu einer Klage führen.",
+            "Ich möchte Jura an der Universität studieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The case will be heard in court tomorrow.",
+        "text_de": "Der Fall wird morgen vor Gericht verhandelt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Mandant",
+            "Der Fall wird morgen vor Gericht verhandelt.",
+            "Unkenntnis des Gesetzes schützt vor Strafe nicht.",
+            "Sie verhandeln über einen Vergleich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The judge made a fair decision.",
+        "text_de": "Der Richter traf eine faire Entscheidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Richter traf eine faire Entscheidung.",
+            "der Zeuge",
+            "das Verbrechen",
+            "Das Justizsystem sollte für jeden zugänglich sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need to talk to my lawyer.",
+        "text_de": "Ich muss mit meinem Anwalt sprechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Prozess",
+            "Die Berufung wurde vom höheren Gericht abgelehnt.",
+            "Ich muss mit meinem Anwalt sprechen.",
+            "Ein Notar muss die Unterschrift beglaubigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The lawyer protects the interests of his client.",
+        "text_de": "Der Anwalt schützt die Interessen seines Mandanten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Anwalt schützt die Interessen seines Mandanten.",
+            "Die Strafe muss zum Verbrechen passen.",
+            "Unschuldig, bis die Schuld bewiesen ist.",
+            "Jeder muss das Gesetz befolgen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's a very complicated legal case.",
+        "text_de": "Es ist ein sehr komplizierter Rechtsfall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verzögerte Gerechtigkeit ist verweigerte Gerechtigkeit.",
+            "Völkerrecht regelt die Beziehungen zwischen Staaten.",
+            "das Gesetz",
+            "Es ist ein sehr komplizierter Rechtsfall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The trial lasted for several weeks.",
+        "text_de": "Der Prozess dauerte mehrere Wochen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wahrheit wird schließlich ans Licht kommen.",
+            "Wir haben Videobeweise für den Vorfall.",
+            "Gerechtigkeit ist ein Grundwert unserer Gesellschaft.",
+            "Der Prozess dauerte mehrere Wochen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The jury reached a verdict of 'not guilty'.",
+        "text_de": "Die Jury kam zu einem Urteil von 'nicht schuldig'.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sie verhandeln über einen Vergleich.",
+            "Ich muss mit meinem Anwalt sprechen.",
+            "Jeder muss das Gesetz befolgen.",
+            "Die Jury kam zu einem Urteil von 'nicht schuldig'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Theft is a serious crime.",
+        "text_de": "Diebstahl ist ein schweres Verbrechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diebstahl ist ein schweres Verbrechen.",
+            "Der Prozess dauerte mehrere Wochen.",
+            "verklagen",
+            "Bürger haben sowohl Rechte als auch Pflichten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The police arrested the criminal.",
+        "text_de": "Die Polizei hat den Verbrecher festgenommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Verfassung ist das höchste Gesetz des Landes.",
+            "Vertrauen in die Polizei ist wichtig.",
+            "Die Polizei hat den Verbrecher festgenommen.",
+            "Ich hoffe auf eine Welt ohne Verbrechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Witnesses must tell the truth in court.",
+        "text_de": "Zeugen müssen vor Gericht die Wahrheit sagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bedrohungen und Hassrede sind nicht abgedeckt.",
+            "verklagen",
+            "Zeugen müssen vor Gericht die Wahrheit sagen.",
+            "Kriegsverbrechen werden vor dem Internationalen Gerichtshof verhandelt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We have video evidence of the incident.",
+        "text_de": "Wir haben Videobeweise für den Vorfall.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Gericht",
+            "der Mandant",
+            "Wir haben Videobeweise für den Vorfall.",
+            "Ich muss mit meinem Anwalt sprechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The truth will eventually come to light.",
+        "text_de": "Die Wahrheit wird schließlich ans Licht kommen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wahrheit gewinnt am Ende immer.",
+            "Das oberste Gericht traf eine bahnbrechende Entscheidung.",
+            "Die Wahrheit wird schließlich ans Licht kommen.",
+            "Der Vertrag ist rechtsverbindlich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He spent five years in prison.",
+        "text_de": "Er verbrachte fünf Jahre im Gefängnis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Berufung wurde vom höheren Gericht abgelehnt.",
+            "das Verbrechen",
+            "Er verbrachte fünf Jahre im Gefängnis.",
+            "Diebstahl ist ein schweres Verbrechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The punishment must fit the crime.",
+        "text_de": "Die Strafe muss zum Verbrechen passen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Verbraucherschutz ist wichtig für faires Handeln.",
+            "Das oberste Gericht traf eine bahnbrechende Entscheidung.",
+            "Die Strafe muss zum Verbrechen passen.",
+            "Sozialstunden können eine alternative Strafe sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Human rights are protected by law.",
+        "text_de": "Menschenrechte sind gesetzlich geschützt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Verdächtige wurde gegen Kaution freigelassen.",
+            "Nachbarschaftswachen verbessern die Sicherheit.",
+            "Menschenrechte sind gesetzlich geschützt.",
+            "das Gefängnis"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Citizens have both rights and duties.",
+        "text_de": "Bürger haben sowohl Rechte als auch Pflichten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Strafe",
+            "Bürger haben sowohl Rechte als auch Pflichten.",
+            "das Gericht",
+            "Wir haben Videobeweise für den Vorfall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm going to sue the company for damages.",
+        "text_de": "Ich werde das Unternehmen auf Schadensersatz verklagen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Cyberkriminalität ist eine neue Herausforderung für das Recht.",
+            "das Urteil",
+            "Ich werde das Unternehmen auf Schadensersatz verklagen.",
+            "Das Gefängnissystem muss mehr Fokus auf Resozialisierung legen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Innocent until proven guilty.",
+        "text_de": "Unschuldig, bis die Schuld bewiesen ist.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Polizei",
+            "der Fall",
+            "die Strafe",
+            "Unschuldig, bis die Schuld bewiesen ist."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The constitution is the supreme law of the land.",
+        "text_de": "Die Verfassung ist das höchste Gesetz des Landes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Kriminalitätsrate in unserer Stadt sinkt.",
+            "Völkerrecht regelt die Beziehungen zwischen Staaten.",
+            "Bedrohungen und Hassrede sind nicht abgedeckt.",
+            "Die Verfassung ist das höchste Gesetz des Landes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ignorance of the law is no excuse.",
+        "text_de": "Unkenntnis des Gesetzes schützt vor Strafe nicht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen.",
+            "der Prozess",
+            "Der Polizist fragte nach meinem Ausweis.",
+            "Unkenntnis des Gesetzes schützt vor Strafe nicht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The police officer asked for my ID.",
+        "text_de": "Der Polizist fragte nach meinem Ausweis.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind gesetzlich geschützt.",
+            "Das Bußgeld war sehr hoch.",
+            "Der Polizist fragte nach meinem Ausweis.",
+            "Notrufe können in Europa unter 112 getätigt werden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Don't break the rules!",
+        "text_de": "Brich nicht die Regeln!",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Notrufe können in Europa unter 112 getätigt werden.",
+            "Wir haben Videobeweise für den Vorfall.",
+            "Verbraucherschutz ist wichtig für faires Handeln.",
+            "Brich nicht die Regeln!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The traffic fine was very high.",
+        "text_de": "Das Bußgeld war sehr hoch.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte unterschreiben Sie das Dokument hier.",
+            "das Urteil",
+            "Das Bußgeld war sehr hoch.",
+            "Vertrauen in die Polizei ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I have a legal insurance.",
+        "text_de": "Ich habe eine Rechtsschutzversicherung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe eine Rechtsschutzversicherung.",
+            "der Mandant",
+            "Die Strafe muss zum Verbrechen passen.",
+            "Umweltschutzgesetze werden strenger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The contract is legally binding.",
+        "text_de": "Der Vertrag ist rechtsverbindlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Angeklagte plädierte auf nicht schuldig.",
+            "Der Vertrag ist rechtsverbindlich.",
+            "das Verbrechen",
+            "Ein fairer Prozess ist ein Recht jeder Person."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Please sign the document here.",
+        "text_de": "Bitte unterschreiben Sie das Dokument hier.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Polizei",
+            "Der Detektiv sucht nach weiteren Hinweisen.",
+            "Bitte unterschreiben Sie das Dokument hier.",
+            "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Corruption is a threat to the rule of law.",
+        "text_de": "Korruption ist eine Bedrohung für den Rechtsstaat.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib ruhig und rufe die Behörden.",
+            "Bitte unterschreiben Sie das Dokument hier.",
+            "Ich möchte Jura an der Universität studieren.",
+            "Korruption ist eine Bedrohung für den Rechtsstaat."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Transparency is necessary in the legal system.",
+        "text_de": "Transparenz ist im Rechtssystem notwendig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Transparenz ist im Rechtssystem notwendig.",
+            "Es ist ein sehr komplizierter Rechtsfall.",
+            "der Zeuge",
+            "Niemand steht über dem Gesetz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The supreme court made a landmark ruling.",
+        "text_de": "Das oberste Gericht traf eine bahnbrechende Entscheidung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das oberste Gericht traf eine bahnbrechende Entscheidung.",
+            "Kriegsverbrechen werden vor dem Internationalen Gerichtshof verhandelt.",
+            "Das Justizsystem sollte für jeden zugänglich sein.",
+            "Bleiben wir auf der richtigen Seite des Gesetzes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Equality before the law is essential.",
+        "text_de": "Gleichheit vor dem Gesetz ist unerlässlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das oberste Gericht traf eine bahnbrechende Entscheidung.",
+            "Gleichheit vor dem Gesetz ist unerlässlich.",
+            "der Richter",
+            "Umweltschutzgesetze werden strenger."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The defendant pleaded not guilty.",
+        "text_de": "Der Angeklagte plädierte auf nicht schuldig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mediation kann Konflikte außerhalb des Gerichts lösen.",
+            "Bleiben wir auf der richtigen Seite des Gesetzes.",
+            "Der Angeklagte plädierte auf nicht schuldig.",
+            "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The prosecutor presented the arguments clearly.",
+        "text_de": "Der Staatsanwalt präsentierte die Argumente deutlich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder muss das Gesetz befolgen.",
+            "Der Staatsanwalt präsentierte die Argumente deutlich.",
+            "Lasst uns gemeinsam für eine sicherere Welt arbeiten.",
+            "Die Jury kam zu einem Urteil von 'nicht schuldig'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "They are negotiating a settlement.",
+        "text_de": "Sie verhandeln über einen Vergleich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diskriminierung ist gesetzlich verboten.",
+            "Sie verhandeln über einen Vergleich.",
+            "Zeugen müssen vor Gericht die Wahrheit sagen.",
+            "der Fall"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The appeal was rejected by the higher court.",
+        "text_de": "Die Berufung wurde vom höheren Gericht abgelehnt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Berufung wurde vom höheren Gericht abgelehnt.",
+            "Die Kriminalitätsrate in unserer Stadt sinkt.",
+            "Der Angeklagte plädierte auf nicht schuldig.",
+            "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Legal terminology is often difficult to understand.",
+        "text_de": "Rechtsterminologie ist oft schwer zu verstehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Rechtsterminologie ist oft schwer zu verstehen.",
+            "Notrufe können in Europa unter 112 getätigt werden.",
+            "Ich habe eine Rechtsschutzversicherung.",
+            "Die Wahrheit wird schließlich ans Licht kommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I want to study law at the university.",
+        "text_de": "Ich möchte Jura an der Universität studieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bitte unterschreiben Sie das Dokument hier.",
+            "das Recht",
+            "die Pflicht",
+            "Ich möchte Jura an der Universität studieren."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A notary must witness the signature.",
+        "text_de": "Ein Notar muss die Unterschrift beglaubigen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Notar muss die Unterschrift beglaubigen.",
+            "Ich muss mit meinem Anwalt sprechen.",
+            "das Urteil",
+            "Ich hoffe auf eine Welt ohne Verbrechen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Property rights are clearly defined.",
+        "text_de": "Eigentumsrechte sind klar definiert.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib ruhig und rufe die Behörden.",
+            "Eigentumsrechte sind klar definiert.",
+            "der Anwalt",
+            "Niemand steht über dem Gesetz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Intellectual property is protected by copyright.",
+        "text_de": "Geistiges Eigentum ist durch das Urheberrecht geschützt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Geistiges Eigentum ist durch das Urheberrecht geschützt.",
+            "Der Polizist fragte nach meinem Ausweis.",
+            "Verbraucherschutz ist wichtig für faires Handeln.",
+            "Der Fall wird morgen vor Gericht verhandelt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Privacy is a fundamental human right.",
+        "text_de": "Privatsphäre ist ein grundlegendes Menschenrecht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder muss das Gesetz befolgen.",
+            "Privatsphäre ist ein grundlegendes Menschenrecht.",
+            "das Gefängnis",
+            "Respektieren Sie die Entscheidung des Gerichts."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Defamation can lead to a lawsuit.",
+        "text_de": "Verleumdung kann zu einer Klage führen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "verklagen",
+            "der Prozess",
+            "Verleumdung kann zu einer Klage führen.",
+            "Ein Notar muss die Unterschrift beglaubigen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The detective is looking for more clues.",
+        "text_de": "Der Detektiv sucht nach weiteren Hinweisen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein Notar muss die Unterschrift beglaubigen.",
+            "Der Detektiv sucht nach weiteren Hinweisen.",
+            "die Gerechtigkeit",
+            "das Gesetz"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Fingerprints were found on the scene.",
+        "text_de": "Am Tatort wurden Fingerabdrücke gefunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mediation kann Konflikte außerhalb des Gerichts lösen.",
+            "das Gericht",
+            "Der Polizist fragte nach meinem Ausweis.",
+            "Am Tatort wurden Fingerabdrücke gefunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The suspect was released on bail.",
+        "text_de": "Der Verdächtige wurde gegen Kaution freigelassen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib ruhig und rufe die Behörden.",
+            "das Recht",
+            "Der Verdächtige wurde gegen Kaution freigelassen.",
+            "Die Verfassung ist das höchste Gesetz des Landes."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The laws change over time.",
+        "text_de": "Die Gesetze ändern sich im Laufe der Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Unschuldig, bis die Schuld bewiesen ist.",
+            "Die Polizei hat den Verbrecher festgenommen.",
+            "Die Gesetze ändern sich im Laufe der Zeit.",
+            "Die Jury kam zu einem Urteil von 'nicht schuldig'."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "International law regulates relations between states.",
+        "text_de": "Völkerrecht regelt die Beziehungen zwischen Staaten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Völkerrecht regelt die Beziehungen zwischen Staaten.",
+            "die Wahrheit",
+            "Wir haben Videobeweise für den Vorfall.",
+            "Es ist ein sehr komplizierter Rechtsfall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "War crimes are tried at the International Court of Justice.",
+        "text_de": "Kriegsverbrechen werden vor dem Internationalen Gerichtshof verhandelt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kriegsverbrechen werden vor dem Internationalen Gerichtshof verhandelt.",
+            "das Gefängnis",
+            "Verzögerte Gerechtigkeit ist verweigerte Gerechtigkeit.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Environmental protection laws are becoming stricter.",
+        "text_de": "Umweltschutzgesetze werden strenger.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wahrheit gewinnt am Ende immer.",
+            "Umweltschutzgesetze werden strenger.",
+            "Der Staatsanwalt präsentierte die Argumente deutlich.",
+            "der Zeuge"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Consumer protection is important for fair trade.",
+        "text_de": "Verbraucherschutz ist wichtig für faires Handeln.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wahrheit gewinnt am Ende immer.",
+            "Verbraucherschutz ist wichtig für faires Handeln.",
+            "Die Strafe muss zum Verbrechen passen.",
+            "Der Detektiv sucht nach weiteren Hinweisen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Labor laws protect the rights of workers.",
+        "text_de": "Arbeitsgesetze schützen die Rechte der Arbeitnehmer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Arbeitsgesetze schützen die Rechte der Arbeitnehmer.",
+            "der Fall",
+            "Umweltschutzgesetze werden strenger.",
+            "die Wahrheit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Discrimination is prohibited by law.",
+        "text_de": "Diskriminierung ist gesetzlich verboten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bürger haben sowohl Rechte als auch Pflichten.",
+            "Öffentliche Sicherheit hat oberste Priorität.",
+            "Das Justizsystem sollte für jeden zugänglich sein.",
+            "Diskriminierung ist gesetzlich verboten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Freedom of speech has its limits.",
+        "text_de": "Meinungsfreiheit hat ihre Grenzen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Beweis",
+            "Datenschutz ist ein sehr sensibles Thema.",
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Threats and hate speech are not covered.",
+        "text_de": "Bedrohungen und Hassrede sind nicht abgedeckt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind gesetzlich geschützt.",
+            "Bedrohungen und Hassrede sind nicht abgedeckt.",
+            "die Gerechtigkeit",
+            "Datenschutz ist ein sehr sensibles Thema."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The police use modern technology to fight crime.",
+        "text_de": "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Polizei nutzt moderne Technik, um Verbrechen zu bekämpfen.",
+            "Menschenrechte sind gesetzlich geschützt.",
+            "die Strafe",
+            "Das oberste Gericht traf eine bahnbrechende Entscheidung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Cybercrime is a new challenge for the law.",
+        "text_de": "Cyberkriminalität ist eine neue Herausforderung für das Recht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Cyberkriminalität ist eine neue Herausforderung für das Recht.",
+            "die Strafe",
+            "Korruption ist eine Bedrohung für den Rechtsstaat.",
+            "Der Fall wird morgen vor Gericht verhandelt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Data protection is a very sensitive topic.",
+        "text_de": "Datenschutz ist ein sehr sensibles Thema.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er verbrachte fünf Jahre im Gefängnis.",
+            "Datenschutz ist ein sehr sensibles Thema.",
+            "Umweltschutzgesetze werden strenger.",
+            "Die Wahrheit wird schließlich ans Licht kommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Whistleblowers need better protection.",
+        "text_de": "Whistleblower brauchen besseren Schutz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Menschenrechte sind gesetzlich geschützt.",
+            "Whistleblower brauchen besseren Schutz.",
+            "Ehrliche Bürger sind das Rückgrat der Gesellschaft.",
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Public safety is a top priority.",
+        "text_de": "Öffentliche Sicherheit hat oberste Priorität.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Öffentliche Sicherheit hat oberste Priorität.",
+            "der Verbrecher",
+            "Menschenrechte sind gesetzlich geschützt.",
+            "Cyberkriminalität ist eine neue Herausforderung für das Recht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Emergency calls can be made to 112 in Europe.",
+        "text_de": "Notrufe können in Europa unter 112 getätigt werden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Verdächtige wurde gegen Kaution freigelassen.",
+            "Notrufe können in Europa unter 112 getätigt werden.",
+            "Transparenz ist im Rechtssystem notwendig.",
+            "Verleumdung kann zu einer Klage führen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The firefighter rescued the kid from the building.",
+        "text_de": "Der Feuerwehrmann rettete das Kind aus dem Gebäude.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jeder muss das Gesetz befolgen.",
+            "Gerechtigkeit ist ein Grundwert unserer Gesellschaft.",
+            "Der Staatsanwalt präsentierte die Argumente deutlich.",
+            "Der Feuerwehrmann rettete das Kind aus dem Gebäude."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Honest citizens are the backbone of society.",
+        "text_de": "Ehrliche Bürger sind das Rückgrat der Gesellschaft.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Vertrag ist rechtsverbindlich.",
+            "Jeder muss das Gesetz befolgen.",
+            "Transparenz ist im Rechtssystem notwendig.",
+            "Ehrliche Bürger sind das Rückgrat der Gesellschaft."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's work together for a safer world.",
+        "text_de": "Lasst uns gemeinsam für eine sicherere Welt arbeiten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lasst uns gemeinsam für eine sicherere Welt arbeiten.",
+            "Der Prozess dauerte mehrere Wochen.",
+            "Ich habe eine Rechtsschutzversicherung.",
+            "Wir haben Videobeweise für den Vorfall."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The justice system should be accessible for everyone.",
+        "text_de": "Das Justizsystem sollte für jeden zugänglich sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Strafe",
+            "Transparenz ist im Rechtssystem notwendig.",
+            "Das Justizsystem sollte für jeden zugänglich sein.",
+            "Die Wahrheit gewinnt am Ende immer."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Legal aid is available for people with low income.",
+        "text_de": "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Wahrheit gewinnt am Ende immer.",
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung.",
+            "Ich werde das Unternehmen auf Schadensersatz verklagen.",
+            "der Richter"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Respect the decision of the court.",
+        "text_de": "Respektieren Sie die Entscheidung des Gerichts.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Respektieren Sie die Entscheidung des Gerichts.",
+            "Niemand steht über dem Gesetz.",
+            "Bleiben wir auf der richtigen Seite des Gesetzes.",
+            "das Gefängnis"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The truth always wins in the end.",
+        "text_de": "Die Wahrheit gewinnt am Ende immer.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Kriegsverbrechen werden vor dem Internationalen Gerichtshof verhandelt.",
+            "Es ist ein sehr komplizierter Rechtsfall.",
+            "Die Wahrheit gewinnt am Ende immer.",
+            "Der Detektiv sucht nach weiteren Hinweisen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Nobody is above the law.",
+        "text_de": "Niemand steht über dem Gesetz.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Vertrag ist rechtsverbindlich.",
+            "Verzögerte Gerechtigkeit ist verweigerte Gerechtigkeit.",
+            "die Strafe",
+            "Niemand steht über dem Gesetz."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Let's stay on the right side of the law.",
+        "text_de": "Bleiben wir auf der richtigen Seite des Gesetzes.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bedrohungen und Hassrede sind nicht abgedeckt.",
+            "Meinungsfreiheit hat ihre Grenzen.",
+            "Bleiben wir auf der richtigen Seite des Gesetzes.",
+            "Zeugen müssen vor Gericht die Wahrheit sagen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The prison system needs more focus on rehabilitation.",
+        "text_de": "Das Gefängnissystem muss mehr Fokus auf Resozialisierung legen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Das Gefängnissystem muss mehr Fokus auf Resozialisierung legen.",
+            "die Polizei",
+            "Lasst uns gemeinsam für eine sicherere Welt arbeiten.",
+            "Sie verhandeln über einen Vergleich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Community service can be an alternative punishment.",
+        "text_de": "Sozialstunden können eine alternative Strafe sein.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mediation kann Konflikte außerhalb des Gerichts lösen.",
+            "Ich werde das Unternehmen auf Schadensersatz verklagen.",
+            "Gleichheit vor dem Gesetz ist unerlässlich.",
+            "Sozialstunden können eine alternative Strafe sein."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The crime rate is falling in our city.",
+        "text_de": "Die Kriminalitätsrate in unserer Stadt sinkt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Prozess dauerte mehrere Wochen.",
+            "Das Justizsystem sollte für jeden zugänglich sein.",
+            "Die Kriminalitätsrate in unserer Stadt sinkt.",
+            "Ich werde das Unternehmen auf Schadensersatz verklagen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Neighbor watch programs improve safety.",
+        "text_de": "Nachbarschaftswachen verbessern die Sicherheit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Richter traf eine faire Entscheidung.",
+            "Nachbarschaftswachen verbessern die Sicherheit.",
+            "Die Gesetze ändern sich im Laufe der Zeit.",
+            "Ich habe eine Rechtsschutzversicherung."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Trust in the police is important.",
+        "text_de": "Vertrauen in die Polizei ist wichtig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleiben wir auf der richtigen Seite des Gesetzes.",
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung.",
+            "Der Richter traf eine faire Entscheidung.",
+            "Vertrauen in die Polizei ist wichtig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Mediation can solve conflicts outside of court.",
+        "text_de": "Mediation kann Konflikte außerhalb des Gerichts lösen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mediation kann Konflikte außerhalb des Gerichts lösen.",
+            "Prozesskostenhilfe steht Menschen mit geringem Einkommen zur Verfügung.",
+            "verklagen",
+            "Die Wahrheit wird schließlich ans Licht kommen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Stay calm and call the authorities.",
+        "text_de": "Bleib ruhig und rufe die Behörden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bleib ruhig und rufe die Behörden.",
+            "Zeugen müssen vor Gericht die Wahrheit sagen.",
+            "Öffentliche Sicherheit hat oberste Priorität.",
+            "Die Strafe muss zum Verbrechen passen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A fair trial is a right of every person.",
+        "text_de": "Ein fairer Prozess ist ein Recht jeder Person.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ein fairer Prozess ist ein Recht jeder Person.",
+            "Korruption ist eine Bedrohung für den Rechtsstaat.",
+            "Die Polizei hat den Verbrecher festgenommen.",
+            "Am Tatort wurden Fingerabdrücke gefunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Justice delayed is justice denied.",
+        "text_de": "Verzögerte Gerechtigkeit ist verweigerte Gerechtigkeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Korruption ist eine Bedrohung für den Rechtsstaat.",
+            "Verbraucherschutz ist wichtig für faires Handeln.",
+            "Ich habe eine Rechtsschutzversicherung.",
+            "Verzögerte Gerechtigkeit ist verweigerte Gerechtigkeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I hope for a world without crime.",
+        "text_de": "Ich hoffe auf eine Welt ohne Verbrechen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Law & Justice'.",
+        "description_de": "Beispielsatz für 'Law & Justice'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Diebstahl ist ein schweres Verbrechen.",
+            "Ich hoffe auf eine Welt ohne Verbrechen.",
+            "verklagen",
+            "Ich werde das Unternehmen auf Schadensersatz verklagen."
+        ]
+    }
+]

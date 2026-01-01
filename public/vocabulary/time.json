@@ -1,0 +1,1802 @@
+[
+    {
+        "type": "vocabulary",
+        "text": "The time",
+        "text_de": "die Zeit",
+        "synonyms": [],
+        "description": "German word for 'The time'.",
+        "description_de": "Deutsches Wort für 'The time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "früh",
+            "die Woche",
+            "manchmal",
+            "die Zeit"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The hour",
+        "text_de": "die Stunde",
+        "synonyms": [],
+        "description": "German word for 'The hour'.",
+        "description_de": "Deutsches Wort für 'The hour'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "nie",
+            "Ich bin bald da.",
+            "Der Winter ist kalt und verschneit.",
+            "die Stunde"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The minute",
+        "text_de": "die Minute",
+        "synonyms": [],
+        "description": "German word for 'The minute'.",
+        "description_de": "Deutsches Wort für 'The minute'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Minute",
+            "der Tag",
+            "Wie viele Minuten hat eine Stunde?",
+            "Zweimal am Tag."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The second",
+        "text_de": "die Sekunde",
+        "synonyms": [],
+        "description": "German word for 'The second'.",
+        "description_de": "Deutsches Wort für 'The second'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "jetzt",
+            "Er vergisst nie einen Geburtstag.",
+            "die Sekunde",
+            "Donnerstags gehe ich normalerweise einkaufen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The day",
+        "text_de": "der Tag",
+        "synonyms": [],
+        "description": "German word for 'The day'.",
+        "description_de": "Deutsches Wort für 'The day'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Seit wann bist du schon hier?",
+            "der Tag",
+            "Zehn Minuten nach zehn.",
+            "jetzt"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The week",
+        "text_de": "die Woche",
+        "synonyms": [],
+        "description": "German word for 'The week'.",
+        "description_de": "Deutsches Wort für 'The week'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "das Jahr",
+            "Beeil dich!",
+            "die Woche",
+            "die Stunde"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The month",
+        "text_de": "der Monat",
+        "synonyms": [],
+        "description": "German word for 'The month'.",
+        "description_de": "Deutsches Wort für 'The month'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Manchmal gehe ich abends spazieren.",
+            "Guten Abend!",
+            "der Monat",
+            "Ich habe es eilig."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "The year",
+        "text_de": "das Jahr",
+        "synonyms": [],
+        "description": "German word for 'The year'.",
+        "description_de": "Deutsches Wort für 'The year'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich trinke morgens immer Tee.",
+            "Dreimal die Woche.",
+            "Der Zug fährt um Viertel nach acht.",
+            "das Jahr"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Today",
+        "text_de": "heute",
+        "synonyms": [],
+        "description": "German word for 'Today'.",
+        "description_de": "Deutsches Wort für 'Today'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Guten Tag!",
+            "Der Film beginnt in zehn Minuten.",
+            "Der Tag hat vierundzwanzig Stunden.",
+            "heute"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Yesterday",
+        "text_de": "gestern",
+        "synonyms": [],
+        "description": "German word for 'Yesterday'.",
+        "description_de": "Deutsches Wort für 'Yesterday'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vor langer Zeit.",
+            "gestern",
+            "Bis morgen!",
+            "Dreimal die Woche."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Tomorrow",
+        "text_de": "morgen",
+        "synonyms": [],
+        "description": "German word for 'Tomorrow'.",
+        "description_de": "Deutsches Wort für 'Tomorrow'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sonntag ist zum Ausruhen da.",
+            "Seit wann bist du schon hier?",
+            "morgen",
+            "Was machst du dieses Wochenende?"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Now",
+        "text_de": "jetzt",
+        "synonyms": [],
+        "description": "German word for 'Now'.",
+        "description_de": "Deutsches Wort für 'Now'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "jetzt",
+            "Am Nachmittag arbeite ich im Büro.",
+            "Warten Sie bitte eine Minute.",
+            "nie"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Later",
+        "text_de": "später",
+        "synonyms": [],
+        "description": "German word for 'Later'.",
+        "description_de": "Deutsches Wort für 'Later'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist fünf Uhr.",
+            "Manchmal gehe ich abends spazieren.",
+            "Am Mittag haben wir eine Pause.",
+            "später"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Early",
+        "text_de": "früh",
+        "synonyms": [],
+        "description": "German word for 'Early'.",
+        "description_de": "Deutsches Wort für 'Early'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Abwarten und Tee trinken.",
+            "früh",
+            "Du bist sehr früh dran.",
+            "Der Sommer ist meine Lieblingsjahreszeit."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Late",
+        "text_de": "spät",
+        "synonyms": [],
+        "description": "German word for 'Late'.",
+        "description_de": "Deutsches Wort für 'Late'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Januar ist der erste Monat des Jahres.",
+            "Freitag ist der beste Tag der Woche!",
+            "oft",
+            "spät"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Always",
+        "text_de": "immer",
+        "synonyms": [],
+        "description": "German word for 'Always'.",
+        "description_de": "Deutsches Wort für 'Always'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Montags gehe ich zum Sport.",
+            "Es ist schon halb acht.",
+            "Mittag ist zwölf Uhr.",
+            "immer"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Never",
+        "text_de": "nie",
+        "synonyms": [],
+        "description": "German word for 'Never'.",
+        "description_de": "Deutsches Wort für 'Never'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "nie",
+            "Eine Woche hat sieben Tage.",
+            "später",
+            "Samstags schlafe ich lange."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Sometimes",
+        "text_de": "manchmal",
+        "synonyms": [],
+        "description": "German word for 'Sometimes'.",
+        "description_de": "Deutsches Wort für 'Sometimes'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "immer",
+            "Dienstag ist mein längster Arbeitstag.",
+            "Guten Tag!",
+            "manchmal"
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Soon",
+        "text_de": "bald",
+        "synonyms": [],
+        "description": "German word for 'Soon'.",
+        "description_de": "Deutsches Wort für 'Soon'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "bald",
+            "Die Vergangenheit liegt hinter uns.",
+            "Guten Tag!",
+            "Donnerstags gehe ich normalerweise einkaufen."
+        ]
+    },
+    {
+        "type": "vocabulary",
+        "text": "Often",
+        "text_de": "oft",
+        "synonyms": [],
+        "description": "German word for 'Often'.",
+        "description_de": "Deutsches Wort für 'Often'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "oft",
+            "Beeil dich!",
+            "Ich habe heute keine Zeit.",
+            "früh"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What time is it?",
+        "text_de": "Wie spät ist es?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Herbst beginnt im September.",
+            "Vor langer Zeit.",
+            "Der Sonntag ist zum Ausruhen da.",
+            "Wie spät ist es?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It is five o'clock.",
+        "text_de": "Es ist fünf Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Sommer ist meine Lieblingsjahreszeit.",
+            "Was machst du heute?",
+            "die Sekunde",
+            "Es ist fünf Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Do you have time tomorrow?",
+        "text_de": "Hast du morgen Zeit?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Hast du morgen Zeit?",
+            "Du bist sehr früh dran.",
+            "Letztes Jahr war sehr schwierig.",
+            "Der Sonntag ist zum Ausruhen da."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I don't have time today.",
+        "text_de": "Ich habe heute keine Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe heute keine Zeit.",
+            "heute",
+            "Ich bin in einer Stunde zurück.",
+            "Besser spät als nie."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How many hours do you work?",
+        "text_de": "Wie viele Stunden arbeitest du?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mitternacht ist zwölf Uhr nachts.",
+            "Wie viele Stunden arbeitest du?",
+            "Der Februar hat normalerweise achtundzwanzig Tage.",
+            "Jede Sekunde zählt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wait a minute, please.",
+        "text_de": "Warten Sie bitte eine Minute.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lass dir Zeit.",
+            "Was machst du heute?",
+            "Warten Sie bitte eine Minute.",
+            "Jede Sekunde zählt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Every second counts.",
+        "text_de": "Jede Sekunde zählt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bis morgen!",
+            "Jede Sekunde zählt.",
+            "die Zeit",
+            "das Jahr"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Today is a beautiful day.",
+        "text_de": "Heute ist ein schöner Tag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Heute ist ein schöner Tag.",
+            "Ein Schaltjahr hat dreihundertsechsundsechzig Tage.",
+            "Ich habe sie gestern gesehen.",
+            "Guten Abend!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I see him once a week.",
+        "text_de": "Ich sehe ihn einmal pro Woche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Abwarten und Tee trinken.",
+            "immer",
+            "Die Zukunft ist ungewiss.",
+            "Ich sehe ihn einmal pro Woche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Next month I'm going on vacation.",
+        "text_de": "Nächsten Monat fahre ich in den Urlaub.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was machst du heute?",
+            "Ich habe es eilig.",
+            "Mittwoch ist die Mitte der Woche.",
+            "Nächsten Monat fahre ich in den Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Last year was very difficult.",
+        "text_de": "Letztes Jahr war sehr schwierig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Donnerstags gehe ich normalerweise einkaufen.",
+            "Letztes Jahr war sehr schwierig.",
+            "Du bist sehr früh dran.",
+            "Ich habe sie gestern gesehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are you doing today?",
+        "text_de": "Was machst du heute?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was machst du heute?",
+            "Du bist sehr früh dran.",
+            "Der Zug fährt um Viertel nach acht.",
+            "Die Vergangenheit liegt hinter uns."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I saw her yesterday.",
+        "text_de": "Ich habe sie gestern gesehen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Frühling beginnt im März.",
+            "Manchmal gehe ich abends spazieren.",
+            "Ich habe sie gestern gesehen.",
+            "Was machst du dieses Wochenende?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "See you tomorrow!",
+        "text_de": "Bis morgen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zeit heilt alle Wunden.",
+            "Wie viele Minuten hat eine Stunde?",
+            "Seit zwei Stunden.",
+            "Bis morgen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I need it now.",
+        "text_de": "Ich brauche es jetzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Film beginnt in zehn Minuten.",
+            "Lass dir Zeit.",
+            "Wie viele Stunden arbeitest du?",
+            "Ich brauche es jetzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We can talk about it later.",
+        "text_de": "Wir können später darüber reden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie viele Minuten hat eine Stunde?",
+            "Wir können später darüber reden.",
+            "Gute Nacht!",
+            "Fünf Minuten vor zwölf."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "You're very early.",
+        "text_de": "Du bist sehr früh dran.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "der Monat",
+            "Du bist sehr früh dran.",
+            "Ich brauche es jetzt.",
+            "Er vergisst nie einen Geburtstag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm sorry I'm late.",
+        "text_de": "Es tut mir leid, dass ich zu spät bin.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Sobald wie möglich.",
+            "Die Zeit heilt alle Wunden.",
+            "Es tut mir leid, dass ich zu spät bin.",
+            "Wie spät ist es?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I always drink tea in the morning.",
+        "text_de": "Ich trinke morgens immer Tee.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Besser spät als nie.",
+            "Du bist sehr früh dran.",
+            "Ich trinke morgens immer Tee.",
+            "früh"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "He never forgets a birthday.",
+        "text_de": "Er vergisst nie einen Geburtstag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Er vergisst nie einen Geburtstag.",
+            "Einmal im Jahr.",
+            "Gute Nacht!",
+            "Guten Morgen!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sometimes I go for a walk in the evening.",
+        "text_de": "Manchmal gehe ich abends spazieren.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Manchmal gehe ich abends spazieren.",
+            "Ein Schaltjahr hat dreihundertsechsundsechzig Tage.",
+            "später",
+            "Die Zukunft ist ungewiss."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll be there soon.",
+        "text_de": "Ich bin bald da.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin bald da.",
+            "Wir gehen oft ins Kino.",
+            "Er vergisst nie einen Geburtstag.",
+            "Du bist sehr früh dran."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "We often go to the cinema.",
+        "text_de": "Wir gehen oft ins Kino.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Januar ist der erste Monat des Jahres.",
+            "Es ist fünf Uhr.",
+            "Wie viele Minuten hat eine Stunde?",
+            "Wir gehen oft ins Kino."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "How many minutes are in an hour?",
+        "text_de": "Wie viele Minuten hat eine Stunde?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Montags gehe ich zum Sport.",
+            "Ich bin bald da.",
+            "Wie viele Minuten hat eine Stunde?",
+            "Hast du morgen Zeit?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The day has twenty-four hours.",
+        "text_de": "Der Tag hat vierundzwanzig Stunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin bald da.",
+            "jetzt",
+            "Der Tag hat vierundzwanzig Stunden.",
+            "Sofort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A week has seven days.",
+        "text_de": "Eine Woche hat sieben Tage.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lebe in der Gegenwart!",
+            "Ich habe heute keine Zeit.",
+            "Eine Woche hat sieben Tage.",
+            "jetzt"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A month can have thirty or thirty-one days.",
+        "text_de": "Ein Monat kann dreißig oder einunddreißig Tage haben.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mittag ist zwölf Uhr.",
+            "Freitag ist der beste Tag der Woche!",
+            "Ein Monat kann dreißig oder einunddreißig Tage haben.",
+            "Der Sonntag ist zum Ausruhen da."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "February usually has twenty-eight days.",
+        "text_de": "Der Februar hat normalerweise achtundzwanzig Tage.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "morgen",
+            "Vor langer Zeit.",
+            "Der Februar hat normalerweise achtundzwanzig Tage.",
+            "Zweimal am Tag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A leap year has three hundred and sixty-six days.",
+        "text_de": "Ein Schaltjahr hat dreihundertsechsundsechzig Tage.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Guten Morgen!",
+            "Es ist fünf Uhr.",
+            "Der Herbst beginnt im September.",
+            "Ein Schaltjahr hat dreihundertsechsundsechzig Tage."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's already half past seven.",
+        "text_de": "Es ist schon halb acht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Nächsten Monat fahre ich in den Urlaub.",
+            "die Sekunde",
+            "Es ist fünf Uhr.",
+            "Es ist schon halb acht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The train leaves at quarter past eight.",
+        "text_de": "Der Zug fährt um Viertel nach acht.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Freitag ist der beste Tag der Woche!",
+            "manchmal",
+            "Dienstag ist mein längster Arbeitstag.",
+            "Der Zug fährt um Viertel nach acht."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "It's quarter to nine.",
+        "text_de": "Es ist Viertel vor neun.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lebe in der Gegenwart!",
+            "Am Mittag haben wir eine Pause.",
+            "Es ist Viertel vor neun.",
+            "Der Film beginnt in zehn Minuten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Ten minutes past ten.",
+        "text_de": "Zehn Minuten nach zehn.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Zehn Minuten nach zehn.",
+            "Fünf Minuten vor zwölf.",
+            "Die Zukunft ist ungewiss.",
+            "Der Dezember ist der Monat von Weihnachten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Five minutes to twelve.",
+        "text_de": "Fünf Minuten vor zwölf.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Dreimal die Woche.",
+            "Fünf Minuten vor zwölf.",
+            "Mittwoch ist die Mitte der Woche.",
+            "Der Sonntag ist zum Ausruhen da."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Midday is twelve o'clock.",
+        "text_de": "Mittag ist zwölf Uhr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mittag ist zwölf Uhr.",
+            "Samstags schlafe ich lange.",
+            "Ich sehe ihn einmal pro Woche.",
+            "Guten Abend!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Midnight is twelve o'clock at night.",
+        "text_de": "Mitternacht ist zwölf Uhr nachts.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Du bist sehr früh dran.",
+            "Mitternacht ist zwölf Uhr nachts.",
+            "Es tut mir leid, dass ich zu spät bin.",
+            "Lass dir Zeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In the morning I feel most productive.",
+        "text_de": "Am Morgen fühle ich mich am produktivsten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich bin bald da.",
+            "bald",
+            "Einmal im Jahr.",
+            "Am Morgen fühle ich mich am produktivsten."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good morning!",
+        "text_de": "Guten Morgen!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lebe in der Gegenwart!",
+            "Es tut mir leid, dass ich zu spät bin.",
+            "Guten Morgen!",
+            "Mittag ist zwölf Uhr."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good afternoon!",
+        "text_de": "Guten Tag!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "früh",
+            "Wir gehen oft ins Kino.",
+            "Guten Tag!",
+            "immer"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good evening!",
+        "text_de": "Guten Abend!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Vor langer Zeit.",
+            "Guten Abend!",
+            "Beeil dich!",
+            "früh"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Good night!",
+        "text_de": "Gute Nacht!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mittwoch ist die Mitte der Woche.",
+            "Wir gehen oft ins Kino.",
+            "Guten Abend!",
+            "Gute Nacht!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "At noon we have a break.",
+        "text_de": "Am Mittag haben wir eine Pause.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Mittag haben wir eine Pause.",
+            "immer",
+            "die Sekunde",
+            "Guten Abend!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "In the afternoon I work in the office.",
+        "text_de": "Am Nachmittag arbeite ich im Büro.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Herbst beginnt im September.",
+            "Heute ist ein schöner Tag.",
+            "Am Nachmittag arbeite ich im Büro.",
+            "Abwarten und Tee trinken."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "What are you doing this weekend?",
+        "text_de": "Was machst du dieses Wochenende?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mittag ist zwölf Uhr.",
+            "Der Januar ist der erste Monat des Jahres.",
+            "Der Winter ist kalt und verschneit.",
+            "Was machst du dieses Wochenende?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On Mondays I go to sports.",
+        "text_de": "Montags gehe ich zum Sport.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Montags gehe ich zum Sport.",
+            "Samstags schlafe ich lange.",
+            "Es ist fünf Uhr.",
+            "Donnerstags gehe ich normalerweise einkaufen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Tuesday is my longest workday.",
+        "text_de": "Dienstag ist mein längster Arbeitstag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Zeit",
+            "Der Januar ist der erste Monat des Jahres.",
+            "Dienstag ist mein längster Arbeitstag.",
+            "Nächsten Monat fahre ich in den Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wednesday is the middle of the week.",
+        "text_de": "Mittwoch ist die Mitte der Woche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Es ist Viertel vor neun.",
+            "Mittwoch ist die Mitte der Woche.",
+            "Heute ist ein schöner Tag.",
+            "Letztes Jahr war sehr schwierig."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On Thursdays I usually go shopping.",
+        "text_de": "Donnerstags gehe ich normalerweise einkaufen.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sekunde",
+            "die Zeit",
+            "Donnerstags gehe ich normalerweise einkaufen.",
+            "Warten Sie bitte eine Minute."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Friday is the best day of the week!",
+        "text_de": "Freitag ist der beste Tag der Woche!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Februar hat normalerweise achtundzwanzig Tage.",
+            "Dreimal die Woche.",
+            "Der Zug fährt um Viertel nach acht.",
+            "Freitag ist der beste Tag der Woche!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "On Saturdays I sleep long.",
+        "text_de": "Samstags schlafe ich lange.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "jetzt",
+            "die Zeit",
+            "Besser spät als nie.",
+            "Samstags schlafe ich lange."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Sunday is for resting.",
+        "text_de": "Der Sonntag ist zum Ausruhen da.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Samstags schlafe ich lange.",
+            "die Stunde",
+            "Der Sonntag ist zum Ausruhen da.",
+            "Der Sommer ist meine Lieblingsjahreszeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Spring starts in March.",
+        "text_de": "Der Frühling beginnt im März.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "manchmal",
+            "Der Frühling beginnt im März.",
+            "Der Film beginnt in zehn Minuten.",
+            "später"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Summer is my favorite season.",
+        "text_de": "Der Sommer ist meine Lieblingsjahreszeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bis wann bleibst du?",
+            "Zehn Minuten nach zehn.",
+            "Der Februar hat normalerweise achtundzwanzig Tage.",
+            "Der Sommer ist meine Lieblingsjahreszeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Autumn begins in September.",
+        "text_de": "Der Herbst beginnt im September.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Herbst beginnt im September.",
+            "gestern",
+            "spät",
+            "Ich habe sie gestern gesehen."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Winter is cold and snowy.",
+        "text_de": "Der Winter ist kalt und verschneit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Winter ist kalt und verschneit.",
+            "Ein Schaltjahr hat dreihundertsechsundsechzig Tage.",
+            "Der Herbst beginnt im September.",
+            "Wie viele Minuten hat eine Stunde?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "January is the first month of the year.",
+        "text_de": "Der Januar ist der erste Monat des Jahres.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Sekunde",
+            "Der Januar ist der erste Monat des Jahres.",
+            "Manchmal gehe ich abends spazieren.",
+            "Der Sonntag ist zum Ausruhen da."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "December is the month of Christmas.",
+        "text_de": "Der Dezember ist der Monat von Weihnachten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Dezember ist der Monat von Weihnachten.",
+            "Lass dir Zeit.",
+            "Sobald wie möglich.",
+            "Nächsten Monat fahre ich in den Urlaub."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Once a year.",
+        "text_de": "Einmal im Jahr.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Einmal im Jahr.",
+            "heute",
+            "Bis wann bleibst du?",
+            "Was machst du heute?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Twice a day.",
+        "text_de": "Zweimal am Tag.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Zeit heilt alle Wunden.",
+            "Zweimal am Tag.",
+            "früh",
+            "Wir können später darüber reden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Three times a week.",
+        "text_de": "Dreimal die Woche.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe heute keine Zeit.",
+            "Du bist sehr früh dran.",
+            "Die Vergangenheit liegt hinter uns.",
+            "Dreimal die Woche."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Since when have you been here?",
+        "text_de": "Seit wann bist du schon hier?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Mittag ist zwölf Uhr.",
+            "Seit wann bist du schon hier?",
+            "Ein Schaltjahr hat dreihundertsechsundsechzig Tage.",
+            "Lass dir Zeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "For two hours now.",
+        "text_de": "Seit zwei Stunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Vergangenheit liegt hinter uns.",
+            "Guten Abend!",
+            "Seit zwei Stunden.",
+            "Ich bin in einer Stunde zurück."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Until when are you staying?",
+        "text_de": "Bis wann bleibst du?",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "die Woche",
+            "Gerade jetzt.",
+            "Der Dezember ist der Monat von Weihnachten.",
+            "Bis wann bleibst du?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Until tomorrow evening.",
+        "text_de": "Bis morgen Abend.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "manchmal",
+            "Seit wann bist du schon hier?",
+            "Bis morgen Abend.",
+            "Wie viele Minuten hat eine Stunde?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'll be back in an hour.",
+        "text_de": "Ich bin in einer Stunde zurück.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Lebe in der Gegenwart!",
+            "Hast du morgen Zeit?",
+            "nie",
+            "Ich bin in einer Stunde zurück."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The movie starts in ten minutes.",
+        "text_de": "Der Film beginnt in zehn Minuten.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Jede Sekunde zählt.",
+            "Die Zukunft ist ungewiss.",
+            "Der Film beginnt in zehn Minuten.",
+            "die Zeit"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time heals all wounds.",
+        "text_de": "Die Zeit heilt alle Wunden.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Abwarten und Tee trinken.",
+            "Einmal im Jahr.",
+            "der Tag",
+            "Die Zeit heilt alle Wunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Take your time.",
+        "text_de": "Lass dir Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Bis morgen Abend.",
+            "Es ist schon halb acht.",
+            "Lass dir Zeit.",
+            "Heute ist ein schöner Tag."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "I'm in a hurry.",
+        "text_de": "Ich habe es eilig.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe es eilig.",
+            "Mittag ist zwölf Uhr.",
+            "die Woche",
+            "Gerade jetzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Hurry up!",
+        "text_de": "Beeil dich!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Der Dezember ist der Monat von Weihnachten.",
+            "morgen",
+            "Jede Sekunde zählt.",
+            "Beeil dich!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The past is behind us.",
+        "text_de": "Die Vergangenheit liegt hinter uns.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Am Mittag haben wir eine Pause.",
+            "Die Vergangenheit liegt hinter uns.",
+            "morgen",
+            "Der Tag hat vierundzwanzig Stunden."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "The future is uncertain.",
+        "text_de": "Die Zukunft ist ungewiss.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Die Vergangenheit liegt hinter uns.",
+            "spät",
+            "Die Zukunft ist ungewiss.",
+            "Der Herbst beginnt im September."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Live in the present!",
+        "text_de": "Lebe in der Gegenwart!",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Besser spät als nie.",
+            "Lebe in der Gegenwart!",
+            "gestern",
+            "Ich brauche es jetzt."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "A long time ago.",
+        "text_de": "Vor langer Zeit.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "spät",
+            "Sofort.",
+            "Mitternacht ist zwölf Uhr nachts.",
+            "Vor langer Zeit."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Right now.",
+        "text_de": "Gerade jetzt.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Gerade jetzt.",
+            "Ich bin in einer Stunde zurück.",
+            "Einmal im Jahr.",
+            "Freitag ist der beste Tag der Woche!"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Immediately.",
+        "text_de": "Sofort.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Ich habe es eilig.",
+            "Gerade jetzt.",
+            "Am Morgen fühle ich mich am produktivsten.",
+            "Sofort."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "As soon as possible.",
+        "text_de": "Sobald wie möglich.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Was machst du dieses Wochenende?",
+            "Am Morgen fühle ich mich am produktivsten.",
+            "später",
+            "Sobald wie möglich."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Better late than never.",
+        "text_de": "Besser spät als nie.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Besser spät als nie.",
+            "Montags gehe ich zum Sport.",
+            "die Stunde",
+            "Was machst du dieses Wochenende?"
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Time flies.",
+        "text_de": "Die Zeit vergeht wie im Flug.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Wie viele Stunden arbeitest du?",
+            "Die Zeit vergeht wie im Flug.",
+            "Wir gehen oft ins Kino.",
+            "Der Januar ist der erste Monat des Jahres."
+        ]
+    },
+    {
+        "type": "sentence",
+        "text": "Wait and see.",
+        "text_de": "Abwarten und Tee trinken.",
+        "synonyms": [],
+        "description": "Example sentence for 'Time'.",
+        "description_de": "Beispielsatz für 'Time'.",
+        "note": "-",
+        "note_de": "-",
+        "culture": null,
+        "culture_de": null,
+        "options_de": [
+            "Abwarten und Tee trinken.",
+            "jetzt",
+            "Ich habe es eilig.",
+            "Mittag ist zwölf Uhr."
+        ]
+    }
+]
