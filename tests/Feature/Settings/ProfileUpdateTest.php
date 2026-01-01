@@ -13,12 +13,16 @@ test('profile page is displayed', function (): void {
 });
 
 test('profile information can be updated', function (): void {
-    $user = User::factory()->create();
+    $user = User::factory()->create([
+        'username' => 'testuser',
+    ]);
 
     $response = $this
         ->actingAs($user)
         ->patch('/settings/profile', [
             'name' => 'Updated Name',
+            'username' => 'updateduser',
+            'bio' => 'Updated bio content.',
         ]);
 
     $response
@@ -28,6 +32,8 @@ test('profile information can be updated', function (): void {
     $user->refresh();
 
     expect($user->name)->toBe('Updated Name');
+    expect($user->username)->toBe('updateduser');
+    expect($user->bio)->toBe('Updated bio content.');
 });
 
 test('user can delete their account', function (): void {

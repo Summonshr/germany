@@ -4,6 +4,7 @@ import InputError from '@/components/input-error';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
+import { Textarea } from '@/components/ui/textarea';
 import AppLayout from '@/layouts/app-layout';
 import SettingsLayout from '@/layouts/settings/layout';
 import { type BreadcrumbItem, type SharedData } from '@/types';
@@ -26,7 +27,7 @@ export default function Profile() {
 
             <SettingsLayout>
                 <div className="space-y-6">
-                    <HeadingSmall title="Profile information" description="Update your name and email address" />
+                    <HeadingSmall title="Profile information" description="Update your name, username, and bio" />
 
                     <Form
                         method="patch"
@@ -55,6 +56,36 @@ export default function Profile() {
                                 </div>
 
                                 <div className="grid gap-2">
+                                    <Label htmlFor="username">Username</Label>
+
+                                    <Input
+                                        id="username"
+                                        className="mt-1 block w-full"
+                                        defaultValue={auth.user.username}
+                                        name="username"
+                                        required
+                                        autoComplete="username"
+                                        placeholder="Username"
+                                    />
+
+                                    <InputError className="mt-2" message={errors.username} />
+                                </div>
+
+                                <div className="grid gap-2">
+                                    <Label htmlFor="bio">Bio</Label>
+
+                                    <Textarea
+                                        id="bio"
+                                        className="mt-1 block w-full"
+                                        defaultValue={auth.user.bio || ''}
+                                        name="bio"
+                                        placeholder="A short bio about yourself"
+                                    />
+
+                                    <InputError className="mt-2" message={errors.bio} />
+                                </div>
+
+                                <div className="grid gap-2">
                                     <Label htmlFor="email">Email address</Label>
 
                                     <Input
@@ -64,7 +95,7 @@ export default function Profile() {
                                         defaultValue={auth.user.email}
                                         name="email"
                                         required
-                                        autoComplete="username"
+                                        autoComplete="email"
                                         disabled
                                     />
 

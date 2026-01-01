@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ActionController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\TopicController;
 use Illuminate\Support\Facades\Route;
@@ -13,6 +14,7 @@ require __DIR__.'/settings.php';
 require __DIR__.'/auth.php';
 
 Route::middleware(['auth', ValidateSessionWithWorkOS::class])->group(function (): void {
+    Route::get('/profile/{username}', [ProfileController::class, 'show'])->name('profile.show');
     Route::post('/actions', ActionController::class)->name('actions');
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
     Route::get('/topic/{topic:slug}', [TopicController::class, 'show'])->name('topic');
