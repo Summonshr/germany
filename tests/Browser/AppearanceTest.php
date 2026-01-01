@@ -2,11 +2,13 @@
 
 use App\Models\User;
 
-test('user can access appearance settings', function () {
+test('user can switch to dark mode', function () {
     $user = User::factory()->create();
 
-    $this->actingAs($user)
+    $page = $this->actingAs($user)
         ->visit('/settings/appearance')
-        ->assertSee('Appearance')
-        ->assertSee("Update your account's appearance settings");
+        ->waitForText('Appearance')
+        ->click('Dark');
+
+    expect($page->script("document.documentElement.classList.contains('dark')"))->toBeTrue();
 });
